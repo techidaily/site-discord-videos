@@ -8,9 +8,9 @@ const fs = require('fs');
 const path = require('path');
 
 // ------------------------------------------------------------------------------------------- 以下内容需要自己替换
-const subSiteAuthor = 'Nova';
-const subSiteKeywords = `` + ','; // 关键字，多个关键字用逗号分隔
-const indexNowKey = 'ec9c9516ea82433086d979e16e1960e0'; // 替换为你的API密钥
+const subSiteAuthor = 'Timothy';
+const subSiteKeywords = `Videos on Discord,Discord video posts,Discord video updates,Discord video sharing,Discord video content,Discord video footage,Discord video recordings,Discord video streams,Discord video files` + ','; // 关键字，多个关键字用逗号分隔
+const indexNowKey = 'b0b33182f38a4177af7e7dc5ed07ff2e'; // 替换为你的API密钥
 
 
 

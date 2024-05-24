@@ -1,6 +1,6 @@
-# TechiDaily
+# Discord Videos Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://discord-videos.techidaily.com](https://discord-videos.techidaily.com)
 
 ## Publish
 

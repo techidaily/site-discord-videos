@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  10 Best Discord Banner Creators & Tips for Personal Branding\""
-date: 2024-05-22 15:21:15
-updated: 2024-05-23 10:46:29
+date: 2024-05-23T22:48:00.112Z
+updated: 2024-05-24T22:48:00.112Z
 tags:
   - ai video
   - ai discord
@@ -1531,3 +1531,104 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-prime-screen-recorder-tips-for-discord/"><u>[New] 2024 Approved  Prime Screen Recorder Tips for Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-peerless-bots-crafted-for-chats/"><u>[New] 2024 Approved  Peerless Bots Crafted for Chats</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-most-budget-friendly-options-10-great-software-for-recording-discord-talk/"><u>[New] In 2024, The Most Budget-Friendly Options  10 Great Software for Recording Discord Talk</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-what-is-discord-pfp-and-how-to-make-a-stunning-pfp-for-discord/"><u>[Updated] In 2024, What Is Discord Pfp and How to Make a Stunning Pfp for Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-seamless-integration-incorporating-dynamic-gifs-into-your-discord-chats/"><u>[Updated] Seamless Integration  Incorporating Dynamic GIFs Into Your Discord Chats</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-tactics-for-toxic-troubleshooting-your-complete-guide-to-addressing-misconduct-in-chat-rooms/"><u>2024 Approved  Tactics for Toxic Troubleshooting  Your Complete Guide to Addressing Misconduct in Chat Rooms</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mastery-in-locating-the-right-discord-server-amidst-thousands-for-2024/"><u>Mastery in Locating the Right Discord Server Amidst Thousands for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-top-free-designer-for-discord-emblems-download-links-included/"><u>2024 Approved  Top Free Designer for Discord Emblems - Download Links Included</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mastering-connection-discord-networking-tips-for-2024/"><u>Mastering Connection  Discord Networking Tips for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/elite-social-media-platforms-excluding-discord-for-2024/"><u>Elite Social Media Platforms Excluding Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-speak-clearly-on-discord-via-tts-for-2024/"><u>How to Speak Clearly on Discord via TTS for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-ultimate-combo-using-spotify-in-discord-channels/"><u>2024 Approved  The Ultimate Combo  Using Spotify in Discord Channels</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-avoiding-triggers-exiting-with-ease-from-discord-servers/"><u>[Updated] In 2024, Avoiding Triggers  Exiting with Ease From Discord Servers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/masterclass-using-discord-spoilers-wisely-for-2024/"><u>Masterclass  Using Discord Spoilers Wisely for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-captivate-conversations-essential-cool-channel-titles/"><u>[Updated] Captivate Conversations  Essential Cool Channel Titles</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-demystifying-discord-nitro-comprehensive-understanding-and-how-to-attain-it/"><u>[Updated] In 2024, Demystifying Discord Nitro  Comprehensive Understanding and How to Attain It</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-ultimate-font-design-software-discord-edition/"><u>[New] 2024 Approved  Ultimate Font Design Software - Discord Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-simplest-way-to-understand-and-apply-discord-spoilers/"><u>[New] In 2024, The Simplest Way to Understand and Apply Discord Spoilers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/essential-no-cost-software-compilation-for-high-quality-discord-audio-capture-for-2024/"><u>Essential, No-Cost Software Compilation for High-Quality Discord Audio Capture for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-transforming-the-sound-landscape-the-finest-discobot-applications-you-must-use/"><u>[New] 2024 Approved  Transforming the Sound Landscape  The Finest DiscoBot Applications You Must Use</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-be-heard-in-discord-understanding-tts-functions/"><u>[Updated] 2024 Approved  Be Heard in Discord  Understanding TTS Functions</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-exploring-nitro-the-essence-and-acquisition-of-discord-vip-service-for-2024/"><u>[Updated] Exploring Nitro  The Essence and Acquisition of Discord VIP Service for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mastering-the-art-of-addressing-conflict-a-guide-to-effective-reporting-methods-on-discord-for-2024/"><u>Mastering the Art of Addressing Conflict  A Guide to Effective Reporting Methods on Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-best-free-discord-logo-maker-plus-free-download-sites/"><u>[New] Best Free Discord Logo Maker + Free Download Sites</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-themed-realm-the-ultimate-10-bestdiscord-choices/"><u>[New] Themed Realm  The Ultimate 10 BestDiscord Choices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-innovative-solutions-the-best-bot-picks-for-servers/"><u>[Updated] Innovative Solutions  The Best Bot Picks for Servers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-critical-list-of-5-striking-social-media-brand-animations/"><u>In 2024, Critical List of 5 Striking Social Media Brand Animations</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-from-joining-to-being-known-securing-your-role-on-discord/"><u>[New] In 2024, From Joining to Being Known  Securing Your Role on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-vital-5-creative-social-network-animation-examples/"><u>[New] In 2024, Vital 5 Creative Social Network Animation Examples</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unleash-your-creativity-designing-stunning-pfps-on-discord/"><u>[New] Unleash Your Creativity  Designing Stunning Pfps on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/maximizing-your-impact-strategies-for-effective-streamers-for-2024/"><u>Maximizing Your Impact  Strategies for Effective Streamers for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-dating-bliss-on-the-most-popular-discord-channels/"><u>[New] Dating Bliss on the Most Popular Discord Channels</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-compilation-of-least-expensive-software-for-discord-recording-for-2024/"><u>The Ultimate Compilation of Least-Expensive Software for Discord Recording for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-how-to-inject-personality-into-your-discord-profile-with-custom-emojis/"><u>[New] In 2024, How to Inject Personality Into Your Discord Profile with Custom Emojis</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/exploring-seamless-approaches-to-finding-discord-groups/"><u>Exploring  Seamless Approaches to Finding Discord Groups</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-navigating-discord-server-deletion-desktopmobile/"><u>2024 Approved  Navigating Discord Server Deletion (Desktop/Mobile)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-inside-top-discord-emote-craftsmanship-industry-leaders-for-2024/"><u>[New] Inside Top Discord Emote Craftsmanship  Industry Leaders for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-premier-techniques-in-online-screen-capture-software-for-2024/"><u>[Updated] Premier Techniques in Online Screen Capture Software for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-a-comprehensive-look-at-dispatching-media-on-discord-platform/"><u>2024 Approved  A Comprehensive Look at Dispatching Media on Discord Platform</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-expertly-engineered-font-generators-for-discord-androidios/"><u>2024 Approved  Expertly Engineered Font Generators for Discord (Android/iOS)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-transform-your-profile-with-our-discord-pic-insights/"><u>[New] In 2024, Transform Your Profile with Our Discord Pic Insights</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-pro-level-strategies-for-stunningly-pinning-messages-in-discord/"><u>In 2024, Pro-Level Strategies for Stunningly Pinning Messages in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-taking-audio-to-the-next-level-on-desktop-and-mobile-discord-with-voicemod/"><u>In 2024, Taking Audio to the Next Level on Desktop & Mobile Discord with VoiceMod</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-step-by-step-how-to-delete-a-discord-server/"><u>[New] In 2024, Step-by-Step  How to Delete a Discord Server</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-top-custom-font-services-for-discord-on-iosandroid-devices-for-2024/"><u>[New] Top Custom Font Services for Discord on iOS/Android Devices for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-ultimate-checklist-for-broadcasting-on-discord/"><u>2024 Approved  The Ultimate Checklist for Broadcasting on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigating-discord-a-must-know-guide/"><u>[Updated] In 2024, Navigating Discord  A Must-Know Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-masterclass-using-discord-spoilers-wisely/"><u>[Updated] 2024 Approved  Masterclass  Using Discord Spoilers Wisely</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-team-communication-tools-uncovering-superiority-between-slack-and-discord-for-2024/"><u>[Updated] Navigating Team Communication Tools  Uncovering Superiority Between Slack & Discord for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-c300-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia C300 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-edge-2023-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Edge 2023</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-capturing-the-webs-essence-top-browsers-for-screen-recorders/"><u>In 2024, Capturing the Web’s Essence  Top Browsers for Screen Recorders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ideal-screencasting-tools-for-enhancing-online-learning-for-2024/"><u>Ideal Screencasting Tools for Enhancing Online Learning for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-simplified-steps-to-effortlessly-capture-your-ideas-in-a-podcast-format/"><u>2024 Approved Simplified Steps to Effortlessly Capture Your Ideas in a Podcast Format</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-exhaustive-register-of-podcast-discovery-systems/"><u>Updated 2024 Approved Exhaustive Register of Podcast Discovery Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Fingerprint Lock</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-14-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from 14 Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-quickly-connect-live-with-whatsapp-desktop-in-laptop-settings/"><u>[Updated] 2024 Approved  Quickly Connect Live with WhatsApp Desktop in Laptop Settings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-unseen-tactics-to-dodge-facebook-shunning/"><u>2024 Approved  The Unseen Tactics to Dodge Facebook Shunning</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-oppo-a38-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Oppo A38 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-decluttering-deliberately-step-by-step-strategies-for-banishing-background-beats/"><u>Updated Decluttering Deliberately Step-by-Step Strategies for Banishing Background Beats</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-nubia-z50-ultra-by-fonelab-android-recover-data/"><u>Recover lost data from Nubia Z50 Ultra</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-poco-m6-pro-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Poco M6 Pro 5G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/discover-the-various-techniques-of-video-framing-which-involve-capturing-the-essence-of-a-subject-while-eliminating-distractions-in-the-background-andlearn-/"><u>Discover the Various Techniques of Video Framing, Which Involve Capturing the Essence of a Subject While Eliminating Distractions in the Background, Andlearn How to Apply Them Skillfully to Achieve Desired Results</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-online-subtitle-generators-top-10-options-for-video-creators/"><u>New In 2024, Free Online Subtitle Generators Top 10 Options for Video Creators</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-from-ordinary-to-extraordinary-transform-your-facebook-profile-with-these-tips/"><u>[New] 2024 Approved  From Ordinary to Extraordinary  Transform Your Facebook Profile with These Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-unlock-fcp-xs-power-adding-effects-in-just-3-steps-for-2024/"><u>New Unlock FCP Xs Power Adding Effects in Just 3 Steps for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel-for-2024/"><u>Updated Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-play-8t-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor Play 8T To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-put-headsphones-on-and-record-new-auditory-elements-through-windows-video-editor-platform-for-2024/"><u>Updated Put Headsphones On & Record New Auditory Elements Through Windows Video Editor Platform for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-a70-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel A70 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-13-pro-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 13 Pro with iTunes | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-samsung-galaxy-z-fold-5-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Samsung Galaxy Z Fold 5 Phones</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-nubia-red-magic-9-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Nubia Red Magic 9 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-master-games-the-essential-15-recorder-software-guide/"><u>[New] Master Games  The Essential #15 Recorder Software Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-tier-windows-10-screen-capture-programs-unveiled/"><u>[New] 2024 Approved  Top-Tier Windows 10 Screen Capture Programs Unveiled</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-realme-11-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Realme 11 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-honor-70-lite-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Honor 70 Lite 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-best-5-devices-to-record-your-virtual-meetings/"><u>[Updated] The Best 5 Devices to Record Your Virtual Meetings</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-move-over-wmm-discover-the-best-free-and-paid-video-editors/"><u>Updated Move Over WMM Discover the Best Free and Paid Video Editors</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-quest-for-lossless-how-to-choose-the-best-flac-converter/"><u>Updated The Quest for Lossless How to Choose the Best FLAC Converter</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-the-marketplace-30-advanced-fb-techniques-explored-for-2024/"><u>[Updated] Mastering the Marketplace  30 Advanced FB Techniques Explored for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-14-pro-max-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 14 Pro Max Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-sound-shaping-techniques-for-mobile-top-7-vocal-editing-app-recommendations/"><u>[Updated] Sound Shaping Techniques for Mobile  Top 7 Vocal Editing App Recommendations</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-record-and-share-screencast-tips-from-ezvide-expertise/"><u>[New] In 2024, Record and Share  Screencast Tips From EZvide Expertise</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-audio-visual-symbiosis-exploring-innovative-techniques-for-combining-video-and-music/"><u>New In 2024, Audio-Visual Symbiosis Exploring Innovative Techniques for Combining Video and Music</u></a></li>
+</ul></div>
+
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Farewell to Friends  How to Leave a Discord Server for 2024\""
-date: 2024-05-23T22:48:11.188Z
-updated: 2024-05-24T22:48:11.188Z
+date: 2024-06-10T22:51:24.721Z
+updated: 2024-06-11T22:51:24.721Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Farewell to Friends: How to Leave a Discord Server for 2024\""
 excerpt: "\"This Article Describes [Updated] Farewell to Friends: How to Leave a Discord Server for 2024\""
 keywords: "Departing Discord Servers,Farewell Discord Chat,Exiting Discord Community,Leaving Discord Server,Bidding on Discord Rooms,Disconnecting From Discord,Exit Strategies for Discord"
-thumbnail: https://www.lifewire.com/thmb/nG8znENmZlPqp3nXQ3OVGHtAuTY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ResetBluetoothSpeakers-8674445ab04249b38247295f5176707c.jpeg
+thumbnail: https://thmb.techidaily.com/4bb09ddf21259f8aa35372dd3bddaab5a52e4c2f70a7e62b027db40747b04fa4.jpeg
 ---
 
 ## Farewell to Friends: How to Leave a Discord Server

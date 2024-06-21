@@ -1,7 +1,7 @@
 ---
 title: "\"Nitro-Free  A Guide to Animated GIFs & Emoji Use in Discord Chat\""
-date: 2024-05-23T22:47:29.424Z
-updated: 2024-05-24T22:47:29.424Z
+date: 2024-06-10T22:51:19.629Z
+updated: 2024-06-11T22:51:19.629Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Nitro-Free: A Guide to Animated GIFs & Emoji Use in Discord Chat\""
 excerpt: "\"This Article Describes Nitro-Free: A Guide to Animated GIFs & Emoji Use in Discord Chat\""
 keywords: "AnimeGIFsInDiscord,EmojiUseGuideDiscord,GIFAnimationsDiscord,EmojiCommunicationTips,AnimatedEmojiBestPractices,DiscordConversationVisuals,GIFUsageInOnlineChat"
-thumbnail: https://www.lifewire.com/thmb/XWiPQnVjiU8XjENHTS5xr_2oft4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/HBOMax-026fc6ed11044c39bbf2ee96a4fd91ff.jpg
+thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8c1f2c53836ffd296ae56332.jpg
 ---
 
 ## Nitro-Free: A Guide to Animated GIFs & Emoji Use in Discord Chat

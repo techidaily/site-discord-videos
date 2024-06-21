@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Elite 5 Social Media Brand Identity Animations"
-date: 2024-05-23T22:48:08.601Z
-updated: 2024-05-24T22:48:08.601Z
+date: 2024-06-10T22:51:14.053Z
+updated: 2024-06-11T22:51:14.053Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Elite 5 Social Media Brand Identity Animations"
 excerpt: "This Article Describes [New] In 2024, Elite 5 Social Media Brand Identity Animations"
 keywords: "\"Elite Brand Animation,Social Media Designs,Top 5 Animations,Premium Branding Ideas,Exclusive Animation Tips,High-End Animated Icons,Brand Identity Visuals\""
-thumbnail: https://www.lifewire.com/thmb/WpEjByZxjDiu1dRhYVfqcDWX2LU=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Phones_GettyImages-1314284781_ORIG_d3sign._CROPPEDjpg-c1cb62860b3e4228b51aa8566e84abb0.jpg
+thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4734b479814370ac29d24cc7.jpg
 ---
 
 ## Elite 5 Social Media Brand Identity Animations

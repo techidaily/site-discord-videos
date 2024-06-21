@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlock the Power of Voice in Discord  A TTS Guide\""
-date: 2024-05-23T22:47:58.725Z
-updated: 2024-05-24T22:47:58.725Z
+date: 2024-06-10T22:51:13.973Z
+updated: 2024-06-11T22:51:13.973Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Unlock the Power of Voice in Discord: A TTS Guide\""
 excerpt: "\"This Article Describes [Updated] Unlock the Power of Voice in Discord: A TTS Guide\""
 keywords: "\"Discord Voice TTS,TTS Voice Control,Text-to-Speech Discord,Voice Commands Discord,TTS in Discord Chat,Discord Speaking Guide,Voice TTS for Discord\""
-thumbnail: https://www.lifewire.com/thmb/ptfhak0BFgk1HbWMQnlfEezMM8Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kentuckyderby-5c7ed5d646e0fb00011bf3da.jpg
+thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794edca9da0873a40e49d2c700e6.jpg
 ---
 
 ## Unlock the Power of Voice in Discord: A TTS Guide

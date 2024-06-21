@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleashing Creativity on Discord  A Complete Guide to Adding GIFS\""
-date: 2024-05-23T22:47:58.423Z
-updated: 2024-05-24T22:47:58.423Z
+date: 2024-06-10T22:51:22.428Z
+updated: 2024-06-11T22:51:22.428Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Unleashing Creativity on Discord: A Complete Guide to Adding GIFS\""
 excerpt: "\"This Article Describes 2024 Approved: Unleashing Creativity on Discord: A Complete Guide to Adding GIFS\""
 keywords: "Discord GIFs Tutorial,Creative GIF Use,GIFs in Chats,GIF Creation Guide,Add GIF to Discord,Enhancing Chat Fun,Mastering Discord GIFS"
-thumbnail: https://www.lifewire.com/thmb/A9pTD5g1g1cUZKr7a5KggfD1txU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/142020133-56a1048d5f9b58eba4b6aebe.jpg
+thumbnail: https://thmb.techidaily.com/61e1fbca092ac5d2ffa00e76582e3823f6ee9bd8608e03fb6613489ba0869657.jpg
 ---
 
 ## Unleashing Creativity on Discord: A Complete Guide to Adding GIFS

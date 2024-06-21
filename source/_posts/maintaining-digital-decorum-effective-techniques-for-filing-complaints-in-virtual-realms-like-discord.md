@@ -1,7 +1,7 @@
 ---
 title: "\"Maintaining Digital Decorum  Effective Techniques for Filing Complaints in Virtual Realms Like Discord\""
-date: 2024-05-23T22:47:28.879Z
-updated: 2024-05-24T22:47:28.879Z
+date: 2024-06-10T22:51:26.138Z
+updated: 2024-06-11T22:51:26.138Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Maintaining Digital Decorum: Effective Techniques for Filing Complaints in Virtual Realms Like Discord\""
 excerpt: "\"This Article Describes Maintaining Digital Decorum: Effective Techniques for Filing Complaints in Virtual Realms Like Discord\""
 keywords: "Digital Etiquette,Online Complaint Tips,Virtual Rules Adherence,Ethical Net Behavior,Cyber Conflict Resolution,Respectful Chat Filing,Safe Discord Conduct"
-thumbnail: https://www.lifewire.com/thmb/L2pEswXlK7TtLXxY5l2ShzRPhL4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-use-bing-ai-on-google-chrome-b20360fadcd3487aa24a859d59d92852.jpg
+thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea60f39849b6b81213c209317.jpg
 ---
 
 ## Maintaining Digital Decorum: Effective Techniques for Filing Complaints in Virtual Realms Like Discord

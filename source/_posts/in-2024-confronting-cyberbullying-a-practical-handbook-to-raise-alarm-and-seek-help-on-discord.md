@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Confronting Cyberbullying  A Practical Handbook to Raise Alarm and Seek Help on Discord\""
-date: 2024-05-23T22:47:36.034Z
-updated: 2024-05-24T22:47:36.034Z
+date: 2024-06-10T22:51:23.488Z
+updated: 2024-06-11T22:51:23.488Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Confronting Cyberbullying: A Practical Handbook to Raise Alarm and Seek Help on Discord\""
 excerpt: "\"This Article Describes In 2024, Confronting Cyberbullying: A Practical Handbook to Raise Alarm and Seek Help on Discord\""
 keywords: "\"Cyberbullying Guide,Anti-Bullying Tips,Bullying Prevention,Safe Online Spaces,Alarm Alert Handbook,Seeking Help Strategies,Discord Support Methods\""
-thumbnail: https://www.lifewire.com/thmb/pOkByEjDQfGUJyqDzFJ4mpWuXnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-453316837-56a6a5b93df78cf7728f9379.jpg
+thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eaca41f020a72559cf27e30f77.jpg
 ---
 
 ## Confronting Cyberbullying: A Practical Handbook to Raise Alarm and Seek Help on Discord

@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Tutorial for Adding Discord Server Roles for 2024"
-date: 2024-05-23T22:47:56.314Z
-updated: 2024-05-24T22:47:56.314Z
+date: 2024-06-10T22:51:21.619Z
+updated: 2024-06-11T22:51:21.619Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes The Ultimate Tutorial for Adding Discord Server Roles for 2024"
 excerpt: "This Article Describes The Ultimate Tutorial for Adding Discord Server Roles for 2024"
 keywords: "Disco Servers Role Guide,Learn Discord Role Add,Mastering Discord Role,Disco Roles Tutorial,Add Server Roles Ease,Discord Role Basics,Navigate Disco Roles"
-thumbnail: https://www.lifewire.com/thmb/6snoLQ_LDr7duuZviMh6Lev3NmI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/weatherapps-iphone-featured-5b73c68146e0fb0050215076.jpg
+thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c041837cad5f3c0f9163df97.jpg
 ---
 
 ## The Ultimate Tutorial for Adding Discord Server Roles

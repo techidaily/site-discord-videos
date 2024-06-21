@@ -1,7 +1,7 @@
 ---
 title: "In 2024, A Complete Breakdown of Changing Discord Imagery"
-date: 2024-05-23T22:47:33.098Z
-updated: 2024-05-24T22:47:33.098Z
+date: 2024-06-10T22:51:15.562Z
+updated: 2024-06-11T22:51:15.562Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, A Complete Breakdown of Changing Discord Imagery"
 excerpt: "This Article Describes In 2024, A Complete Breakdown of Changing Discord Imagery"
 keywords: "Discord Visuals Update,Imagery Change in Discord,Discord Icon Redesign,Understanding Discord Image Shift,New Discord Visual Guide,Altering Discord Graphics,Discord Logo Makeover"
-thumbnail: https://www.lifewire.com/thmb/ei9si1jCBfFFLJKx_8xaXaf650o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/computer-promo-image-3a7546bffced49e0addc218f4ef51aed.jpg
+thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea27a15b8c369fc3e51785f1d6.jpg
 ---
 
 ## A Complete Breakdown of Changing Discord Imagery

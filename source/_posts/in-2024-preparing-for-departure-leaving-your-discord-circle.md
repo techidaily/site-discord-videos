@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Preparing for Departure  Leaving Your Discord Circle\""
-date: 2024-05-23T22:47:51.266Z
-updated: 2024-05-24T22:47:51.266Z
+date: 2024-06-10T22:51:15.873Z
+updated: 2024-06-11T22:51:15.873Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Preparing for Departure: Leaving Your Discord Circle\""
 excerpt: "\"This Article Describes In 2024, Preparing for Departure: Leaving Your Discord Circle\""
 keywords: "Departure Preparation Tips,Disconnecting Discord Members,Exiting Online Gaming Communities,Farewell to Discord Users,Leaving Virtual Social Circles,Cutting Off Discord Connections,Bidding Goodbye in Gamesites"
-thumbnail: https://www.lifewire.com/thmb/g1D2GfOi9Fo-tsyzdt3hJvYxChQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/halloween-4416c651cc8545b3b1bbeb3f51cb9531.jpg
+thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf05f0435bf5618af5d7b42ae3.jpg
 ---
 
 ## Preparing for Departure: Leaving Your Discord Circle

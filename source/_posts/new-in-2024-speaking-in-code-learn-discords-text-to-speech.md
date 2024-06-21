@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Speaking in Code  Learn Discord's Text-to-Speech\""
-date: 2024-05-23T22:48:22.638Z
-updated: 2024-05-24T22:48:22.638Z
+date: 2024-06-10T22:51:27.559Z
+updated: 2024-06-11T22:51:27.559Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Speaking in Code: Learn Discord's Text-to-Speech\""
 excerpt: "\"This Article Describes [New] In 2024, Speaking in Code: Learn Discord's Text-to-Speech\""
 keywords: "\"Text-to-Speech Disco,Voice Conversion CDS,Speak Programming,Coding Audible,Audio Scripting,Code Sound Output,Language Recording\""
-thumbnail: https://www.lifewire.com/thmb/M4Q2meAJjRut6RxJ2zRK2nCzWRk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/twitter-5b58d4f546e0fb0078cc1f23.jpg
+thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c5fe49411fd5c4ce5c94643b.jpg
 ---
 
 ## Speaking in Code: Learn Discord's Text-to-Speech

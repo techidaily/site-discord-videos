@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Elite Online Screenshots  Discord Edition for 2024\""
-date: 2024-05-23T22:48:08.765Z
-updated: 2024-05-24T22:48:08.765Z
+date: 2024-06-10T22:51:25.090Z
+updated: 2024-06-11T22:51:25.090Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Elite Online Screenshots: Discord Edition for 2024\""
 excerpt: "\"This Article Describes [New] Elite Online Screenshots: Discord Edition for 2024\""
 keywords: "\"Elite Disco Shots,Screen Capture Pro,High-Quality Screenshots,Top Tier Screenshot,Premium Screen Grabs,Exclusive Discord Snaps,Masterful Screens\""
-thumbnail: https://www.lifewire.com/thmb/RGDsbt708xWy-bclsFwdv7llVks=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/streamingamazonondiscord-a9c34243e5924d5f95a6e11db738646d.jpg
+thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd934a3e89af40244a078e590d9.jpg
 ---
 
 ## Elite Online Screenshots: Discord Edition

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering the Art of Deleting Discord Servers"
-date: 2024-05-23T22:47:48.525Z
-updated: 2024-05-24T22:47:48.525Z
+date: 2024-06-10T22:51:24.468Z
+updated: 2024-06-11T22:51:24.468Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Mastering the Art of Deleting Discord Servers"
 excerpt: "This Article Describes [Updated] Mastering the Art of Deleting Discord Servers"
 keywords: "Delete Discord Servers Guide,Disconnect Discord Server Tips,How to Lose a Discord Server,Removing Discord Channels Quickly,Terminate Discord Grouping Efficiently,Cancelled Discord Community Leave,Abandoning Discord Servers Strategies"
-thumbnail: https://www.lifewire.com/thmb/necVDHY0jw2X8abfnDNPSwKEgJc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-973902638-5c055ec346e0fb0001dfd9f1.jpg
+thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a90b0cd758e49ef9cfc3066d.jpg
 ---
 
 ## Mastering the Art of Deleting Discord Servers

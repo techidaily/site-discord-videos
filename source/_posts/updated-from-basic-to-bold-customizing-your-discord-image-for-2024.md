@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Basic to Bold  Customizing Your Discord Image for 2024\""
-date: 2024-05-23T22:48:12.031Z
-updated: 2024-05-24T22:48:12.031Z
+date: 2024-06-10T22:51:17.864Z
+updated: 2024-06-11T22:51:17.864Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] From Basic to Bold: Customizing Your Discord Image for 2024\""
 excerpt: "\"This Article Describes [Updated] From Basic to Bold: Customizing Your Discord Image for 2024\""
 keywords: "\"Discord Profile Pics,Personalized Discord,Discord Avatar Edit,Bold Discord Images,Discord User Icons,Custom Discord Skins,Emoji-Enhanced Discord\""
-thumbnail: https://www.lifewire.com/thmb/9Yt_RjRUC9OKjWNte1YSKLjW9fs=/564x250/filters:no_upscale():max_bytes(150000):strip_icc()/ConnectedCarTech_metamorworks_GettyImages-966859036_CROPPED-a9460403602c4b67a7a8c1acd599c9be.jpg
+thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff178ada3de9653ceb21ae65a7a.jpg
 ---
 
 ## From Basic to Bold: Customizing Your Discord Image

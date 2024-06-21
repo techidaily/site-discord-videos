@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  10 Affordable, Open-Source Devices for Discord Chat Capture\""
-date: 2024-05-23T22:48:00.106Z
-updated: 2024-05-24T22:48:00.106Z
+date: 2024-06-10T22:51:20.612Z
+updated: 2024-06-11T22:51:20.612Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: 10 Affordable, Open-Source Devices for Discord Chat Capture\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: 10 Affordable, Open-Source Devices for Discord Chat Capture\""
 keywords: "\"Affordable Discord Recorder,Open Source Chat Capture,Devices for Discord Audio,Low-Cost Discord Microphones,Free Voice Transcription Tools,DIY Discord Streaming Gear,Budget-Friendly Screen Recording\""
-thumbnail: https://www.lifewire.com/thmb/lA2tRRJbMgwqvG8pw2WQZdj5YEg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Vivianne1-5a65ca2378d44b4cb65e69b433bd1768.jpeg
+thumbnail: https://thmb.techidaily.com/c2342fb5e25c5a967555cf815791bd2b9698b049e69b2eb389ba72dc308a7ad2.jpeg
 ---
 
 ## 10 Affordable, Open-Source Devices for Discord Chat Capture

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Explore Discord's Colored Palette with Over 7 FREE Emoji Resources"
-date: 2024-05-23T22:48:10.726Z
-updated: 2024-05-24T22:48:10.726Z
+date: 2024-06-10T22:51:22.598Z
+updated: 2024-06-11T22:51:22.598Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Explore Discord's Colored Palette with Over 7 FREE Emoji Resources"
 excerpt: "This Article Describes [Updated] In 2024, Explore Discord's Colored Palette with Over 7 FREE Emoji Resources"
 keywords: "Free Emojis On Discord,Colorful Discord Emojis,Discord Emoji Resources,Colored Emojis Online,FREE Discord Emojis,Shareable Discord Emojis,Extensive Emoji Palette"
-thumbnail: https://www.lifewire.com/thmb/NXFOAZHLcHWM8cMwP2rCp3L-Vog=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/PabloMartinez-32190b42c0114fdd92613612a5a2aa3e.png
+thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d761265a0a53063f5a3b844f4f838.png
 ---
 
 ## Explore Discord's Colored Palette with Over 7 FREE Emoji Resources

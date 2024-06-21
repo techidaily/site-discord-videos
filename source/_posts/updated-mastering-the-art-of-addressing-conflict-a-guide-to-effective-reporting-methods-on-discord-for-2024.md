@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering the Art of Addressing Conflict  A Guide to Effective Reporting Methods on Discord for 2024\""
-date: 2024-05-23T22:48:16.176Z
-updated: 2024-05-24T22:48:16.176Z
+date: 2024-06-10T22:51:22.330Z
+updated: 2024-06-11T22:51:22.330Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Mastering the Art of Addressing Conflict: A Guide to Effective Reporting Methods on Discord for 2024\""
 excerpt: "\"This Article Describes [Updated] Mastering the Art of Addressing Conflict: A Guide to Effective Reporting Methods on Discord for 2024\""
 keywords: "Conflict Resolution Tips,Effective Dispute Reporting,Masterful Communication Strategies,Guided Conflict Management,Discrete Reporting Techniques,Reporting on Discord Systems,Art of Conflict Handling"
-thumbnail: https://www.lifewire.com/thmb/KAfSjj-IqhTZHQvyAxdtpAFCDK4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/mskrissy1-eb3f2530735c446d9e3d8cdf8d42e729.png
+thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191cb1e756a607d3720738205f.png
 ---
 
 ## Mastering the Art of Addressing Conflict: A Guide to Effective Reporting Methods on Discord

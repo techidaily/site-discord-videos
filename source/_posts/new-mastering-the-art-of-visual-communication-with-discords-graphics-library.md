@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering the Art of Visual Communication with Discord's Graphics Library"
-date: 2024-05-23T22:47:48.658Z
-updated: 2024-05-24T22:47:48.658Z
+date: 2024-06-10T22:51:18.928Z
+updated: 2024-06-11T22:51:18.928Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Mastering the Art of Visual Communication with Discord's Graphics Library"
 excerpt: "This Article Describes [New] Mastering the Art of Visual Communication with Discord's Graphics Library"
 keywords: "Visual Comms & Discord,Graphic Design in Discord,Discord Graphics Tips,Mastering Discord VisCom,Digital Communication Art,Effective VisComm Tools,Graphics Libraries for VisComm"
-thumbnail: https://www.lifewire.com/thmb/4isEQKIP0BBLbseoVfsufDPeK90=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/MGigsEvent-00211-2b5de5ae028e447aad969c50f63a9b5f.jpg
+thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d640a76c9d9df4c625ff11a27.jpg
 ---
 
 ## Mastering the Art of Visual Communication with Discord's Graphics Library

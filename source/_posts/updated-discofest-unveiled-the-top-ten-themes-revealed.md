@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] DiscoFest Unveiled  The Top Ten Themes Revealed\""
-date: 2024-05-23T22:47:37.704Z
-updated: 2024-05-24T22:47:37.704Z
+date: 2024-06-10T22:51:19.934Z
+updated: 2024-06-11T22:51:19.935Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] DiscoFest Unveiled: The Top Ten Themes Revealed\""
 excerpt: "\"This Article Describes [Updated] DiscoFest Unveiled: The Top Ten Themes Revealed\""
 keywords: "DiscoFest Highlights,Top Disco Themes,Discofest Showcase,Disco Fest Themes,Disco Fest Theme Guide,Disco Fest Announcement,Themed Disco Fest,Disco Festival Highlight,Top Themes Festive,Discofest Revelation,Disco Fest Essentials,Disco Fest Guidebook,DiscoFest Unveiled,Themed Dance Party"
-thumbnail: https://www.lifewire.com/thmb/rEb0Xlhrv5GpD6J2vjepAoiozrE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-482141903-596b8b353df78c57f4a8de02.jpg
+thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b059873f4809f00d7b660fc375.jpg
 ---
 
 ## DiscoFest Unveiled: The Top Ten Themes Revealed

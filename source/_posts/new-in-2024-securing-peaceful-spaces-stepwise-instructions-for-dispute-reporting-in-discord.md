@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Securing Peaceful Spaces  Stepwise Instructions for Dispute Reporting in Discord\""
-date: 2024-05-23T22:48:22.262Z
-updated: 2024-05-24T22:48:22.262Z
+date: 2024-06-10T22:51:22.256Z
+updated: 2024-06-11T22:51:22.256Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Securing Peaceful Spaces: Stepwise Instructions for Dispute Reporting in Discord\""
 excerpt: "\"This Article Describes [New] In 2024, Securing Peaceful Spaces: Stepwise Instructions for Dispute Reporting in Discord\""
 keywords: "Peaceful Space Secure,Dispute Reports Guide,Discord Conflict Steps,Safe Spaces Tips,Resolve Discord Issues,Reporting in Discord,Harmony in Online Gaming"
-thumbnail: https://www.lifewire.com/thmb/bh3H2G7TcfZpiD7WymrulTtYSeU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/facebook_dark_mode_fix_nico_de_pasquale_photography-6f02eb383e884f748870de4aae05d676.jpg
+thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba7355f3daa30e8aeaa265b4225.jpg
 ---
 
 ## Securing Peaceful Spaces: Stepwise Instructions for Dispute Reporting in Discord

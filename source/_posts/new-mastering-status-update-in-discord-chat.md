@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Status Update in Discord Chat"
-date: 2024-05-23T22:47:48.420Z
-updated: 2024-05-24T22:47:48.420Z
+date: 2024-06-10T22:51:16.722Z
+updated: 2024-06-11T22:51:16.722Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Mastering Status Update in Discord Chat"
 excerpt: "This Article Describes [New] Mastering Status Update in Discord Chat"
 keywords: "Mastering Discord Updates,Status Updates Expertise,Advanced Discord Messaging,Discord Chat Leadership,Communication in Discord,Effective Discord Usage,Discord Update Techniques"
-thumbnail: https://www.lifewire.com/thmb/hM2M1LxRHZ_MoNKX2FHpkzmfRAQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/pope-francis-delivers-urbi-et-orbi-blessing-during-easter-mass-in-st-peter-s-square-485740869-57d398e53df78c5833492a26.jpg
+thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811cafc15697aa0c13fd607a950.jpg
 ---
 
 ## Mastering Status Update in Discord Chat

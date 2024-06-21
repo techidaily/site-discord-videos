@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Bringing Voice to Discord Chats  The TTS Journey\""
-date: 2024-05-23T22:48:03.109Z
-updated: 2024-05-24T22:48:03.109Z
+date: 2024-06-10T22:51:21.402Z
+updated: 2024-06-11T22:51:21.402Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Bringing Voice to Discord Chats: The TTS Journey\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Bringing Voice to Discord Chats: The TTS Journey\""
 keywords: "VoiceDiscordTTS,DiscoVoiceTTS,TTSDiscordChat,TextToSpeechDisc,SpeakDiscordTTS,DiscordVoiceTTS,VoiceOverDiscord"
-thumbnail: https://www.lifewire.com/thmb/ZDnyMd5y1TI-4l8Th58f2C_oJzA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/F8conferencelogo-7ec4475dc6624114aea076c2611df199.jpg
+thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb0b1ed4fef37387dcca189b5.jpg
 ---
 
 ## Bringing Voice to Discord Chats: The TTS Journey

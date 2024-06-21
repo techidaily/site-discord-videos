@@ -1,7 +1,7 @@
 ---
 title: "Spotlight on the Innovators Shaping Discord's Visual Language for 2024"
-date: 2024-05-23T22:47:52.735Z
-updated: 2024-05-24T22:47:52.735Z
+date: 2024-06-10T22:51:18.481Z
+updated: 2024-06-11T22:51:18.481Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Spotlight on the Innovators Shaping Discord's Visual Language for 2024"
 excerpt: "This Article Describes Spotlight on the Innovators Shaping Discord's Visual Language for 2024"
 keywords: "Discord Vizual Design,InnoVizual Leaders,Visionaries in Discord,DiscoDesign Innovators,Discord Creative Minds,Visual Language Pioneers,Design Expertise Discord"
-thumbnail: https://www.lifewire.com/thmb/ejIVBRsG3zl1ofldUsLBDgfAhmk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Hulu-vs-Max-72c77dbe89214e3fb76ff142f2b2819e.jpg
+thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4a594b07cf7ffe549e83acd7.jpg
 ---
 
 ## Spotlight on the Innovators Shaping Discord's Visual Language

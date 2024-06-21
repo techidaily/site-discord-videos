@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, A Step-by-Step Guide to Erasing Chats on Discord En Masse\""
-date: 2024-05-23T22:47:33.441Z
-updated: 2024-05-24T22:47:33.441Z
+date: 2024-06-10T22:51:14.931Z
+updated: 2024-06-11T22:51:14.931Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, A Step-by-Step Guide to Erasing Chats on Discord En Masse\""
 excerpt: "\"This Article Describes In 2024, A Step-by-Step Guide to Erasing Chats on Discord En Masse\""
 keywords: "Discarding Discord Messages,Mass Delete Discord Chat,Clearing Multiple Chats Discord,Removing Discord Conversations,Erase Discord Group Chats,Purging Discord Dialogue,Unsend Discord Messages En Masse"
-thumbnail: https://www.lifewire.com/thmb/6djIpUJcmwG0_WK4S9ftsLptHLg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/line-app-logo-ccdacd0f7c344b3d9d4847edcb90733d.jpg
+thumbnail: https://thmb.techidaily.com/35cdbcc9d0463edeaedcfabc37b755463ffdb3615e7f86b0660ca31e9acd1987.jpg
 ---
 
 ## A Step-by-Step Guide to Erasing Chats on Discord En Masse

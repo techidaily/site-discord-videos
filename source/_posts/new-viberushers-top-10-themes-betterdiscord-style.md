@@ -1,7 +1,7 @@
 ---
 title: "\"[New] VibeRusher’s Top 10 Themes - BetterDiscord Style\""
-date: 2024-05-23T22:47:59.766Z
-updated: 2024-05-24T22:47:59.766Z
+date: 2024-06-10T22:51:16.414Z
+updated: 2024-06-11T22:51:16.414Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] VibeRusher’s Top 10 Themes - BetterDiscord Style\""
 excerpt: "\"This Article Describes [New] VibeRusher’s Top 10 Themes - BetterDiscord Style\""
 keywords: "Discord Rush Themes,VibeRush Design,Disco Chic Styles,Trendy Discord Threads,Top Theme Listings,Discord Modern Looks,Best Themes Rankings"
-thumbnail: https://www.lifewire.com/thmb/Ue7bbH3zA5m6mHueTxDJzPY0_i4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/MonopolyGo-5f0f110139894b1c898f145e981b956b.jpg
+thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba8565a3523ea779e463db4b2.jpg
 ---
 
 ## VibeRusher’s Top 10 Themes - BetterDiscord Style

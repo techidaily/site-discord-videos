@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Put Emojis in Discord Status?\""
-date: 2024-05-23T22:47:46.056Z
-updated: 2024-05-24T22:47:46.056Z
+date: 2024-06-10T22:51:21.270Z
+updated: 2024-06-11T22:51:21.270Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: How to Put Emojis in Discord Status?\""
 excerpt: "\"This Article Describes 2024 Approved: How to Put Emojis in Discord Status?\""
 keywords: "Discord Status Emoji Tips,Adding Emojis to Discord,Emojis In Discord Update,Status Emojis in Discord Chat,Use Emojis on Discord Profile,Enhance Discord Status with Emoji,Learn Emojis for Discord Status"
-thumbnail: https://www.lifewire.com/thmb/5V4FSFpr2o1W9L069x7QmkB4y7U=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/McIntosh-Soho-III-MT5-Stereo-system-a-9494141062104974a1820ee1e29bb019.jpg
+thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b3be096a7cd03abb7e8cbcbb.jpg
 ---
 
 ## How to Put Emojis in Discord Status?

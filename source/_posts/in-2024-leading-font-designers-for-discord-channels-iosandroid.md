@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leading Font Designers for Discord Channels (iOS/Android)"
-date: 2024-05-23T22:47:47.265Z
-updated: 2024-05-24T22:47:47.265Z
+date: 2024-06-10T22:51:20.049Z
+updated: 2024-06-11T22:51:20.049Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Leading Font Designers for Discord Channels (iOS/Android)"
 excerpt: "This Article Describes In 2024, Leading Font Designers for Discord Channels (iOS/Android)"
 keywords: "DiscoFontDesign,LeadFontIconos,IOSFontArtists,AndroidFontCreators,ChannelFontDesigners,IOSAndroidDesigns,FontChannelLeaders"
-thumbnail: https://www.lifewire.com/thmb/uPaLVwxbvMfcPdG68RijLj_eON0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed-bd03be35e2934c6a955a7022f4319123.png
+thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7456b6ffbc01667561900748.png
 ---
 
 ## Leading Font Designers for Discord Channels (iOS/Android)

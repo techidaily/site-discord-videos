@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Speak Up, Be Heard  An Introduction to Discord TTS for 2024\""
-date: 2024-05-23T22:48:22.616Z
-updated: 2024-05-24T22:48:22.616Z
+date: 2024-06-10T22:51:17.474Z
+updated: 2024-06-11T22:51:17.474Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Speak Up, Be Heard: An Introduction to Discord TTS for 2024\""
 excerpt: "\"This Article Describes [New] Speak Up, Be Heard: An Introduction to Discord TTS for 2024\""
 keywords: "DiscoTTS Basics,VoiceOverDiscord,DiscordTextService,SpeakingDiscord,TTSDiscordBeginner,IntroductionToDiscTTS,DiscordVoiceBasics"
-thumbnail: https://www.lifewire.com/thmb/SCmwS4Pz8-NfM7WT61M9Higzp2s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Amazon-Fire-Tablet-vs-Samsung-Tablet-8063f15c91ce490b9a7060d2330ab068.jpg
+thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c96896292c9c0c5d9f8bf9d7.jpg
 ---
 
 ## Speak Up, Be Heard: An Introduction to Discord TTS

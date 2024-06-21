@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Guide to Delete Discord Server From Mobile"
-date: 2024-05-23T22:48:12.384Z
-updated: 2024-05-24T22:48:12.384Z
+date: 2024-06-10T22:51:20.081Z
+updated: 2024-06-11T22:51:20.081Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Guide to Delete Discord Server From Mobile"
 excerpt: "This Article Describes [Updated] In 2024, Guide to Delete Discord Server From Mobile"
 keywords: "Deleting Discord on Mobile,Remove Discord Server iOS,Unlink Discord Android,Exclude Discord App Phone,Disconnect Discord Mobile,Delete Discord Mobile,Drop Discord Account Mobile"
-thumbnail: https://www.lifewire.com/thmb/CUyCkfrw0Ft_j71sjCNVqJcHeIo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/PS5-and-Handheld-b0d564931dca40e189b3cd769af45dc0.jpg
+thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e46cf7809dfb5c690e2c4abe.jpg
 ---
 
 ## Guide to Delete Discord Server From Mobile

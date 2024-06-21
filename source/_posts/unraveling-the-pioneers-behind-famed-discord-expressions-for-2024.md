@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Pioneers Behind Famed Discord Expressions for 2024"
-date: 2024-05-23T22:47:59.367Z
-updated: 2024-05-24T22:47:59.367Z
+date: 2024-06-10T22:51:17.077Z
+updated: 2024-06-11T22:51:17.077Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Unraveling the Pioneers Behind Famed Discord Expressions for 2024"
 excerpt: "This Article Describes Unraveling the Pioneers Behind Famed Discord Expressions for 2024"
 keywords: "Disco Origins,Key Expression Leaders,Pioneering Voices,Discord's Founders,Expression Creators,Discord History,Iconic Slang Origin"
-thumbnail: https://www.lifewire.com/thmb/UVKHhU4tpPF0Y4bcgrLg69Iug_8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/287414ff43ab53f27880b8114eed3693184381a70cdfc416ba85990af80f04e8.jpg
 ---
 
 ## Unraveling the Pioneers Behind Famed Discord Expressions

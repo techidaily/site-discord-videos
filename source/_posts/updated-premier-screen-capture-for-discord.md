@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Premier Screen Capture for Discord"
-date: 2024-05-23T22:47:50.764Z
-updated: 2024-05-24T22:47:50.764Z
+date: 2024-06-10T22:51:19.970Z
+updated: 2024-06-11T22:51:19.970Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Premier Screen Capture for Discord"
 excerpt: "This Article Describes [Updated] Premier Screen Capture for Discord"
 keywords: "\"Premier Screen Save,Discord Screen Recapture,Best Discord Screenshot,Top Screen Record Discord,Prime Discord Capture,High-Quality Discord Snaps,Expert Discord Image Grab\""
-thumbnail: https://www.lifewire.com/thmb/dO9iGHsLJsJM7mUIMGLYhoLeYHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Roku-App-iPhone-5188417-b81428f57ccf4df5ba8506352f3f6108.jpg
+thumbnail: https://thmb.techidaily.com/2ee7691e7273eb11818d41a9cf81a37cef10bbda58003f87ccdd98d9756a0aeb.jpg
 ---
 
 ## Premier Screen Capture for Discord

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 10 Best Free Software to Record Discord Audio"
-date: 2024-05-23T22:47:52.037Z
-updated: 2024-05-24T22:47:52.037Z
+date: 2024-06-10T22:51:25.182Z
+updated: 2024-06-11T22:51:25.182Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, 10 Best Free Software to Record Discord Audio"
 excerpt: "This Article Describes In 2024, 10 Best Free Software to Record Discord Audio"
 keywords: "DiscoAudioRecordingSoftware,FreeDiscordAudioCapture,TopFreeAudioCaptureApps,ZeroCostAudioRecorders,BestAudioRecordingTools,FreeDiscordAudioRecorder,PremierFreeAudioCapture"
-thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155096051-5b1bf60d43a1030036cfac94.jpg
+thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec47ad22d2523d6d2404f16cd1.jpg
 ---
 
 ## 10 Best Free Software to Record Discord Audio

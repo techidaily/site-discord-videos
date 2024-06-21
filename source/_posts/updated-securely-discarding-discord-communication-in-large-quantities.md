@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Securely Discarding Discord Communication in Large Quantities"
-date: 2024-05-23T22:47:52.232Z
-updated: 2024-05-24T22:47:52.232Z
+date: 2024-06-10T22:51:21.654Z
+updated: 2024-06-11T22:51:21.654Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Securely Discarding Discord Communication in Large Quantities"
 excerpt: "This Article Describes [Updated] Securely Discarding Discord Communication in Large Quantities"
 keywords: "\"Secure Data Wiping,Privacy-Focused Deletion,Confidential Message Erase,Encrypted Communication Clearance,Safe Chat Termination,Discreet Discord Purge,Bulk Message Sanitization\""
-thumbnail: https://www.lifewire.com/thmb/qhKTHSVkDe6Tf9aQ3h9q7IAZdvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/womanonkayak-5ba7f7c0c9e77c0050d59319.jpg
+thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be868964630fead8d644714b724c8d98.jpg
 ---
 
 ## Securely Discarding Discord Communication in Large Quantities

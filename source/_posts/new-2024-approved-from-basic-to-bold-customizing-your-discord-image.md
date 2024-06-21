@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Basic to Bold  Customizing Your Discord Image\""
-date: 2024-05-23T22:48:12.032Z
-updated: 2024-05-24T22:48:12.032Z
+date: 2024-06-10T22:51:25.015Z
+updated: 2024-06-11T22:51:25.015Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: From Basic to Bold: Customizing Your Discord Image\""
 excerpt: "\"This Article Describes [New] 2024 Approved: From Basic to Bold: Customizing Your Discord Image\""
 keywords: "\"Discord Profile Pics,Personalized Discord,Discord Avatar Edit,Bold Discord Images,Discord User Icons,Custom Discord Skins,Emoji-Enhanced Discord\""
-thumbnail: https://www.lifewire.com/thmb/0xgLnS3M6CP4FiP4I-VE1zFOiLo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-ps5-controller-on-your-pc-or-mac-5089439-b56739aa27bd48858200878a6b64f952.jpg
+thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
 ## From Basic to Bold: Customizing Your Discord Image

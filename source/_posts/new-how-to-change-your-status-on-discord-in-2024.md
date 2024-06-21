@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Change Your Status on Discord, In 2024"
-date: 2024-05-23T22:48:12.602Z
-updated: 2024-05-24T22:48:12.602Z
+date: 2024-06-10T22:51:24.432Z
+updated: 2024-06-11T22:51:24.432Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] How to Change Your Status on Discord, In 2024"
 excerpt: "This Article Describes [New] How to Change Your Status on Discord, In 2024"
 keywords: "Discord Status Update,Changing DiscoStatus,Set Discord Avatar,Alter Discord Identity,Customize Discord Icon,Modify User Nickname,Switch Discord Role"
-thumbnail: https://www.lifewire.com/thmb/sVGkEbiFDip9BtkN-YUciN9QN0Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Internet-Explorer-56a6c3ec3df78cf7728fee70.png
+thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e7739a5c0ead2c07ab91e735b6.png
 ---
 
 ## Simplify Your Virtual Experience: Modifying Status & Images on Discord

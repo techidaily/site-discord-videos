@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Simple Steps to Sever Desktop & Mobile Connection to Discord\""
-date: 2024-05-23T22:48:22.408Z
-updated: 2024-05-24T22:48:22.408Z
+date: 2024-06-10T22:51:16.666Z
+updated: 2024-06-11T22:51:16.666Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Simple Steps to Sever Desktop & Mobile Connection to Discord\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Simple Steps to Sever Desktop & Mobile Connection to Discord\""
 keywords: "Disconnect Discord,Desktop Offline Discord,Mobile No Discord,Sever Discord Links,End Desktop/Mobile Discord,Disconnect From Discord,Remove Discord Connections"
-thumbnail: https://www.lifewire.com/thmb/Ha1_ngNWQ-1VgYl4eUcnzEvFeOM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Screenshot2023-09-12at10.36.11AM-c3af84c24cef48d2bbe5b8b8d95c8430.png
+thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe14a850d289619ed36f925a3.png
 ---
 
 ## Simple Steps to Sever Desktop & Mobile Connection to Discord

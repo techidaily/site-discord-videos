@@ -1,7 +1,7 @@
 ---
 title: "\"A Step-by-Step Guide to Designing Memorable Discord Avatars for 2024\""
-date: 2024-05-23T22:47:33.437Z
-updated: 2024-05-24T22:47:33.437Z
+date: 2024-06-10T22:51:19.556Z
+updated: 2024-06-11T22:51:19.556Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes A Step-by-Step Guide to Designing Memorable Discord Avatars for 2024\""
 excerpt: "\"This Article Describes A Step-by-Step Guide to Designing Memorable Discord Avatars for 2024\""
 keywords: "Memorable Avatar Design,Discord User Icon Tips,Creative Discord Imagery,Personalized Discord Skins,Avatar Creation Steps,Discord Identity Guide,Engaging Skin Concepts"
-thumbnail: https://www.lifewire.com/thmb/dO9iGHsLJsJM7mUIMGLYhoLeYHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Roku-App-iPhone-5188417-b81428f57ccf4df5ba8506352f3f6108.jpg
+thumbnail: https://thmb.techidaily.com/2ee7691e7273eb11818d41a9cf81a37cef10bbda58003f87ccdd98d9756a0aeb.jpg
 ---
 
 ## A Step-by-Step Guide to Designing Memorable Discord Avatars

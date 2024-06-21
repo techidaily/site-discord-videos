@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Music & Messaging Merge  A Guide to Spotify/Discord\""
-date: 2024-05-23T22:48:17.102Z
-updated: 2024-05-24T22:48:17.102Z
+date: 2024-06-10T22:51:18.615Z
+updated: 2024-06-11T22:51:18.615Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Music & Messaging Merge: A Guide to Spotify/Discord\""
 excerpt: "\"This Article Describes [New] In 2024, Music & Messaging Merge: A Guide to Spotify/Discord\""
 keywords: "\"Streaming Music on Discord,Spotify-Discord Integration Guide,Mixing Music with DMs,Spotify & Chat: Tips and Tricks,Discord Music Features,Spotify & Discord Communication,Merging Messaging & Soundplay\""
-thumbnail: https://www.lifewire.com/thmb/RGG5Yrj4wygeHF_4EtUcyBLLzK8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Screenshot2023-08-11at4.09.52PM-a2b7cc4dc04d49deac45f59296fd703f.jpg
+thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb6190aa0c6171995d867746d.jpg
 ---
 
 ## Music & Messaging Merge: A Guide to Spotify/Discord

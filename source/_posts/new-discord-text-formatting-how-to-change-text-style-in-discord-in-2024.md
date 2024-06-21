@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Discord Text Formatting  How to Change Text Style in Discord, In 2024\""
-date: 2024-05-23T22:48:06.072Z
-updated: 2024-05-24T22:48:06.072Z
+date: 2024-06-10T22:51:23.728Z
+updated: 2024-06-11T22:51:23.728Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Discord Text Formatting: How to Change Text Style in Discord, In 2024\""
 excerpt: "\"This Article Describes [New] Discord Text Formatting: How to Change Text Style in Discord, In 2024\""
 keywords: "DiscoTextFormattingTips,ChangingDiscordTextStyles,DiscordTextStyleChange,TextFormattingInDiscord,AlteringTextOnDiscord,FormattingTextDiscord,StylingTextDiscordChat"
-thumbnail: https://www.lifewire.com/thmb/4yyTl7MKn_iYQkYcgHkPBGkXxu4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/kilian-seiler-PZLgTUAhxMM-unsplash-b385dd48498742aea28827a455b88525.jpg
+thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d93382b937c3fa171ed251d1.jpg
 ---
 
 ## Discord Text Formatting: How to Change Text Style in Discord?

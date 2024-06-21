@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Elevate Your Server Control  Add Roles Instruction\""
-date: 2024-05-23T22:48:08.420Z
-updated: 2024-05-24T22:48:08.420Z
+date: 2024-06-10T22:51:24.388Z
+updated: 2024-06-11T22:51:24.388Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Elevate Your Server Control: Add Roles Instruction\""
 excerpt: "\"This Article Describes [New] In 2024, Elevate Your Server Control: Add Roles Instruction\""
 keywords: "Server Role Guide,Elevate Server Management,Enhance Server Controls,IT Server Role Settings,Optimize Server Functions,Advanced Server Configuration,Streamline Server Operations"
-thumbnail: https://www.lifewire.com/thmb/sVGkEbiFDip9BtkN-YUciN9QN0Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Internet-Explorer-56a6c3ec3df78cf7728fee70.png
+thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e7739a5c0ead2c07ab91e735b6.png
 ---
 
 ## Elevate Your Server Control: Add Roles Instruction

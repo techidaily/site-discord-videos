@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Joining to Being Known  Securing Your Role on Discord\""
-date: 2024-05-23T22:48:12.115Z
-updated: 2024-05-24T22:48:12.115Z
+date: 2024-06-10T22:51:25.246Z
+updated: 2024-06-11T22:51:25.246Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: From Joining to Being Known: Securing Your Role on Discord\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: From Joining to Being Known: Securing Your Role on Discord\""
 keywords: "\"Join & Rise in Discord,Find Role Identity,Becoming Popular On Discord,Establishing Self-On Discord,Securing Discord Position,Know Your Status In Discord,Claiming Space on Discord\""
-thumbnail: https://www.lifewire.com/thmb/ihHXhscRd_7pjZenuKYSLpv9OwM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed2-60f231b72c19491683c2166c9285b34d.jpg
+thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50b7aab7a2fe4029be64b0298.jpg
 ---
 
 ## From Joining to Being Known: Securing Your Role on Discord

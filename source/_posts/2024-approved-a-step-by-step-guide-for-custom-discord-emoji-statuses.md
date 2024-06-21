@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  A Step-by-Step Guide for Custom Discord Emoji Statuses\""
-date: 2024-05-23T22:47:33.403Z
-updated: 2024-05-24T22:47:33.403Z
+date: 2024-06-10T22:51:22.565Z
+updated: 2024-06-11T22:51:22.565Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: A Step-by-Step Guide for Custom Discord Emoji Statuses\""
 excerpt: "\"This Article Describes 2024 Approved: A Step-by-Step Guide for Custom Discord Emoji Statuses\""
 keywords: "Custom Discord Emojis Guide,Create Discord Emoji Status,Design Personal Discord Emojis,Emoji Creation Steps for Discord,DIY Disco Emoji Setup,Crafting Unique Discord Emojis,Custom Status Emoji Tutorial"
-thumbnail: https://www.lifewire.com/thmb/AW6HgptXJMZye-2QsM4CJwOfRMM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/difference-between-usb-and-aux-534612-8a6e2fd2677145eaaa8fb0d8635b39d5.png
+thumbnail: https://thmb.techidaily.com/7b53187b4430cc2c3cbe56db79b5743ab13bdfc8c137447758d708535575ea61.png
 ---
 
 ## A Step-by-Step Guide for Custom Discord Emoji Statuses

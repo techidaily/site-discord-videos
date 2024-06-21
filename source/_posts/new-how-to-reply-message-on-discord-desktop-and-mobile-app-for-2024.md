@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Reply Message on Discord Desktop and Mobile App for 2024"
-date: 2024-05-23T22:48:13.277Z
-updated: 2024-05-24T22:48:13.277Z
+date: 2024-06-10T22:51:27.360Z
+updated: 2024-06-11T22:51:27.360Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] How to Reply Message on Discord Desktop and Mobile App for 2024"
 excerpt: "This Article Describes [New] How to Reply Message on Discord Desktop and Mobile App for 2024"
 keywords: "Replying in Discord,Discord Mobile Reply,Discord Desktop Response,Discord Message Replies,Respond on Discord App,Message Reaction in Discord,Send Responses on Discord"
-thumbnail: https://www.lifewire.com/thmb/ALF9aSVntgyhyx6dOWocCRuT29U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/is-godaddy-down-or-is-it-just-you-5069837-9623a5accdec4372a4b5e8353c43adea.jpg
+thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31b655195d0378ad85feb1cf9.jpg
 ---
 
 ## How to Reply Message on Discord Desktop and Mobile App

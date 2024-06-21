@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Discover the Art of Making Captivating Discord Profile Pictures"
-date: 2024-05-23T22:48:06.871Z
-updated: 2024-05-24T22:48:06.871Z
+date: 2024-06-10T22:51:24.357Z
+updated: 2024-06-11T22:51:24.357Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Discover the Art of Making Captivating Discord Profile Pictures"
 excerpt: "This Article Describes [Updated] In 2024, Discover the Art of Making Captivating Discord Profile Pictures"
 keywords: "Captivating Disco Pics,Create Disco Profiles,Design Disco Photos,Disco Image Art,Profile Pic Crafting,Discord Photo Tips,Making Disco Images"
-thumbnail: https://www.lifewire.com/thmb/nWJ0cENyAQnczt0A_C_9Jk56PmA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GN5C2337-2ecd1ef3d21c4203bd652b800943a5c2.jpg
+thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c68bf8d7b3fdd304d8146b2a.jpg
 ---
 
 ## Discover the Art of Making Captivating Discord Profile Pictures

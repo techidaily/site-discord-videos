@@ -1,7 +1,7 @@
 ---
 title: "[New] Breaking Down Discord’s Report Mechanism for Clarity and Action"
-date: 2024-05-23T22:47:35.555Z
-updated: 2024-05-24T22:47:35.555Z
+date: 2024-06-10T22:51:15.908Z
+updated: 2024-06-11T22:51:15.908Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Breaking Down Discord’s Report Mechanism for Clarity and Action"
 excerpt: "This Article Describes [New] Breaking Down Discord’s Report Mechanism for Clarity and Action"
 keywords: "DiscoReportMechanism,DiscordActionSteps,ClarifyDiscordReports,ActionOnDiscordReplies,ReportingMechanismInsight,SimplifyingDiscordChats,ActOnDiscordNotes"
-thumbnail: https://www.lifewire.com/thmb/PNJQW9cLHql0zWHxc6AWD6sKr5w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/aircraft-orbit-86196476-333d704fc4d94c20b35e9048fe4f88ee.png
+thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081fae25bd46e53089bd06505df.png
 ---
 
 ## Breaking Down Discord’s Report Mechanism for Clarity and Action

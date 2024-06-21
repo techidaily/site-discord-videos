@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Manual  Altering Your User's Status in Discord\""
-date: 2024-05-23T22:47:53.048Z
-updated: 2024-05-24T22:47:53.048Z
+date: 2024-06-10T22:51:16.763Z
+updated: 2024-06-11T22:51:16.763Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Step-by-Step Manual: Altering Your User's Status in Discord\""
 excerpt: "\"This Article Describes [New] Step-by-Step Manual: Altering Your User's Status in Discord\""
 keywords: "\"Discord Status Change Guide,Discord Profile Update Steps,Changing User Status on Discord,Discord Customize Avatar,Modify Discord Member Info,Altering Discord Member Settings,Manual: Discord Identity Edit\""
-thumbnail: https://www.lifewire.com/thmb/uh_HEnV01W8RgcGC8vCaag4vOgg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/smiling-millennial-mestizo-woman-talking-on-the-phone-at-home-934913078-5afd8c038023b9003692d3c1.jpg
+thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a1754ee9632a9d2f7f9073f37e2.jpg
 ---
 
 ## Step-by-Step Manual: Altering Your User's Status in Discord

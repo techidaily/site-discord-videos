@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Abandon Discord via Device"
-date: 2024-05-23T22:48:01.071Z
-updated: 2024-05-24T22:48:01.071Z
+date: 2024-06-10T22:51:26.843Z
+updated: 2024-06-11T22:51:26.843Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Abandon Discord via Device"
 excerpt: "This Article Describes [Updated] In 2024, Abandon Discord via Device"
 keywords: "Disconnect Discord,Exit Discord App,Stop Discord Usage,Close Discord Session,End Discord Chat,Quit Discord Service,Uninstall Discord"
-thumbnail: https://www.lifewire.com/thmb/DjyPPeH7zK7WJUxT1TQTVE0mc04=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1079012838-18c9de31049847f5bb71da74611f8c94.jpg
+thumbnail: https://thmb.techidaily.com/f29016c0fce2f518937f68251a2431a5f707a01cf190eb7eb7552fa0f6fd65d9.jpg
 ---
 
 ## Abandon Discord via Device

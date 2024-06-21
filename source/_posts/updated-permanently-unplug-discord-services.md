@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Permanently Unplug Discord Services"
-date: 2024-05-23T22:47:50.307Z
-updated: 2024-05-24T22:47:50.307Z
+date: 2024-06-10T22:51:25.551Z
+updated: 2024-06-11T22:51:25.551Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Permanently Unplug Discord Services"
 excerpt: "This Article Describes [Updated] Permanently Unplug Discord Services"
 keywords: "Unplug Discord,Disconnect Discord,Stop Discord Chat,End Discord Service,Quit Discord App,Halt Discord Usage,Terminate Discord Sign In"
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## Permanently Unplug Discord Services

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Extinguish Your Discord Access"
-date: 2024-05-23T22:47:43.916Z
-updated: 2024-05-24T22:47:43.916Z
+date: 2024-06-10T22:51:16.376Z
+updated: 2024-06-11T22:51:16.376Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Extinguish Your Discord Access"
 excerpt: "This Article Describes In 2024, Extinguish Your Discord Access"
 keywords: "End Discord Ban,Block Discord,Stop Discord,Halt Discord Access,Disconnect Discord,Cease Discord Use,Quit Discord"
-thumbnail: https://www.lifewire.com/thmb/jq-DVyeVkjU-Yj0Mvhyg8eF-6so=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-change-the-host-on-zoom-5206455-b684ea22dc8047acbfaad00fd2da99c9.jpg
+thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab71839b6a6c2629d037059245.jpg
 ---
 
 ## Extinguish Your Discord Access

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Your Complete Handbook on Discord Usage"
-date: 2024-05-23T22:47:59.998Z
-updated: 2024-05-24T22:47:59.998Z
+date: 2024-06-10T22:51:27.811Z
+updated: 2024-06-11T22:51:27.811Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Your Complete Handbook on Discord Usage"
 excerpt: "This Article Describes [Updated] Your Complete Handbook on Discord Usage"
 keywords: "Discord Usage Guide,Mastering Discord,DiscoGuide Tips,Learn Discord Ease,Discord Basics,Discord Navigation,Discord Skillset"
-thumbnail: https://www.lifewire.com/thmb/9-8N1hD2MYqTcjuzb69k4fYxXsk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-469187056-57cdf0a45f9b5829f4457c9a.jpg
+thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e202aee43a31b71787185171a.jpg
 ---
 
 ## Your Complete Handbook on Discord Usage

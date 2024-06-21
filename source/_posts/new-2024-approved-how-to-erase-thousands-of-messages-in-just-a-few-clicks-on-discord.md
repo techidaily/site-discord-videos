@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Erase Thousands of Messages in Just a Few Clicks on Discord\""
-date: 2024-05-23T22:48:12.954Z
-updated: 2024-05-24T22:48:12.954Z
+date: 2024-06-10T22:51:26.525Z
+updated: 2024-06-11T22:51:26.525Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: How to Erase Thousands of Messages in Just a Few Clicks on Discord\""
 excerpt: "\"This Article Describes [New] 2024 Approved: How to Erase Thousands of Messages in Just a Few Clicks on Discord\""
 keywords: "Fast Discord Message Clearing,Quick Unsend Actions Discord,Efficient Discard Chat Messages,Accelerate Clearing Discord Texts,Instant Unsend on Discord Server,Rapid Removal of Chats in Discord,Swift Deletion of Discord Messages"
-thumbnail: https://www.lifewire.com/thmb/_atXbVpqt-bBP3NhxI9aFSkiOqU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1305200685-e977d0ca4e9a47e2b006e5b32a9922fd.jpg
+thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f8bfa2b570a90a8bfa430bd1.jpg
 ---
 
 ## How to Erase Thousands of Messages in Just a Few Clicks on Discord

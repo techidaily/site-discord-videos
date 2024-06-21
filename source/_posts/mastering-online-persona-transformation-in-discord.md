@@ -1,7 +1,7 @@
 ---
 title: "Mastering Online Persona Transformation in Discord"
-date: 2024-05-23T22:47:29.034Z
-updated: 2024-05-24T22:47:29.034Z
+date: 2024-06-10T22:51:17.228Z
+updated: 2024-06-11T22:51:17.228Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Mastering Online Persona Transformation in Discord"
 excerpt: "This Article Describes Mastering Online Persona Transformation in Discord"
 keywords: "Disco Persona Mastery,Online Identity Shift,Discord Brand Image,Alter Ego Engagement,Digital Persona Growth,Transforming Self in Discord,Profile Reconstruction Online"
-thumbnail: https://www.lifewire.com/thmb/L9CRzM0BFR4bTnY9IulGvi9fmEA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/kids-ipad-580f65635f9b58564cc0fc91-5c5cbb6ac9e77c0001d92aa4.jpg
+thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c12090374117c9c8e1782192a.jpg
 ---
 
 ## Mastering Online Persona Transformation in Discord

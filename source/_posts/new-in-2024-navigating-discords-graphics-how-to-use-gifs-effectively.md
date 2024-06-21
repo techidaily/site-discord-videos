@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Navigating Discord's Graphics  How to Use GIFs Effectively\""
-date: 2024-05-23T22:48:18.820Z
-updated: 2024-05-24T22:48:18.820Z
+date: 2024-06-10T22:51:15.280Z
+updated: 2024-06-11T22:51:15.280Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Navigating Discord's Graphics: How to Use GIFs Effectively\""
 excerpt: "\"This Article Describes [New] In 2024, Navigating Discord's Graphics: How to Use GIFs Effectively\""
 keywords: "Discord GIF Tips,Effective Discord Animation,GIF Usage on Discord,Mastering Discord Graphics,Enhancing Discord Chat,Optimal Discord Image Use,Efficient Discord Media"
-thumbnail: https://www.lifewire.com/thmb/6jpoPegXRX8McokesqszRR7iEZk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/firmbee-com-eMemmpUojlw-unsplash-78781d3f0a424890af91ca16a6e636a0.jpg
+thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9a0f3270b71a79e318ccd253.jpg
 ---
 
 ## Navigating Discord's Graphics: How to Use GIFs Effectively

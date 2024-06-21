@@ -1,7 +1,7 @@
 ---
 title: "\"Finding Fellowship  Adding Friends in Discord for 2024\""
-date: 2024-05-23T22:47:44.061Z
-updated: 2024-05-24T22:47:44.061Z
+date: 2024-06-10T22:51:17.746Z
+updated: 2024-06-11T22:51:17.746Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Finding Fellowship: Adding Friends in Discord for 2024\""
 excerpt: "\"This Article Describes Finding Fellowship: Adding Friends in Discord for 2024\""
 keywords: "Discord Friendships,Finding New Friends,Friendly Discord Users,Building Disco Pals,Add Friends on Discord,Making Friends in Chats,Join Discord Communities"
-thumbnail: https://www.lifewire.com/thmb/izBIha32HgabjptVJirtpKdPFJM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/youtubekids-30ac14dece6546eb98e32e3e18e447f8.jpg
+thumbnail: https://thmb.techidaily.com/57ebcefbd038d5518117756c100dd6989f85e0e6cff4615a7e12084a4473983a.jpg
 ---
 
 ## Finding Fellowship: Adding Friends in Discord

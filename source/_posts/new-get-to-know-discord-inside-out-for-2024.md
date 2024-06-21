@@ -1,7 +1,7 @@
 ---
 title: "[New] Get to Know Discord Inside Out for 2024"
-date: 2024-05-23T22:51:11.301Z
-updated: 2024-05-24T22:51:11.301Z
+date: 2024-06-10T22:51:23.840Z
+updated: 2024-06-11T22:51:23.840Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Get to Know Discord Inside Out for 2024"
 excerpt: "This Article Describes [New] Get to Know Discord Inside Out for 2024"
 keywords: "Understanding Discord Basics,Learn Discord Usefully,Mastering Discord Features,Discord Navigation Guide,Essential Discord Knowledge,Exploring Discord In Depth,Unveiling Discord Capabilities"
-thumbnail: https://www.lifewire.com/thmb/r3jpq9ROQxLDw5jkzVWst0zLBF0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1257729194-27ecd3f4d103424a8ece636fc6e2efbd.jpg
+thumbnail: https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3daaeb866103686a0f1d6cb404.jpg
 ---
 
 ## Get to Know Discord Inside Out

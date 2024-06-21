@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Discovering the Basics of Discord's Spoiler Tags"
-date: 2024-05-23T22:48:07.047Z
-updated: 2024-05-24T22:48:07.047Z
+date: 2024-06-10T22:51:19.068Z
+updated: 2024-06-11T22:51:19.068Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Discovering the Basics of Discord's Spoiler Tags"
 excerpt: "This Article Describes [Updated] In 2024, Discovering the Basics of Discord's Spoiler Tags"
 keywords: "Discord Sploits Guide,Basic Discord Tag Tips,Mastering Discord Spoilers,Learn Discord Emote Codes,Essential Discord Tags,Understanding Discord Annotations,Discord Spoiler Usage Basics"
-thumbnail: https://www.lifewire.com/thmb/fwjxYQgD_kKyiPMDElCFrsJ-AUo=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/20tipsforsavingmoneyinyour20s-1f7fd5749e914e31b38747c400f07564.jpg
+thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b2168edc5e24a71f77a22d913e.jpg
 ---
 
 ## Discovering the Basics of Discord's Spoiler Tags

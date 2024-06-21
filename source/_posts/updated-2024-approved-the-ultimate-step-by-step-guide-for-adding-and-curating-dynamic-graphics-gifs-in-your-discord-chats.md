@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Ultimate Step-by-Step Guide for Adding and Curating Dynamic Graphics (GIFs) in Your Discord Chats\""
-date: 2024-05-23T22:48:26.994Z
-updated: 2024-05-24T22:48:26.994Z
+date: 2024-06-10T22:51:21.747Z
+updated: 2024-06-11T22:51:21.747Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: The Ultimate Step-by-Step Guide for Adding and Curating Dynamic Graphics (GIFs) in Your Discord Chats\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: The Ultimate Step-by-Step Guide for Adding and Curating Dynamic Graphics (GIFs) in Your Discord Chats\""
 keywords: "\"GIFs in Discord,Dynamic Discord Graphics,Curate Discord Visuals,Add Disco Graphics Step-by-Step,Dynamic Chat Images Guide,Creating GIFs for Servers,Discord Graphics Tutorial\""
-thumbnail: https://www.lifewire.com/thmb/vDfrgz1_IlgTwNiMHMB-1DSco0M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/moran-8cMPxOqkLE8-unsplash-99ce55b439a04b8690d58b8bb29d2f9a.jpg
+thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287710359624ae1485aff3b993.jpg
 ---
 
 ## The Ultimate Step-by-Step Guide for Adding and Curating Dynamic Graphics (GIFs) in Your Discord Chats

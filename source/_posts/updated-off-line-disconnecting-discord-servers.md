@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Off-Line Disconnecting Discord Servers\""
-date: 2024-05-23T22:47:50.007Z
-updated: 2024-05-24T22:47:50.007Z
+date: 2024-06-10T22:51:14.414Z
+updated: 2024-06-11T22:51:14.414Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Off-Line Disconnecting Discord Servers\""
 excerpt: "\"This Article Describes [Updated] Off-Line Disconnecting Discord Servers\""
 keywords: "Offline Server Halt,Disconnect Discord,Unplug Servers Quickly,Silence Discord Voices,Quiet Online Servers,Cut Connectivity Suddenly,Immediate Offline Shutdown"
-thumbnail: https://www.lifewire.com/thmb/Cf134RZWfKPf0IK4nvJEe0UWK6M=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/buy-used-iphone-5717c2523df78c3fa23ddc70.jpg
+thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160ded041f221da6fa3c4abad49.jpg
 ---
 
 ## Off-Line Disconnecting Discord Servers

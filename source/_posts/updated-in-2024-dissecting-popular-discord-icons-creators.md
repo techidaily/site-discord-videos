@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Dissecting Popular Discord Icons' Creators"
-date: 2024-05-23T22:48:07.184Z
-updated: 2024-05-24T22:48:07.184Z
+date: 2024-06-10T22:51:26.949Z
+updated: 2024-06-11T22:51:26.949Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Dissecting Popular Discord Icons' Creators"
 excerpt: "This Article Describes [Updated] In 2024, Dissecting Popular Discord Icons' Creators"
 keywords: "Discord Icon Designers,Popular Discord Symbols,Icon Creation Insights,Dissecting Icon Artists,Discord Visual Themes,Symbol Creator Analysis,Deciphering Icons' Origins"
-thumbnail: https://www.lifewire.com/thmb/eyPEW_zh-5Xw0J7hoJ-kChdCQ1M=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-transfer-data-from-ps4-to-ps5-3392eb400af3482fabad65cabb2a1a91.jpg
+thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc721b43b4dca709d022c56e41.jpg
 ---
 
 ## Dissecting Popular Discord Icons' Creators

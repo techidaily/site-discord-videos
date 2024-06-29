@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering the Art of Custom Discord Emojis  PC & Mobile Edition\""
-date: 2024-05-23T22:47:48.476Z
-updated: 2024-05-24T22:47:48.476Z
+date: 2024-06-28T03:27:34.918Z
+updated: 2024-06-29T03:27:34.918Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Mastering the Art of Custom Discord Emojis: PC & Mobile Edition\""
 excerpt: "\"This Article Describes In 2024, Mastering the Art of Custom Discord Emojis: PC & Mobile Edition\""
 keywords: "Custom Emoji Mastery,Discord Emoji Tips,Emoji Creation Guide,Personalized Discord Emojis,Emoji Design PC/Mobile,Learn Emoji Artistry,Professional Emoji Crafting"
-thumbnail: https://www.lifewire.com/thmb/BpRBOKItcfeYG4M7aM3w9eMMwLg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-459017673-f192a5b0281140139f5ebf5f81a6694f.jpg
+thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed7177e712ed911926c5fc53a785.jpg
 ---
 
 ## Mastering the Art of Custom Discord Emojis: PC & Mobile Edition

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, A Comprehensive Tutorial on Adding Dynamic Graphics (GIFs) to Discord Chats"
-date: 2024-05-23T22:47:33.254Z
-updated: 2024-05-24T22:47:33.254Z
+date: 2024-06-28T03:27:28.055Z
+updated: 2024-06-29T03:27:28.055Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, A Comprehensive Tutorial on Adding Dynamic Graphics (GIFs) to Discord Chats"
 excerpt: "This Article Describes In 2024, A Comprehensive Tutorial on Adding Dynamic Graphics (GIFs) to Discord Chats"
 keywords: "Discord GIF Addition Guide,Dynamic Chat Graphics Guide,Enhancing Discord with GIFs,Discord Chat GIF Tutorial,Adding Animated Content to Discord,Discord Embedding Images Guide,Integrating GIF Into Discord Convo"
-thumbnail: https://www.lifewire.com/thmb/y_kpFgLUNKPRau83iAyMXrzuqRY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/lock-apps-on-iphone-4164864-65da1428a17643a184731c4a0bc95425.png
+thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b39864edef92685020cbb6c9.png
 ---
 
 ## A Comprehensive Tutorial on Adding Dynamic Graphics (GIFs) to Discord Chats

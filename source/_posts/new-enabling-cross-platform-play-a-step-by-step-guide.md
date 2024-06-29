@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Enabling Cross-Platform Play  A Step-by-Step Guide\""
-date: 2024-05-23T22:47:42.237Z
-updated: 2024-05-24T22:47:42.237Z
+date: 2024-06-28T03:27:42.357Z
+updated: 2024-06-29T03:27:42.357Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Enabling Cross-Platform Play: A Step-by-Step Guide\""
 excerpt: "\"This Article Describes [New] Enabling Cross-Platform Play: A Step-by-Step Guide\""
 keywords: "Game Unification,Platform Integration,Multiplayer Access,Crossover Gaming,Play Networking,Universal Games,Steps to Crossplay"
-thumbnail: https://www.lifewire.com/thmb/UrgVfUj2YP2VTszjRIMdNwf4VCo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Roku-vs-f4d192df6a0c4ee3a707521eaa5b8c02.jpg
+thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2cf2f12f9be9d04582b68734.jpg
 ---
 
 ## Enabling Cross-Platform Play: A Step-by-Step Guide

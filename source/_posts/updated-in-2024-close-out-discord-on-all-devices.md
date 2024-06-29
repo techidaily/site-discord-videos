@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Close Out Discord on All Devices"
-date: 2024-05-23T22:48:03.504Z
-updated: 2024-05-24T22:48:03.504Z
+date: 2024-06-28T03:27:42.100Z
+updated: 2024-06-29T03:27:42.100Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Close Out Discord on All Devices"
 excerpt: "This Article Describes [Updated] In 2024, Close Out Discord on All Devices"
 keywords: "Close Discord,Disconnect Discord,End Discord Session,Sign Off Discord,Shut Down Discord,Stop Discord Access,Logout All Devices Discord"
-thumbnail: https://www.lifewire.com/thmb/GNTJCbX1JbBQZqSWyGdMgU7lxsE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/samsung-smart-tv-lifestyle-alt-5c89160046e0fb00013365c2.jpg
+thumbnail: https://thmb.techidaily.com/a3895cce3360de5913e31306b1dac3362ecfc87f8052e7d36fccdff1f24bd61a.jpg
 ---
 
 ## Close Out Discord on All Devices

@@ -1,7 +1,7 @@
 ---
 title: "Personalizing Every Aspect of Your Discord Image"
-date: 2024-05-23T22:47:29.609Z
-updated: 2024-05-24T22:47:29.609Z
+date: 2024-06-28T03:27:26.895Z
+updated: 2024-06-29T03:27:26.895Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Personalizing Every Aspect of Your Discord Image"
 excerpt: "This Article Describes Personalizing Every Aspect of Your Discord Image"
 keywords: "Custom Discord Avatar,Discord Profile Pics,Personalized Discord Icon,Individual Discord Images,Unique Discord Banners,Tailored Discord Theme,Personalized Discord Backgrounds"
-thumbnail: https://www.lifewire.com/thmb/YDOkX4KOrU-1Gfk6Kj7DPlg333E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows11contextmenu-f4d6ebb14db4444d851b4338aa553e21.png
+thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b903378f876b3f4cc7ee4fa520.png
 ---
 
 ## Personalizing Every Aspect of Your Discord Image

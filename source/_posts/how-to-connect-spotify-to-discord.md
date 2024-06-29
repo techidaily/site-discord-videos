@@ -1,7 +1,7 @@
 ---
 title: "How to Connect Spotify to Discord"
-date: 2024-05-23T22:47:28.506Z
-updated: 2024-05-24T22:47:28.506Z
+date: 2024-06-28T03:27:24.721Z
+updated: 2024-06-29T03:27:24.721Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes How to Connect Spotify to Discord"
 excerpt: "This Article Describes How to Connect Spotify to Discord"
 keywords: "\"Spotify-Discord Link,Connect Spotify & Discord,Integrate Spotify to Discord,Spotify on Discord,Add Spotify Channels,Linking Spotify in Discord,Discord with Spotify,Spotify to Discord Setup,Join Spotify in Discord App,Integrate Spotify on Discord Platform\""
-thumbnail: https://www.lifewire.com/thmb/2EtxtL_zUqwF4iv_es3eOcMixqI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1167680364-b87ba0c2ad964ac9bd4371c7007e178b.jpg
+thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445d25a553d85696ff0b2a85a2.jpg
 ---
 
 ## Streamlining Connections: Spotify Meets Discord

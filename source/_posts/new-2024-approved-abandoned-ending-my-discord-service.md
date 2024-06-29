@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Abandoned  Ending My Discord Service\""
-date: 2024-05-23T22:48:01.099Z
-updated: 2024-05-24T22:48:01.099Z
+date: 2024-06-28T03:27:43.588Z
+updated: 2024-06-29T03:27:43.588Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Abandoned: Ending My Discord Service\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Abandoned: Ending My Discord Service\""
 keywords: "\"Disco Abandonment,Service Closure,Discord Exit,Account Halt,Chat Cessation,Sign-Out Ending,User Termination\""
-thumbnail: https://www.lifewire.com/thmb/CVZuqlWWc64y4oJL7YjFUY_yBzM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/19-ways-to-fix-a-chatgpt-network-error-on-long-responses-2c22dc8a46b540f28f81dfafb452492f.jpg
+thumbnail: https://thmb.techidaily.com/f7eb32e30dabd1ecde240ae4f390a8ba724185aa17a13d5ef1b9d86c145dc8b7.jpg
 ---
 
 ## Abandoned: Ending My Discord Service

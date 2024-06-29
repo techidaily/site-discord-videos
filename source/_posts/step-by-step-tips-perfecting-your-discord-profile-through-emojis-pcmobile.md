@@ -1,7 +1,7 @@
 ---
 title: "\"Step-By-Step Tips  Perfecting Your Discord Profile Through Emojis (PC/Mobile)\""
-date: 2024-05-23T22:47:30.431Z
-updated: 2024-05-24T22:47:30.431Z
+date: 2024-06-28T03:27:25.617Z
+updated: 2024-06-29T03:27:25.617Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Step-By-Step Tips: Perfecting Your Discord Profile Through Emojis (PC/Mobile)\""
 excerpt: "\"This Article Describes Step-By-Step Tips: Perfecting Your Discord Profile Through Emojis (PC/Mobile)\""
 keywords: "Discord Profile Tips,Emojis for Profiles,PC Emoji Guide,Mobile Discord Styling,Profile Design Steps,Enhancing Discord Identity,Customizing Discord Avatars"
-thumbnail: https://www.lifewire.com/thmb/8AsY02NhTdqGmesvxZL0xH5m_u8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-932007804-c6377c1eabd346b28f376de9bbf2e441.jpg
+thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd3a640439d6ee68045b0a185.jpg
 ---
 
 ## Step-By-Step Tips: Perfecting Your Discord Profile Through Emojis (PC/Mobile)

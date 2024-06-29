@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Complete Walkthrough to Emoji-Enriched Discord Statuses\""
-date: 2024-05-23T22:48:24.734Z
-updated: 2024-05-24T22:48:24.734Z
+date: 2024-06-28T03:27:41.083Z
+updated: 2024-06-29T03:27:41.083Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: The Complete Walkthrough to Emoji-Enriched Discord Statuses\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: The Complete Walkthrough to Emoji-Enriched Discord Statuses\""
 keywords: "Emojis in Discord,Status Update Tips,Discord Emote Guide,Custom Discord Avatars,Enhanced Discord Notifications,Emoji Use Strategies,Interactive Discord Statuses"
-thumbnail: https://www.lifewire.com/thmb/jEvS4hCjQpYChJrL63gqB32mNQ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/185267882-56a0e1e03df78cafdaa603c6.jpg
+thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa778ea2d41cdc52aa7fdbdaa.jpg
 ---
 
 ## The Complete Walkthrough to Emoji-Enriched Discord Statuses
@@ -459,7 +459,7 @@ There are also plenty of clever options available if you want to tinker with thi
 
 Now, when you go to share your screen (which I’ll cover off below), you’ll be presented with one final option first – your resolution and [frame rate](https://tools.techidaily.com/wondershare/filmora/download/).
 
-![ Screen sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-screen-share-settings.jpg)
+![Screen sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-screen-share-settings.jpg)
 
 Here you can set the quality of the image you’ll be sharing. 480p and 720p (HD) are available by default along with 15fps and 30fps. If you want 1080p or to use the Source option, or 60fps, you’ll need to pay for a Discord Nitro account, which is an upgraded tier of membership that starts at $49.99 for the year or $4.99 per month.
 
@@ -579,7 +579,7 @@ There are also plenty of clever options available if you want to tinker with thi
 
 Now, when you go to share your screen (which I’ll cover off below), you’ll be presented with one final option first – your resolution and [frame rate](https://tools.techidaily.com/wondershare/filmora/download/).
 
-![ Screen sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-screen-share-settings.jpg)
+![Screen sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-screen-share-settings.jpg)
 
 Here you can set the quality of the image you’ll be sharing. 480p and 720p (HD) are available by default along with 15fps and 30fps. If you want 1080p or to use the Source option, or 60fps, you’ll need to pay for a Discord Nitro account, which is an upgraded tier of membership that starts at $49.99 for the year or $4.99 per month.
 
@@ -699,7 +699,7 @@ There are also plenty of clever options available if you want to tinker with thi
 
 Now, when you go to share your screen (which I’ll cover off below), you’ll be presented with one final option first – your resolution and [frame rate](https://tools.techidaily.com/wondershare/filmora/download/).
 
-![ Screen sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-screen-share-settings.jpg)
+![Screen sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-screen-share-settings.jpg)
 
 Here you can set the quality of the image you’ll be sharing. 480p and 720p (HD) are available by default along with 15fps and 30fps. If you want 1080p or to use the Source option, or 60fps, you’ll need to pay for a Discord Nitro account, which is an upgraded tier of membership that starts at $49.99 for the year or $4.99 per month.
 
@@ -819,7 +819,7 @@ There are also plenty of clever options available if you want to tinker with thi
 
 Now, when you go to share your screen (which I’ll cover off below), you’ll be presented with one final option first – your resolution and [frame rate](https://tools.techidaily.com/wondershare/filmora/download/).
 
-![ Screen sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-screen-share-settings.jpg)
+![Screen sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-screen-share-settings.jpg)
 
 Here you can set the quality of the image you’ll be sharing. 480p and 720p (HD) are available by default along with 15fps and 30fps. If you want 1080p or to use the Source option, or 60fps, you’ll need to pay for a Discord Nitro account, which is an upgraded tier of membership that starts at $49.99 for the year or $4.99 per month.
 

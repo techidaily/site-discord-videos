@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Elevate Your Chats  Discord's Textual Customization Guide\""
-date: 2024-05-23T22:48:08.076Z
-updated: 2024-05-24T22:48:08.076Z
+date: 2024-06-28T03:27:40.093Z
+updated: 2024-06-29T03:27:40.093Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Elevate Your Chats: Discord's Textual Customization Guide\""
 excerpt: "\"This Article Describes [New] In 2024, Elevate Your Chats: Discord's Textual Customization Guide\""
 keywords: "Chat Personalize,Text Custom Comm,Disco Chat Style,Discord Msg Format,Text Message Theme,Dialogue Styling Tips,Chat Interface Tweaks"
-thumbnail: https://www.lifewire.com/thmb/Lt7EML2RrB2kJWs-oE5VbZxnlNo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2023-5112564-37245acf2e6840ba8319f0e13985e04a.jpg
+thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg
 ---
 
 ## Elevate Your Chats: Discord's Textual Customization Guide
@@ -53,7 +53,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -95,29 +95,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -135,11 +135,11 @@ Discord uses the same basic font all over the entire platform, including all cha
 
 #### 2\. How do you get different fonts on Discord?
 
-It’s not possible to change the font directly from the Discord app, but this limitation can be circumvented if you find a good[Discord font generator](https://tools.techidaily.com/wondershare/filmora/download/) on the internet. Those are very easy to use, so you can simply type your text in a chosen font and copy it back into Discord already formatted.
+It’s not possible to change the font directly from the Discord app, but this limitation can be circumvented if you find a good [Discord font generator](https://tools.techidaily.com/wondershare/filmora/download/) on the internet. Those are very easy to use, so you can simply type your text in a chosen font and copy it back into Discord already formatted.
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -181,7 +181,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -223,29 +223,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -263,11 +263,11 @@ Discord uses the same basic font all over the entire platform, including all cha
 
 #### 2\. How do you get different fonts on Discord?
 
-It’s not possible to change the font directly from the Discord app, but this limitation can be circumvented if you find a good[Discord font generator](https://tools.techidaily.com/wondershare/filmora/download/) on the internet. Those are very easy to use, so you can simply type your text in a chosen font and copy it back into Discord already formatted.
+It’s not possible to change the font directly from the Discord app, but this limitation can be circumvented if you find a good [Discord font generator](https://tools.techidaily.com/wondershare/filmora/download/) on the internet. Those are very easy to use, so you can simply type your text in a chosen font and copy it back into Discord already formatted.
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -309,7 +309,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -351,29 +351,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -391,11 +391,11 @@ Discord uses the same basic font all over the entire platform, including all cha
 
 #### 2\. How do you get different fonts on Discord?
 
-It’s not possible to change the font directly from the Discord app, but this limitation can be circumvented if you find a good[Discord font generator](https://tools.techidaily.com/wondershare/filmora/download/) on the internet. Those are very easy to use, so you can simply type your text in a chosen font and copy it back into Discord already formatted.
+It’s not possible to change the font directly from the Discord app, but this limitation can be circumvented if you find a good [Discord font generator](https://tools.techidaily.com/wondershare/filmora/download/) on the internet. Those are very easy to use, so you can simply type your text in a chosen font and copy it back into Discord already formatted.
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -437,7 +437,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -479,29 +479,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -519,11 +519,11 @@ Discord uses the same basic font all over the entire platform, including all cha
 
 #### 2\. How do you get different fonts on Discord?
 
-It’s not possible to change the font directly from the Discord app, but this limitation can be circumvented if you find a good[Discord font generator](https://tools.techidaily.com/wondershare/filmora/download/) on the internet. Those are very easy to use, so you can simply type your text in a chosen font and copy it back into Discord already formatted.
+It’s not possible to change the font directly from the Discord app, but this limitation can be circumvented if you find a good [Discord font generator](https://tools.techidaily.com/wondershare/filmora/download/) on the internet. Those are very easy to use, so you can simply type your text in a chosen font and copy it back into Discord already formatted.
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -631,7 +631,7 @@ Buying stickers is useless if you don't send them over texts. So, once you purch
 
 ### 1\. Sending Stickers on Discord Mobile App
 
-![ send Discord Stickers on mobile](https://images.wondershare.com/filmora/article-images/sending-stickers-discord-mobile.jpg)
+![send Discord Stickers on mobile](https://images.wondershare.com/filmora/article-images/sending-stickers-discord-mobile.jpg)
 
 If you have the Discord app on your phone, tap on the emoji button. The Stickers tab appears, and this menu enables you to send the most-used stickers quickly, view all the purchased stickers, and search for appropriate stickers.
 
@@ -647,7 +647,7 @@ Once opened, the menu will show you the most-used stickers. You can view other p
 
 You can tap on a sticker to send it on chats and servers.
 
-## Bonus: Adding Face-tracking AR Stickers to Video with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Bonus: Adding Face-tracking AR Stickers to Video with Wondershare Filmora
 
 In the latest version of Wondershare Filmora (V10.5 and later version), you can add face-tracking AR stickers to people in the video, and light up the celebration with flashy and cute characters and elements. Here are some brief steps to add AR stickers to your video in Filmora.
 
@@ -669,11 +669,11 @@ However, if you are working on a video project with many footages, it is recomme
 
 After trimming or cutting out unnecessary frames from the video, you can now add the AR stickers to the footage. Go to the Effects tab and then scroll down to the **AR Sticker** directory.
 
-![ Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/ar-sticker-directory.jpg)
+![Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/ar-sticker-directory.jpg)
 
 Currently, there are 40 stickers available in Filmora. You can click each one to preview and download. To add a sticker to the video, you can drag and drop it to the video track above or to the video clip directly. You can add several stickers at the same time by placing them in the tracks accordingly.
 
-![ Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/add-multiple-ar-stickers-video.jpg)
+![Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/add-multiple-ar-stickers-video.jpg)
 
 ### Step 4\. Preview and Export
 
@@ -797,7 +797,7 @@ Buying stickers is useless if you don't send them over texts. So, once you purch
 
 ### 1\. Sending Stickers on Discord Mobile App
 
-![ send Discord Stickers on mobile](https://images.wondershare.com/filmora/article-images/sending-stickers-discord-mobile.jpg)
+![send Discord Stickers on mobile](https://images.wondershare.com/filmora/article-images/sending-stickers-discord-mobile.jpg)
 
 If you have the Discord app on your phone, tap on the emoji button. The Stickers tab appears, and this menu enables you to send the most-used stickers quickly, view all the purchased stickers, and search for appropriate stickers.
 
@@ -813,7 +813,7 @@ Once opened, the menu will show you the most-used stickers. You can view other p
 
 You can tap on a sticker to send it on chats and servers.
 
-## Bonus: Adding Face-tracking AR Stickers to Video with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Bonus: Adding Face-tracking AR Stickers to Video with Wondershare Filmora
 
 In the latest version of Wondershare Filmora (V10.5 and later version), you can add face-tracking AR stickers to people in the video, and light up the celebration with flashy and cute characters and elements. Here are some brief steps to add AR stickers to your video in Filmora.
 
@@ -835,11 +835,11 @@ However, if you are working on a video project with many footages, it is recomme
 
 After trimming or cutting out unnecessary frames from the video, you can now add the AR stickers to the footage. Go to the Effects tab and then scroll down to the **AR Sticker** directory.
 
-![ Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/ar-sticker-directory.jpg)
+![Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/ar-sticker-directory.jpg)
 
 Currently, there are 40 stickers available in Filmora. You can click each one to preview and download. To add a sticker to the video, you can drag and drop it to the video track above or to the video clip directly. You can add several stickers at the same time by placing them in the tracks accordingly.
 
-![ Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/add-multiple-ar-stickers-video.jpg)
+![Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/add-multiple-ar-stickers-video.jpg)
 
 ### Step 4\. Preview and Export
 
@@ -963,7 +963,7 @@ Buying stickers is useless if you don't send them over texts. So, once you purch
 
 ### 1\. Sending Stickers on Discord Mobile App
 
-![ send Discord Stickers on mobile](https://images.wondershare.com/filmora/article-images/sending-stickers-discord-mobile.jpg)
+![send Discord Stickers on mobile](https://images.wondershare.com/filmora/article-images/sending-stickers-discord-mobile.jpg)
 
 If you have the Discord app on your phone, tap on the emoji button. The Stickers tab appears, and this menu enables you to send the most-used stickers quickly, view all the purchased stickers, and search for appropriate stickers.
 
@@ -979,7 +979,7 @@ Once opened, the menu will show you the most-used stickers. You can view other p
 
 You can tap on a sticker to send it on chats and servers.
 
-## Bonus: Adding Face-tracking AR Stickers to Video with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Bonus: Adding Face-tracking AR Stickers to Video with Wondershare Filmora
 
 In the latest version of Wondershare Filmora (V10.5 and later version), you can add face-tracking AR stickers to people in the video, and light up the celebration with flashy and cute characters and elements. Here are some brief steps to add AR stickers to your video in Filmora.
 
@@ -1001,11 +1001,11 @@ However, if you are working on a video project with many footages, it is recomme
 
 After trimming or cutting out unnecessary frames from the video, you can now add the AR stickers to the footage. Go to the Effects tab and then scroll down to the **AR Sticker** directory.
 
-![ Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/ar-sticker-directory.jpg)
+![Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/ar-sticker-directory.jpg)
 
 Currently, there are 40 stickers available in Filmora. You can click each one to preview and download. To add a sticker to the video, you can drag and drop it to the video track above or to the video clip directly. You can add several stickers at the same time by placing them in the tracks accordingly.
 
-![ Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/add-multiple-ar-stickers-video.jpg)
+![Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/add-multiple-ar-stickers-video.jpg)
 
 ### Step 4\. Preview and Export
 
@@ -1129,7 +1129,7 @@ Buying stickers is useless if you don't send them over texts. So, once you purch
 
 ### 1\. Sending Stickers on Discord Mobile App
 
-![ send Discord Stickers on mobile](https://images.wondershare.com/filmora/article-images/sending-stickers-discord-mobile.jpg)
+![send Discord Stickers on mobile](https://images.wondershare.com/filmora/article-images/sending-stickers-discord-mobile.jpg)
 
 If you have the Discord app on your phone, tap on the emoji button. The Stickers tab appears, and this menu enables you to send the most-used stickers quickly, view all the purchased stickers, and search for appropriate stickers.
 
@@ -1145,7 +1145,7 @@ Once opened, the menu will show you the most-used stickers. You can view other p
 
 You can tap on a sticker to send it on chats and servers.
 
-## Bonus: Adding Face-tracking AR Stickers to Video with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Bonus: Adding Face-tracking AR Stickers to Video with Wondershare Filmora
 
 In the latest version of Wondershare Filmora (V10.5 and later version), you can add face-tracking AR stickers to people in the video, and light up the celebration with flashy and cute characters and elements. Here are some brief steps to add AR stickers to your video in Filmora.
 
@@ -1167,11 +1167,11 @@ However, if you are working on a video project with many footages, it is recomme
 
 After trimming or cutting out unnecessary frames from the video, you can now add the AR stickers to the footage. Go to the Effects tab and then scroll down to the **AR Sticker** directory.
 
-![ Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/ar-sticker-directory.jpg)
+![Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/ar-sticker-directory.jpg)
 
 Currently, there are 40 stickers available in Filmora. You can click each one to preview and download. To add a sticker to the video, you can drag and drop it to the video track above or to the video clip directly. You can add several stickers at the same time by placing them in the tracks accordingly.
 
-![ Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/add-multiple-ar-stickers-video.jpg)
+![Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/add-multiple-ar-stickers-video.jpg)
 
 ### Step 4\. Preview and Export
 

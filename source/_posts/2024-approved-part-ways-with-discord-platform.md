@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Part Ways with Discord Platform\""
-date: 2024-05-23T22:47:50.163Z
-updated: 2024-05-24T22:47:50.163Z
+date: 2024-06-28T03:27:41.223Z
+updated: 2024-06-29T03:27:41.223Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Part Ways with Discord Platform\""
 excerpt: "\"This Article Describes 2024 Approved: Part Ways with Discord Platform\""
 keywords: "Ending Discord Use,Quit Discord Servers,Stop Discord Chat,Leave Discord Community,Discontinue Discord Account,Sever Ties with Discord,Dissolve Discord Membership"
-thumbnail: https://www.lifewire.com/thmb/jrn7_BTEPTdtz7gSdR5aQaRAIJ0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/driver-talent-14b6a9323ae0429e9aa875ed363d5802.png
+thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620b0dde812294a010c625a831.png
 ---
 
 ## Part Ways with Discord Platform

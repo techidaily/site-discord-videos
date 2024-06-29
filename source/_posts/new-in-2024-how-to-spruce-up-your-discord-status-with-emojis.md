@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Spruce Up Your Discord Status with Emojis"
-date: 2024-05-23T22:48:13.353Z
-updated: 2024-05-24T22:48:13.353Z
+date: 2024-06-28T03:27:32.582Z
+updated: 2024-06-29T03:27:32.582Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, How to Spruce Up Your Discord Status with Emojis"
 excerpt: "This Article Describes [New] In 2024, How to Spruce Up Your Discord Status with Emojis"
 keywords: "Discord Status Update,Emoji Use Tips,Enhance Chat Notifications,Adding Emojis to Discord,Personalize Discord Profile,Spruce Up Discord Avatar,Engaging Discord Display"
-thumbnail: https://www.lifewire.com/thmb/U37IrzHogUIk4ftVH6ffmfucux0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/findmacaddressiphone-7b7e31c771634ec1a48194ba89054cd0.jpg
+thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533edda16b2785562f97192408.jpg
 ---
 
 ## How to Spruce Up Your Discord Status with Emojis

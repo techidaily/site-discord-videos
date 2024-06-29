@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Voice Alteration Collection for Discord\""
-date: 2024-05-23T22:48:32.187Z
-updated: 2024-05-24T22:48:32.187Z
+date: 2024-06-20T01:40:48.676Z
+updated: 2024-06-21T01:40:48.676Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: The Ultimate Voice Alteration Collection for Discord\""
 excerpt: "\"This Article Describes 2024 Approved: The Ultimate Voice Alteration Collection for Discord\""
 keywords: "Discord VOACollect,Voice Changer Disco,Altered Speech Tools,Discord Voice Hack,Vocal Disguise Set,Discord Sound Shift,Voice Modify Kit"
-thumbnail: https://www.lifewire.com/thmb/lxejII9AYgdEEcGgRiXUgTIRyNU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-iPhone-15-Pro-lineup-design-230912_big.jpg.large_2x-d4c86ba576534524b322e14268aa9fbe.jpg
+thumbnail: https://thmb.techidaily.com/4ad77a8ea715329fd3e5a5b2d2c2957ac59e62959913be278ad38c42bb2fd196.jpg
 ---
 
 ## The Ultimate Voice Alteration Collection for Discord
@@ -85,7 +85,7 @@ The ratings given in this article, and even the scores added to them, are all ba
 | 10 | Voice Changer              | Most types of voice chat                                             | No           | 51               | Online, no need to install | 10          |
 | 11 | Voice Changer              | Most types of voice chat                                             | Yes          | 5                | Online, no need to install | 10          |
 
-#### 1. [Clownfish](https://clownfish-translator.com/voicechanger/)
+#### 1. Clownfish
 
 ![best free voice changer for discord](https://images.wondershare.com/filmora/article-images/clownfish.jpeg)
 
@@ -107,7 +107,7 @@ Some voices make certain accents difficult to understand
 
 Has a limited girl voice changer for discord
 
-#### 2. [MorphVOX](https://screamingbee.com/morphvox-free-voice-changer)
+#### 2. MorphVOX
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/morph-vox.jpeg)
 
@@ -129,7 +129,7 @@ The interface shape looks weird and clunky
 
 Slightly unintuitive install process
 
-#### 3. [VoiceMod](https://www.voicemod.net/voice-changer-demos/)
+#### 3. VoiceMod
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/voice-mod.jpg)
 
@@ -151,7 +151,7 @@ App and website needs proofreading for its many written mistakes
 
 Seems to hide paid version until you have actually downloaded
 
-#### 4. [Voxal Voice Changer](https://www.nchsoftware.com/voicechanger/index.html)
+#### 4. Voxal Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/voxal-voice-changer.jpg)
 
@@ -173,7 +173,7 @@ Clean ad-free installs of the free version is tricky
 
 Some voices sound too similar to bother with
 
-#### 5. [Discord Voice Changer](https://apkpure.com/discord-voice-changer/com.oviagames.discordvoicechanger)
+#### 5. Discord Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/discord-voice-changer-interface.jpg)
 
@@ -195,7 +195,7 @@ Finding stable or reliable versions can be tricky
 
 The developer Ovia Games is out of business
 
-#### 6. [Super Voice Changer](http://www.wannengbianshengqi.com/supervoicechanger/)
+#### 6. Super Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/super-voice-changer.jpeg)
 
@@ -217,7 +217,7 @@ Needs a better help section
 
 Difficult to figure out what some functions do
 
-#### 7. [Audio for Fun](https://www.audio4fun.com/voice-changer.htm)
+#### 7. Audio for Fun
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/audio-for-fun.gif)
 
@@ -239,7 +239,7 @@ Many functions on this tool will not be used by Discord users
 
 Needs a strong tutorial section
 
-#### 8. [RoboVox Voice Changer](https://play.google.com/store/apps/details?id=com.mikrosonic.RoboVoxLite&hl=en%5FGB)
+#### 8. RoboVox Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/robovox-voice-changer.jpeg)
 
@@ -261,7 +261,7 @@ It has in-app purchases that are unfair
 
 The free voices available are very limited
 
-#### 9. [Voice Changer with Effects](https://play.google.com/store/apps/details?id=com.baviux.voicechanger)
+#### 9. Voice Changer with Effects
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/voice-changer-with-effects.jpg)
 
@@ -283,7 +283,7 @@ Wants access to your external storage (your memory card)
 
 Linking it up with Discord is tricky
 
-#### 10. [Voice Changer](https://voicechanger.io/)
+#### 10. Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/voice-changer-interface.jpg)
 
@@ -413,7 +413,7 @@ The ratings given in this article, and even the scores added to them, are all ba
 | 10 | Voice Changer              | Most types of voice chat                                             | No           | 51               | Online, no need to install | 10          |
 | 11 | Voice Changer              | Most types of voice chat                                             | Yes          | 5                | Online, no need to install | 10          |
 
-#### 1. [Clownfish](https://clownfish-translator.com/voicechanger/)
+#### 1. Clownfish
 
 ![best free voice changer for discord](https://images.wondershare.com/filmora/article-images/clownfish.jpeg)
 
@@ -435,7 +435,7 @@ Some voices make certain accents difficult to understand
 
 Has a limited girl voice changer for discord
 
-#### 2. [MorphVOX](https://screamingbee.com/morphvox-free-voice-changer)
+#### 2. MorphVOX
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/morph-vox.jpeg)
 
@@ -457,7 +457,7 @@ The interface shape looks weird and clunky
 
 Slightly unintuitive install process
 
-#### 3. [VoiceMod](https://www.voicemod.net/voice-changer-demos/)
+#### 3. VoiceMod
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/voice-mod.jpg)
 
@@ -479,7 +479,7 @@ App and website needs proofreading for its many written mistakes
 
 Seems to hide paid version until you have actually downloaded
 
-#### 4. [Voxal Voice Changer](https://www.nchsoftware.com/voicechanger/index.html)
+#### 4. Voxal Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/voxal-voice-changer.jpg)
 
@@ -501,7 +501,7 @@ Clean ad-free installs of the free version is tricky
 
 Some voices sound too similar to bother with
 
-#### 5. [Discord Voice Changer](https://apkpure.com/discord-voice-changer/com.oviagames.discordvoicechanger)
+#### 5. Discord Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/discord-voice-changer-interface.jpg)
 
@@ -523,7 +523,7 @@ Finding stable or reliable versions can be tricky
 
 The developer Ovia Games is out of business
 
-#### 6. [Super Voice Changer](http://www.wannengbianshengqi.com/supervoicechanger/)
+#### 6. Super Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/super-voice-changer.jpeg)
 
@@ -545,7 +545,7 @@ Needs a better help section
 
 Difficult to figure out what some functions do
 
-#### 7. [Audio for Fun](https://www.audio4fun.com/voice-changer.htm)
+#### 7. Audio for Fun
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/audio-for-fun.gif)
 
@@ -567,7 +567,7 @@ Many functions on this tool will not be used by Discord users
 
 Needs a strong tutorial section
 
-#### 8. [RoboVox Voice Changer](https://play.google.com/store/apps/details?id=com.mikrosonic.RoboVoxLite&hl=en%5FGB)
+#### 8. RoboVox Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/robovox-voice-changer.jpeg)
 
@@ -589,7 +589,7 @@ It has in-app purchases that are unfair
 
 The free voices available are very limited
 
-#### 9. [Voice Changer with Effects](https://play.google.com/store/apps/details?id=com.baviux.voicechanger)
+#### 9. Voice Changer with Effects
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/voice-changer-with-effects.jpg)
 
@@ -611,7 +611,7 @@ Wants access to your external storage (your memory card)
 
 Linking it up with Discord is tricky
 
-#### 10. [Voice Changer](https://voicechanger.io/)
+#### 10. Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/voice-changer-interface.jpg)
 
@@ -741,7 +741,7 @@ The ratings given in this article, and even the scores added to them, are all ba
 | 10 | Voice Changer              | Most types of voice chat                                             | No           | 51               | Online, no need to install | 10          |
 | 11 | Voice Changer              | Most types of voice chat                                             | Yes          | 5                | Online, no need to install | 10          |
 
-#### 1. [Clownfish](https://clownfish-translator.com/voicechanger/)
+#### 1. Clownfish
 
 ![best free voice changer for discord](https://images.wondershare.com/filmora/article-images/clownfish.jpeg)
 
@@ -763,7 +763,7 @@ Some voices make certain accents difficult to understand
 
 Has a limited girl voice changer for discord
 
-#### 2. [MorphVOX](https://screamingbee.com/morphvox-free-voice-changer)
+#### 2. MorphVOX
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/morph-vox.jpeg)
 
@@ -785,7 +785,7 @@ The interface shape looks weird and clunky
 
 Slightly unintuitive install process
 
-#### 3. [VoiceMod](https://www.voicemod.net/voice-changer-demos/)
+#### 3. VoiceMod
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/voice-mod.jpg)
 
@@ -807,7 +807,7 @@ App and website needs proofreading for its many written mistakes
 
 Seems to hide paid version until you have actually downloaded
 
-#### 4. [Voxal Voice Changer](https://www.nchsoftware.com/voicechanger/index.html)
+#### 4. Voxal Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/voxal-voice-changer.jpg)
 
@@ -829,7 +829,7 @@ Clean ad-free installs of the free version is tricky
 
 Some voices sound too similar to bother with
 
-#### 5. [Discord Voice Changer](https://apkpure.com/discord-voice-changer/com.oviagames.discordvoicechanger)
+#### 5. Discord Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/discord-voice-changer-interface.jpg)
 
@@ -851,7 +851,7 @@ Finding stable or reliable versions can be tricky
 
 The developer Ovia Games is out of business
 
-#### 6. [Super Voice Changer](http://www.wannengbianshengqi.com/supervoicechanger/)
+#### 6. Super Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/super-voice-changer.jpeg)
 
@@ -873,7 +873,7 @@ Needs a better help section
 
 Difficult to figure out what some functions do
 
-#### 7. [Audio for Fun](https://www.audio4fun.com/voice-changer.htm)
+#### 7. Audio for Fun
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/audio-for-fun.gif)
 
@@ -895,7 +895,7 @@ Many functions on this tool will not be used by Discord users
 
 Needs a strong tutorial section
 
-#### 8. [RoboVox Voice Changer](https://play.google.com/store/apps/details?id=com.mikrosonic.RoboVoxLite&hl=en%5FGB)
+#### 8. RoboVox Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/robovox-voice-changer.jpeg)
 
@@ -917,7 +917,7 @@ It has in-app purchases that are unfair
 
 The free voices available are very limited
 
-#### 9. [Voice Changer with Effects](https://play.google.com/store/apps/details?id=com.baviux.voicechanger)
+#### 9. Voice Changer with Effects
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/voice-changer-with-effects.jpg)
 
@@ -939,7 +939,7 @@ Wants access to your external storage (your memory card)
 
 Linking it up with Discord is tricky
 
-#### 10. [Voice Changer](https://voicechanger.io/)
+#### 10. Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/voice-changer-interface.jpg)
 
@@ -1069,7 +1069,7 @@ The ratings given in this article, and even the scores added to them, are all ba
 | 10 | Voice Changer              | Most types of voice chat                                             | No           | 51               | Online, no need to install | 10          |
 | 11 | Voice Changer              | Most types of voice chat                                             | Yes          | 5                | Online, no need to install | 10          |
 
-#### 1. [Clownfish](https://clownfish-translator.com/voicechanger/)
+#### 1. Clownfish
 
 ![best free voice changer for discord](https://images.wondershare.com/filmora/article-images/clownfish.jpeg)
 
@@ -1091,7 +1091,7 @@ Some voices make certain accents difficult to understand
 
 Has a limited girl voice changer for discord
 
-#### 2. [MorphVOX](https://screamingbee.com/morphvox-free-voice-changer)
+#### 2. MorphVOX
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/morph-vox.jpeg)
 
@@ -1113,7 +1113,7 @@ The interface shape looks weird and clunky
 
 Slightly unintuitive install process
 
-#### 3. [VoiceMod](https://www.voicemod.net/voice-changer-demos/)
+#### 3. VoiceMod
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/voice-mod.jpg)
 
@@ -1135,7 +1135,7 @@ App and website needs proofreading for its many written mistakes
 
 Seems to hide paid version until you have actually downloaded
 
-#### 4. [Voxal Voice Changer](https://www.nchsoftware.com/voicechanger/index.html)
+#### 4. Voxal Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/voxal-voice-changer.jpg)
 
@@ -1157,7 +1157,7 @@ Clean ad-free installs of the free version is tricky
 
 Some voices sound too similar to bother with
 
-#### 5. [Discord Voice Changer](https://apkpure.com/discord-voice-changer/com.oviagames.discordvoicechanger)
+#### 5. Discord Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/discord-voice-changer-interface.jpg)
 
@@ -1179,7 +1179,7 @@ Finding stable or reliable versions can be tricky
 
 The developer Ovia Games is out of business
 
-#### 6. [Super Voice Changer](http://www.wannengbianshengqi.com/supervoicechanger/)
+#### 6. Super Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/super-voice-changer.jpeg)
 
@@ -1201,7 +1201,7 @@ Needs a better help section
 
 Difficult to figure out what some functions do
 
-#### 7. [Audio for Fun](https://www.audio4fun.com/voice-changer.htm)
+#### 7. Audio for Fun
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/audio-for-fun.gif)
 
@@ -1223,7 +1223,7 @@ Many functions on this tool will not be used by Discord users
 
 Needs a strong tutorial section
 
-#### 8. [RoboVox Voice Changer](https://play.google.com/store/apps/details?id=com.mikrosonic.RoboVoxLite&hl=en%5FGB)
+#### 8. RoboVox Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/robovox-voice-changer.jpeg)
 
@@ -1245,7 +1245,7 @@ It has in-app purchases that are unfair
 
 The free voices available are very limited
 
-#### 9. [Voice Changer with Effects](https://play.google.com/store/apps/details?id=com.baviux.voicechanger)
+#### 9. Voice Changer with Effects
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/voice-changer-with-effects.jpg)
 
@@ -1267,7 +1267,7 @@ Wants access to your external storage (your memory card)
 
 Linking it up with Discord is tricky
 
-#### 10. [Voice Changer](https://voicechanger.io/)
+#### 10. Voice Changer
 
 ![free voice changer for discord](https://images.wondershare.com/filmora/article-images/voice-changer-interface.jpg)
 
@@ -1389,12 +1389,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -1415,7 +1415,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -1426,7 +1426,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -1545,12 +1545,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -1571,7 +1571,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -1582,7 +1582,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -1701,12 +1701,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -1727,7 +1727,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -1738,7 +1738,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -1857,12 +1857,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -1883,7 +1883,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -1894,7 +1894,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 

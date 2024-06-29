@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Discover the Pathway  Earning Your Place as a Validated Disco Partner\""
-date: 2024-05-23T22:48:06.907Z
-updated: 2024-05-24T22:48:06.907Z
+date: 2024-06-20T01:40:43.383Z
+updated: 2024-06-21T01:40:43.383Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Discover the Pathway: Earning Your Place as a Validated Disco Partner\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Discover the Pathway: Earning Your Place as a Validated Disco Partner\""
 keywords: "Dance Disco Partnership,Validated Disco Dating,Disco Club Membership,Eligible Disco Baller,Authentic Disco Night,Certified Dance Duo,Accredited Disco Couple"
-thumbnail: https://www.lifewire.com/thmb/KvyKv3qw43Rj30-fBwiiF96FrEQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-06-08at11.43.45AM-2ef9daaff54943558fd3a1612153347d.png
+thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33cafa8864cd2873a58b515ce.png
 ---
 
 ## Discover the Pathway: Earning Your Place as a Validated Disco Partner

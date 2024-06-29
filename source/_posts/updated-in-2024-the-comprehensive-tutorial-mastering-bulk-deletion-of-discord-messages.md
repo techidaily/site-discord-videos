@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, The Comprehensive Tutorial  Mastering Bulk Deletion of Discord Messages\""
-date: 2024-05-23T22:48:24.739Z
-updated: 2024-05-24T22:48:24.739Z
+date: 2024-06-20T01:40:37.254Z
+updated: 2024-06-21T01:40:37.254Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, The Comprehensive Tutorial: Mastering Bulk Deletion of Discord Messages\""
 excerpt: "\"This Article Describes [Updated] In 2024, The Comprehensive Tutorial: Mastering Bulk Deletion of Discord Messages\""
 keywords: "\"Delete Discord Chats Easily,Mass Message Removal Guide,Advanced Discord Cleanup,Learn Bulk Message Deletion,Comprehensive Discord Clearing,Streamline Bulk Message Voids,Step-by-Step Delete Messages\""
-thumbnail: https://www.lifewire.com/thmb/xPNddtgn9P0QDdcgmQ9MzZFs7MI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/iphone-error-4013-5c617e23c9e77c00010a4a83.jpg
+thumbnail: https://thmb.techidaily.com/22c39789b5fe1ed667e7cca081a20115c82b1e4756445b0d8d485b13ec35a1e3.jpg
 ---
 
 ## The Comprehensive Tutorial: Mastering Bulk Deletion of Discord Messages
@@ -89,7 +89,7 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
-![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+![delete Discord Message](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -154,7 +154,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
-![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+![delete discord channel message with MEE6 Bot](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
@@ -305,7 +305,7 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
-![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+![delete Discord Message](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -370,7 +370,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
-![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+![delete discord channel message with MEE6 Bot](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
@@ -521,7 +521,7 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
-![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+![delete Discord Message](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -586,7 +586,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
-![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+![delete discord channel message with MEE6 Bot](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
@@ -737,7 +737,7 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
-![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+![delete Discord Message](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -802,7 +802,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
-![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+![delete discord channel message with MEE6 Bot](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
@@ -937,7 +937,7 @@ There are also plenty of clever options available if you want to tinker with thi
 
 Now, when you go to share your screen (which I’ll cover off below), you’ll be presented with one final option first – your resolution and [frame rate](https://tools.techidaily.com/wondershare/filmora/download/).
 
-![ Screen sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-screen-share-settings.jpg)
+![Screen sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-screen-share-settings.jpg)
 
 Here you can set the quality of the image you’ll be sharing. 480p and 720p (HD) are available by default along with 15fps and 30fps. If you want 1080p or to use the Source option, or 60fps, you’ll need to pay for a Discord Nitro account, which is an upgraded tier of membership that starts at $49.99 for the year or $4.99 per month.
 
@@ -1057,7 +1057,7 @@ There are also plenty of clever options available if you want to tinker with thi
 
 Now, when you go to share your screen (which I’ll cover off below), you’ll be presented with one final option first – your resolution and [frame rate](https://tools.techidaily.com/wondershare/filmora/download/).
 
-![ Screen sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-screen-share-settings.jpg)
+![Screen sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-screen-share-settings.jpg)
 
 Here you can set the quality of the image you’ll be sharing. 480p and 720p (HD) are available by default along with 15fps and 30fps. If you want 1080p or to use the Source option, or 60fps, you’ll need to pay for a Discord Nitro account, which is an upgraded tier of membership that starts at $49.99 for the year or $4.99 per month.
 
@@ -1177,7 +1177,7 @@ There are also plenty of clever options available if you want to tinker with thi
 
 Now, when you go to share your screen (which I’ll cover off below), you’ll be presented with one final option first – your resolution and [frame rate](https://tools.techidaily.com/wondershare/filmora/download/).
 
-![ Screen sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-screen-share-settings.jpg)
+![Screen sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-screen-share-settings.jpg)
 
 Here you can set the quality of the image you’ll be sharing. 480p and 720p (HD) are available by default along with 15fps and 30fps. If you want 1080p or to use the Source option, or 60fps, you’ll need to pay for a Discord Nitro account, which is an upgraded tier of membership that starts at $49.99 for the year or $4.99 per month.
 
@@ -1297,7 +1297,7 @@ There are also plenty of clever options available if you want to tinker with thi
 
 Now, when you go to share your screen (which I’ll cover off below), you’ll be presented with one final option first – your resolution and [frame rate](https://tools.techidaily.com/wondershare/filmora/download/).
 
-![ Screen sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-screen-share-settings.jpg)
+![Screen sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-screen-share-settings.jpg)
 
 Here you can set the quality of the image you’ll be sharing. 480p and 720p (HD) are available by default along with 15fps and 30fps. If you want 1080p or to use the Source option, or 60fps, you’ll need to pay for a Discord Nitro account, which is an upgraded tier of membership that starts at $49.99 for the year or $4.99 per month.
 

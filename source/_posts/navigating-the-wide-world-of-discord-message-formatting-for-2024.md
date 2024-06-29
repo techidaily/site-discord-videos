@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Wide World of Discord Message Formatting for 2024"
-date: 2024-05-23T22:47:49.761Z
-updated: 2024-05-24T22:47:49.761Z
+date: 2024-06-20T01:40:41.499Z
+updated: 2024-06-21T01:40:41.499Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Navigating the Wide World of Discord Message Formatting for 2024"
 excerpt: "This Article Describes Navigating the Wide World of Discord Message Formatting for 2024"
 keywords: "Discord Text Format,Message Style Guide,Discord Convo Tips,Channel Message Etiquette,Discord Syntax Help,User Chat Formatting,Discord Message Layouts"
-thumbnail: https://www.lifewire.com/thmb/BzSvFjNWXiwqImdtAjFSSOWv3r4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/audio-books-56a324b93df78cf7727c00f5.jpg
+thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c588003fe7de564148a8e3e23c.jpg
 ---
 
 ## Navigating the Wide World of Discord Message Formatting
@@ -53,7 +53,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -95,29 +95,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -139,7 +139,7 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -181,7 +181,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -223,29 +223,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -267,7 +267,7 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -309,7 +309,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -351,29 +351,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -395,7 +395,7 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -437,7 +437,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -479,29 +479,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -523,7 +523,7 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -578,11 +578,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -593,11 +593,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -688,11 +688,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -703,11 +703,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -798,11 +798,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -813,11 +813,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -908,11 +908,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -923,11 +923,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -1062,7 +1062,7 @@ Follow @Richard Bennett
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Xiaomi 13 Ultra | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/linux-listens-well-the-best-free-software-and-practices-for-capturing-exceptional-soundtracks-for-2024/"><u>Linux Listens Well The Best Free Software and Practices for Capturing Exceptional Soundtracks for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-windows-movie-maker-essentials-learn-to-edit-videos-like-a-pro/"><u>New 2024 Approved Windows Movie Maker Essentials Learn to Edit Videos Like a Pro</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-convert-instagram-video-to-mp4-2-proven-ways/"><u>In 2024, How to Convert Instagram Video to MP4 [ 2 Proven Ways]</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-convert-instagram-video-to-mp4-2-proven-ways/"><u>In 2024, How to Convert Instagram Video to MP4 [2 Proven Ways]</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-huawei-nova-y71-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Huawei Nova Y71 Device Top 5 Picks to Remove Android Locks</u></a></li>
 <li><a href="https://instagram-clips.techidaily.com/new-comparing-reels-and-stories-whats-your-preference-for-2024/"><u>[New] Comparing Reels & Stories  What's Your Preference for 2024</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/2024-approved-all-about-the-wave-editor-essential-features-user-experiences-and-learning-modules/"><u>2024 Approved All About the Wave Editor Essential Features, User Experiences, and Learning Modules</u></a></li>

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Social Symbols that Snap and Pop  Animated Artistry\""
-date: 2024-05-23T22:48:22.588Z
-updated: 2024-05-24T22:48:22.588Z
+date: 2024-06-20T01:40:36.328Z
+updated: 2024-06-21T01:40:36.328Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Social Symbols that Snap and Pop: Animated Artistry\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Social Symbols that Snap and Pop: Animated Artistry\""
 keywords: "Social Media Graphics,Animation Designs,Snapchat Effects,Video Animators,Dynamic Imagery,Pop Culture Art,Animated Visuals"
-thumbnail: https://www.lifewire.com/thmb/f7Llre5jK_RT1_RmnGWprGiKFwo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Byte-4de5ae614d4846359420990391e4ebb9.jpg
+thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bcacb4dbb73e923d456dfdfac8.jpg
 ---
 
 ## Social Symbols that Snap and Pop: Animated Artistry

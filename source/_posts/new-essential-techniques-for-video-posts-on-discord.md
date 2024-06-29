@@ -1,7 +1,7 @@
 ---
 title: "[New] Essential Techniques for Video Posts on Discord"
-date: 2024-05-23T22:47:42.936Z
-updated: 2024-05-24T22:47:42.936Z
+date: 2024-06-20T01:40:43.331Z
+updated: 2024-06-21T01:40:43.331Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Essential Techniques for Video Posts on Discord"
 excerpt: "This Article Describes [New] Essential Techniques for Video Posts on Discord"
 keywords: "DiscoVideoSEO,KeyVideoTechnique,SEOCraftDiscord,EssentialVideoPosts,TechVideoOptimize,VideoShareSEO,DiscordMediaTactics"
-thumbnail: https://www.lifewire.com/thmb/8i9a45UMYLhKbAZ6VKGudmqoul0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-fix-it-when-an-apple-watch-is-not-updating-5188524-c1d81a3ead904837873578fc032e4c31.jpg
+thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792c4b565af91b063377adb915.jpg
 ---
 
 ## Essential Techniques for Video Posts on Discord

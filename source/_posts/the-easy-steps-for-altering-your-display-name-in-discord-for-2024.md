@@ -1,7 +1,7 @@
 ---
 title: "The Easy Steps for Altering Your Display Name in Discord for 2024"
-date: 2024-05-23T22:47:54.821Z
-updated: 2024-05-24T22:47:54.821Z
+date: 2024-06-20T01:40:48.244Z
+updated: 2024-06-21T01:40:48.244Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes The Easy Steps for Altering Your Display Name in Discord for 2024"
 excerpt: "This Article Describes The Easy Steps for Altering Your Display Name in Discord for 2024"
 keywords: "\"Change Discord Nickname Guide,Discord NNName Update Tips,Quick Discord Username Edit,Learn to Modify Discord ID,Easily Alter Display Name in Discord,Step-by-Step ID Changer for Discord,Shortcuts to Change Username (Discord)\""
-thumbnail: https://www.lifewire.com/thmb/DR_S2MfPNuTDBRzLY3sI3pzwxbo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1196161943-e9120b3d8d4f44eda218337fb8f68740.jpg
+thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768de909ec1df6dcfa19126cf1.jpg
 ---
 
 ## The Easy Steps for Altering Your Display Name in Discord
@@ -68,7 +68,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -76,7 +76,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -86,7 +86,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -112,7 +112,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -126,11 +126,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -207,7 +207,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -215,7 +215,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -225,7 +225,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -251,7 +251,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -265,11 +265,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -346,7 +346,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -354,7 +354,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -364,7 +364,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -390,7 +390,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -404,11 +404,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -485,7 +485,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -493,7 +493,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -503,7 +503,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -529,7 +529,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -543,11 +543,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -620,7 +620,7 @@ Discord is absolutely free, but you may require a Discord Nitro subscription if 
 
 Though upgrading is not a requirement as most features do not require a subscription, free users still have certain limitations.
 
-![ Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
+![Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
 
 For instance, they can’t use the same emojis on two servers. In addition to that, the streaming quality and account customization features also lack on the free plan. These features and more are strictly for Discord Nitro users only.
 
@@ -636,7 +636,7 @@ However, most of these new features are cosmetic.
 
 For instance, **you can make and use your custom emojis if you’re an emoji admirer. Not only this, but you can also use animated emojis, including GIFs**.
 
-![ Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
+![Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
 
 Without further ado, here are a few key benefits you’ll get with Discord Nitro:
 
@@ -704,7 +704,7 @@ To get a subscription plan through a desktop app or Discord website, follow the 
 3. Press the subscribe button below Discord Nitro to subscribe to either of the two variants you choose
 4. If you want to gift a paid subscription plan to some other user on Discord, click gift next to the ‘subscribe’ button
 
-![Subscribe to Discord Nitro  ](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
+![Subscribe to Discord Nitro](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
 
 ### Subscribing Via Mobile Apps
 
@@ -730,7 +730,7 @@ Here’s how to get free Nitro with your Xbox game-pass:
 
 As the menu appears, tap the user icon and then tap Subscribe Today from the various options listed below the settings category.
 
-![Get free   Discord Nitro  ](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
+![Get free   Discord Nitro](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
 
 1. Download, install, and run your Xbox app for Windows
 2. Log in to your account; if you don’t have one, create your account using outlook email. After that, place a gamer tag, press Game Pass and then press Get a Game Pass
@@ -801,7 +801,7 @@ Discord is absolutely free, but you may require a Discord Nitro subscription if 
 
 Though upgrading is not a requirement as most features do not require a subscription, free users still have certain limitations.
 
-![ Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
+![Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
 
 For instance, they can’t use the same emojis on two servers. In addition to that, the streaming quality and account customization features also lack on the free plan. These features and more are strictly for Discord Nitro users only.
 
@@ -817,7 +817,7 @@ However, most of these new features are cosmetic.
 
 For instance, **you can make and use your custom emojis if you’re an emoji admirer. Not only this, but you can also use animated emojis, including GIFs**.
 
-![ Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
+![Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
 
 Without further ado, here are a few key benefits you’ll get with Discord Nitro:
 
@@ -885,7 +885,7 @@ To get a subscription plan through a desktop app or Discord website, follow the 
 3. Press the subscribe button below Discord Nitro to subscribe to either of the two variants you choose
 4. If you want to gift a paid subscription plan to some other user on Discord, click gift next to the ‘subscribe’ button
 
-![Subscribe to Discord Nitro  ](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
+![Subscribe to Discord Nitro](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
 
 ### Subscribing Via Mobile Apps
 
@@ -911,7 +911,7 @@ Here’s how to get free Nitro with your Xbox game-pass:
 
 As the menu appears, tap the user icon and then tap Subscribe Today from the various options listed below the settings category.
 
-![Get free   Discord Nitro  ](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
+![Get free   Discord Nitro](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
 
 1. Download, install, and run your Xbox app for Windows
 2. Log in to your account; if you don’t have one, create your account using outlook email. After that, place a gamer tag, press Game Pass and then press Get a Game Pass
@@ -982,7 +982,7 @@ Discord is absolutely free, but you may require a Discord Nitro subscription if 
 
 Though upgrading is not a requirement as most features do not require a subscription, free users still have certain limitations.
 
-![ Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
+![Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
 
 For instance, they can’t use the same emojis on two servers. In addition to that, the streaming quality and account customization features also lack on the free plan. These features and more are strictly for Discord Nitro users only.
 
@@ -998,7 +998,7 @@ However, most of these new features are cosmetic.
 
 For instance, **you can make and use your custom emojis if you’re an emoji admirer. Not only this, but you can also use animated emojis, including GIFs**.
 
-![ Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
+![Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
 
 Without further ado, here are a few key benefits you’ll get with Discord Nitro:
 
@@ -1066,7 +1066,7 @@ To get a subscription plan through a desktop app or Discord website, follow the 
 3. Press the subscribe button below Discord Nitro to subscribe to either of the two variants you choose
 4. If you want to gift a paid subscription plan to some other user on Discord, click gift next to the ‘subscribe’ button
 
-![Subscribe to Discord Nitro  ](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
+![Subscribe to Discord Nitro](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
 
 ### Subscribing Via Mobile Apps
 
@@ -1092,7 +1092,7 @@ Here’s how to get free Nitro with your Xbox game-pass:
 
 As the menu appears, tap the user icon and then tap Subscribe Today from the various options listed below the settings category.
 
-![Get free   Discord Nitro  ](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
+![Get free   Discord Nitro](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
 
 1. Download, install, and run your Xbox app for Windows
 2. Log in to your account; if you don’t have one, create your account using outlook email. After that, place a gamer tag, press Game Pass and then press Get a Game Pass
@@ -1163,7 +1163,7 @@ Discord is absolutely free, but you may require a Discord Nitro subscription if 
 
 Though upgrading is not a requirement as most features do not require a subscription, free users still have certain limitations.
 
-![ Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
+![Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
 
 For instance, they can’t use the same emojis on two servers. In addition to that, the streaming quality and account customization features also lack on the free plan. These features and more are strictly for Discord Nitro users only.
 
@@ -1179,7 +1179,7 @@ However, most of these new features are cosmetic.
 
 For instance, **you can make and use your custom emojis if you’re an emoji admirer. Not only this, but you can also use animated emojis, including GIFs**.
 
-![ Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
+![Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
 
 Without further ado, here are a few key benefits you’ll get with Discord Nitro:
 
@@ -1247,7 +1247,7 @@ To get a subscription plan through a desktop app or Discord website, follow the 
 3. Press the subscribe button below Discord Nitro to subscribe to either of the two variants you choose
 4. If you want to gift a paid subscription plan to some other user on Discord, click gift next to the ‘subscribe’ button
 
-![Subscribe to Discord Nitro  ](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
+![Subscribe to Discord Nitro](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
 
 ### Subscribing Via Mobile Apps
 
@@ -1273,7 +1273,7 @@ Here’s how to get free Nitro with your Xbox game-pass:
 
 As the menu appears, tap the user icon and then tap Subscribe Today from the various options listed below the settings category.
 
-![Get free   Discord Nitro  ](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
+![Get free   Discord Nitro](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
 
 1. Download, install, and run your Xbox app for Windows
 2. Log in to your account; if you don’t have one, create your account using outlook email. After that, place a gamer tag, press Game Pass and then press Get a Game Pass

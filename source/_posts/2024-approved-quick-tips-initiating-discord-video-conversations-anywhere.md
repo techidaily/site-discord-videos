@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Tips  Initiating Discord Video Conversations Anywhere\""
-date: 2024-05-23T22:47:51.985Z
-updated: 2024-05-24T22:47:51.985Z
+date: 2024-06-20T01:40:38.861Z
+updated: 2024-06-21T01:40:38.861Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Quick Tips: Initiating Discord Video Conversations Anywhere\""
 excerpt: "\"This Article Describes 2024 Approved: Quick Tips: Initiating Discord Video Conversations Anywhere\""
 keywords: "Discord Chat Quickstart,Video Call Basics,Online Discord Commute,Start Convo in Discord,Easy Discord Streaming,Join Disco Calls Fast,Initiate Screen Share Now"
-thumbnail: https://www.lifewire.com/thmb/9XoHJzt8ZnNyam3jHqzXVgxBSfs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2022-02-11at1.22.45PM-02505fa8dc964c87bedbbce2c59bfd32.png
+thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f3b23f8677650a8fb00dc7f5.png
 ---
 
 ## Quick Tips: Initiating Discord Video Conversations Anywhere
@@ -42,7 +42,7 @@ Before you start calling everyone, you’ll want to check your settings to make 
 
 So, start by heading to the User Settings page. You’ll find this at the bottom left of the screen – look for the cog icon next to your name. You won’t see this on mobile, this is only on the desktop app and the web browser version of Discord.
 
-![Discord Video Call Settings ](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
+![Discord Video Call Settings](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
 
 Once you’ve opened settings, you’ll want to click on the **Voice & Video** tab. Here you can check your microphone settings and adjust the volume, and choose your camera. If you’re using an external camera instead of the built-in option, check that the right one is selected in the dropdown.
 
@@ -58,11 +58,11 @@ Once you’ve got your settings ready, you’re set to make your private Discord
 
 If you’re only calling one person then it’s easy – just click on their name.
 
-![Discord Video Call with Friends ](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
+![Discord Video Call with Friends](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
 
 If you want to call a private group, you need to click the + button and then create a group DM. Add the names of the users you want to call.
 
-![Discord Video Call with group ](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
+![Discord Video Call with group](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
 
 Once you’re in the direct message window of the person or group you want to call, you need to look at the buttons at the top right of the screen. The second icon that looks like a video camera is the one you’re looking for. Click that and you’ll start a video call.
 
@@ -84,13 +84,13 @@ If you want to make a group video call on a public server, you again need to fir
 
 Once you’re in the voice channel, click Lounge, Community Hangout or Stream Room, and then switch on your camera by clicking the ‘Video’ button. You’ll find this at the bottom-left of the screen. Again, if you’re on the web browser, you’ll be asked by your browser for permission to use your camera at this stage.
 
-![Discord Server Video Call  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
+![Discord Server Video Call](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
 
 And that’s it – the video call is now live and anyone who joins the voice channel will be able to see you, chat to you and switch on their camera to join the video conference as well.
 
 On mobile, it’s slightly different. You’ll still want to head to the server you want to join and then click on the voice channel to join it. But as soon as you click on the voice channel, you’ll get a pop-up with an icon at the bottom right where you can instantly switch on your camera.
 
-![Discord Server Video Call on mobile  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
+![Discord Server Video Call on mobile](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
 
 If you prefer, you can still just join as voice, and then at any stage click on your name where you’ll be able to then switch on your camera to turn a voice chat into a video call.
 
@@ -139,7 +139,7 @@ Before you start calling everyone, you’ll want to check your settings to make 
 
 So, start by heading to the User Settings page. You’ll find this at the bottom left of the screen – look for the cog icon next to your name. You won’t see this on mobile, this is only on the desktop app and the web browser version of Discord.
 
-![Discord Video Call Settings ](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
+![Discord Video Call Settings](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
 
 Once you’ve opened settings, you’ll want to click on the **Voice & Video** tab. Here you can check your microphone settings and adjust the volume, and choose your camera. If you’re using an external camera instead of the built-in option, check that the right one is selected in the dropdown.
 
@@ -155,11 +155,11 @@ Once you’ve got your settings ready, you’re set to make your private Discord
 
 If you’re only calling one person then it’s easy – just click on their name.
 
-![Discord Video Call with Friends ](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
+![Discord Video Call with Friends](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
 
 If you want to call a private group, you need to click the + button and then create a group DM. Add the names of the users you want to call.
 
-![Discord Video Call with group ](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
+![Discord Video Call with group](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
 
 Once you’re in the direct message window of the person or group you want to call, you need to look at the buttons at the top right of the screen. The second icon that looks like a video camera is the one you’re looking for. Click that and you’ll start a video call.
 
@@ -181,13 +181,13 @@ If you want to make a group video call on a public server, you again need to fir
 
 Once you’re in the voice channel, click Lounge, Community Hangout or Stream Room, and then switch on your camera by clicking the ‘Video’ button. You’ll find this at the bottom-left of the screen. Again, if you’re on the web browser, you’ll be asked by your browser for permission to use your camera at this stage.
 
-![Discord Server Video Call  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
+![Discord Server Video Call](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
 
 And that’s it – the video call is now live and anyone who joins the voice channel will be able to see you, chat to you and switch on their camera to join the video conference as well.
 
 On mobile, it’s slightly different. You’ll still want to head to the server you want to join and then click on the voice channel to join it. But as soon as you click on the voice channel, you’ll get a pop-up with an icon at the bottom right where you can instantly switch on your camera.
 
-![Discord Server Video Call on mobile  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
+![Discord Server Video Call on mobile](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
 
 If you prefer, you can still just join as voice, and then at any stage click on your name where you’ll be able to then switch on your camera to turn a voice chat into a video call.
 
@@ -236,7 +236,7 @@ Before you start calling everyone, you’ll want to check your settings to make 
 
 So, start by heading to the User Settings page. You’ll find this at the bottom left of the screen – look for the cog icon next to your name. You won’t see this on mobile, this is only on the desktop app and the web browser version of Discord.
 
-![Discord Video Call Settings ](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
+![Discord Video Call Settings](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
 
 Once you’ve opened settings, you’ll want to click on the **Voice & Video** tab. Here you can check your microphone settings and adjust the volume, and choose your camera. If you’re using an external camera instead of the built-in option, check that the right one is selected in the dropdown.
 
@@ -252,11 +252,11 @@ Once you’ve got your settings ready, you’re set to make your private Discord
 
 If you’re only calling one person then it’s easy – just click on their name.
 
-![Discord Video Call with Friends ](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
+![Discord Video Call with Friends](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
 
 If you want to call a private group, you need to click the + button and then create a group DM. Add the names of the users you want to call.
 
-![Discord Video Call with group ](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
+![Discord Video Call with group](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
 
 Once you’re in the direct message window of the person or group you want to call, you need to look at the buttons at the top right of the screen. The second icon that looks like a video camera is the one you’re looking for. Click that and you’ll start a video call.
 
@@ -278,13 +278,13 @@ If you want to make a group video call on a public server, you again need to fir
 
 Once you’re in the voice channel, click Lounge, Community Hangout or Stream Room, and then switch on your camera by clicking the ‘Video’ button. You’ll find this at the bottom-left of the screen. Again, if you’re on the web browser, you’ll be asked by your browser for permission to use your camera at this stage.
 
-![Discord Server Video Call  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
+![Discord Server Video Call](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
 
 And that’s it – the video call is now live and anyone who joins the voice channel will be able to see you, chat to you and switch on their camera to join the video conference as well.
 
 On mobile, it’s slightly different. You’ll still want to head to the server you want to join and then click on the voice channel to join it. But as soon as you click on the voice channel, you’ll get a pop-up with an icon at the bottom right where you can instantly switch on your camera.
 
-![Discord Server Video Call on mobile  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
+![Discord Server Video Call on mobile](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
 
 If you prefer, you can still just join as voice, and then at any stage click on your name where you’ll be able to then switch on your camera to turn a voice chat into a video call.
 
@@ -333,7 +333,7 @@ Before you start calling everyone, you’ll want to check your settings to make 
 
 So, start by heading to the User Settings page. You’ll find this at the bottom left of the screen – look for the cog icon next to your name. You won’t see this on mobile, this is only on the desktop app and the web browser version of Discord.
 
-![Discord Video Call Settings ](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
+![Discord Video Call Settings](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
 
 Once you’ve opened settings, you’ll want to click on the **Voice & Video** tab. Here you can check your microphone settings and adjust the volume, and choose your camera. If you’re using an external camera instead of the built-in option, check that the right one is selected in the dropdown.
 
@@ -349,11 +349,11 @@ Once you’ve got your settings ready, you’re set to make your private Discord
 
 If you’re only calling one person then it’s easy – just click on their name.
 
-![Discord Video Call with Friends ](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
+![Discord Video Call with Friends](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
 
 If you want to call a private group, you need to click the + button and then create a group DM. Add the names of the users you want to call.
 
-![Discord Video Call with group ](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
+![Discord Video Call with group](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
 
 Once you’re in the direct message window of the person or group you want to call, you need to look at the buttons at the top right of the screen. The second icon that looks like a video camera is the one you’re looking for. Click that and you’ll start a video call.
 
@@ -375,13 +375,13 @@ If you want to make a group video call on a public server, you again need to fir
 
 Once you’re in the voice channel, click Lounge, Community Hangout or Stream Room, and then switch on your camera by clicking the ‘Video’ button. You’ll find this at the bottom-left of the screen. Again, if you’re on the web browser, you’ll be asked by your browser for permission to use your camera at this stage.
 
-![Discord Server Video Call  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
+![Discord Server Video Call](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
 
 And that’s it – the video call is now live and anyone who joins the voice channel will be able to see you, chat to you and switch on their camera to join the video conference as well.
 
 On mobile, it’s slightly different. You’ll still want to head to the server you want to join and then click on the voice channel to join it. But as soon as you click on the voice channel, you’ll get a pop-up with an icon at the bottom right where you can instantly switch on your camera.
 
-![Discord Server Video Call on mobile  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
+![Discord Server Video Call on mobile](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
 
 If you prefer, you can still just join as voice, and then at any stage click on your name where you’ll be able to then switch on your camera to turn a voice chat into a video call.
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Navigate & Network  Adding Desktop/Mobile Friends\""
-date: 2024-05-23T22:48:18.142Z
-updated: 2024-05-24T22:48:18.142Z
+date: 2024-06-20T01:40:58.111Z
+updated: 2024-06-21T01:40:58.111Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Navigate & Network: Adding Desktop/Mobile Friends\""
 excerpt: "\"This Article Describes [New] In 2024, Navigate & Network: Adding Desktop/Mobile Friends\""
 keywords: "\"Navigate Networking,Mobile Friend Add,Desktop Connect,Networking Contacts,Mobile-Desktop Link,Social Media Join,Online Friends Grow\""
-thumbnail: https://www.lifewire.com/thmb/fwjxYQgD_kKyiPMDElCFrsJ-AUo=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/20tipsforsavingmoneyinyour20s-1f7fd5749e914e31b38747c400f07564.jpg
+thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b2168edc5e24a71f77a22d913e.jpg
 ---
 
 ## Navigate & Network: Adding Desktop/Mobile Friends
@@ -44,12 +44,12 @@ If you are using a desktop app or the website, here is how you can add friends -
 1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
 2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
 
-![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
+![Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
 
 1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
 2. Hit the send friend request button to send the friend request.
 
-![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
+![Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
 
 1. The friend will appear in your friend list once they accept your friend request.
 
@@ -62,7 +62,7 @@ Severs are the places where you find your best buddies who obsess over the same 
 1. Open the server that you and your friend are a part of.
 2. Tap on your friend’s profile. You can find their profile in the user list of the server.
 
-![ add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
+![add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
 
 1. View their profile. Click open the profile's menu.
 2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
@@ -86,7 +86,7 @@ If you have some friends that you do not share common channels with, you can add
 1. Open the discord app.
 2. Tap on the Friends button that is located towards the bottom.
 
-![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
+![add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
 
 1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
 2. A box appears. Enter the discord username and the tag number.
@@ -107,7 +107,7 @@ Follow these steps to add a friend that you met on the server.
 4. Find your friend on the list. When you find your friend, tap on their profile.
 5. Their profile will pop up. Click the ‘add friend’ button.
 
-![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
+![add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
 
 1. Your friend request will be delivered.
 2. Once they approve, they will be a part of your friend list.
@@ -123,11 +123,11 @@ In case you have been using discord for a while, you might have realized that th
 3. Tap the Friends symbol that appears on the bottom tab.
 4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
 
-![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
+![add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
 
 1. Ask your friend to turn on the Nearby Scan mode on their phone too.
 
-![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
+![add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
 
 1. When your friend gets detected, they appear on the radar.
 2. Hit the ‘Send’ button to send a Friend Request.
@@ -194,12 +194,12 @@ If you are using a desktop app or the website, here is how you can add friends -
 1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
 2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
 
-![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
+![Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
 
 1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
 2. Hit the send friend request button to send the friend request.
 
-![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
+![Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
 
 1. The friend will appear in your friend list once they accept your friend request.
 
@@ -212,7 +212,7 @@ Severs are the places where you find your best buddies who obsess over the same 
 1. Open the server that you and your friend are a part of.
 2. Tap on your friend’s profile. You can find their profile in the user list of the server.
 
-![ add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
+![add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
 
 1. View their profile. Click open the profile's menu.
 2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
@@ -236,7 +236,7 @@ If you have some friends that you do not share common channels with, you can add
 1. Open the discord app.
 2. Tap on the Friends button that is located towards the bottom.
 
-![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
+![add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
 
 1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
 2. A box appears. Enter the discord username and the tag number.
@@ -257,7 +257,7 @@ Follow these steps to add a friend that you met on the server.
 4. Find your friend on the list. When you find your friend, tap on their profile.
 5. Their profile will pop up. Click the ‘add friend’ button.
 
-![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
+![add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
 
 1. Your friend request will be delivered.
 2. Once they approve, they will be a part of your friend list.
@@ -273,11 +273,11 @@ In case you have been using discord for a while, you might have realized that th
 3. Tap the Friends symbol that appears on the bottom tab.
 4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
 
-![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
+![add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
 
 1. Ask your friend to turn on the Nearby Scan mode on their phone too.
 
-![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
+![add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
 
 1. When your friend gets detected, they appear on the radar.
 2. Hit the ‘Send’ button to send a Friend Request.
@@ -344,12 +344,12 @@ If you are using a desktop app or the website, here is how you can add friends -
 1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
 2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
 
-![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
+![Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
 
 1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
 2. Hit the send friend request button to send the friend request.
 
-![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
+![Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
 
 1. The friend will appear in your friend list once they accept your friend request.
 
@@ -362,7 +362,7 @@ Severs are the places where you find your best buddies who obsess over the same 
 1. Open the server that you and your friend are a part of.
 2. Tap on your friend’s profile. You can find their profile in the user list of the server.
 
-![ add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
+![add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
 
 1. View their profile. Click open the profile's menu.
 2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
@@ -386,7 +386,7 @@ If you have some friends that you do not share common channels with, you can add
 1. Open the discord app.
 2. Tap on the Friends button that is located towards the bottom.
 
-![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
+![add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
 
 1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
 2. A box appears. Enter the discord username and the tag number.
@@ -407,7 +407,7 @@ Follow these steps to add a friend that you met on the server.
 4. Find your friend on the list. When you find your friend, tap on their profile.
 5. Their profile will pop up. Click the ‘add friend’ button.
 
-![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
+![add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
 
 1. Your friend request will be delivered.
 2. Once they approve, they will be a part of your friend list.
@@ -423,11 +423,11 @@ In case you have been using discord for a while, you might have realized that th
 3. Tap the Friends symbol that appears on the bottom tab.
 4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
 
-![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
+![add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
 
 1. Ask your friend to turn on the Nearby Scan mode on their phone too.
 
-![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
+![add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
 
 1. When your friend gets detected, they appear on the radar.
 2. Hit the ‘Send’ button to send a Friend Request.
@@ -494,12 +494,12 @@ If you are using a desktop app or the website, here is how you can add friends -
 1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
 2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
 
-![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
+![Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
 
 1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
 2. Hit the send friend request button to send the friend request.
 
-![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
+![Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
 
 1. The friend will appear in your friend list once they accept your friend request.
 
@@ -512,7 +512,7 @@ Severs are the places where you find your best buddies who obsess over the same 
 1. Open the server that you and your friend are a part of.
 2. Tap on your friend’s profile. You can find their profile in the user list of the server.
 
-![ add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
+![add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
 
 1. View their profile. Click open the profile's menu.
 2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
@@ -536,7 +536,7 @@ If you have some friends that you do not share common channels with, you can add
 1. Open the discord app.
 2. Tap on the Friends button that is located towards the bottom.
 
-![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
+![add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
 
 1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
 2. A box appears. Enter the discord username and the tag number.
@@ -557,7 +557,7 @@ Follow these steps to add a friend that you met on the server.
 4. Find your friend on the list. When you find your friend, tap on their profile.
 5. Their profile will pop up. Click the ‘add friend’ button.
 
-![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
+![add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
 
 1. Your friend request will be delivered.
 2. Once they approve, they will be a part of your friend list.
@@ -573,11 +573,11 @@ In case you have been using discord for a while, you might have realized that th
 3. Tap the Friends symbol that appears on the bottom tab.
 4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
 
-![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
+![add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
 
 1. Ask your friend to turn on the Nearby Scan mode on their phone too.
 
-![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
+![add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
 
 1. When your friend gets detected, they appear on the radar.
 2. Hit the ‘Send’ button to send a Friend Request.
@@ -664,7 +664,7 @@ Discord is absolutely free, but you may require a Discord Nitro subscription if 
 
 Though upgrading is not a requirement as most features do not require a subscription, free users still have certain limitations.
 
-![ Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
+![Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
 
 For instance, they can’t use the same emojis on two servers. In addition to that, the streaming quality and account customization features also lack on the free plan. These features and more are strictly for Discord Nitro users only.
 
@@ -680,7 +680,7 @@ However, most of these new features are cosmetic.
 
 For instance, **you can make and use your custom emojis if you’re an emoji admirer. Not only this, but you can also use animated emojis, including GIFs**.
 
-![ Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
+![Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
 
 Without further ado, here are a few key benefits you’ll get with Discord Nitro:
 
@@ -748,7 +748,7 @@ To get a subscription plan through a desktop app or Discord website, follow the 
 3. Press the subscribe button below Discord Nitro to subscribe to either of the two variants you choose
 4. If you want to gift a paid subscription plan to some other user on Discord, click gift next to the ‘subscribe’ button
 
-![Subscribe to Discord Nitro  ](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
+![Subscribe to Discord Nitro](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
 
 ### Subscribing Via Mobile Apps
 
@@ -774,7 +774,7 @@ Here’s how to get free Nitro with your Xbox game-pass:
 
 As the menu appears, tap the user icon and then tap Subscribe Today from the various options listed below the settings category.
 
-![Get free   Discord Nitro  ](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
+![Get free   Discord Nitro](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
 
 1. Download, install, and run your Xbox app for Windows
 2. Log in to your account; if you don’t have one, create your account using outlook email. After that, place a gamer tag, press Game Pass and then press Get a Game Pass
@@ -845,7 +845,7 @@ Discord is absolutely free, but you may require a Discord Nitro subscription if 
 
 Though upgrading is not a requirement as most features do not require a subscription, free users still have certain limitations.
 
-![ Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
+![Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
 
 For instance, they can’t use the same emojis on two servers. In addition to that, the streaming quality and account customization features also lack on the free plan. These features and more are strictly for Discord Nitro users only.
 
@@ -861,7 +861,7 @@ However, most of these new features are cosmetic.
 
 For instance, **you can make and use your custom emojis if you’re an emoji admirer. Not only this, but you can also use animated emojis, including GIFs**.
 
-![ Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
+![Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
 
 Without further ado, here are a few key benefits you’ll get with Discord Nitro:
 
@@ -929,7 +929,7 @@ To get a subscription plan through a desktop app or Discord website, follow the 
 3. Press the subscribe button below Discord Nitro to subscribe to either of the two variants you choose
 4. If you want to gift a paid subscription plan to some other user on Discord, click gift next to the ‘subscribe’ button
 
-![Subscribe to Discord Nitro  ](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
+![Subscribe to Discord Nitro](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
 
 ### Subscribing Via Mobile Apps
 
@@ -955,7 +955,7 @@ Here’s how to get free Nitro with your Xbox game-pass:
 
 As the menu appears, tap the user icon and then tap Subscribe Today from the various options listed below the settings category.
 
-![Get free   Discord Nitro  ](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
+![Get free   Discord Nitro](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
 
 1. Download, install, and run your Xbox app for Windows
 2. Log in to your account; if you don’t have one, create your account using outlook email. After that, place a gamer tag, press Game Pass and then press Get a Game Pass
@@ -1026,7 +1026,7 @@ Discord is absolutely free, but you may require a Discord Nitro subscription if 
 
 Though upgrading is not a requirement as most features do not require a subscription, free users still have certain limitations.
 
-![ Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
+![Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
 
 For instance, they can’t use the same emojis on two servers. In addition to that, the streaming quality and account customization features also lack on the free plan. These features and more are strictly for Discord Nitro users only.
 
@@ -1042,7 +1042,7 @@ However, most of these new features are cosmetic.
 
 For instance, **you can make and use your custom emojis if you’re an emoji admirer. Not only this, but you can also use animated emojis, including GIFs**.
 
-![ Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
+![Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
 
 Without further ado, here are a few key benefits you’ll get with Discord Nitro:
 
@@ -1110,7 +1110,7 @@ To get a subscription plan through a desktop app or Discord website, follow the 
 3. Press the subscribe button below Discord Nitro to subscribe to either of the two variants you choose
 4. If you want to gift a paid subscription plan to some other user on Discord, click gift next to the ‘subscribe’ button
 
-![Subscribe to Discord Nitro  ](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
+![Subscribe to Discord Nitro](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
 
 ### Subscribing Via Mobile Apps
 
@@ -1136,7 +1136,7 @@ Here’s how to get free Nitro with your Xbox game-pass:
 
 As the menu appears, tap the user icon and then tap Subscribe Today from the various options listed below the settings category.
 
-![Get free   Discord Nitro  ](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
+![Get free   Discord Nitro](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
 
 1. Download, install, and run your Xbox app for Windows
 2. Log in to your account; if you don’t have one, create your account using outlook email. After that, place a gamer tag, press Game Pass and then press Get a Game Pass
@@ -1207,7 +1207,7 @@ Discord is absolutely free, but you may require a Discord Nitro subscription if 
 
 Though upgrading is not a requirement as most features do not require a subscription, free users still have certain limitations.
 
-![ Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
+![Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
 
 For instance, they can’t use the same emojis on two servers. In addition to that, the streaming quality and account customization features also lack on the free plan. These features and more are strictly for Discord Nitro users only.
 
@@ -1223,7 +1223,7 @@ However, most of these new features are cosmetic.
 
 For instance, **you can make and use your custom emojis if you’re an emoji admirer. Not only this, but you can also use animated emojis, including GIFs**.
 
-![ Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
+![Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
 
 Without further ado, here are a few key benefits you’ll get with Discord Nitro:
 
@@ -1291,7 +1291,7 @@ To get a subscription plan through a desktop app or Discord website, follow the 
 3. Press the subscribe button below Discord Nitro to subscribe to either of the two variants you choose
 4. If you want to gift a paid subscription plan to some other user on Discord, click gift next to the ‘subscribe’ button
 
-![Subscribe to Discord Nitro  ](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
+![Subscribe to Discord Nitro](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
 
 ### Subscribing Via Mobile Apps
 
@@ -1317,7 +1317,7 @@ Here’s how to get free Nitro with your Xbox game-pass:
 
 As the menu appears, tap the user icon and then tap Subscribe Today from the various options listed below the settings category.
 
-![Get free   Discord Nitro  ](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
+![Get free   Discord Nitro](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
 
 1. Download, install, and run your Xbox app for Windows
 2. Log in to your account; if you don’t have one, create your account using outlook email. After that, place a gamer tag, press Game Pass and then press Get a Game Pass

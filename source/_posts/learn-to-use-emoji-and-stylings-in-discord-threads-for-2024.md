@@ -1,7 +1,7 @@
 ---
 title: "Learn To Use Emoji & Stylings in Discord Threads for 2024"
-date: 2024-05-23T22:47:47.363Z
-updated: 2024-05-24T22:47:47.363Z
+date: 2024-06-20T01:40:56.396Z
+updated: 2024-06-21T01:40:56.396Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Learn To Use Emoji & Stylings in Discord Threads for 2024"
 excerpt: "This Article Describes Learn To Use Emoji & Stylings in Discord Threads for 2024"
 keywords: "Discord Emoji Usage,Learn Stylings Thread,Emoji Threading Tips,Discord Text Styling,Stylish Discord Threads,Mastering Discord Emojis,Thread Customization in Discord"
-thumbnail: https://www.lifewire.com/thmb/kGe7eEhDaYLTvfpdz_E1nF4FW5E=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/HomeTheater_GettyImages-1157313674_DennisFischerPhotography_CROPPED-cdaa99c3a6af4fd8a666aedc8c41cd89.jpg
+thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b489a1cfb414ed825a2ed00d16.jpg
 ---
 
 ## Learn To Use Emoji & Stylings in Discord Threads
@@ -53,7 +53,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -95,29 +95,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -139,7 +139,7 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -181,7 +181,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -223,29 +223,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -267,7 +267,7 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -309,7 +309,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -351,29 +351,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -395,7 +395,7 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -437,7 +437,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -479,29 +479,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -523,7 +523,7 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -575,7 +575,7 @@ With the official server of Better Discord, you can install Discord Plugins and 
 
 Given below are some popular Discord plugins that are easily downloadable to improve the Discord server.
 
-### 1. [Permissions Viewer](https://betterdiscord.app/plugin/PermissionsViewer)
+### 1. Permissions Viewer
 
 ![discord plugin permissions viewer](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-permissions-viewer.jpg)
 
@@ -583,13 +583,13 @@ Permission's Viewer is a useful Discord plugin for everyone. It will allow you t
 
 Tapping the context menu will bring up the modal, which has a role-by-role breakdown. You can see all permissions, including managing channels, managing roles, and creating invites, etc.
 
-### 2. [Hide Disabled Emojis](https://betterdiscord.app/plugin/HideDisabledEmojis)
+### 2. Hide Disabled Emojis
 
 ![hide disabled emojis](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-hide-disabled-emojis.jpg)
 
 Discord plugins consist of a perfect collection of different emojis from different sections. At the same time, it comes with some disabled emojis as well. Using this plugin, you can easily hide all the disabled emojis, not to make them visible again.
 
-### 3. [Read All Notifications Button](https://betterdiscord.app/plugin/ReadAllNotificationsButton)
+### 3. Read All Notifications Button
 
 ![notifications discord plugin](https://images.wondershare.com/filmora/article-images/2021/notifications-discord-plugin.jpg)
 
@@ -597,7 +597,7 @@ Read All Notifications Button is a handy Discord plugin to remove all notificati
 
 Upon activating this plugin, a **Clear** button will show on your server list, and a mentions popout. Hitting the **Clear** tab from any of these two options will instantly clear every notification.
 
-### 4. [Better Role Colors](https://betterdiscord.app/plugin/BetterRoleColors)
+### 4. Better Role Colors
 
 ![better role colors discord plugin](https://images.wondershare.com/filmora/article-images/2021/better-role-colors-discord-plugin.jpg)
 
@@ -605,19 +605,19 @@ As the name signifies, this plugin will let you set the custom font colors for d
 
 The plugin includes colored voice, colored typing, color popouts and modals, and finally, a colored audit log.
 
-### 5. [Creation Date](https://betterdiscord.app/plugin/CreationDate)
+### 5. Creation Date
 
 Creation Date Discord plugin will assist users in seeing details right from the creation of users' accounts. Right after the launch, the plugin will display the creation date of an account in the user model and the user popout.
 
 Just beneath the name, you will see a tab called "**Create on**" to disclose the information like both date and time. The date is in DD/MM/YYYY format, and time is given in HH: MM format. Thus, it's quite a simple little Better Discord plugin.
 
-### 6. [Google Translate Option](https://betterdiscord.app/plugin/GoogleTranslateOption)
+### 6. Google Translate Option
 
 This is the go-to plugin if you are you use an international Discord server. With its usage, you may want to translate messages and switch to another language.
 
 You can easily translate messages in any language right from Discord itself with the help of this Google Translate Option Discord plugin. This plugin supports both outgoing and incoming and messages, so if you want to send messages in some other language, the **better discord plugin** will cover you.
 
-### 7. [Show Hidden Controls](https://betterdiscord.app/plugin/ShowHiddenChannels)
+### 7. Show Hidden Controls
 
 ![show hidden controls discord plugin](https://images.wondershare.com/filmora/article-images/2021/show-hidden-controls-discord-plugin.jpg)
 
@@ -625,13 +625,13 @@ Another famous Discord pluginis Show Hidden Controls that allows access to hidde
 
 Using this cool Discord Plugin, you can also see an entire overview of the channel. However, you will be unable to send and view messages on the server. It only discloses the hidden channels and essential details regarding the same.
 
-### 8. [Spotify Controls](https://betterdiscord.app/plugin/SpotifyControls)
+### 8. Spotify Controls
 
 Well, we all know that you can connect and use your Spotify account on Discord. Well, if you want to do this, then this plugin is for you. This plugin lets you control the Spotify audio playback right from the Discord itself.
 
 Upon enabling this Discord plugin, you will see a new **Spotify Controls** section within the server. It consists of information like the singer, cover photo, the song played, and elapsed time. Moreover, you can play/pause, go forward or backward with the in-built Spotify controls.
 
-### 9. [Send Large Messages](https://betterdiscord.app/plugin/SendLargeMessages)
+### 9. Send Large Messages
 
 We all know that Discord has a messaging limit of 2000 characters. You can use Send Large Messages better discord plugin to bypass this limit. This plugin will automatically split your shorter texts into multiple messages and send them to the other servers for you.
 
@@ -717,7 +717,7 @@ With the official server of Better Discord, you can install Discord Plugins and 
 
 Given below are some popular Discord plugins that are easily downloadable to improve the Discord server.
 
-### 1. [Permissions Viewer](https://betterdiscord.app/plugin/PermissionsViewer)
+### 1. Permissions Viewer
 
 ![discord plugin permissions viewer](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-permissions-viewer.jpg)
 
@@ -725,13 +725,13 @@ Permission's Viewer is a useful Discord plugin for everyone. It will allow you t
 
 Tapping the context menu will bring up the modal, which has a role-by-role breakdown. You can see all permissions, including managing channels, managing roles, and creating invites, etc.
 
-### 2. [Hide Disabled Emojis](https://betterdiscord.app/plugin/HideDisabledEmojis)
+### 2. Hide Disabled Emojis
 
 ![hide disabled emojis](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-hide-disabled-emojis.jpg)
 
 Discord plugins consist of a perfect collection of different emojis from different sections. At the same time, it comes with some disabled emojis as well. Using this plugin, you can easily hide all the disabled emojis, not to make them visible again.
 
-### 3. [Read All Notifications Button](https://betterdiscord.app/plugin/ReadAllNotificationsButton)
+### 3. Read All Notifications Button
 
 ![notifications discord plugin](https://images.wondershare.com/filmora/article-images/2021/notifications-discord-plugin.jpg)
 
@@ -739,7 +739,7 @@ Read All Notifications Button is a handy Discord plugin to remove all notificati
 
 Upon activating this plugin, a **Clear** button will show on your server list, and a mentions popout. Hitting the **Clear** tab from any of these two options will instantly clear every notification.
 
-### 4. [Better Role Colors](https://betterdiscord.app/plugin/BetterRoleColors)
+### 4. Better Role Colors
 
 ![better role colors discord plugin](https://images.wondershare.com/filmora/article-images/2021/better-role-colors-discord-plugin.jpg)
 
@@ -747,19 +747,19 @@ As the name signifies, this plugin will let you set the custom font colors for d
 
 The plugin includes colored voice, colored typing, color popouts and modals, and finally, a colored audit log.
 
-### 5. [Creation Date](https://betterdiscord.app/plugin/CreationDate)
+### 5. Creation Date
 
 Creation Date Discord plugin will assist users in seeing details right from the creation of users' accounts. Right after the launch, the plugin will display the creation date of an account in the user model and the user popout.
 
 Just beneath the name, you will see a tab called "**Create on**" to disclose the information like both date and time. The date is in DD/MM/YYYY format, and time is given in HH: MM format. Thus, it's quite a simple little Better Discord plugin.
 
-### 6. [Google Translate Option](https://betterdiscord.app/plugin/GoogleTranslateOption)
+### 6. Google Translate Option
 
 This is the go-to plugin if you are you use an international Discord server. With its usage, you may want to translate messages and switch to another language.
 
 You can easily translate messages in any language right from Discord itself with the help of this Google Translate Option Discord plugin. This plugin supports both outgoing and incoming and messages, so if you want to send messages in some other language, the **better discord plugin** will cover you.
 
-### 7. [Show Hidden Controls](https://betterdiscord.app/plugin/ShowHiddenChannels)
+### 7. Show Hidden Controls
 
 ![show hidden controls discord plugin](https://images.wondershare.com/filmora/article-images/2021/show-hidden-controls-discord-plugin.jpg)
 
@@ -767,13 +767,13 @@ Another famous Discord pluginis Show Hidden Controls that allows access to hidde
 
 Using this cool Discord Plugin, you can also see an entire overview of the channel. However, you will be unable to send and view messages on the server. It only discloses the hidden channels and essential details regarding the same.
 
-### 8. [Spotify Controls](https://betterdiscord.app/plugin/SpotifyControls)
+### 8. Spotify Controls
 
 Well, we all know that you can connect and use your Spotify account on Discord. Well, if you want to do this, then this plugin is for you. This plugin lets you control the Spotify audio playback right from the Discord itself.
 
 Upon enabling this Discord plugin, you will see a new **Spotify Controls** section within the server. It consists of information like the singer, cover photo, the song played, and elapsed time. Moreover, you can play/pause, go forward or backward with the in-built Spotify controls.
 
-### 9. [Send Large Messages](https://betterdiscord.app/plugin/SendLargeMessages)
+### 9. Send Large Messages
 
 We all know that Discord has a messaging limit of 2000 characters. You can use Send Large Messages better discord plugin to bypass this limit. This plugin will automatically split your shorter texts into multiple messages and send them to the other servers for you.
 
@@ -859,7 +859,7 @@ With the official server of Better Discord, you can install Discord Plugins and 
 
 Given below are some popular Discord plugins that are easily downloadable to improve the Discord server.
 
-### 1. [Permissions Viewer](https://betterdiscord.app/plugin/PermissionsViewer)
+### 1. Permissions Viewer
 
 ![discord plugin permissions viewer](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-permissions-viewer.jpg)
 
@@ -867,13 +867,13 @@ Permission's Viewer is a useful Discord plugin for everyone. It will allow you t
 
 Tapping the context menu will bring up the modal, which has a role-by-role breakdown. You can see all permissions, including managing channels, managing roles, and creating invites, etc.
 
-### 2. [Hide Disabled Emojis](https://betterdiscord.app/plugin/HideDisabledEmojis)
+### 2. Hide Disabled Emojis
 
 ![hide disabled emojis](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-hide-disabled-emojis.jpg)
 
 Discord plugins consist of a perfect collection of different emojis from different sections. At the same time, it comes with some disabled emojis as well. Using this plugin, you can easily hide all the disabled emojis, not to make them visible again.
 
-### 3. [Read All Notifications Button](https://betterdiscord.app/plugin/ReadAllNotificationsButton)
+### 3. Read All Notifications Button
 
 ![notifications discord plugin](https://images.wondershare.com/filmora/article-images/2021/notifications-discord-plugin.jpg)
 
@@ -881,7 +881,7 @@ Read All Notifications Button is a handy Discord plugin to remove all notificati
 
 Upon activating this plugin, a **Clear** button will show on your server list, and a mentions popout. Hitting the **Clear** tab from any of these two options will instantly clear every notification.
 
-### 4. [Better Role Colors](https://betterdiscord.app/plugin/BetterRoleColors)
+### 4. Better Role Colors
 
 ![better role colors discord plugin](https://images.wondershare.com/filmora/article-images/2021/better-role-colors-discord-plugin.jpg)
 
@@ -889,19 +889,19 @@ As the name signifies, this plugin will let you set the custom font colors for d
 
 The plugin includes colored voice, colored typing, color popouts and modals, and finally, a colored audit log.
 
-### 5. [Creation Date](https://betterdiscord.app/plugin/CreationDate)
+### 5. Creation Date
 
 Creation Date Discord plugin will assist users in seeing details right from the creation of users' accounts. Right after the launch, the plugin will display the creation date of an account in the user model and the user popout.
 
 Just beneath the name, you will see a tab called "**Create on**" to disclose the information like both date and time. The date is in DD/MM/YYYY format, and time is given in HH: MM format. Thus, it's quite a simple little Better Discord plugin.
 
-### 6. [Google Translate Option](https://betterdiscord.app/plugin/GoogleTranslateOption)
+### 6. Google Translate Option
 
 This is the go-to plugin if you are you use an international Discord server. With its usage, you may want to translate messages and switch to another language.
 
 You can easily translate messages in any language right from Discord itself with the help of this Google Translate Option Discord plugin. This plugin supports both outgoing and incoming and messages, so if you want to send messages in some other language, the **better discord plugin** will cover you.
 
-### 7. [Show Hidden Controls](https://betterdiscord.app/plugin/ShowHiddenChannels)
+### 7. Show Hidden Controls
 
 ![show hidden controls discord plugin](https://images.wondershare.com/filmora/article-images/2021/show-hidden-controls-discord-plugin.jpg)
 
@@ -909,13 +909,13 @@ Another famous Discord pluginis Show Hidden Controls that allows access to hidde
 
 Using this cool Discord Plugin, you can also see an entire overview of the channel. However, you will be unable to send and view messages on the server. It only discloses the hidden channels and essential details regarding the same.
 
-### 8. [Spotify Controls](https://betterdiscord.app/plugin/SpotifyControls)
+### 8. Spotify Controls
 
 Well, we all know that you can connect and use your Spotify account on Discord. Well, if you want to do this, then this plugin is for you. This plugin lets you control the Spotify audio playback right from the Discord itself.
 
 Upon enabling this Discord plugin, you will see a new **Spotify Controls** section within the server. It consists of information like the singer, cover photo, the song played, and elapsed time. Moreover, you can play/pause, go forward or backward with the in-built Spotify controls.
 
-### 9. [Send Large Messages](https://betterdiscord.app/plugin/SendLargeMessages)
+### 9. Send Large Messages
 
 We all know that Discord has a messaging limit of 2000 characters. You can use Send Large Messages better discord plugin to bypass this limit. This plugin will automatically split your shorter texts into multiple messages and send them to the other servers for you.
 
@@ -1001,7 +1001,7 @@ With the official server of Better Discord, you can install Discord Plugins and 
 
 Given below are some popular Discord plugins that are easily downloadable to improve the Discord server.
 
-### 1. [Permissions Viewer](https://betterdiscord.app/plugin/PermissionsViewer)
+### 1. Permissions Viewer
 
 ![discord plugin permissions viewer](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-permissions-viewer.jpg)
 
@@ -1009,13 +1009,13 @@ Permission's Viewer is a useful Discord plugin for everyone. It will allow you t
 
 Tapping the context menu will bring up the modal, which has a role-by-role breakdown. You can see all permissions, including managing channels, managing roles, and creating invites, etc.
 
-### 2. [Hide Disabled Emojis](https://betterdiscord.app/plugin/HideDisabledEmojis)
+### 2. Hide Disabled Emojis
 
 ![hide disabled emojis](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-hide-disabled-emojis.jpg)
 
 Discord plugins consist of a perfect collection of different emojis from different sections. At the same time, it comes with some disabled emojis as well. Using this plugin, you can easily hide all the disabled emojis, not to make them visible again.
 
-### 3. [Read All Notifications Button](https://betterdiscord.app/plugin/ReadAllNotificationsButton)
+### 3. Read All Notifications Button
 
 ![notifications discord plugin](https://images.wondershare.com/filmora/article-images/2021/notifications-discord-plugin.jpg)
 
@@ -1023,7 +1023,7 @@ Read All Notifications Button is a handy Discord plugin to remove all notificati
 
 Upon activating this plugin, a **Clear** button will show on your server list, and a mentions popout. Hitting the **Clear** tab from any of these two options will instantly clear every notification.
 
-### 4. [Better Role Colors](https://betterdiscord.app/plugin/BetterRoleColors)
+### 4. Better Role Colors
 
 ![better role colors discord plugin](https://images.wondershare.com/filmora/article-images/2021/better-role-colors-discord-plugin.jpg)
 
@@ -1031,19 +1031,19 @@ As the name signifies, this plugin will let you set the custom font colors for d
 
 The plugin includes colored voice, colored typing, color popouts and modals, and finally, a colored audit log.
 
-### 5. [Creation Date](https://betterdiscord.app/plugin/CreationDate)
+### 5. Creation Date
 
 Creation Date Discord plugin will assist users in seeing details right from the creation of users' accounts. Right after the launch, the plugin will display the creation date of an account in the user model and the user popout.
 
 Just beneath the name, you will see a tab called "**Create on**" to disclose the information like both date and time. The date is in DD/MM/YYYY format, and time is given in HH: MM format. Thus, it's quite a simple little Better Discord plugin.
 
-### 6. [Google Translate Option](https://betterdiscord.app/plugin/GoogleTranslateOption)
+### 6. Google Translate Option
 
 This is the go-to plugin if you are you use an international Discord server. With its usage, you may want to translate messages and switch to another language.
 
 You can easily translate messages in any language right from Discord itself with the help of this Google Translate Option Discord plugin. This plugin supports both outgoing and incoming and messages, so if you want to send messages in some other language, the **better discord plugin** will cover you.
 
-### 7. [Show Hidden Controls](https://betterdiscord.app/plugin/ShowHiddenChannels)
+### 7. Show Hidden Controls
 
 ![show hidden controls discord plugin](https://images.wondershare.com/filmora/article-images/2021/show-hidden-controls-discord-plugin.jpg)
 
@@ -1051,13 +1051,13 @@ Another famous Discord pluginis Show Hidden Controls that allows access to hidde
 
 Using this cool Discord Plugin, you can also see an entire overview of the channel. However, you will be unable to send and view messages on the server. It only discloses the hidden channels and essential details regarding the same.
 
-### 8. [Spotify Controls](https://betterdiscord.app/plugin/SpotifyControls)
+### 8. Spotify Controls
 
 Well, we all know that you can connect and use your Spotify account on Discord. Well, if you want to do this, then this plugin is for you. This plugin lets you control the Spotify audio playback right from the Discord itself.
 
 Upon enabling this Discord plugin, you will see a new **Spotify Controls** section within the server. It consists of information like the singer, cover photo, the song played, and elapsed time. Moreover, you can play/pause, go forward or backward with the in-built Spotify controls.
 
-### 9. [Send Large Messages](https://betterdiscord.app/plugin/SendLargeMessages)
+### 9. Send Large Messages
 
 We all know that Discord has a messaging limit of 2000 characters. You can use Send Large Messages better discord plugin to bypass this limit. This plugin will automatically split your shorter texts into multiple messages and send them to the other servers for you.
 

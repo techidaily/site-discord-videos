@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Top-Tier Discord Automations\""
-date: 2024-05-23T22:48:28.035Z
-updated: 2024-05-24T22:48:28.035Z
+date: 2024-06-20T01:40:42.211Z
+updated: 2024-06-21T01:40:42.211Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Top-Tier Discord Automations\""
 excerpt: "\"This Article Describes [New] In 2024, Top-Tier Discord Automations\""
 keywords: "\"Premium Discord Scripts,High-End Discord Bots,Elite Discord Mods,Superior Discord Tools,Leading Discord Schemes,Advanced Discord Actions,Expert Discord Automation\""
-thumbnail: https://www.lifewire.com/thmb/wUhbe859YEeTu_M5YNm0d0fdpe4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ps5-backwards-compatibility-can-you-play-ps4-games-on-the-ps5-5084149-f25fc6e2a1be422e916f59b22a0605e4.jpg
+thumbnail: https://thmb.techidaily.com/1f7a28a8bb8145eaefcf7bd927fe30950467d63b1317d80297e6274f57adb5a8.jpg
 ---
 
 ## Top-Tier Discord Automations
@@ -51,7 +51,7 @@ To create a new link all you have to do is type !new in the chat and it will cre
 
 Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
 
-![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
+![Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
 
  Add the Among Us Bot to:
 
@@ -87,7 +87,7 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
 
-![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
+![Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
 
 It can also be used to inform others about the state of the game.
 
@@ -103,7 +103,7 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
-![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
+![Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
 
@@ -115,7 +115,7 @@ You can check out Among Stats at their official [website](https://amongstats.net
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
 
-![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
+![Among Us Helper Bot](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
 
 To begin an Among Us Helper session, run the command
 
@@ -140,7 +140,7 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
-![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
+![Connect Among Us Manager  Bot to Discord](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
 
@@ -196,7 +196,7 @@ To create a new link all you have to do is type !new in the chat and it will cre
 
 Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
 
-![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
+![Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
 
  Add the Among Us Bot to:
 
@@ -232,7 +232,7 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
 
-![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
+![Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
 
 It can also be used to inform others about the state of the game.
 
@@ -248,7 +248,7 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
-![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
+![Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
 
@@ -260,7 +260,7 @@ You can check out Among Stats at their official [website](https://amongstats.net
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
 
-![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
+![Among Us Helper Bot](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
 
 To begin an Among Us Helper session, run the command
 
@@ -285,7 +285,7 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
-![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
+![Connect Among Us Manager  Bot to Discord](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
 
@@ -341,7 +341,7 @@ To create a new link all you have to do is type !new in the chat and it will cre
 
 Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
 
-![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
+![Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
 
  Add the Among Us Bot to:
 
@@ -377,7 +377,7 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
 
-![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
+![Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
 
 It can also be used to inform others about the state of the game.
 
@@ -393,7 +393,7 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
-![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
+![Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
 
@@ -405,7 +405,7 @@ You can check out Among Stats at their official [website](https://amongstats.net
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
 
-![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
+![Among Us Helper Bot](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
 
 To begin an Among Us Helper session, run the command
 
@@ -430,7 +430,7 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
-![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
+![Connect Among Us Manager  Bot to Discord](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
 
@@ -486,7 +486,7 @@ To create a new link all you have to do is type !new in the chat and it will cre
 
 Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
 
-![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
+![Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
 
  Add the Among Us Bot to:
 
@@ -522,7 +522,7 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
 
-![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
+![Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
 
 It can also be used to inform others about the state of the game.
 
@@ -538,7 +538,7 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
-![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
+![Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
 
@@ -550,7 +550,7 @@ You can check out Among Stats at their official [website](https://amongstats.net
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
 
-![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
+![Among Us Helper Bot](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
 
 To begin an Among Us Helper session, run the command
 
@@ -575,7 +575,7 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
-![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
+![Connect Among Us Manager  Bot to Discord](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
 
@@ -641,7 +641,7 @@ One of the popular and easiest ways to find servers is to use explore Public Ser
 2. Tap the compass symbol to open the explore public service option.
 1. You will be directed towards the official Discord server directory. It has a search box on the top. Many top servers are listed below. Popular games like Minecraft, Fortnite, Call of Duty, and more are listed. You can tap open any of these channels to explore the community.
 
-![Find Discord Server   ](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
+![Find Discord Server](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
 
 1. Likewise, you can enter some search terms in a search box and explore the channels related to the term. For instance, you can input the term 'Disney Movies' or 'Call of Duty' and hit the search button. And a list of servers dedicated to the terms will appear.
 2. After exploring Discord servers, you might stumble upon a channel that you like. All you have to do is tab the join button.
@@ -656,13 +656,13 @@ Some of the popular channel directories are -
 
 1. [Discord.me](http://discord.me/)
 
-![Find Discord Server  via Discord.me ](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
+![Find Discord Server  via Discord.me](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
 
 You will fall in love with the appearance and user interface of Discord.me. The directory offers more than a thousand Discord servers. And a good number of them are legit. The ‘Categories’ drop-down list has a huge number of categories that people generally look for. You can also look for random servers and bots. The huge search bar at the top helps you explore the channels related to your search queries. Just below the search bar, the top channel categories are listed. If you scroll even further down, top servers are displayed. You can even look at the ones that have seen a recent surge in members and the ones that have mature content.
 
 1. [disboard.org](http://discord.org/)
 
-![Find Discord Server via  disboard.org ](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
+![Find Discord Server via  disboard.org](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
 
 This is the biggest directory that features servers sprawl across various subjects like languages, music, politics, LGBTQ, and several more alongside the usual gaming channels. You can use the search bar to hunt for servers related to your tastes. If you are baffled about where to start, you can explore the categories and tags underneath the search bar.
 
@@ -670,7 +670,7 @@ If you keep scrolling, you will come across popular channels or channels that ha
 
 1. [Discordservers.com](http://discordservers.com/)
 
-![Find Discord Server via  Discordservers.com ](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
+![Find Discord Server via  Discordservers.com](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
 
 This directory houses a vast collection of servers that are dedicated gaming community and geekdom. Upon entering the site, you will immediately notice that it has a sleek and minimal interface. You can easily navigate and find what you are looking for. The landing page has a list of featured channels. On the top, there is a search bar that can assist you in finding the servers related to your interests. However, you can hit the ‘browse’ button beside the search bar to explore all the categories.
 
@@ -732,7 +732,7 @@ One of the popular and easiest ways to find servers is to use explore Public Ser
 2. Tap the compass symbol to open the explore public service option.
 1. You will be directed towards the official Discord server directory. It has a search box on the top. Many top servers are listed below. Popular games like Minecraft, Fortnite, Call of Duty, and more are listed. You can tap open any of these channels to explore the community.
 
-![Find Discord Server   ](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
+![Find Discord Server](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
 
 1. Likewise, you can enter some search terms in a search box and explore the channels related to the term. For instance, you can input the term 'Disney Movies' or 'Call of Duty' and hit the search button. And a list of servers dedicated to the terms will appear.
 2. After exploring Discord servers, you might stumble upon a channel that you like. All you have to do is tab the join button.
@@ -747,13 +747,13 @@ Some of the popular channel directories are -
 
 1. [Discord.me](http://discord.me/)
 
-![Find Discord Server  via Discord.me ](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
+![Find Discord Server  via Discord.me](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
 
 You will fall in love with the appearance and user interface of Discord.me. The directory offers more than a thousand Discord servers. And a good number of them are legit. The ‘Categories’ drop-down list has a huge number of categories that people generally look for. You can also look for random servers and bots. The huge search bar at the top helps you explore the channels related to your search queries. Just below the search bar, the top channel categories are listed. If you scroll even further down, top servers are displayed. You can even look at the ones that have seen a recent surge in members and the ones that have mature content.
 
 1. [disboard.org](http://discord.org/)
 
-![Find Discord Server via  disboard.org ](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
+![Find Discord Server via  disboard.org](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
 
 This is the biggest directory that features servers sprawl across various subjects like languages, music, politics, LGBTQ, and several more alongside the usual gaming channels. You can use the search bar to hunt for servers related to your tastes. If you are baffled about where to start, you can explore the categories and tags underneath the search bar.
 
@@ -761,7 +761,7 @@ If you keep scrolling, you will come across popular channels or channels that ha
 
 1. [Discordservers.com](http://discordservers.com/)
 
-![Find Discord Server via  Discordservers.com ](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
+![Find Discord Server via  Discordservers.com](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
 
 This directory houses a vast collection of servers that are dedicated gaming community and geekdom. Upon entering the site, you will immediately notice that it has a sleek and minimal interface. You can easily navigate and find what you are looking for. The landing page has a list of featured channels. On the top, there is a search bar that can assist you in finding the servers related to your interests. However, you can hit the ‘browse’ button beside the search bar to explore all the categories.
 
@@ -823,7 +823,7 @@ One of the popular and easiest ways to find servers is to use explore Public Ser
 2. Tap the compass symbol to open the explore public service option.
 1. You will be directed towards the official Discord server directory. It has a search box on the top. Many top servers are listed below. Popular games like Minecraft, Fortnite, Call of Duty, and more are listed. You can tap open any of these channels to explore the community.
 
-![Find Discord Server   ](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
+![Find Discord Server](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
 
 1. Likewise, you can enter some search terms in a search box and explore the channels related to the term. For instance, you can input the term 'Disney Movies' or 'Call of Duty' and hit the search button. And a list of servers dedicated to the terms will appear.
 2. After exploring Discord servers, you might stumble upon a channel that you like. All you have to do is tab the join button.
@@ -838,13 +838,13 @@ Some of the popular channel directories are -
 
 1. [Discord.me](http://discord.me/)
 
-![Find Discord Server  via Discord.me ](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
+![Find Discord Server  via Discord.me](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
 
 You will fall in love with the appearance and user interface of Discord.me. The directory offers more than a thousand Discord servers. And a good number of them are legit. The ‘Categories’ drop-down list has a huge number of categories that people generally look for. You can also look for random servers and bots. The huge search bar at the top helps you explore the channels related to your search queries. Just below the search bar, the top channel categories are listed. If you scroll even further down, top servers are displayed. You can even look at the ones that have seen a recent surge in members and the ones that have mature content.
 
 1. [disboard.org](http://discord.org/)
 
-![Find Discord Server via  disboard.org ](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
+![Find Discord Server via  disboard.org](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
 
 This is the biggest directory that features servers sprawl across various subjects like languages, music, politics, LGBTQ, and several more alongside the usual gaming channels. You can use the search bar to hunt for servers related to your tastes. If you are baffled about where to start, you can explore the categories and tags underneath the search bar.
 
@@ -852,7 +852,7 @@ If you keep scrolling, you will come across popular channels or channels that ha
 
 1. [Discordservers.com](http://discordservers.com/)
 
-![Find Discord Server via  Discordservers.com ](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
+![Find Discord Server via  Discordservers.com](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
 
 This directory houses a vast collection of servers that are dedicated gaming community and geekdom. Upon entering the site, you will immediately notice that it has a sleek and minimal interface. You can easily navigate and find what you are looking for. The landing page has a list of featured channels. On the top, there is a search bar that can assist you in finding the servers related to your interests. However, you can hit the ‘browse’ button beside the search bar to explore all the categories.
 
@@ -914,7 +914,7 @@ One of the popular and easiest ways to find servers is to use explore Public Ser
 2. Tap the compass symbol to open the explore public service option.
 1. You will be directed towards the official Discord server directory. It has a search box on the top. Many top servers are listed below. Popular games like Minecraft, Fortnite, Call of Duty, and more are listed. You can tap open any of these channels to explore the community.
 
-![Find Discord Server   ](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
+![Find Discord Server](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
 
 1. Likewise, you can enter some search terms in a search box and explore the channels related to the term. For instance, you can input the term 'Disney Movies' or 'Call of Duty' and hit the search button. And a list of servers dedicated to the terms will appear.
 2. After exploring Discord servers, you might stumble upon a channel that you like. All you have to do is tab the join button.
@@ -929,13 +929,13 @@ Some of the popular channel directories are -
 
 1. [Discord.me](http://discord.me/)
 
-![Find Discord Server  via Discord.me ](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
+![Find Discord Server  via Discord.me](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
 
 You will fall in love with the appearance and user interface of Discord.me. The directory offers more than a thousand Discord servers. And a good number of them are legit. The ‘Categories’ drop-down list has a huge number of categories that people generally look for. You can also look for random servers and bots. The huge search bar at the top helps you explore the channels related to your search queries. Just below the search bar, the top channel categories are listed. If you scroll even further down, top servers are displayed. You can even look at the ones that have seen a recent surge in members and the ones that have mature content.
 
 1. [disboard.org](http://discord.org/)
 
-![Find Discord Server via  disboard.org ](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
+![Find Discord Server via  disboard.org](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
 
 This is the biggest directory that features servers sprawl across various subjects like languages, music, politics, LGBTQ, and several more alongside the usual gaming channels. You can use the search bar to hunt for servers related to your tastes. If you are baffled about where to start, you can explore the categories and tags underneath the search bar.
 
@@ -943,7 +943,7 @@ If you keep scrolling, you will come across popular channels or channels that ha
 
 1. [Discordservers.com](http://discordservers.com/)
 
-![Find Discord Server via  Discordservers.com ](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
+![Find Discord Server via  Discordservers.com](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
 
 This directory houses a vast collection of servers that are dedicated gaming community and geekdom. Upon entering the site, you will immediately notice that it has a sleek and minimal interface. You can easily navigate and find what you are looking for. The landing page has a list of featured channels. On the top, there is a search bar that can assist you in finding the servers related to your interests. However, you can hit the ‘browse’ button beside the search bar to explore all the categories.
 

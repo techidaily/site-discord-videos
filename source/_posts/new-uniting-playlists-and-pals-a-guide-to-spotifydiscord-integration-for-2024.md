@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Uniting Playlists & Pals  A Guide to Spotify/Discord Integration for 2024\""
-date: 2024-05-23T22:48:29.349Z
-updated: 2024-05-24T22:48:29.349Z
+date: 2024-06-20T01:40:55.250Z
+updated: 2024-06-21T01:40:55.250Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Uniting Playlists & Pals: A Guide to Spotify/Discord Integration for 2024\""
 excerpt: "\"This Article Describes [New] Uniting Playlists & Pals: A Guide to Spotify/Discord Integration for 2024\""
 keywords: "\"Spotify/Discord Guide,Playlist Syncing,Discord Music App,Streaming Integration,Music Sharing Platform,Cross-Platform Playlists,Social Media Music Tools\""
-thumbnail: https://www.lifewire.com/thmb/FeFlIcCklglc-ZZhIfOn5FD8Abs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-980040652-7e26f73679474e408073232940348264.jpg
+thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8ec2d002abc5e5f18888aaa6.jpg
 ---
 
 ## Uniting Playlists & Pals: A Guide to Spotify/Discord Integration

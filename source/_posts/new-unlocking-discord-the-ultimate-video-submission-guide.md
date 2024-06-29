@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlocking Discord  The Ultimate Video Submission Guide\""
-date: 2024-05-23T22:47:58.777Z
-updated: 2024-05-24T22:47:58.777Z
+date: 2024-06-20T01:40:58.868Z
+updated: 2024-06-21T01:40:58.868Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Unlocking Discord: The Ultimate Video Submission Guide\""
 excerpt: "\"This Article Describes [New] Unlocking Discord: The Ultimate Video Submission Guide\""
 keywords: "Video Submission Tips,Discord Channel Guide,Unlocking VOD,Video Guidelines,Submit to Discord,Ultimate Submission Tactics,Discord Content Creation"
-thumbnail: https://www.lifewire.com/thmb/0MKalSkOVP66rp4xA-3mQBOajXU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-zoom-and-how-does-it-work-b1cab4b7f8e9474fa46f5b50c8e694e4.jpg
+thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec48b8af506bc5428bdf5f9d0e.jpg
 ---
 
 ## Unlocking Discord: The Ultimate Video Submission Guide

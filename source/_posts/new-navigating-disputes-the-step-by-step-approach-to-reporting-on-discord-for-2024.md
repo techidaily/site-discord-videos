@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Disputes  The Step-by-Step Approach to Reporting on Discord for 2024\""
-date: 2024-05-23T22:48:18.968Z
-updated: 2024-05-24T22:48:18.968Z
+date: 2024-06-20T01:40:46.385Z
+updated: 2024-06-21T01:40:46.385Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Navigating Disputes: The Step-by-Step Approach to Reporting on Discord for 2024\""
 excerpt: "\"This Article Describes [New] Navigating Disputes: The Step-by-Step Approach to Reporting on Discord for 2024\""
 keywords: "\"Dispute Resolution Steps,Reporting Conflict Process,Navigate Disagreements Guide,Step-by-Step Reporting,Handling Discord Reports,Methodical Dispute Tactics,Clear Reporting Strategy\""
-thumbnail: https://www.lifewire.com/thmb/j0d0Ar9quQPUTh0jtS3mJdsArdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-112299678-929bfe9560664c1b9e7d8a6111e3d3dc.jpg
+thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a90dc3d2a15bfc646351df71a.jpg
 ---
 
 ## Navigating Disputes: The Step-by-Step Approach to Reporting on Discord
@@ -59,12 +59,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -85,7 +85,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -96,7 +96,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -215,12 +215,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -241,7 +241,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -252,7 +252,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -371,12 +371,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -397,7 +397,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -408,7 +408,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -527,12 +527,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -553,7 +553,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -564,7 +564,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -688,7 +688,7 @@ Discord is absolutely free, but you may require a Discord Nitro subscription if 
 
 Though upgrading is not a requirement as most features do not require a subscription, free users still have certain limitations.
 
-![ Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
+![Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
 
 For instance, they can’t use the same emojis on two servers. In addition to that, the streaming quality and account customization features also lack on the free plan. These features and more are strictly for Discord Nitro users only.
 
@@ -704,7 +704,7 @@ However, most of these new features are cosmetic.
 
 For instance, **you can make and use your custom emojis if you’re an emoji admirer. Not only this, but you can also use animated emojis, including GIFs**.
 
-![ Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
+![Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
 
 Without further ado, here are a few key benefits you’ll get with Discord Nitro:
 
@@ -772,7 +772,7 @@ To get a subscription plan through a desktop app or Discord website, follow the 
 3. Press the subscribe button below Discord Nitro to subscribe to either of the two variants you choose
 4. If you want to gift a paid subscription plan to some other user on Discord, click gift next to the ‘subscribe’ button
 
-![Subscribe to Discord Nitro  ](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
+![Subscribe to Discord Nitro](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
 
 ### Subscribing Via Mobile Apps
 
@@ -798,7 +798,7 @@ Here’s how to get free Nitro with your Xbox game-pass:
 
 As the menu appears, tap the user icon and then tap Subscribe Today from the various options listed below the settings category.
 
-![Get free   Discord Nitro  ](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
+![Get free   Discord Nitro](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
 
 1. Download, install, and run your Xbox app for Windows
 2. Log in to your account; if you don’t have one, create your account using outlook email. After that, place a gamer tag, press Game Pass and then press Get a Game Pass
@@ -869,7 +869,7 @@ Discord is absolutely free, but you may require a Discord Nitro subscription if 
 
 Though upgrading is not a requirement as most features do not require a subscription, free users still have certain limitations.
 
-![ Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
+![Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
 
 For instance, they can’t use the same emojis on two servers. In addition to that, the streaming quality and account customization features also lack on the free plan. These features and more are strictly for Discord Nitro users only.
 
@@ -885,7 +885,7 @@ However, most of these new features are cosmetic.
 
 For instance, **you can make and use your custom emojis if you’re an emoji admirer. Not only this, but you can also use animated emojis, including GIFs**.
 
-![ Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
+![Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
 
 Without further ado, here are a few key benefits you’ll get with Discord Nitro:
 
@@ -953,7 +953,7 @@ To get a subscription plan through a desktop app or Discord website, follow the 
 3. Press the subscribe button below Discord Nitro to subscribe to either of the two variants you choose
 4. If you want to gift a paid subscription plan to some other user on Discord, click gift next to the ‘subscribe’ button
 
-![Subscribe to Discord Nitro  ](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
+![Subscribe to Discord Nitro](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
 
 ### Subscribing Via Mobile Apps
 
@@ -979,7 +979,7 @@ Here’s how to get free Nitro with your Xbox game-pass:
 
 As the menu appears, tap the user icon and then tap Subscribe Today from the various options listed below the settings category.
 
-![Get free   Discord Nitro  ](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
+![Get free   Discord Nitro](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
 
 1. Download, install, and run your Xbox app for Windows
 2. Log in to your account; if you don’t have one, create your account using outlook email. After that, place a gamer tag, press Game Pass and then press Get a Game Pass
@@ -1050,7 +1050,7 @@ Discord is absolutely free, but you may require a Discord Nitro subscription if 
 
 Though upgrading is not a requirement as most features do not require a subscription, free users still have certain limitations.
 
-![ Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
+![Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
 
 For instance, they can’t use the same emojis on two servers. In addition to that, the streaming quality and account customization features also lack on the free plan. These features and more are strictly for Discord Nitro users only.
 
@@ -1066,7 +1066,7 @@ However, most of these new features are cosmetic.
 
 For instance, **you can make and use your custom emojis if you’re an emoji admirer. Not only this, but you can also use animated emojis, including GIFs**.
 
-![ Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
+![Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
 
 Without further ado, here are a few key benefits you’ll get with Discord Nitro:
 
@@ -1134,7 +1134,7 @@ To get a subscription plan through a desktop app or Discord website, follow the 
 3. Press the subscribe button below Discord Nitro to subscribe to either of the two variants you choose
 4. If you want to gift a paid subscription plan to some other user on Discord, click gift next to the ‘subscribe’ button
 
-![Subscribe to Discord Nitro  ](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
+![Subscribe to Discord Nitro](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
 
 ### Subscribing Via Mobile Apps
 
@@ -1160,7 +1160,7 @@ Here’s how to get free Nitro with your Xbox game-pass:
 
 As the menu appears, tap the user icon and then tap Subscribe Today from the various options listed below the settings category.
 
-![Get free   Discord Nitro  ](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
+![Get free   Discord Nitro](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
 
 1. Download, install, and run your Xbox app for Windows
 2. Log in to your account; if you don’t have one, create your account using outlook email. After that, place a gamer tag, press Game Pass and then press Get a Game Pass
@@ -1231,7 +1231,7 @@ Discord is absolutely free, but you may require a Discord Nitro subscription if 
 
 Though upgrading is not a requirement as most features do not require a subscription, free users still have certain limitations.
 
-![ Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
+![Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
 
 For instance, they can’t use the same emojis on two servers. In addition to that, the streaming quality and account customization features also lack on the free plan. These features and more are strictly for Discord Nitro users only.
 
@@ -1247,7 +1247,7 @@ However, most of these new features are cosmetic.
 
 For instance, **you can make and use your custom emojis if you’re an emoji admirer. Not only this, but you can also use animated emojis, including GIFs**.
 
-![ Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
+![Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
 
 Without further ado, here are a few key benefits you’ll get with Discord Nitro:
 
@@ -1315,7 +1315,7 @@ To get a subscription plan through a desktop app or Discord website, follow the 
 3. Press the subscribe button below Discord Nitro to subscribe to either of the two variants you choose
 4. If you want to gift a paid subscription plan to some other user on Discord, click gift next to the ‘subscribe’ button
 
-![Subscribe to Discord Nitro  ](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
+![Subscribe to Discord Nitro](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
 
 ### Subscribing Via Mobile Apps
 
@@ -1341,7 +1341,7 @@ Here’s how to get free Nitro with your Xbox game-pass:
 
 As the menu appears, tap the user icon and then tap Subscribe Today from the various options listed below the settings category.
 
-![Get free   Discord Nitro  ](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
+![Get free   Discord Nitro](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
 
 1. Download, install, and run your Xbox app for Windows
 2. Log in to your account; if you don’t have one, create your account using outlook email. After that, place a gamer tag, press Game Pass and then press Get a Game Pass

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Take Control of Discord Dialogues  Advanced Techniques for Pins\""
-date: 2024-05-23T22:47:54.042Z
-updated: 2024-05-24T22:47:54.042Z
+date: 2024-06-20T01:40:41.981Z
+updated: 2024-06-21T01:40:41.981Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Take Control of Discord Dialogues: Advanced Techniques for Pins\""
 excerpt: "\"This Article Describes In 2024, Take Control of Discord Dialogues: Advanced Techniques for Pins\""
 keywords: "Mastering Discord Chats,Pin Strategy Expertise,Discord Conversation Leadership,Enhance Discord Dialogues,Advanced Pin Techniques,Discord Chat Management,Elevate Discord Interactions"
-thumbnail: https://www.lifewire.com/thmb/PGv99t-EJhy91apG-ZcQliud5f0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-clean-a-flat-screen-tv-or-computer-monitor-2624703_final-5c18343bc9e77c00016deb61.png
+thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc38dd827fd098be11d1cb15df.png
 ---
 
 ## Take Control of Discord Dialogues: Advanced Techniques for Pins
@@ -44,12 +44,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -65,7 +65,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -164,12 +164,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -185,7 +185,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -284,12 +284,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -305,7 +305,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -404,12 +404,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -425,7 +425,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -551,7 +551,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -593,29 +593,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -637,7 +637,7 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -679,7 +679,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -721,29 +721,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -765,7 +765,7 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -807,7 +807,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -849,29 +849,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -893,7 +893,7 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -935,7 +935,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -977,29 +977,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -1021,7 +1021,7 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 

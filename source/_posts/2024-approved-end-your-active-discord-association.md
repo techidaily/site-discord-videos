@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  End Your Active Discord Association\""
-date: 2024-05-23T22:47:42.241Z
-updated: 2024-05-24T22:47:42.241Z
+date: 2024-06-20T01:40:52.195Z
+updated: 2024-06-21T01:40:52.195Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: End Your Active Discord Association\""
 excerpt: "\"This Article Describes 2024 Approved: End Your Active Discord Association\""
 keywords: "Disconnect From Discord,Quit Discord Servers,Break Up With Chat App,End Online Community Ties,Sever Social Media Bonds,Leave Conversational Networks,Cut Off Digital Communication"
-thumbnail: https://www.lifewire.com/thmb/PxQk0VwRv0aQS4nhoLTXFk73Cjc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/friends-using-their-smartphones-to-find-the-right-way-picjumbo-com-b7a48b5a7c7147e5b4f4e306245df52a.jpg
+thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863c20a3e0bedcec7b541e0029.jpg
 ---
 
 ## End Your Active Discord Association

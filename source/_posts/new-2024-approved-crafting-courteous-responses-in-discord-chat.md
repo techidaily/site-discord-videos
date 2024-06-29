@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Crafting Courteous Responses in Discord Chat\""
-date: 2024-05-23T22:48:03.903Z
-updated: 2024-05-24T22:48:03.903Z
+date: 2024-06-20T01:40:58.203Z
+updated: 2024-06-21T01:40:58.203Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Crafting Courteous Responses in Discord Chat\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Crafting Courteous Responses in Discord Chat\""
 keywords: "Polite DMs (Discord),Respectful Chatting,Discord Etiquette,Courteous Conversations,Tactful Texting,Kind Communication,Discrete Dialogue"
-thumbnail: https://www.lifewire.com/thmb/0xgLnS3M6CP4FiP4I-VE1zFOiLo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-ps5-controller-on-your-pc-or-mac-5089439-b56739aa27bd48858200878a6b64f952.jpg
+thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
 ## Crafting Courteous Responses in Discord Chat
@@ -85,13 +85,13 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
-![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
+![auto reply  message on Discord](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
 
-![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
+![set up permission for bots](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
@@ -106,7 +106,7 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 1. Hover your mouse cursor over the message you wish to react to
 2. Click the smiley face titled "Add reaction" on the message's far-right
 
-![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
+![add reactions to message replying on Discord](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
 
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
 
@@ -121,14 +121,14 @@ Furthermore, to react to a message with an emoji that has already been used as a
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
 
-![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
+![quote message on Discord](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
 
 1. Add > after every line. However, this can become annoying
 2. Instead, add >>> at the start of the paragraph you wish to quote
 
-![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
+![multiple quote message on Discord](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -202,13 +202,13 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
-![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
+![auto reply  message on Discord](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
 
-![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
+![set up permission for bots](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
@@ -223,7 +223,7 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 1. Hover your mouse cursor over the message you wish to react to
 2. Click the smiley face titled "Add reaction" on the message's far-right
 
-![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
+![add reactions to message replying on Discord](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
 
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
 
@@ -238,14 +238,14 @@ Furthermore, to react to a message with an emoji that has already been used as a
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
 
-![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
+![quote message on Discord](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
 
 1. Add > after every line. However, this can become annoying
 2. Instead, add >>> at the start of the paragraph you wish to quote
 
-![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
+![multiple quote message on Discord](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -319,13 +319,13 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
-![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
+![auto reply  message on Discord](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
 
-![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
+![set up permission for bots](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
@@ -340,7 +340,7 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 1. Hover your mouse cursor over the message you wish to react to
 2. Click the smiley face titled "Add reaction" on the message's far-right
 
-![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
+![add reactions to message replying on Discord](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
 
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
 
@@ -355,14 +355,14 @@ Furthermore, to react to a message with an emoji that has already been used as a
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
 
-![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
+![quote message on Discord](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
 
 1. Add > after every line. However, this can become annoying
 2. Instead, add >>> at the start of the paragraph you wish to quote
 
-![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
+![multiple quote message on Discord](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -436,13 +436,13 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
-![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
+![auto reply  message on Discord](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
 
-![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
+![set up permission for bots](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
@@ -457,7 +457,7 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 1. Hover your mouse cursor over the message you wish to react to
 2. Click the smiley face titled "Add reaction" on the message's far-right
 
-![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
+![add reactions to message replying on Discord](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
 
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
 
@@ -472,14 +472,14 @@ Furthermore, to react to a message with an emoji that has already been used as a
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
 
-![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
+![quote message on Discord](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
 
 1. Add > after every line. However, this can become annoying
 2. Instead, add >>> at the start of the paragraph you wish to quote
 
-![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
+![multiple quote message on Discord](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -532,7 +532,7 @@ Discord is absolutely free, but you may require a Discord Nitro subscription if 
 
 Though upgrading is not a requirement as most features do not require a subscription, free users still have certain limitations.
 
-![ Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
+![Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
 
 For instance, they can’t use the same emojis on two servers. In addition to that, the streaming quality and account customization features also lack on the free plan. These features and more are strictly for Discord Nitro users only.
 
@@ -548,7 +548,7 @@ However, most of these new features are cosmetic.
 
 For instance, **you can make and use your custom emojis if you’re an emoji admirer. Not only this, but you can also use animated emojis, including GIFs**.
 
-![ Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
+![Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
 
 Without further ado, here are a few key benefits you’ll get with Discord Nitro:
 
@@ -616,7 +616,7 @@ To get a subscription plan through a desktop app or Discord website, follow the 
 3. Press the subscribe button below Discord Nitro to subscribe to either of the two variants you choose
 4. If you want to gift a paid subscription plan to some other user on Discord, click gift next to the ‘subscribe’ button
 
-![Subscribe to Discord Nitro  ](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
+![Subscribe to Discord Nitro](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
 
 ### Subscribing Via Mobile Apps
 
@@ -642,7 +642,7 @@ Here’s how to get free Nitro with your Xbox game-pass:
 
 As the menu appears, tap the user icon and then tap Subscribe Today from the various options listed below the settings category.
 
-![Get free   Discord Nitro  ](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
+![Get free   Discord Nitro](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
 
 1. Download, install, and run your Xbox app for Windows
 2. Log in to your account; if you don’t have one, create your account using outlook email. After that, place a gamer tag, press Game Pass and then press Get a Game Pass
@@ -713,7 +713,7 @@ Discord is absolutely free, but you may require a Discord Nitro subscription if 
 
 Though upgrading is not a requirement as most features do not require a subscription, free users still have certain limitations.
 
-![ Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
+![Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
 
 For instance, they can’t use the same emojis on two servers. In addition to that, the streaming quality and account customization features also lack on the free plan. These features and more are strictly for Discord Nitro users only.
 
@@ -729,7 +729,7 @@ However, most of these new features are cosmetic.
 
 For instance, **you can make and use your custom emojis if you’re an emoji admirer. Not only this, but you can also use animated emojis, including GIFs**.
 
-![ Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
+![Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
 
 Without further ado, here are a few key benefits you’ll get with Discord Nitro:
 
@@ -797,7 +797,7 @@ To get a subscription plan through a desktop app or Discord website, follow the 
 3. Press the subscribe button below Discord Nitro to subscribe to either of the two variants you choose
 4. If you want to gift a paid subscription plan to some other user on Discord, click gift next to the ‘subscribe’ button
 
-![Subscribe to Discord Nitro  ](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
+![Subscribe to Discord Nitro](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
 
 ### Subscribing Via Mobile Apps
 
@@ -823,7 +823,7 @@ Here’s how to get free Nitro with your Xbox game-pass:
 
 As the menu appears, tap the user icon and then tap Subscribe Today from the various options listed below the settings category.
 
-![Get free   Discord Nitro  ](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
+![Get free   Discord Nitro](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
 
 1. Download, install, and run your Xbox app for Windows
 2. Log in to your account; if you don’t have one, create your account using outlook email. After that, place a gamer tag, press Game Pass and then press Get a Game Pass
@@ -894,7 +894,7 @@ Discord is absolutely free, but you may require a Discord Nitro subscription if 
 
 Though upgrading is not a requirement as most features do not require a subscription, free users still have certain limitations.
 
-![ Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
+![Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
 
 For instance, they can’t use the same emojis on two servers. In addition to that, the streaming quality and account customization features also lack on the free plan. These features and more are strictly for Discord Nitro users only.
 
@@ -910,7 +910,7 @@ However, most of these new features are cosmetic.
 
 For instance, **you can make and use your custom emojis if you’re an emoji admirer. Not only this, but you can also use animated emojis, including GIFs**.
 
-![ Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
+![Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
 
 Without further ado, here are a few key benefits you’ll get with Discord Nitro:
 
@@ -978,7 +978,7 @@ To get a subscription plan through a desktop app or Discord website, follow the 
 3. Press the subscribe button below Discord Nitro to subscribe to either of the two variants you choose
 4. If you want to gift a paid subscription plan to some other user on Discord, click gift next to the ‘subscribe’ button
 
-![Subscribe to Discord Nitro  ](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
+![Subscribe to Discord Nitro](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
 
 ### Subscribing Via Mobile Apps
 
@@ -1004,7 +1004,7 @@ Here’s how to get free Nitro with your Xbox game-pass:
 
 As the menu appears, tap the user icon and then tap Subscribe Today from the various options listed below the settings category.
 
-![Get free   Discord Nitro  ](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
+![Get free   Discord Nitro](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
 
 1. Download, install, and run your Xbox app for Windows
 2. Log in to your account; if you don’t have one, create your account using outlook email. After that, place a gamer tag, press Game Pass and then press Get a Game Pass
@@ -1075,7 +1075,7 @@ Discord is absolutely free, but you may require a Discord Nitro subscription if 
 
 Though upgrading is not a requirement as most features do not require a subscription, free users still have certain limitations.
 
-![ Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
+![Discord Nitro pricing](https://images.wondershare.com/filmora/article-images/discord-nitro-pricing.jpg)
 
 For instance, they can’t use the same emojis on two servers. In addition to that, the streaming quality and account customization features also lack on the free plan. These features and more are strictly for Discord Nitro users only.
 
@@ -1091,7 +1091,7 @@ However, most of these new features are cosmetic.
 
 For instance, **you can make and use your custom emojis if you’re an emoji admirer. Not only this, but you can also use animated emojis, including GIFs**.
 
-![ Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
+![Discord Nitro benefits](https://images.wondershare.com/filmora/article-images/discord-nitro-benefits.jpg)
 
 Without further ado, here are a few key benefits you’ll get with Discord Nitro:
 
@@ -1159,7 +1159,7 @@ To get a subscription plan through a desktop app or Discord website, follow the 
 3. Press the subscribe button below Discord Nitro to subscribe to either of the two variants you choose
 4. If you want to gift a paid subscription plan to some other user on Discord, click gift next to the ‘subscribe’ button
 
-![Subscribe to Discord Nitro  ](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
+![Subscribe to Discord Nitro](https://images.wondershare.com/filmora/article-images/subscribe-to-discord-nitro.jpg)
 
 ### Subscribing Via Mobile Apps
 
@@ -1185,7 +1185,7 @@ Here’s how to get free Nitro with your Xbox game-pass:
 
 As the menu appears, tap the user icon and then tap Subscribe Today from the various options listed below the settings category.
 
-![Get free   Discord Nitro  ](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
+![Get free   Discord Nitro](https://images.wondershare.com/filmora/article-images/get-three-months-free-nitro-xbox-game-pass.jpg)
 
 1. Download, install, and run your Xbox app for Windows
 2. Log in to your account; if you don’t have one, create your account using outlook email. After that, place a gamer tag, press Game Pass and then press Get a Game Pass

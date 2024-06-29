@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tips for Perfecting the Art of Making Memorable Discord Avatars for 2024"
-date: 2024-05-23T22:48:27.198Z
-updated: 2024-05-24T22:48:27.198Z
+date: 2024-06-20T01:40:56.280Z
+updated: 2024-06-21T01:40:56.280Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Tips for Perfecting the Art of Making Memorable Discord Avatars for 2024"
 excerpt: "This Article Describes [Updated] Tips for Perfecting the Art of Making Memorable Discord Avatars for 2024"
 keywords: "Memorable Disco Avatars,Design Skillful Avatars,Creating Unique Avatars,Artistic Avatar Ideas,Perfecting Avatar Creation,Innovative Discord Images,Best Avatar Tips Guide"
-thumbnail: https://www.lifewire.com/thmb/WHiI4ktXJXNsqXN8g0c5PxxPe5s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/stablediffusion-a52343b385654d848147318e696bab77.png
+thumbnail: https://thmb.techidaily.com/15566fd0d6cad9f26c793e08c16498fac2c5b48034aed23a907d05190328dc6a.png
 ---
 
 ## Tips for Perfecting the Art of Making Memorable Discord Avatars
@@ -124,7 +124,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -134,7 +134,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -146,7 +146,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -271,7 +271,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -281,7 +281,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -293,7 +293,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -418,7 +418,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -428,7 +428,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -440,7 +440,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -565,7 +565,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -575,7 +575,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -587,7 +587,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -654,11 +654,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -669,11 +669,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -764,11 +764,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -779,11 +779,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -874,11 +874,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -889,11 +889,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -984,11 +984,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -999,11 +999,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 

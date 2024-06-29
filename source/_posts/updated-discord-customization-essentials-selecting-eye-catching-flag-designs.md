@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Discord Customization Essentials  Selecting Eye-Catching Flag Designs\""
-date: 2024-05-23T22:47:37.804Z
-updated: 2024-05-24T22:47:37.804Z
+date: 2024-06-20T01:40:38.243Z
+updated: 2024-06-21T01:40:38.243Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Discord Customization Essentials: Selecting Eye-Catching Flag Designs\""
 excerpt: "\"This Article Describes [Updated] Discord Customization Essentials: Selecting Eye-Catching Flag Designs\""
 keywords: "\"Discord Flag Design,Custom Discord Themes,Eye-Catching Disco Flags,Personalize Discord Banner,Disco Flag Patterns,Visual Discord Settings,Standout Discord Icons\""
-thumbnail: https://www.lifewire.com/thmb/ihHXhscRd_7pjZenuKYSLpv9OwM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed2-60f231b72c19491683c2166c9285b34d.jpg
+thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50b7aab7a2fe4029be64b0298.jpg
 ---
 
 ## Discord Customization Essentials: Selecting Eye-Catching Flag Designs
@@ -37,13 +37,13 @@ In this article, we'll discuss the top 9 Discord banner makers, plus a helpful s
 
 ## **Part 1: Top 9 Discord Banner Makers in 2022 \[with free templates\]**
 
-### 1. [Visme](http://blog.visme.co/youtube-banner-template/)
+### 1. Visme
 
 ![discord banner maker visme](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-visme.jpg)
 
 Visme offers 50 plus free channel art editable templates through their online graphics service. However, it has a bit more complex UI than some of the other makers on this list, but the free templates are wonderful, and you can upload your images to edit with them.
 
-### 2. [Fotor](https://www.fotor.com/features/youtube.html)
+### 2. Fotor
 
 ![fotor - discord banner maker](https://images.wondershare.com/filmora/article-images/fotor.jpg)
 
@@ -51,7 +51,7 @@ Another graphics program with free templates is Fotor. It is easy to use – per
 
 There are subscription options in Fotor. Thus, you get a watermark for your project unless you pay for premium services, but there are enough free options to satisfy most creators.
 
-### 3. [Snappa](https://snappa.com/create/youtube-channel-art)
+### 3. Snappa
 
 ![discord banner maker - snappa](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-snappa.jpg)
 
@@ -59,7 +59,7 @@ If you want to get something quick in design, Snappa is the right choice. First,
 
 Snappa shows you the ideal placement section for different devices while you edit.
 
-### 4. [Crello](https://blog.crello.com/a-collection-of-free-youtube-channel-art-templates/)
+### 4. Crello
 
 ![discord banner maker crello](https://images.wondershare.com/filmora/article-images/crello-highlight-cover-editing-interface.jpg)
 
@@ -67,7 +67,7 @@ Crello provides ten free examples of channel art templates through their blog, a
 
 Crello is a simple visual editor designed for social media and marketing creators, meaning that non-design people can quickly jump into this platform. Beyond the free text options and templates, however, most of their backgrounds and stock photos cost $1\. You’re required to use the default images to use Crello for free or upload your own.
 
-### 5. [Design Wizard](https://www.designwizard.com/)
+### 5. Design Wizard
 
 ![discord banner design wizard](https://images.wondershare.com/filmora/article-images/2021/discord-banner-design-wizard.jpg)
 
@@ -75,13 +75,13 @@ This is another Discord banner maker with a few free templates to design or craf
 
 Also, make sure to delete the safe zone marker before you export.
 
-### 6. [Canva](https://www.canva.com/)
+### 6. Canva
 
 ![discord banner maker canva](https://images.wondershare.com/filmora/article-images/canva-montage.jpg)
 
 Canva is one of the famous and free channel art makers. It is simple with a drag-and-drop editor. Also, the program will automatically resize images to adjust easily within the Discord banner space. It has a variety of free resources like stock photos. Some resources are paid ($1), but most of them are free.
 
-### 7. [Adobe Spark](https://spark.adobe.com/make/youtube-channel-art-maker)
+### 7. Adobe Spark
 
 While editing the Discord banner templates via Adobe Spark, click on the resources in the template and then select the images/fonts/etc., that you want to use. Resources like filters are also very accessible.
 
@@ -89,13 +89,13 @@ The only drawback of Spark is that the watermarks are in free downloads. However
 
 Note: Whenever you click 'Create your YouTube channel art,' it will show you a thumbnail template instead of a banner template. Hit the **Resize** button in the side menu and switch to your exported images or the channel art.
 
-### 8. [BeFunky](https://www.befunky.com/)
+### 8. BeFunky
 
 ![discord banner maker befunky](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-befunky.jpg)
 
 This is a graphics creator platform that doubles as a Discord profile banner maker as well. You need to head towards BeFunky’s ‘**Designer**’ tool and look for the channel art templates under ‘**YouTube**’ and ‘**Social Media Headers**.’ However, we won’t find here any free art templates.
 
-### 9. [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/)
+### 9. Wondershare PixStudio
 
 ![discord banner maker pixstudio](https://images.wondershare.com/filmora/article-images/pixstudio-online-graphic-design-maker.jpg)
 
@@ -193,13 +193,13 @@ In this article, we'll discuss the top 9 Discord banner makers, plus a helpful s
 
 ## **Part 1: Top 9 Discord Banner Makers in 2022 \[with free templates\]**
 
-### 1. [Visme](http://blog.visme.co/youtube-banner-template/)
+### 1. Visme
 
 ![discord banner maker visme](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-visme.jpg)
 
 Visme offers 50 plus free channel art editable templates through their online graphics service. However, it has a bit more complex UI than some of the other makers on this list, but the free templates are wonderful, and you can upload your images to edit with them.
 
-### 2. [Fotor](https://www.fotor.com/features/youtube.html)
+### 2. Fotor
 
 ![fotor - discord banner maker](https://images.wondershare.com/filmora/article-images/fotor.jpg)
 
@@ -207,7 +207,7 @@ Another graphics program with free templates is Fotor. It is easy to use – per
 
 There are subscription options in Fotor. Thus, you get a watermark for your project unless you pay for premium services, but there are enough free options to satisfy most creators.
 
-### 3. [Snappa](https://snappa.com/create/youtube-channel-art)
+### 3. Snappa
 
 ![discord banner maker - snappa](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-snappa.jpg)
 
@@ -215,7 +215,7 @@ If you want to get something quick in design, Snappa is the right choice. First,
 
 Snappa shows you the ideal placement section for different devices while you edit.
 
-### 4. [Crello](https://blog.crello.com/a-collection-of-free-youtube-channel-art-templates/)
+### 4. Crello
 
 ![discord banner maker crello](https://images.wondershare.com/filmora/article-images/crello-highlight-cover-editing-interface.jpg)
 
@@ -223,7 +223,7 @@ Crello provides ten free examples of channel art templates through their blog, a
 
 Crello is a simple visual editor designed for social media and marketing creators, meaning that non-design people can quickly jump into this platform. Beyond the free text options and templates, however, most of their backgrounds and stock photos cost $1\. You’re required to use the default images to use Crello for free or upload your own.
 
-### 5. [Design Wizard](https://www.designwizard.com/)
+### 5. Design Wizard
 
 ![discord banner design wizard](https://images.wondershare.com/filmora/article-images/2021/discord-banner-design-wizard.jpg)
 
@@ -231,13 +231,13 @@ This is another Discord banner maker with a few free templates to design or craf
 
 Also, make sure to delete the safe zone marker before you export.
 
-### 6. [Canva](https://www.canva.com/)
+### 6. Canva
 
 ![discord banner maker canva](https://images.wondershare.com/filmora/article-images/canva-montage.jpg)
 
 Canva is one of the famous and free channel art makers. It is simple with a drag-and-drop editor. Also, the program will automatically resize images to adjust easily within the Discord banner space. It has a variety of free resources like stock photos. Some resources are paid ($1), but most of them are free.
 
-### 7. [Adobe Spark](https://spark.adobe.com/make/youtube-channel-art-maker)
+### 7. Adobe Spark
 
 While editing the Discord banner templates via Adobe Spark, click on the resources in the template and then select the images/fonts/etc., that you want to use. Resources like filters are also very accessible.
 
@@ -245,13 +245,13 @@ The only drawback of Spark is that the watermarks are in free downloads. However
 
 Note: Whenever you click 'Create your YouTube channel art,' it will show you a thumbnail template instead of a banner template. Hit the **Resize** button in the side menu and switch to your exported images or the channel art.
 
-### 8. [BeFunky](https://www.befunky.com/)
+### 8. BeFunky
 
 ![discord banner maker befunky](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-befunky.jpg)
 
 This is a graphics creator platform that doubles as a Discord profile banner maker as well. You need to head towards BeFunky’s ‘**Designer**’ tool and look for the channel art templates under ‘**YouTube**’ and ‘**Social Media Headers**.’ However, we won’t find here any free art templates.
 
-### 9. [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/)
+### 9. Wondershare PixStudio
 
 ![discord banner maker pixstudio](https://images.wondershare.com/filmora/article-images/pixstudio-online-graphic-design-maker.jpg)
 
@@ -349,13 +349,13 @@ In this article, we'll discuss the top 9 Discord banner makers, plus a helpful s
 
 ## **Part 1: Top 9 Discord Banner Makers in 2022 \[with free templates\]**
 
-### 1. [Visme](http://blog.visme.co/youtube-banner-template/)
+### 1. Visme
 
 ![discord banner maker visme](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-visme.jpg)
 
 Visme offers 50 plus free channel art editable templates through their online graphics service. However, it has a bit more complex UI than some of the other makers on this list, but the free templates are wonderful, and you can upload your images to edit with them.
 
-### 2. [Fotor](https://www.fotor.com/features/youtube.html)
+### 2. Fotor
 
 ![fotor - discord banner maker](https://images.wondershare.com/filmora/article-images/fotor.jpg)
 
@@ -363,7 +363,7 @@ Another graphics program with free templates is Fotor. It is easy to use – per
 
 There are subscription options in Fotor. Thus, you get a watermark for your project unless you pay for premium services, but there are enough free options to satisfy most creators.
 
-### 3. [Snappa](https://snappa.com/create/youtube-channel-art)
+### 3. Snappa
 
 ![discord banner maker - snappa](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-snappa.jpg)
 
@@ -371,7 +371,7 @@ If you want to get something quick in design, Snappa is the right choice. First,
 
 Snappa shows you the ideal placement section for different devices while you edit.
 
-### 4. [Crello](https://blog.crello.com/a-collection-of-free-youtube-channel-art-templates/)
+### 4. Crello
 
 ![discord banner maker crello](https://images.wondershare.com/filmora/article-images/crello-highlight-cover-editing-interface.jpg)
 
@@ -379,7 +379,7 @@ Crello provides ten free examples of channel art templates through their blog, a
 
 Crello is a simple visual editor designed for social media and marketing creators, meaning that non-design people can quickly jump into this platform. Beyond the free text options and templates, however, most of their backgrounds and stock photos cost $1\. You’re required to use the default images to use Crello for free or upload your own.
 
-### 5. [Design Wizard](https://www.designwizard.com/)
+### 5. Design Wizard
 
 ![discord banner design wizard](https://images.wondershare.com/filmora/article-images/2021/discord-banner-design-wizard.jpg)
 
@@ -387,13 +387,13 @@ This is another Discord banner maker with a few free templates to design or craf
 
 Also, make sure to delete the safe zone marker before you export.
 
-### 6. [Canva](https://www.canva.com/)
+### 6. Canva
 
 ![discord banner maker canva](https://images.wondershare.com/filmora/article-images/canva-montage.jpg)
 
 Canva is one of the famous and free channel art makers. It is simple with a drag-and-drop editor. Also, the program will automatically resize images to adjust easily within the Discord banner space. It has a variety of free resources like stock photos. Some resources are paid ($1), but most of them are free.
 
-### 7. [Adobe Spark](https://spark.adobe.com/make/youtube-channel-art-maker)
+### 7. Adobe Spark
 
 While editing the Discord banner templates via Adobe Spark, click on the resources in the template and then select the images/fonts/etc., that you want to use. Resources like filters are also very accessible.
 
@@ -401,13 +401,13 @@ The only drawback of Spark is that the watermarks are in free downloads. However
 
 Note: Whenever you click 'Create your YouTube channel art,' it will show you a thumbnail template instead of a banner template. Hit the **Resize** button in the side menu and switch to your exported images or the channel art.
 
-### 8. [BeFunky](https://www.befunky.com/)
+### 8. BeFunky
 
 ![discord banner maker befunky](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-befunky.jpg)
 
 This is a graphics creator platform that doubles as a Discord profile banner maker as well. You need to head towards BeFunky’s ‘**Designer**’ tool and look for the channel art templates under ‘**YouTube**’ and ‘**Social Media Headers**.’ However, we won’t find here any free art templates.
 
-### 9. [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/)
+### 9. Wondershare PixStudio
 
 ![discord banner maker pixstudio](https://images.wondershare.com/filmora/article-images/pixstudio-online-graphic-design-maker.jpg)
 
@@ -505,13 +505,13 @@ In this article, we'll discuss the top 9 Discord banner makers, plus a helpful s
 
 ## **Part 1: Top 9 Discord Banner Makers in 2022 \[with free templates\]**
 
-### 1. [Visme](http://blog.visme.co/youtube-banner-template/)
+### 1. Visme
 
 ![discord banner maker visme](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-visme.jpg)
 
 Visme offers 50 plus free channel art editable templates through their online graphics service. However, it has a bit more complex UI than some of the other makers on this list, but the free templates are wonderful, and you can upload your images to edit with them.
 
-### 2. [Fotor](https://www.fotor.com/features/youtube.html)
+### 2. Fotor
 
 ![fotor - discord banner maker](https://images.wondershare.com/filmora/article-images/fotor.jpg)
 
@@ -519,7 +519,7 @@ Another graphics program with free templates is Fotor. It is easy to use – per
 
 There are subscription options in Fotor. Thus, you get a watermark for your project unless you pay for premium services, but there are enough free options to satisfy most creators.
 
-### 3. [Snappa](https://snappa.com/create/youtube-channel-art)
+### 3. Snappa
 
 ![discord banner maker - snappa](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-snappa.jpg)
 
@@ -527,7 +527,7 @@ If you want to get something quick in design, Snappa is the right choice. First,
 
 Snappa shows you the ideal placement section for different devices while you edit.
 
-### 4. [Crello](https://blog.crello.com/a-collection-of-free-youtube-channel-art-templates/)
+### 4. Crello
 
 ![discord banner maker crello](https://images.wondershare.com/filmora/article-images/crello-highlight-cover-editing-interface.jpg)
 
@@ -535,7 +535,7 @@ Crello provides ten free examples of channel art templates through their blog, a
 
 Crello is a simple visual editor designed for social media and marketing creators, meaning that non-design people can quickly jump into this platform. Beyond the free text options and templates, however, most of their backgrounds and stock photos cost $1\. You’re required to use the default images to use Crello for free or upload your own.
 
-### 5. [Design Wizard](https://www.designwizard.com/)
+### 5. Design Wizard
 
 ![discord banner design wizard](https://images.wondershare.com/filmora/article-images/2021/discord-banner-design-wizard.jpg)
 
@@ -543,13 +543,13 @@ This is another Discord banner maker with a few free templates to design or craf
 
 Also, make sure to delete the safe zone marker before you export.
 
-### 6. [Canva](https://www.canva.com/)
+### 6. Canva
 
 ![discord banner maker canva](https://images.wondershare.com/filmora/article-images/canva-montage.jpg)
 
 Canva is one of the famous and free channel art makers. It is simple with a drag-and-drop editor. Also, the program will automatically resize images to adjust easily within the Discord banner space. It has a variety of free resources like stock photos. Some resources are paid ($1), but most of them are free.
 
-### 7. [Adobe Spark](https://spark.adobe.com/make/youtube-channel-art-maker)
+### 7. Adobe Spark
 
 While editing the Discord banner templates via Adobe Spark, click on the resources in the template and then select the images/fonts/etc., that you want to use. Resources like filters are also very accessible.
 
@@ -557,13 +557,13 @@ The only drawback of Spark is that the watermarks are in free downloads. However
 
 Note: Whenever you click 'Create your YouTube channel art,' it will show you a thumbnail template instead of a banner template. Hit the **Resize** button in the side menu and switch to your exported images or the channel art.
 
-### 8. [BeFunky](https://www.befunky.com/)
+### 8. BeFunky
 
 ![discord banner maker befunky](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-befunky.jpg)
 
 This is a graphics creator platform that doubles as a Discord profile banner maker as well. You need to head towards BeFunky’s ‘**Designer**’ tool and look for the channel art templates under ‘**YouTube**’ and ‘**Social Media Headers**.’ However, we won’t find here any free art templates.
 
-### 9. [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/)
+### 9. Wondershare PixStudio
 
 ![discord banner maker pixstudio](https://images.wondershare.com/filmora/article-images/pixstudio-online-graphic-design-maker.jpg)
 
@@ -695,7 +695,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -737,29 +737,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -781,7 +781,7 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -823,7 +823,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -865,29 +865,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -909,7 +909,7 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -951,7 +951,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -993,29 +993,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -1037,7 +1037,7 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -1079,7 +1079,7 @@ Tips You May Not Want to Miss!!
 
 Filmora Text Video Editor
 
-#### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
+#### Add & Change Text Style in Video
 
 • Offer 500+ video text style and effects to emphasize your video content
 
@@ -1121,29 +1121,29 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
-In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -1165,7 +1165,7 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 #### 3\. How to make a hidden text in Discord?
 
-The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars ( //) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
+The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 

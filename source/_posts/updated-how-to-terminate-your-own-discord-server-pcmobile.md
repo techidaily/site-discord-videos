@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Terminate Your Own Discord Server (PC/Mobile)"
-date: 2024-05-23T22:47:46.260Z
-updated: 2024-05-24T22:47:46.260Z
+date: 2024-07-07T19:11:24.907Z
+updated: 2024-07-08T19:11:24.907Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] How to Terminate Your Own Discord Server (PC/Mobile)"
 excerpt: "This Article Describes [Updated] How to Terminate Your Own Discord Server (PC/Mobile)"
 keywords: "Terminate Discord Server PC/Mobile,Disconnecting Discord Account,Shutting Down Discord Servers,End Discord Session Mobile,Ceasing Discord Channels PC,OFF Your Discord Server,Exit Discord Platform"
-thumbnail: https://www.lifewire.com/thmb/x2jPtBhwKcgHbmUnFr-G-8OYNd4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/_hero_SQ_Aeiusny-Portable-Power-Station-1-554da34ef2af4d08902894c44fbd3ecc.jpg
+thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353ebb15c30e049205c45a363ba.jpg
 ---
 
 ## How to Terminate Your Own Discord Server (PC/Mobile)
@@ -55,11 +55,11 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Once you select the server, there will be an options list under the server's name
 3. Click the "server setting" button from the menu (This will be the second option on the list)
 
-![ Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
+![Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
 
 1. At the end of the sidebar, you will find the option "delete the server on the left side." Click it
 
-![ Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
+![Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
 
 **Image**: _The image shows the screen that pops up after clicking "Server settings," here, the delete button can be seen in red._
 
@@ -67,7 +67,7 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Confirm by entering the server's name and authentication code; this is only required when two-factor authentication is enabled
 3. Click on "delete server" to confirm
 
-![ Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
+![Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
 
 **Image:** _As mentioned, you must be sure you want to permanently lose a server and all of its content before deleting it; this prompt serves the same purpose_
 
@@ -146,11 +146,11 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Once you select the server, there will be an options list under the server's name
 3. Click the "server setting" button from the menu (This will be the second option on the list)
 
-![ Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
+![Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
 
 1. At the end of the sidebar, you will find the option "delete the server on the left side." Click it
 
-![ Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
+![Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
 
 **Image**: _The image shows the screen that pops up after clicking "Server settings," here, the delete button can be seen in red._
 
@@ -158,7 +158,7 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Confirm by entering the server's name and authentication code; this is only required when two-factor authentication is enabled
 3. Click on "delete server" to confirm
 
-![ Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
+![Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
 
 **Image:** _As mentioned, you must be sure you want to permanently lose a server and all of its content before deleting it; this prompt serves the same purpose_
 
@@ -237,11 +237,11 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Once you select the server, there will be an options list under the server's name
 3. Click the "server setting" button from the menu (This will be the second option on the list)
 
-![ Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
+![Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
 
 1. At the end of the sidebar, you will find the option "delete the server on the left side." Click it
 
-![ Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
+![Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
 
 **Image**: _The image shows the screen that pops up after clicking "Server settings," here, the delete button can be seen in red._
 
@@ -249,7 +249,7 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Confirm by entering the server's name and authentication code; this is only required when two-factor authentication is enabled
 3. Click on "delete server" to confirm
 
-![ Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
+![Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
 
 **Image:** _As mentioned, you must be sure you want to permanently lose a server and all of its content before deleting it; this prompt serves the same purpose_
 
@@ -328,11 +328,11 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Once you select the server, there will be an options list under the server's name
 3. Click the "server setting" button from the menu (This will be the second option on the list)
 
-![ Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
+![Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
 
 1. At the end of the sidebar, you will find the option "delete the server on the left side." Click it
 
-![ Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
+![Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
 
 **Image**: _The image shows the screen that pops up after clicking "Server settings," here, the delete button can be seen in red._
 
@@ -340,7 +340,7 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Confirm by entering the server's name and authentication code; this is only required when two-factor authentication is enabled
 3. Click on "delete server" to confirm
 
-![ Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
+![Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
 
 **Image:** _As mentioned, you must be sure you want to permanently lose a server and all of its content before deleting it; this prompt serves the same purpose_
 

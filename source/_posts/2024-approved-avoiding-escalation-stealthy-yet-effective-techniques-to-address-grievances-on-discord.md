@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Avoiding Escalation  Stealthy Yet Effective Techniques to Address Grievances on Discord\""
-date: 2024-05-23T22:47:34.415Z
-updated: 2024-05-24T22:47:34.415Z
+date: 2024-07-07T19:11:05.122Z
+updated: 2024-07-08T19:11:05.122Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Avoiding Escalation: Stealthy Yet Effective Techniques to Address Grievances on Discord\""
 excerpt: "\"This Article Describes 2024 Approved: Avoiding Escalation: Stealthy Yet Effective Techniques to Address Grievances on Discord\""
 keywords: "Avoid Escalation,Address Grievance,Stealthy Techniques,Conflict Resolution,Effective Communication,Grievance Management,Discord Diplomacy"
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## Avoiding Escalation: Stealthy Yet Effective Techniques to Address Grievances on Discord
@@ -59,12 +59,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -85,7 +85,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -96,7 +96,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -215,12 +215,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -241,7 +241,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -252,7 +252,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -371,12 +371,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -397,7 +397,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -408,7 +408,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -527,12 +527,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -553,7 +553,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -564,7 +564,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 

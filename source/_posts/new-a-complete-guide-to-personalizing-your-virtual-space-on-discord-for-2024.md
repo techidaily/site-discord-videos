@@ -1,7 +1,7 @@
 ---
 title: "[New] A Complete Guide to Personalizing Your Virtual Space on Discord for 2024"
-date: 2024-05-23T22:48:00.565Z
-updated: 2024-05-24T22:48:00.565Z
+date: 2024-07-07T19:11:19.841Z
+updated: 2024-07-08T19:11:19.841Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] A Complete Guide to Personalizing Your Virtual Space on Discord for 2024"
 excerpt: "This Article Describes [New] A Complete Guide to Personalizing Your Virtual Space on Discord for 2024"
 keywords: "Discord Virtual Customization,Personalize Discord Chat,Virtual Space in Discord,Custom Discord Settings,Personal Discord Layouts,Enhance Discord UI,Tailor Discord Environment"
-thumbnail: https://www.lifewire.com/thmb/-PqPLcCaxGLc23vO2NcYLrrVNWo=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/jongsun-lee-F-pSZO_jeE8-unsplash-f3e7cedccf0c468eacc22b2b9b161def.jpg
+thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b411786ceebe675ffa9f20381.jpg
 ---
 
 ## A Complete Guide to Personalizing Your Virtual Space on Discord
@@ -68,7 +68,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -76,7 +76,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -86,7 +86,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -112,7 +112,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -126,11 +126,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -207,7 +207,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -215,7 +215,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -225,7 +225,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -251,7 +251,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -265,11 +265,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -346,7 +346,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -354,7 +354,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -364,7 +364,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -390,7 +390,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -404,11 +404,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -485,7 +485,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -493,7 +493,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -503,7 +503,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -529,7 +529,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -543,11 +543,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -625,7 +625,7 @@ To create a new link all you have to do is type !new in the chat and it will cre
 
 Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
 
-![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
+![Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
 
  Add the Among Us Bot to:
 
@@ -661,7 +661,7 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
 
-![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
+![Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
 
 It can also be used to inform others about the state of the game.
 
@@ -677,7 +677,7 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
-![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
+![Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
 
@@ -689,7 +689,7 @@ You can check out Among Stats at their official [website](https://amongstats.net
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
 
-![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
+![Among Us Helper Bot](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
 
 To begin an Among Us Helper session, run the command
 
@@ -714,7 +714,7 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
-![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
+![Connect Among Us Manager  Bot to Discord](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
 
@@ -770,7 +770,7 @@ To create a new link all you have to do is type !new in the chat and it will cre
 
 Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
 
-![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
+![Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
 
  Add the Among Us Bot to:
 
@@ -806,7 +806,7 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
 
-![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
+![Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
 
 It can also be used to inform others about the state of the game.
 
@@ -822,7 +822,7 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
-![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
+![Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
 
@@ -834,7 +834,7 @@ You can check out Among Stats at their official [website](https://amongstats.net
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
 
-![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
+![Among Us Helper Bot](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
 
 To begin an Among Us Helper session, run the command
 
@@ -859,7 +859,7 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
-![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
+![Connect Among Us Manager  Bot to Discord](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
 
@@ -915,7 +915,7 @@ To create a new link all you have to do is type !new in the chat and it will cre
 
 Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
 
-![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
+![Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
 
  Add the Among Us Bot to:
 
@@ -951,7 +951,7 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
 
-![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
+![Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
 
 It can also be used to inform others about the state of the game.
 
@@ -967,7 +967,7 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
-![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
+![Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
 
@@ -979,7 +979,7 @@ You can check out Among Stats at their official [website](https://amongstats.net
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
 
-![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
+![Among Us Helper Bot](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
 
 To begin an Among Us Helper session, run the command
 
@@ -1004,7 +1004,7 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
-![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
+![Connect Among Us Manager  Bot to Discord](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
 
@@ -1060,7 +1060,7 @@ To create a new link all you have to do is type !new in the chat and it will cre
 
 Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
 
-![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
+![Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
 
  Add the Among Us Bot to:
 
@@ -1096,7 +1096,7 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
 
-![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
+![Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
 
 It can also be used to inform others about the state of the game.
 
@@ -1112,7 +1112,7 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
-![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
+![Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
 
@@ -1124,7 +1124,7 @@ You can check out Among Stats at their official [website](https://amongstats.net
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
 
-![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
+![Among Us Helper Bot](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
 
 To begin an Among Us Helper session, run the command
 
@@ -1149,7 +1149,7 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
-![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
+![Connect Among Us Manager  Bot to Discord](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
 

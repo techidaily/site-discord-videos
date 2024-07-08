@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Maintaining Digital Decorum  Effective Techniques for Filing Complaints in Virtual Realms Like Discord for 2024\""
-date: 2024-05-23T22:48:14.854Z
-updated: 2024-05-24T22:48:14.854Z
+date: 2024-07-07T19:11:14.106Z
+updated: 2024-07-08T19:11:14.106Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Maintaining Digital Decorum: Effective Techniques for Filing Complaints in Virtual Realms Like Discord for 2024\""
 excerpt: "\"This Article Describes [New] Maintaining Digital Decorum: Effective Techniques for Filing Complaints in Virtual Realms Like Discord for 2024\""
 keywords: "Digital Etiquette,Online Complaint Tips,Virtual Rules Adherence,Ethical Net Behavior,Cyber Conflict Resolution,Respectful Chat Filing,Safe Discord Conduct"
-thumbnail: https://www.lifewire.com/thmb/KER6l7ReycmbEYNNb6GNg7KUr1U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/JackLi1-79e49ca2f15e4cd2ac31fc87afcf7eac.jpeg
+thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241996fcf78b83d8a047d570ec.jpeg
 ---
 
 ## Maintaining Digital Decorum: Effective Techniques for Filing Complaints in Virtual Realms Like Discord
@@ -59,12 +59,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -85,7 +85,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -96,7 +96,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -215,12 +215,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -241,7 +241,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -252,7 +252,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -371,12 +371,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -397,7 +397,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -408,7 +408,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -527,12 +527,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -553,7 +553,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -564,7 +564,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -685,7 +685,7 @@ One of the popular and easiest ways to find servers is to use explore Public Ser
 2. Tap the compass symbol to open the explore public service option.
 1. You will be directed towards the official Discord server directory. It has a search box on the top. Many top servers are listed below. Popular games like Minecraft, Fortnite, Call of Duty, and more are listed. You can tap open any of these channels to explore the community.
 
-![Find Discord Server   ](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
+![Find Discord Server](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
 
 1. Likewise, you can enter some search terms in a search box and explore the channels related to the term. For instance, you can input the term 'Disney Movies' or 'Call of Duty' and hit the search button. And a list of servers dedicated to the terms will appear.
 2. After exploring Discord servers, you might stumble upon a channel that you like. All you have to do is tab the join button.
@@ -700,13 +700,13 @@ Some of the popular channel directories are -
 
 1. [Discord.me](http://discord.me/)
 
-![Find Discord Server  via Discord.me ](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
+![Find Discord Server  via Discord.me](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
 
 You will fall in love with the appearance and user interface of Discord.me. The directory offers more than a thousand Discord servers. And a good number of them are legit. The ‘Categories’ drop-down list has a huge number of categories that people generally look for. You can also look for random servers and bots. The huge search bar at the top helps you explore the channels related to your search queries. Just below the search bar, the top channel categories are listed. If you scroll even further down, top servers are displayed. You can even look at the ones that have seen a recent surge in members and the ones that have mature content.
 
 1. [disboard.org](http://discord.org/)
 
-![Find Discord Server via  disboard.org ](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
+![Find Discord Server via  disboard.org](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
 
 This is the biggest directory that features servers sprawl across various subjects like languages, music, politics, LGBTQ, and several more alongside the usual gaming channels. You can use the search bar to hunt for servers related to your tastes. If you are baffled about where to start, you can explore the categories and tags underneath the search bar.
 
@@ -714,7 +714,7 @@ If you keep scrolling, you will come across popular channels or channels that ha
 
 1. [Discordservers.com](http://discordservers.com/)
 
-![Find Discord Server via  Discordservers.com ](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
+![Find Discord Server via  Discordservers.com](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
 
 This directory houses a vast collection of servers that are dedicated gaming community and geekdom. Upon entering the site, you will immediately notice that it has a sleek and minimal interface. You can easily navigate and find what you are looking for. The landing page has a list of featured channels. On the top, there is a search bar that can assist you in finding the servers related to your interests. However, you can hit the ‘browse’ button beside the search bar to explore all the categories.
 
@@ -776,7 +776,7 @@ One of the popular and easiest ways to find servers is to use explore Public Ser
 2. Tap the compass symbol to open the explore public service option.
 1. You will be directed towards the official Discord server directory. It has a search box on the top. Many top servers are listed below. Popular games like Minecraft, Fortnite, Call of Duty, and more are listed. You can tap open any of these channels to explore the community.
 
-![Find Discord Server   ](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
+![Find Discord Server](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
 
 1. Likewise, you can enter some search terms in a search box and explore the channels related to the term. For instance, you can input the term 'Disney Movies' or 'Call of Duty' and hit the search button. And a list of servers dedicated to the terms will appear.
 2. After exploring Discord servers, you might stumble upon a channel that you like. All you have to do is tab the join button.
@@ -791,13 +791,13 @@ Some of the popular channel directories are -
 
 1. [Discord.me](http://discord.me/)
 
-![Find Discord Server  via Discord.me ](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
+![Find Discord Server  via Discord.me](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
 
 You will fall in love with the appearance and user interface of Discord.me. The directory offers more than a thousand Discord servers. And a good number of them are legit. The ‘Categories’ drop-down list has a huge number of categories that people generally look for. You can also look for random servers and bots. The huge search bar at the top helps you explore the channels related to your search queries. Just below the search bar, the top channel categories are listed. If you scroll even further down, top servers are displayed. You can even look at the ones that have seen a recent surge in members and the ones that have mature content.
 
 1. [disboard.org](http://discord.org/)
 
-![Find Discord Server via  disboard.org ](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
+![Find Discord Server via  disboard.org](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
 
 This is the biggest directory that features servers sprawl across various subjects like languages, music, politics, LGBTQ, and several more alongside the usual gaming channels. You can use the search bar to hunt for servers related to your tastes. If you are baffled about where to start, you can explore the categories and tags underneath the search bar.
 
@@ -805,7 +805,7 @@ If you keep scrolling, you will come across popular channels or channels that ha
 
 1. [Discordservers.com](http://discordservers.com/)
 
-![Find Discord Server via  Discordservers.com ](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
+![Find Discord Server via  Discordservers.com](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
 
 This directory houses a vast collection of servers that are dedicated gaming community and geekdom. Upon entering the site, you will immediately notice that it has a sleek and minimal interface. You can easily navigate and find what you are looking for. The landing page has a list of featured channels. On the top, there is a search bar that can assist you in finding the servers related to your interests. However, you can hit the ‘browse’ button beside the search bar to explore all the categories.
 
@@ -867,7 +867,7 @@ One of the popular and easiest ways to find servers is to use explore Public Ser
 2. Tap the compass symbol to open the explore public service option.
 1. You will be directed towards the official Discord server directory. It has a search box on the top. Many top servers are listed below. Popular games like Minecraft, Fortnite, Call of Duty, and more are listed. You can tap open any of these channels to explore the community.
 
-![Find Discord Server   ](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
+![Find Discord Server](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
 
 1. Likewise, you can enter some search terms in a search box and explore the channels related to the term. For instance, you can input the term 'Disney Movies' or 'Call of Duty' and hit the search button. And a list of servers dedicated to the terms will appear.
 2. After exploring Discord servers, you might stumble upon a channel that you like. All you have to do is tab the join button.
@@ -882,13 +882,13 @@ Some of the popular channel directories are -
 
 1. [Discord.me](http://discord.me/)
 
-![Find Discord Server  via Discord.me ](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
+![Find Discord Server  via Discord.me](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
 
 You will fall in love with the appearance and user interface of Discord.me. The directory offers more than a thousand Discord servers. And a good number of them are legit. The ‘Categories’ drop-down list has a huge number of categories that people generally look for. You can also look for random servers and bots. The huge search bar at the top helps you explore the channels related to your search queries. Just below the search bar, the top channel categories are listed. If you scroll even further down, top servers are displayed. You can even look at the ones that have seen a recent surge in members and the ones that have mature content.
 
 1. [disboard.org](http://discord.org/)
 
-![Find Discord Server via  disboard.org ](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
+![Find Discord Server via  disboard.org](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
 
 This is the biggest directory that features servers sprawl across various subjects like languages, music, politics, LGBTQ, and several more alongside the usual gaming channels. You can use the search bar to hunt for servers related to your tastes. If you are baffled about where to start, you can explore the categories and tags underneath the search bar.
 
@@ -896,7 +896,7 @@ If you keep scrolling, you will come across popular channels or channels that ha
 
 1. [Discordservers.com](http://discordservers.com/)
 
-![Find Discord Server via  Discordservers.com ](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
+![Find Discord Server via  Discordservers.com](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
 
 This directory houses a vast collection of servers that are dedicated gaming community and geekdom. Upon entering the site, you will immediately notice that it has a sleek and minimal interface. You can easily navigate and find what you are looking for. The landing page has a list of featured channels. On the top, there is a search bar that can assist you in finding the servers related to your interests. However, you can hit the ‘browse’ button beside the search bar to explore all the categories.
 
@@ -958,7 +958,7 @@ One of the popular and easiest ways to find servers is to use explore Public Ser
 2. Tap the compass symbol to open the explore public service option.
 1. You will be directed towards the official Discord server directory. It has a search box on the top. Many top servers are listed below. Popular games like Minecraft, Fortnite, Call of Duty, and more are listed. You can tap open any of these channels to explore the community.
 
-![Find Discord Server   ](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
+![Find Discord Server](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
 
 1. Likewise, you can enter some search terms in a search box and explore the channels related to the term. For instance, you can input the term 'Disney Movies' or 'Call of Duty' and hit the search button. And a list of servers dedicated to the terms will appear.
 2. After exploring Discord servers, you might stumble upon a channel that you like. All you have to do is tab the join button.
@@ -973,13 +973,13 @@ Some of the popular channel directories are -
 
 1. [Discord.me](http://discord.me/)
 
-![Find Discord Server  via Discord.me ](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
+![Find Discord Server  via Discord.me](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
 
 You will fall in love with the appearance and user interface of Discord.me. The directory offers more than a thousand Discord servers. And a good number of them are legit. The ‘Categories’ drop-down list has a huge number of categories that people generally look for. You can also look for random servers and bots. The huge search bar at the top helps you explore the channels related to your search queries. Just below the search bar, the top channel categories are listed. If you scroll even further down, top servers are displayed. You can even look at the ones that have seen a recent surge in members and the ones that have mature content.
 
 1. [disboard.org](http://discord.org/)
 
-![Find Discord Server via  disboard.org ](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
+![Find Discord Server via  disboard.org](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
 
 This is the biggest directory that features servers sprawl across various subjects like languages, music, politics, LGBTQ, and several more alongside the usual gaming channels. You can use the search bar to hunt for servers related to your tastes. If you are baffled about where to start, you can explore the categories and tags underneath the search bar.
 
@@ -987,7 +987,7 @@ If you keep scrolling, you will come across popular channels or channels that ha
 
 1. [Discordservers.com](http://discordservers.com/)
 
-![Find Discord Server via  Discordservers.com ](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
+![Find Discord Server via  Discordservers.com](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
 
 This directory houses a vast collection of servers that are dedicated gaming community and geekdom. Upon entering the site, you will immediately notice that it has a sleek and minimal interface. You can easily navigate and find what you are looking for. The landing page has a list of featured channels. On the top, there is a search bar that can assist you in finding the servers related to your interests. However, you can hit the ‘browse’ button beside the search bar to explore all the categories.
 

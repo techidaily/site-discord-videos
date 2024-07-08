@@ -1,7 +1,7 @@
 ---
 title: "[New] Unbind From Discord on All Platforms"
-date: 2024-05-23T22:47:57.826Z
-updated: 2024-05-24T22:47:57.826Z
+date: 2024-07-07T19:11:25.527Z
+updated: 2024-07-08T19:11:25.527Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Unbind From Discord on All Platforms"
 excerpt: "This Article Describes [New] Unbind From Discord on All Platforms"
 keywords: "Unlock Discord Exit,Disconnect Discord Globally,Delete Discord Profile,End Discord Session,Remove Discord Access,Sign Out Discord,Block Discord Login"
-thumbnail: https://www.lifewire.com/thmb/Rjb93_fGVEdt0fvN4HgWfR_7Wu4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/hulu-38a46c69e6734d1aa24cc728c267c1d7.jpg
+thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c2a9dc982549b63b19fe6d70.jpg
 ---
 
 ## Unbind From Discord on All Platforms

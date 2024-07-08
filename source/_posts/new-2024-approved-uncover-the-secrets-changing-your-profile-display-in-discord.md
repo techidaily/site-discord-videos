@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Uncover the Secrets  Changing Your Profile Display in Discord\""
-date: 2024-05-23T22:48:29.064Z
-updated: 2024-05-24T22:48:29.064Z
+date: 2024-07-07T19:11:26.277Z
+updated: 2024-07-08T19:11:26.277Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Uncover the Secrets: Changing Your Profile Display in Discord\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Uncover the Secrets: Changing Your Profile Display in Discord\""
 keywords: "Change Discord Profile,Profile Display Update,Discord Display Settings,Profile Customization Guide,Altering Discord Avatar,New User Setup Tips,Profile Image Transformation"
-thumbnail: https://www.lifewire.com/thmb/sG54Bv1qiSAYEfTgb-qRImj7dlo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-524282176-5bf20266c9e77c0051af5697.jpg
+thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1fac24bb52cc0d4742cbe1750.jpg
 ---
 
 ## Uncover the Secrets: Changing Your Profile Display in Discord
@@ -68,7 +68,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -76,7 +76,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -86,7 +86,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -112,7 +112,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -126,11 +126,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -207,7 +207,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -215,7 +215,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -225,7 +225,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -251,7 +251,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -265,11 +265,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -346,7 +346,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -354,7 +354,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -364,7 +364,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -390,7 +390,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -404,11 +404,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -485,7 +485,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -493,7 +493,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -503,7 +503,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -529,7 +529,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -543,11 +543,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -616,7 +616,7 @@ Before you start calling everyone, you’ll want to check your settings to make 
 
 So, start by heading to the User Settings page. You’ll find this at the bottom left of the screen – look for the cog icon next to your name. You won’t see this on mobile, this is only on the desktop app and the web browser version of Discord.
 
-![Discord Video Call Settings ](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
+![Discord Video Call Settings](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
 
 Once you’ve opened settings, you’ll want to click on the **Voice & Video** tab. Here you can check your microphone settings and adjust the volume, and choose your camera. If you’re using an external camera instead of the built-in option, check that the right one is selected in the dropdown.
 
@@ -632,11 +632,11 @@ Once you’ve got your settings ready, you’re set to make your private Discord
 
 If you’re only calling one person then it’s easy – just click on their name.
 
-![Discord Video Call with Friends ](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
+![Discord Video Call with Friends](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
 
 If you want to call a private group, you need to click the + button and then create a group DM. Add the names of the users you want to call.
 
-![Discord Video Call with group ](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
+![Discord Video Call with group](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
 
 Once you’re in the direct message window of the person or group you want to call, you need to look at the buttons at the top right of the screen. The second icon that looks like a video camera is the one you’re looking for. Click that and you’ll start a video call.
 
@@ -658,13 +658,13 @@ If you want to make a group video call on a public server, you again need to fir
 
 Once you’re in the voice channel, click Lounge, Community Hangout or Stream Room, and then switch on your camera by clicking the ‘Video’ button. You’ll find this at the bottom-left of the screen. Again, if you’re on the web browser, you’ll be asked by your browser for permission to use your camera at this stage.
 
-![Discord Server Video Call  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
+![Discord Server Video Call](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
 
 And that’s it – the video call is now live and anyone who joins the voice channel will be able to see you, chat to you and switch on their camera to join the video conference as well.
 
 On mobile, it’s slightly different. You’ll still want to head to the server you want to join and then click on the voice channel to join it. But as soon as you click on the voice channel, you’ll get a pop-up with an icon at the bottom right where you can instantly switch on your camera.
 
-![Discord Server Video Call on mobile  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
+![Discord Server Video Call on mobile](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
 
 If you prefer, you can still just join as voice, and then at any stage click on your name where you’ll be able to then switch on your camera to turn a voice chat into a video call.
 
@@ -713,7 +713,7 @@ Before you start calling everyone, you’ll want to check your settings to make 
 
 So, start by heading to the User Settings page. You’ll find this at the bottom left of the screen – look for the cog icon next to your name. You won’t see this on mobile, this is only on the desktop app and the web browser version of Discord.
 
-![Discord Video Call Settings ](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
+![Discord Video Call Settings](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
 
 Once you’ve opened settings, you’ll want to click on the **Voice & Video** tab. Here you can check your microphone settings and adjust the volume, and choose your camera. If you’re using an external camera instead of the built-in option, check that the right one is selected in the dropdown.
 
@@ -729,11 +729,11 @@ Once you’ve got your settings ready, you’re set to make your private Discord
 
 If you’re only calling one person then it’s easy – just click on their name.
 
-![Discord Video Call with Friends ](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
+![Discord Video Call with Friends](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
 
 If you want to call a private group, you need to click the + button and then create a group DM. Add the names of the users you want to call.
 
-![Discord Video Call with group ](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
+![Discord Video Call with group](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
 
 Once you’re in the direct message window of the person or group you want to call, you need to look at the buttons at the top right of the screen. The second icon that looks like a video camera is the one you’re looking for. Click that and you’ll start a video call.
 
@@ -755,13 +755,13 @@ If you want to make a group video call on a public server, you again need to fir
 
 Once you’re in the voice channel, click Lounge, Community Hangout or Stream Room, and then switch on your camera by clicking the ‘Video’ button. You’ll find this at the bottom-left of the screen. Again, if you’re on the web browser, you’ll be asked by your browser for permission to use your camera at this stage.
 
-![Discord Server Video Call  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
+![Discord Server Video Call](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
 
 And that’s it – the video call is now live and anyone who joins the voice channel will be able to see you, chat to you and switch on their camera to join the video conference as well.
 
 On mobile, it’s slightly different. You’ll still want to head to the server you want to join and then click on the voice channel to join it. But as soon as you click on the voice channel, you’ll get a pop-up with an icon at the bottom right where you can instantly switch on your camera.
 
-![Discord Server Video Call on mobile  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
+![Discord Server Video Call on mobile](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
 
 If you prefer, you can still just join as voice, and then at any stage click on your name where you’ll be able to then switch on your camera to turn a voice chat into a video call.
 
@@ -810,7 +810,7 @@ Before you start calling everyone, you’ll want to check your settings to make 
 
 So, start by heading to the User Settings page. You’ll find this at the bottom left of the screen – look for the cog icon next to your name. You won’t see this on mobile, this is only on the desktop app and the web browser version of Discord.
 
-![Discord Video Call Settings ](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
+![Discord Video Call Settings](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
 
 Once you’ve opened settings, you’ll want to click on the **Voice & Video** tab. Here you can check your microphone settings and adjust the volume, and choose your camera. If you’re using an external camera instead of the built-in option, check that the right one is selected in the dropdown.
 
@@ -826,11 +826,11 @@ Once you’ve got your settings ready, you’re set to make your private Discord
 
 If you’re only calling one person then it’s easy – just click on their name.
 
-![Discord Video Call with Friends ](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
+![Discord Video Call with Friends](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
 
 If you want to call a private group, you need to click the + button and then create a group DM. Add the names of the users you want to call.
 
-![Discord Video Call with group ](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
+![Discord Video Call with group](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
 
 Once you’re in the direct message window of the person or group you want to call, you need to look at the buttons at the top right of the screen. The second icon that looks like a video camera is the one you’re looking for. Click that and you’ll start a video call.
 
@@ -852,13 +852,13 @@ If you want to make a group video call on a public server, you again need to fir
 
 Once you’re in the voice channel, click Lounge, Community Hangout or Stream Room, and then switch on your camera by clicking the ‘Video’ button. You’ll find this at the bottom-left of the screen. Again, if you’re on the web browser, you’ll be asked by your browser for permission to use your camera at this stage.
 
-![Discord Server Video Call  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
+![Discord Server Video Call](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
 
 And that’s it – the video call is now live and anyone who joins the voice channel will be able to see you, chat to you and switch on their camera to join the video conference as well.
 
 On mobile, it’s slightly different. You’ll still want to head to the server you want to join and then click on the voice channel to join it. But as soon as you click on the voice channel, you’ll get a pop-up with an icon at the bottom right where you can instantly switch on your camera.
 
-![Discord Server Video Call on mobile  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
+![Discord Server Video Call on mobile](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
 
 If you prefer, you can still just join as voice, and then at any stage click on your name where you’ll be able to then switch on your camera to turn a voice chat into a video call.
 
@@ -907,7 +907,7 @@ Before you start calling everyone, you’ll want to check your settings to make 
 
 So, start by heading to the User Settings page. You’ll find this at the bottom left of the screen – look for the cog icon next to your name. You won’t see this on mobile, this is only on the desktop app and the web browser version of Discord.
 
-![Discord Video Call Settings ](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
+![Discord Video Call Settings](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
 
 Once you’ve opened settings, you’ll want to click on the **Voice & Video** tab. Here you can check your microphone settings and adjust the volume, and choose your camera. If you’re using an external camera instead of the built-in option, check that the right one is selected in the dropdown.
 
@@ -923,11 +923,11 @@ Once you’ve got your settings ready, you’re set to make your private Discord
 
 If you’re only calling one person then it’s easy – just click on their name.
 
-![Discord Video Call with Friends ](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
+![Discord Video Call with Friends](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
 
 If you want to call a private group, you need to click the + button and then create a group DM. Add the names of the users you want to call.
 
-![Discord Video Call with group ](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
+![Discord Video Call with group](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
 
 Once you’re in the direct message window of the person or group you want to call, you need to look at the buttons at the top right of the screen. The second icon that looks like a video camera is the one you’re looking for. Click that and you’ll start a video call.
 
@@ -949,13 +949,13 @@ If you want to make a group video call on a public server, you again need to fir
 
 Once you’re in the voice channel, click Lounge, Community Hangout or Stream Room, and then switch on your camera by clicking the ‘Video’ button. You’ll find this at the bottom-left of the screen. Again, if you’re on the web browser, you’ll be asked by your browser for permission to use your camera at this stage.
 
-![Discord Server Video Call  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
+![Discord Server Video Call](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
 
 And that’s it – the video call is now live and anyone who joins the voice channel will be able to see you, chat to you and switch on their camera to join the video conference as well.
 
 On mobile, it’s slightly different. You’ll still want to head to the server you want to join and then click on the voice channel to join it. But as soon as you click on the voice channel, you’ll get a pop-up with an icon at the bottom right where you can instantly switch on your camera.
 
-![Discord Server Video Call on mobile  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
+![Discord Server Video Call on mobile](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
 
 If you prefer, you can still just join as voice, and then at any stage click on your name where you’ll be able to then switch on your camera to turn a voice chat into a video call.
 

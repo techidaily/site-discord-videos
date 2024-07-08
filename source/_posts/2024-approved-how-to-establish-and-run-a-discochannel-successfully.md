@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Establish and Run a DiscoChannel Successfully\""
-date: 2024-05-23T22:48:32.088Z
-updated: 2024-05-24T22:48:32.088Z
+date: 2024-07-07T19:11:19.632Z
+updated: 2024-07-08T19:11:19.632Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: How to Establish and Run a DiscoChannel Successfully\""
 excerpt: "\"This Article Describes 2024 Approved: How to Establish and Run a DiscoChannel Successfully\""
 keywords: "DiscoChannel Management,Running Successful Channels,Effective DiscoStrategy,ChannelGrowth Tactics,DiscSuccess Planning,Broadcasting Best Practices,Revenue in DiscoChannels"
-thumbnail: https://www.lifewire.com/thmb/ETsZUUFldOr9LnG4ryaM-l1vKm4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/003_how-to-fix-it-when-a-zoom-microphone-is-not-working-4844958-fd711ebc7fc646ac86c36f8f5b56d84d.jpg
+thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71bac5479c9b32307596f6cf87.jpg
 ---
 
 ## How to Establish and Run a DiscoChannel Successfully
@@ -345,7 +345,7 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
-![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+![delete Discord Message](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -410,7 +410,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
-![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+![delete discord channel message with MEE6 Bot](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
@@ -561,7 +561,7 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
-![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+![delete Discord Message](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -626,7 +626,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
-![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+![delete discord channel message with MEE6 Bot](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
@@ -777,7 +777,7 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
-![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+![delete Discord Message](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -842,7 +842,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
-![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+![delete discord channel message with MEE6 Bot](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
@@ -993,7 +993,7 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
-![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+![delete Discord Message](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -1058,7 +1058,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
-![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+![delete discord channel message with MEE6 Bot](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transforming Toxicity Into Talk  Strategies for Navigating and Reporting On-Discord Disputes\""
-date: 2024-05-23T22:47:57.399Z
-updated: 2024-05-24T22:47:57.399Z
+date: 2024-07-07T19:11:06.820Z
+updated: 2024-07-08T19:11:06.820Z
 tags:
   - ai video
   - ai discord
@@ -59,12 +59,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -85,7 +85,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -96,7 +96,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -215,12 +215,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -241,7 +241,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -252,7 +252,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -371,12 +371,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -397,7 +397,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -408,7 +408,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -527,12 +527,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -553,7 +553,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -564,7 +564,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -766,7 +766,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -776,7 +776,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -788,7 +788,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -913,7 +913,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -923,7 +923,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -935,7 +935,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -1060,7 +1060,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -1070,7 +1070,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -1082,7 +1082,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -1207,7 +1207,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -1217,7 +1217,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -1229,7 +1229,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 

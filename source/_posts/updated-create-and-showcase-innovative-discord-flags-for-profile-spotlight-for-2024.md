@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Create and Showcase  Innovative Discord Flags for Profile Spotlight for 2024\""
-date: 2024-05-23T22:48:04.008Z
-updated: 2024-05-24T22:48:04.008Z
+date: 2024-07-07T19:11:13.958Z
+updated: 2024-07-08T19:11:13.958Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Create and Showcase: Innovative Discord Flags for Profile Spotlight for 2024\""
 excerpt: "\"This Article Describes [Updated] Create and Showcase: Innovative Discord Flags for Profile Spotlight for 2024\""
 keywords: "Discord Flags Design,Innovative Flag Creation,Profile Spotlight Ideas,Custom Discord Emblems,Creative Discord Symbols,User Interface Flags,Personalized Discord Themes"
-thumbnail: https://www.lifewire.com/thmb/ehdDK2kB_g10ki14S7Le00Xplyo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DolphinwebbrowserfromMoboTap-a1801c64ac094dfdb045aa47915e934c.jpg
+thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbddb72a6dfb46b368d884a1028.jpg
 ---
 
 ## Create and Showcase: Innovative Discord Flags for Profile Spotlight
@@ -37,13 +37,13 @@ In this article, we'll discuss the top 9 Discord banner makers, plus a helpful s
 
 ## **Part 1: Top 9 Discord Banner Makers in 2022 \[with free templates\]**
 
-### 1. [Visme](http://blog.visme.co/youtube-banner-template/)
+### 1. Visme
 
 ![discord banner maker visme](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-visme.jpg)
 
 Visme offers 50 plus free channel art editable templates through their online graphics service. However, it has a bit more complex UI than some of the other makers on this list, but the free templates are wonderful, and you can upload your images to edit with them.
 
-### 2. [Fotor](https://www.fotor.com/features/youtube.html)
+### 2. Fotor
 
 ![fotor - discord banner maker](https://images.wondershare.com/filmora/article-images/fotor.jpg)
 
@@ -51,7 +51,7 @@ Another graphics program with free templates is Fotor. It is easy to use – per
 
 There are subscription options in Fotor. Thus, you get a watermark for your project unless you pay for premium services, but there are enough free options to satisfy most creators.
 
-### 3. [Snappa](https://snappa.com/create/youtube-channel-art)
+### 3. Snappa
 
 ![discord banner maker - snappa](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-snappa.jpg)
 
@@ -59,7 +59,7 @@ If you want to get something quick in design, Snappa is the right choice. First,
 
 Snappa shows you the ideal placement section for different devices while you edit.
 
-### 4. [Crello](https://blog.crello.com/a-collection-of-free-youtube-channel-art-templates/)
+### 4. Crello
 
 ![discord banner maker crello](https://images.wondershare.com/filmora/article-images/crello-highlight-cover-editing-interface.jpg)
 
@@ -67,7 +67,7 @@ Crello provides ten free examples of channel art templates through their blog, a
 
 Crello is a simple visual editor designed for social media and marketing creators, meaning that non-design people can quickly jump into this platform. Beyond the free text options and templates, however, most of their backgrounds and stock photos cost $1\. You’re required to use the default images to use Crello for free or upload your own.
 
-### 5. [Design Wizard](https://www.designwizard.com/)
+### 5. Design Wizard
 
 ![discord banner design wizard](https://images.wondershare.com/filmora/article-images/2021/discord-banner-design-wizard.jpg)
 
@@ -75,13 +75,13 @@ This is another Discord banner maker with a few free templates to design or craf
 
 Also, make sure to delete the safe zone marker before you export.
 
-### 6. [Canva](https://www.canva.com/)
+### 6. Canva
 
 ![discord banner maker canva](https://images.wondershare.com/filmora/article-images/canva-montage.jpg)
 
 Canva is one of the famous and free channel art makers. It is simple with a drag-and-drop editor. Also, the program will automatically resize images to adjust easily within the Discord banner space. It has a variety of free resources like stock photos. Some resources are paid ($1), but most of them are free.
 
-### 7. [Adobe Spark](https://spark.adobe.com/make/youtube-channel-art-maker)
+### 7. Adobe Spark
 
 While editing the Discord banner templates via Adobe Spark, click on the resources in the template and then select the images/fonts/etc., that you want to use. Resources like filters are also very accessible.
 
@@ -89,13 +89,13 @@ The only drawback of Spark is that the watermarks are in free downloads. However
 
 Note: Whenever you click 'Create your YouTube channel art,' it will show you a thumbnail template instead of a banner template. Hit the **Resize** button in the side menu and switch to your exported images or the channel art.
 
-### 8. [BeFunky](https://www.befunky.com/)
+### 8. BeFunky
 
 ![discord banner maker befunky](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-befunky.jpg)
 
 This is a graphics creator platform that doubles as a Discord profile banner maker as well. You need to head towards BeFunky’s ‘**Designer**’ tool and look for the channel art templates under ‘**YouTube**’ and ‘**Social Media Headers**.’ However, we won’t find here any free art templates.
 
-### 9. [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/)
+### 9. Wondershare PixStudio
 
 ![discord banner maker pixstudio](https://images.wondershare.com/filmora/article-images/pixstudio-online-graphic-design-maker.jpg)
 
@@ -193,13 +193,13 @@ In this article, we'll discuss the top 9 Discord banner makers, plus a helpful s
 
 ## **Part 1: Top 9 Discord Banner Makers in 2022 \[with free templates\]**
 
-### 1. [Visme](http://blog.visme.co/youtube-banner-template/)
+### 1. Visme
 
 ![discord banner maker visme](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-visme.jpg)
 
 Visme offers 50 plus free channel art editable templates through their online graphics service. However, it has a bit more complex UI than some of the other makers on this list, but the free templates are wonderful, and you can upload your images to edit with them.
 
-### 2. [Fotor](https://www.fotor.com/features/youtube.html)
+### 2. Fotor
 
 ![fotor - discord banner maker](https://images.wondershare.com/filmora/article-images/fotor.jpg)
 
@@ -207,7 +207,7 @@ Another graphics program with free templates is Fotor. It is easy to use – per
 
 There are subscription options in Fotor. Thus, you get a watermark for your project unless you pay for premium services, but there are enough free options to satisfy most creators.
 
-### 3. [Snappa](https://snappa.com/create/youtube-channel-art)
+### 3. Snappa
 
 ![discord banner maker - snappa](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-snappa.jpg)
 
@@ -215,7 +215,7 @@ If you want to get something quick in design, Snappa is the right choice. First,
 
 Snappa shows you the ideal placement section for different devices while you edit.
 
-### 4. [Crello](https://blog.crello.com/a-collection-of-free-youtube-channel-art-templates/)
+### 4. Crello
 
 ![discord banner maker crello](https://images.wondershare.com/filmora/article-images/crello-highlight-cover-editing-interface.jpg)
 
@@ -223,7 +223,7 @@ Crello provides ten free examples of channel art templates through their blog, a
 
 Crello is a simple visual editor designed for social media and marketing creators, meaning that non-design people can quickly jump into this platform. Beyond the free text options and templates, however, most of their backgrounds and stock photos cost $1\. You’re required to use the default images to use Crello for free or upload your own.
 
-### 5. [Design Wizard](https://www.designwizard.com/)
+### 5. Design Wizard
 
 ![discord banner design wizard](https://images.wondershare.com/filmora/article-images/2021/discord-banner-design-wizard.jpg)
 
@@ -231,13 +231,13 @@ This is another Discord banner maker with a few free templates to design or craf
 
 Also, make sure to delete the safe zone marker before you export.
 
-### 6. [Canva](https://www.canva.com/)
+### 6. Canva
 
 ![discord banner maker canva](https://images.wondershare.com/filmora/article-images/canva-montage.jpg)
 
 Canva is one of the famous and free channel art makers. It is simple with a drag-and-drop editor. Also, the program will automatically resize images to adjust easily within the Discord banner space. It has a variety of free resources like stock photos. Some resources are paid ($1), but most of them are free.
 
-### 7. [Adobe Spark](https://spark.adobe.com/make/youtube-channel-art-maker)
+### 7. Adobe Spark
 
 While editing the Discord banner templates via Adobe Spark, click on the resources in the template and then select the images/fonts/etc., that you want to use. Resources like filters are also very accessible.
 
@@ -245,13 +245,13 @@ The only drawback of Spark is that the watermarks are in free downloads. However
 
 Note: Whenever you click 'Create your YouTube channel art,' it will show you a thumbnail template instead of a banner template. Hit the **Resize** button in the side menu and switch to your exported images or the channel art.
 
-### 8. [BeFunky](https://www.befunky.com/)
+### 8. BeFunky
 
 ![discord banner maker befunky](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-befunky.jpg)
 
 This is a graphics creator platform that doubles as a Discord profile banner maker as well. You need to head towards BeFunky’s ‘**Designer**’ tool and look for the channel art templates under ‘**YouTube**’ and ‘**Social Media Headers**.’ However, we won’t find here any free art templates.
 
-### 9. [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/)
+### 9. Wondershare PixStudio
 
 ![discord banner maker pixstudio](https://images.wondershare.com/filmora/article-images/pixstudio-online-graphic-design-maker.jpg)
 
@@ -349,13 +349,13 @@ In this article, we'll discuss the top 9 Discord banner makers, plus a helpful s
 
 ## **Part 1: Top 9 Discord Banner Makers in 2022 \[with free templates\]**
 
-### 1. [Visme](http://blog.visme.co/youtube-banner-template/)
+### 1. Visme
 
 ![discord banner maker visme](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-visme.jpg)
 
 Visme offers 50 plus free channel art editable templates through their online graphics service. However, it has a bit more complex UI than some of the other makers on this list, but the free templates are wonderful, and you can upload your images to edit with them.
 
-### 2. [Fotor](https://www.fotor.com/features/youtube.html)
+### 2. Fotor
 
 ![fotor - discord banner maker](https://images.wondershare.com/filmora/article-images/fotor.jpg)
 
@@ -363,7 +363,7 @@ Another graphics program with free templates is Fotor. It is easy to use – per
 
 There are subscription options in Fotor. Thus, you get a watermark for your project unless you pay for premium services, but there are enough free options to satisfy most creators.
 
-### 3. [Snappa](https://snappa.com/create/youtube-channel-art)
+### 3. Snappa
 
 ![discord banner maker - snappa](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-snappa.jpg)
 
@@ -371,7 +371,7 @@ If you want to get something quick in design, Snappa is the right choice. First,
 
 Snappa shows you the ideal placement section for different devices while you edit.
 
-### 4. [Crello](https://blog.crello.com/a-collection-of-free-youtube-channel-art-templates/)
+### 4. Crello
 
 ![discord banner maker crello](https://images.wondershare.com/filmora/article-images/crello-highlight-cover-editing-interface.jpg)
 
@@ -379,7 +379,7 @@ Crello provides ten free examples of channel art templates through their blog, a
 
 Crello is a simple visual editor designed for social media and marketing creators, meaning that non-design people can quickly jump into this platform. Beyond the free text options and templates, however, most of their backgrounds and stock photos cost $1\. You’re required to use the default images to use Crello for free or upload your own.
 
-### 5. [Design Wizard](https://www.designwizard.com/)
+### 5. Design Wizard
 
 ![discord banner design wizard](https://images.wondershare.com/filmora/article-images/2021/discord-banner-design-wizard.jpg)
 
@@ -387,13 +387,13 @@ This is another Discord banner maker with a few free templates to design or craf
 
 Also, make sure to delete the safe zone marker before you export.
 
-### 6. [Canva](https://www.canva.com/)
+### 6. Canva
 
 ![discord banner maker canva](https://images.wondershare.com/filmora/article-images/canva-montage.jpg)
 
 Canva is one of the famous and free channel art makers. It is simple with a drag-and-drop editor. Also, the program will automatically resize images to adjust easily within the Discord banner space. It has a variety of free resources like stock photos. Some resources are paid ($1), but most of them are free.
 
-### 7. [Adobe Spark](https://spark.adobe.com/make/youtube-channel-art-maker)
+### 7. Adobe Spark
 
 While editing the Discord banner templates via Adobe Spark, click on the resources in the template and then select the images/fonts/etc., that you want to use. Resources like filters are also very accessible.
 
@@ -401,13 +401,13 @@ The only drawback of Spark is that the watermarks are in free downloads. However
 
 Note: Whenever you click 'Create your YouTube channel art,' it will show you a thumbnail template instead of a banner template. Hit the **Resize** button in the side menu and switch to your exported images or the channel art.
 
-### 8. [BeFunky](https://www.befunky.com/)
+### 8. BeFunky
 
 ![discord banner maker befunky](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-befunky.jpg)
 
 This is a graphics creator platform that doubles as a Discord profile banner maker as well. You need to head towards BeFunky’s ‘**Designer**’ tool and look for the channel art templates under ‘**YouTube**’ and ‘**Social Media Headers**.’ However, we won’t find here any free art templates.
 
-### 9. [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/)
+### 9. Wondershare PixStudio
 
 ![discord banner maker pixstudio](https://images.wondershare.com/filmora/article-images/pixstudio-online-graphic-design-maker.jpg)
 
@@ -505,13 +505,13 @@ In this article, we'll discuss the top 9 Discord banner makers, plus a helpful s
 
 ## **Part 1: Top 9 Discord Banner Makers in 2022 \[with free templates\]**
 
-### 1. [Visme](http://blog.visme.co/youtube-banner-template/)
+### 1. Visme
 
 ![discord banner maker visme](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-visme.jpg)
 
 Visme offers 50 plus free channel art editable templates through their online graphics service. However, it has a bit more complex UI than some of the other makers on this list, but the free templates are wonderful, and you can upload your images to edit with them.
 
-### 2. [Fotor](https://www.fotor.com/features/youtube.html)
+### 2. Fotor
 
 ![fotor - discord banner maker](https://images.wondershare.com/filmora/article-images/fotor.jpg)
 
@@ -519,7 +519,7 @@ Another graphics program with free templates is Fotor. It is easy to use – per
 
 There are subscription options in Fotor. Thus, you get a watermark for your project unless you pay for premium services, but there are enough free options to satisfy most creators.
 
-### 3. [Snappa](https://snappa.com/create/youtube-channel-art)
+### 3. Snappa
 
 ![discord banner maker - snappa](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-snappa.jpg)
 
@@ -527,7 +527,7 @@ If you want to get something quick in design, Snappa is the right choice. First,
 
 Snappa shows you the ideal placement section for different devices while you edit.
 
-### 4. [Crello](https://blog.crello.com/a-collection-of-free-youtube-channel-art-templates/)
+### 4. Crello
 
 ![discord banner maker crello](https://images.wondershare.com/filmora/article-images/crello-highlight-cover-editing-interface.jpg)
 
@@ -535,7 +535,7 @@ Crello provides ten free examples of channel art templates through their blog, a
 
 Crello is a simple visual editor designed for social media and marketing creators, meaning that non-design people can quickly jump into this platform. Beyond the free text options and templates, however, most of their backgrounds and stock photos cost $1\. You’re required to use the default images to use Crello for free or upload your own.
 
-### 5. [Design Wizard](https://www.designwizard.com/)
+### 5. Design Wizard
 
 ![discord banner design wizard](https://images.wondershare.com/filmora/article-images/2021/discord-banner-design-wizard.jpg)
 
@@ -543,13 +543,13 @@ This is another Discord banner maker with a few free templates to design or craf
 
 Also, make sure to delete the safe zone marker before you export.
 
-### 6. [Canva](https://www.canva.com/)
+### 6. Canva
 
 ![discord banner maker canva](https://images.wondershare.com/filmora/article-images/canva-montage.jpg)
 
 Canva is one of the famous and free channel art makers. It is simple with a drag-and-drop editor. Also, the program will automatically resize images to adjust easily within the Discord banner space. It has a variety of free resources like stock photos. Some resources are paid ($1), but most of them are free.
 
-### 7. [Adobe Spark](https://spark.adobe.com/make/youtube-channel-art-maker)
+### 7. Adobe Spark
 
 While editing the Discord banner templates via Adobe Spark, click on the resources in the template and then select the images/fonts/etc., that you want to use. Resources like filters are also very accessible.
 
@@ -557,13 +557,13 @@ The only drawback of Spark is that the watermarks are in free downloads. However
 
 Note: Whenever you click 'Create your YouTube channel art,' it will show you a thumbnail template instead of a banner template. Hit the **Resize** button in the side menu and switch to your exported images or the channel art.
 
-### 8. [BeFunky](https://www.befunky.com/)
+### 8. BeFunky
 
 ![discord banner maker befunky](https://images.wondershare.com/filmora/article-images/2021/discord-banner-maker-befunky.jpg)
 
 This is a graphics creator platform that doubles as a Discord profile banner maker as well. You need to head towards BeFunky’s ‘**Designer**’ tool and look for the channel art templates under ‘**YouTube**’ and ‘**Social Media Headers**.’ However, we won’t find here any free art templates.
 
-### 9. [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/)
+### 9. Wondershare PixStudio
 
 ![discord banner maker pixstudio](https://images.wondershare.com/filmora/article-images/pixstudio-online-graphic-design-maker.jpg)
 
@@ -686,12 +686,12 @@ If you are using a desktop app or the website, here is how you can add friends -
 1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
 2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
 
-![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
+![Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
 
 1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
 2. Hit the send friend request button to send the friend request.
 
-![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
+![Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
 
 1. The friend will appear in your friend list once they accept your friend request.
 
@@ -704,7 +704,7 @@ Severs are the places where you find your best buddies who obsess over the same 
 1. Open the server that you and your friend are a part of.
 2. Tap on your friend’s profile. You can find their profile in the user list of the server.
 
-![ add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
+![add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
 
 1. View their profile. Click open the profile's menu.
 2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
@@ -728,7 +728,7 @@ If you have some friends that you do not share common channels with, you can add
 1. Open the discord app.
 2. Tap on the Friends button that is located towards the bottom.
 
-![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
+![add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
 
 1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
 2. A box appears. Enter the discord username and the tag number.
@@ -749,7 +749,7 @@ Follow these steps to add a friend that you met on the server.
 4. Find your friend on the list. When you find your friend, tap on their profile.
 5. Their profile will pop up. Click the ‘add friend’ button.
 
-![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
+![add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
 
 1. Your friend request will be delivered.
 2. Once they approve, they will be a part of your friend list.
@@ -765,11 +765,11 @@ In case you have been using discord for a while, you might have realized that th
 3. Tap the Friends symbol that appears on the bottom tab.
 4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
 
-![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
+![add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
 
 1. Ask your friend to turn on the Nearby Scan mode on their phone too.
 
-![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
+![add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
 
 1. When your friend gets detected, they appear on the radar.
 2. Hit the ‘Send’ button to send a Friend Request.
@@ -836,12 +836,12 @@ If you are using a desktop app or the website, here is how you can add friends -
 1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
 2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
 
-![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
+![Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
 
 1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
 2. Hit the send friend request button to send the friend request.
 
-![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
+![Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
 
 1. The friend will appear in your friend list once they accept your friend request.
 
@@ -854,7 +854,7 @@ Severs are the places where you find your best buddies who obsess over the same 
 1. Open the server that you and your friend are a part of.
 2. Tap on your friend’s profile. You can find their profile in the user list of the server.
 
-![ add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
+![add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
 
 1. View their profile. Click open the profile's menu.
 2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
@@ -878,7 +878,7 @@ If you have some friends that you do not share common channels with, you can add
 1. Open the discord app.
 2. Tap on the Friends button that is located towards the bottom.
 
-![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
+![add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
 
 1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
 2. A box appears. Enter the discord username and the tag number.
@@ -899,7 +899,7 @@ Follow these steps to add a friend that you met on the server.
 4. Find your friend on the list. When you find your friend, tap on their profile.
 5. Their profile will pop up. Click the ‘add friend’ button.
 
-![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
+![add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
 
 1. Your friend request will be delivered.
 2. Once they approve, they will be a part of your friend list.
@@ -915,11 +915,11 @@ In case you have been using discord for a while, you might have realized that th
 3. Tap the Friends symbol that appears on the bottom tab.
 4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
 
-![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
+![add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
 
 1. Ask your friend to turn on the Nearby Scan mode on their phone too.
 
-![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
+![add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
 
 1. When your friend gets detected, they appear on the radar.
 2. Hit the ‘Send’ button to send a Friend Request.
@@ -986,12 +986,12 @@ If you are using a desktop app or the website, here is how you can add friends -
 1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
 2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
 
-![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
+![Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
 
 1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
 2. Hit the send friend request button to send the friend request.
 
-![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
+![Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
 
 1. The friend will appear in your friend list once they accept your friend request.
 
@@ -1004,7 +1004,7 @@ Severs are the places where you find your best buddies who obsess over the same 
 1. Open the server that you and your friend are a part of.
 2. Tap on your friend’s profile. You can find their profile in the user list of the server.
 
-![ add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
+![add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
 
 1. View their profile. Click open the profile's menu.
 2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
@@ -1028,7 +1028,7 @@ If you have some friends that you do not share common channels with, you can add
 1. Open the discord app.
 2. Tap on the Friends button that is located towards the bottom.
 
-![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
+![add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
 
 1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
 2. A box appears. Enter the discord username and the tag number.
@@ -1049,7 +1049,7 @@ Follow these steps to add a friend that you met on the server.
 4. Find your friend on the list. When you find your friend, tap on their profile.
 5. Their profile will pop up. Click the ‘add friend’ button.
 
-![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
+![add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
 
 1. Your friend request will be delivered.
 2. Once they approve, they will be a part of your friend list.
@@ -1065,11 +1065,11 @@ In case you have been using discord for a while, you might have realized that th
 3. Tap the Friends symbol that appears on the bottom tab.
 4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
 
-![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
+![add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
 
 1. Ask your friend to turn on the Nearby Scan mode on their phone too.
 
-![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
+![add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
 
 1. When your friend gets detected, they appear on the radar.
 2. Hit the ‘Send’ button to send a Friend Request.
@@ -1136,12 +1136,12 @@ If you are using a desktop app or the website, here is how you can add friends -
 1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
 2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
 
-![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
+![Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
 
 1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
 2. Hit the send friend request button to send the friend request.
 
-![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
+![Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
 
 1. The friend will appear in your friend list once they accept your friend request.
 
@@ -1154,7 +1154,7 @@ Severs are the places where you find your best buddies who obsess over the same 
 1. Open the server that you and your friend are a part of.
 2. Tap on your friend’s profile. You can find their profile in the user list of the server.
 
-![ add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
+![add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
 
 1. View their profile. Click open the profile's menu.
 2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
@@ -1178,7 +1178,7 @@ If you have some friends that you do not share common channels with, you can add
 1. Open the discord app.
 2. Tap on the Friends button that is located towards the bottom.
 
-![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
+![add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
 
 1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
 2. A box appears. Enter the discord username and the tag number.
@@ -1199,7 +1199,7 @@ Follow these steps to add a friend that you met on the server.
 4. Find your friend on the list. When you find your friend, tap on their profile.
 5. Their profile will pop up. Click the ‘add friend’ button.
 
-![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
+![add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
 
 1. Your friend request will be delivered.
 2. Once they approve, they will be a part of your friend list.
@@ -1215,11 +1215,11 @@ In case you have been using discord for a while, you might have realized that th
 3. Tap the Friends symbol that appears on the bottom tab.
 4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
 
-![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
+![add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
 
 1. Ask your friend to turn on the Nearby Scan mode on their phone too.
 
-![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
+![add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
 
 1. When your friend gets detected, they appear on the radar.
 2. Hit the ‘Send’ button to send a Friend Request.

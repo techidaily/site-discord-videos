@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Command Your Chats with Flair  Pinning Made Simple in Discord\""
-date: 2024-05-23T22:47:35.939Z
-updated: 2024-05-24T22:47:35.939Z
+date: 2024-07-07T19:11:22.912Z
+updated: 2024-07-08T19:11:22.912Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Command Your Chats with Flair: Pinning Made Simple in Discord\""
 excerpt: "\"This Article Describes In 2024, Command Your Chats with Flair: Pinning Made Simple in Discord\""
 keywords: "Command Chat Styles,Discord Pin Easy,Flair Emojis Guide,Discord Customize Texts,Master Chats Pinning,Simple Discord Flair,Personalize Discord Messages"
-thumbnail: https://www.lifewire.com/thmb/EIcWtL1mbjgCQwl6s00JSD8qVnI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-project-xcloud-4796426-d7a90d6136d64a819292085e1962e8f6.jpg
+thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0bfe904b409f7e84863affb55.jpg
 ---
 
 ## Command Your Chats with Flair: Pinning Made Simple in Discord
@@ -44,12 +44,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -65,7 +65,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -164,12 +164,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -185,7 +185,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -284,12 +284,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -305,7 +305,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -404,12 +404,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -425,7 +425,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -584,7 +584,7 @@ An example of a good Discord name is "SuperSam," because it's simple, short, and
 39. Venomous Versatility (who adapt quickly in various situations or circumstances)
 40. Vitality Vixen (who is energetic, seductive, and attractive)
 41. Vivacious Virtue (who has the power to give life or full of vitality)
-42. Virtuous Virtue ( someone having moral excellence, purity, and righteousness)
+42. Virtuous Virtue (someone having moral excellence, purity, and righteousness)
 43. Wise Wight (prudent person)
 44. Wickedly Wise Woman (woman with insight and wisdom into the world that surrounds her)
 45. Unpredictable (who like to keep everyone guessing on their future actions)
@@ -700,7 +700,7 @@ An example of a good Discord name is "SuperSam," because it's simple, short, and
 39. Venomous Versatility (who adapt quickly in various situations or circumstances)
 40. Vitality Vixen (who is energetic, seductive, and attractive)
 41. Vivacious Virtue (who has the power to give life or full of vitality)
-42. Virtuous Virtue ( someone having moral excellence, purity, and righteousness)
+42. Virtuous Virtue (someone having moral excellence, purity, and righteousness)
 43. Wise Wight (prudent person)
 44. Wickedly Wise Woman (woman with insight and wisdom into the world that surrounds her)
 45. Unpredictable (who like to keep everyone guessing on their future actions)
@@ -816,7 +816,7 @@ An example of a good Discord name is "SuperSam," because it's simple, short, and
 39. Venomous Versatility (who adapt quickly in various situations or circumstances)
 40. Vitality Vixen (who is energetic, seductive, and attractive)
 41. Vivacious Virtue (who has the power to give life or full of vitality)
-42. Virtuous Virtue ( someone having moral excellence, purity, and righteousness)
+42. Virtuous Virtue (someone having moral excellence, purity, and righteousness)
 43. Wise Wight (prudent person)
 44. Wickedly Wise Woman (woman with insight and wisdom into the world that surrounds her)
 45. Unpredictable (who like to keep everyone guessing on their future actions)
@@ -932,7 +932,7 @@ An example of a good Discord name is "SuperSam," because it's simple, short, and
 39. Venomous Versatility (who adapt quickly in various situations or circumstances)
 40. Vitality Vixen (who is energetic, seductive, and attractive)
 41. Vivacious Virtue (who has the power to give life or full of vitality)
-42. Virtuous Virtue ( someone having moral excellence, purity, and righteousness)
+42. Virtuous Virtue (someone having moral excellence, purity, and righteousness)
 43. Wise Wight (prudent person)
 44. Wickedly Wise Woman (woman with insight and wisdom into the world that surrounds her)
 45. Unpredictable (who like to keep everyone guessing on their future actions)

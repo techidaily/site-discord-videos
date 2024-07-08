@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Discord Etiquette 101  Responding with Confidence for 2024\""
-date: 2024-05-23T22:48:05.814Z
-updated: 2024-05-24T22:48:05.814Z
+date: 2024-07-07T19:11:17.515Z
+updated: 2024-07-08T19:11:17.515Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Discord Etiquette 101: Responding with Confidence for 2024\""
 excerpt: "\"This Article Describes [New] Discord Etiquette 101: Responding with Confidence for 2024\""
 keywords: "Discord Manners Guide,Responsive Discord User,Confident Chat Roleplay,Etiquette in Online Gaming,Positive Discord Interaction,Communicative Discord Member,Assertive Discord Dialogue"
-thumbnail: https://www.lifewire.com/thmb/hjlD_xJQaod7zK94DY2Tyhdp-X0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f0746613af42a2c779a9073e228.jpg
 ---
 
 ## Discord Etiquette 101: Responding with Confidence
@@ -85,13 +85,13 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
-![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
+![auto reply  message on Discord](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
 
-![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
+![set up permission for bots](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
@@ -106,7 +106,7 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 1. Hover your mouse cursor over the message you wish to react to
 2. Click the smiley face titled "Add reaction" on the message's far-right
 
-![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
+![add reactions to message replying on Discord](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
 
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
 
@@ -121,14 +121,14 @@ Furthermore, to react to a message with an emoji that has already been used as a
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
 
-![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
+![quote message on Discord](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
 
 1. Add > after every line. However, this can become annoying
 2. Instead, add >>> at the start of the paragraph you wish to quote
 
-![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
+![multiple quote message on Discord](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -202,13 +202,13 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
-![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
+![auto reply  message on Discord](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
 
-![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
+![set up permission for bots](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
@@ -223,7 +223,7 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 1. Hover your mouse cursor over the message you wish to react to
 2. Click the smiley face titled "Add reaction" on the message's far-right
 
-![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
+![add reactions to message replying on Discord](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
 
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
 
@@ -238,14 +238,14 @@ Furthermore, to react to a message with an emoji that has already been used as a
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
 
-![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
+![quote message on Discord](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
 
 1. Add > after every line. However, this can become annoying
 2. Instead, add >>> at the start of the paragraph you wish to quote
 
-![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
+![multiple quote message on Discord](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -319,13 +319,13 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
-![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
+![auto reply  message on Discord](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
 
-![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
+![set up permission for bots](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
@@ -340,7 +340,7 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 1. Hover your mouse cursor over the message you wish to react to
 2. Click the smiley face titled "Add reaction" on the message's far-right
 
-![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
+![add reactions to message replying on Discord](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
 
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
 
@@ -355,14 +355,14 @@ Furthermore, to react to a message with an emoji that has already been used as a
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
 
-![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
+![quote message on Discord](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
 
 1. Add > after every line. However, this can become annoying
 2. Instead, add >>> at the start of the paragraph you wish to quote
 
-![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
+![multiple quote message on Discord](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -436,13 +436,13 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
-![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
+![auto reply  message on Discord](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
 
-![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
+![set up permission for bots](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
@@ -457,7 +457,7 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 1. Hover your mouse cursor over the message you wish to react to
 2. Click the smiley face titled "Add reaction" on the message's far-right
 
-![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
+![add reactions to message replying on Discord](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
 
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
 
@@ -472,14 +472,14 @@ Furthermore, to react to a message with an emoji that has already been used as a
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
 
-![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
+![quote message on Discord](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
 
 1. Add > after every line. However, this can become annoying
 2. Instead, add >>> at the start of the paragraph you wish to quote
 
-![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
+![multiple quote message on Discord](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -537,7 +537,7 @@ To create a new link all you have to do is type !new in the chat and it will cre
 
 Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
 
-![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
+![Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
 
  Add the Among Us Bot to:
 
@@ -573,7 +573,7 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
 
-![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
+![Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
 
 It can also be used to inform others about the state of the game.
 
@@ -589,7 +589,7 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
-![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
+![Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
 
@@ -601,7 +601,7 @@ You can check out Among Stats at their official [website](https://amongstats.net
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
 
-![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
+![Among Us Helper Bot](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
 
 To begin an Among Us Helper session, run the command
 
@@ -626,7 +626,7 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
-![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
+![Connect Among Us Manager  Bot to Discord](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
 
@@ -682,7 +682,7 @@ To create a new link all you have to do is type !new in the chat and it will cre
 
 Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
 
-![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
+![Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
 
  Add the Among Us Bot to:
 
@@ -718,7 +718,7 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
 
-![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
+![Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
 
 It can also be used to inform others about the state of the game.
 
@@ -734,7 +734,7 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
-![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
+![Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
 
@@ -746,7 +746,7 @@ You can check out Among Stats at their official [website](https://amongstats.net
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
 
-![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
+![Among Us Helper Bot](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
 
 To begin an Among Us Helper session, run the command
 
@@ -771,7 +771,7 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
-![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
+![Connect Among Us Manager  Bot to Discord](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
 
@@ -827,7 +827,7 @@ To create a new link all you have to do is type !new in the chat and it will cre
 
 Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
 
-![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
+![Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
 
  Add the Among Us Bot to:
 
@@ -863,7 +863,7 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
 
-![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
+![Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
 
 It can also be used to inform others about the state of the game.
 
@@ -879,7 +879,7 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
-![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
+![Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
 
@@ -891,7 +891,7 @@ You can check out Among Stats at their official [website](https://amongstats.net
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
 
-![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
+![Among Us Helper Bot](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
 
 To begin an Among Us Helper session, run the command
 
@@ -916,7 +916,7 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
-![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
+![Connect Among Us Manager  Bot to Discord](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
 
@@ -972,7 +972,7 @@ To create a new link all you have to do is type !new in the chat and it will cre
 
 Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
 
-![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
+![Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
 
  Add the Among Us Bot to:
 
@@ -1008,7 +1008,7 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
 
-![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
+![Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
 
 It can also be used to inform others about the state of the game.
 
@@ -1024,7 +1024,7 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
-![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
+![Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
 
@@ -1036,7 +1036,7 @@ You can check out Among Stats at their official [website](https://amongstats.net
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
 
-![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
+![Among Us Helper Bot](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
 
 To begin an Among Us Helper session, run the command
 
@@ -1061,7 +1061,7 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
-![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
+![Connect Among Us Manager  Bot to Discord](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
 

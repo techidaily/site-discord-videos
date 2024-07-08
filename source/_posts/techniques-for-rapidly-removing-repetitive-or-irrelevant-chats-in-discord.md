@@ -1,7 +1,7 @@
 ---
 title: "Techniques for Rapidly Removing Repetitive or Irrelevant Chats in Discord"
-date: 2024-05-23T22:47:30.745Z
-updated: 2024-05-24T22:47:30.745Z
+date: 2024-07-07T19:11:12.906Z
+updated: 2024-07-08T19:11:12.907Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Techniques for Rapidly Removing Repetitive or Irrelevant Chats in Discord"
 excerpt: "This Article Describes Techniques for Rapidly Removing Repetitive or Irrelevant Chats in Discord"
 keywords: "Quick Chat Cleanup,Remove Redundancy Chats,Ban Repetitive Chats,Delete Irrelevant Discord Messages,Fix Redundant Discord Conversations,Clean up Chat Clutter in Discord,Eliminate Spam Chats Discord"
-thumbnail: https://www.lifewire.com/thmb/SRwGpMCKr7wYP8yH-FKCgSdYOrM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/462313453-56a1ad945f9b58b7d0c1a0ea-b88ee2f1e77f4b0f9dc42f22a7042136.jpg
+thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da35193b7ba8be663bba21950e5e8.jpg
 ---
 
 ## Techniques for Rapidly Removing Repetitive or Irrelevant Chats in Discord
@@ -89,7 +89,7 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
-![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+![delete Discord Message](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -154,7 +154,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
-![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+![delete discord channel message with MEE6 Bot](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
@@ -305,7 +305,7 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
-![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+![delete Discord Message](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -370,7 +370,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
-![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+![delete discord channel message with MEE6 Bot](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
@@ -521,7 +521,7 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
-![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+![delete Discord Message](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -586,7 +586,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
-![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+![delete discord channel message with MEE6 Bot](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
@@ -737,7 +737,7 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
-![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+![delete Discord Message](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -802,7 +802,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
-![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+![delete discord channel message with MEE6 Bot](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
@@ -926,12 +926,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -947,7 +947,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -1046,12 +1046,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -1067,7 +1067,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -1166,12 +1166,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -1187,7 +1187,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -1286,12 +1286,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -1307,7 +1307,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 

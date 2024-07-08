@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secrets of Custom Emoji Integration in Discord"
-date: 2024-05-23T22:47:32.561Z
-updated: 2024-05-24T22:47:32.561Z
+date: 2024-07-07T19:11:26.409Z
+updated: 2024-07-08T19:11:26.409Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Unveiling the Secrets of Custom Emoji Integration in Discord"
 excerpt: "This Article Describes Unveiling the Secrets of Custom Emoji Integration in Discord"
 keywords: "\"Emoji Add-On for Discord,Discord Emoji Personalization,Custom Emoji Creation,Integrating Emojis Discord,Emoji UI Design in Discord,DiscoEmoji Development,Enhancing Chat with Emoji\""
-thumbnail: https://www.lifewire.com/thmb/2j9zscNBYRMQ_Fozem_nlgTXfTE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2022-01-13at12.25.09PM-aa52f1508d6b489b84df85c774669e89.png
+thumbnail: https://thmb.techidaily.com/132555d330df6c205c8e32dca26d7905a91b5054d60d992a4b9ddb9496678dda.png
 ---
 
 ## Unveiling the Secrets of Custom Emoji Integration in Discord

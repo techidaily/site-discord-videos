@@ -1,7 +1,7 @@
 ---
 title: "[New] Guide to Setting Up and Managing Discord Channels for Beginners for 2024"
-date: 2024-05-23T22:48:12.434Z
-updated: 2024-05-24T22:48:12.434Z
+date: 2024-07-07T19:11:21.696Z
+updated: 2024-07-08T19:11:21.696Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Guide to Setting Up and Managing Discord Channels for Beginners for 2024"
 excerpt: "This Article Describes [New] Guide to Setting Up and Managing Discord Channels for Beginners for 2024"
 keywords: "Discord Channel Basics,Creating Disco Channels,Manage Discord Servers,Starting Discord Groups,Simple Discord Setup Guide,Learn to Organize Channels,Beginner's Discord Management"
-thumbnail: https://www.lifewire.com/thmb/35EJIYWnOjf-DPYyt8jATjphfKo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/couple-reading-map-on-waterfront--young-woman-using-mobile-phone-200326285-001-5a948525119fa80036dc10c9.jpg
+thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b87668f0c388f2d39f0ecdca.jpg
 ---
 
 ## Guide to Setting Up and Managing Discord Channels for Beginners

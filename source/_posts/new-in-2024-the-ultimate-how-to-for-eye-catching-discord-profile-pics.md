@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, The Ultimate How-To for Eye-Catching Discord Profile Pics\""
-date: 2024-05-23T22:48:26.442Z
-updated: 2024-05-24T22:48:26.442Z
+date: 2024-07-07T19:11:19.069Z
+updated: 2024-07-08T19:11:19.069Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, The Ultimate How-To for Eye-Catching Discord Profile Pics\""
 excerpt: "\"This Article Describes [New] In 2024, The Ultimate How-To for Eye-Catching Discord Profile Pics\""
 keywords: "\"Stellar Discord Photos,Eye-Catching Pics Guide,Profile Pic Tips,Discord Picture Standout,Perfect Discord Selfie,Profile Image Enhancement,Engaging Avatar Ideas\""
-thumbnail: https://www.lifewire.com/thmb/9nxAVZKOxRuI6narBFkF2c9c9_E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-585151372-a659baf0c7b441b9b7e7896716b12784.jpg
+thumbnail: https://thmb.techidaily.com/d52ef143e5ac406fb5edcd5e28a24a2a1379f299efd751d4b382d0440e3e89ad.jpg
 ---
 
 ## The Ultimate How-To for Eye-Catching Discord Profile Pics
@@ -124,7 +124,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -134,7 +134,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -146,7 +146,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -271,7 +271,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -281,7 +281,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -293,7 +293,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -418,7 +418,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -428,7 +428,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -440,7 +440,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -565,7 +565,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -575,7 +575,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -587,7 +587,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -656,13 +656,13 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+![add spoiler tag to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+![add spoiler tag slash to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -683,7 +683,7 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+![add spoiler to image and video on Discord](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -716,7 +716,7 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+![turn off spoiler on Discord](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
@@ -757,13 +757,13 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+![add spoiler tag to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+![add spoiler tag slash to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -784,7 +784,7 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+![add spoiler to image and video on Discord](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -817,7 +817,7 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+![turn off spoiler on Discord](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
@@ -858,13 +858,13 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+![add spoiler tag to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+![add spoiler tag slash to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -885,7 +885,7 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+![add spoiler to image and video on Discord](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -918,7 +918,7 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+![turn off spoiler on Discord](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
@@ -959,13 +959,13 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+![add spoiler tag to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+![add spoiler tag slash to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -986,7 +986,7 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+![add spoiler to image and video on Discord](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -1019,7 +1019,7 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+![turn off spoiler on Discord](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlock Discord's Full Potential with These 10 Innovative Tools"
-date: 2024-05-23T22:47:58.602Z
-updated: 2024-05-24T22:47:58.602Z
+date: 2024-07-07T19:11:16.405Z
+updated: 2024-07-08T19:11:16.405Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Unlock Discord's Full Potential with These 10 Innovative Tools"
 excerpt: "This Article Describes [Updated] Unlock Discord's Full Potential with These 10 Innovative Tools"
 keywords: "Discord Power Tools,Top 10 Discord Apps,Enhance Discord Experience,Unique Discord Gadgets,Innovate DiscoCommunity,Boost Discord Usage,Essential Discord Extras"
-thumbnail: https://www.lifewire.com/thmb/k7xjMSNieWlwf9mMctw10r9sWkw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Anna-Spearman-selfie-5138968eef3a4f71bd3b35b4131d4886.png
+thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993db7a19d5db6d527a1da8e1b4.png
 ---
 
 ## Unlock Discord's Full Potential with These 10 Innovative Tools
@@ -45,7 +45,7 @@ With the official server of Better Discord, you can install Discord Plugins and 
 
 Given below are some popular Discord plugins that are easily downloadable to improve the Discord server.
 
-### 1. [Permissions Viewer](https://betterdiscord.app/plugin/PermissionsViewer)
+### 1. Permissions Viewer
 
 ![discord plugin permissions viewer](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-permissions-viewer.jpg)
 
@@ -53,13 +53,13 @@ Permission's Viewer is a useful Discord plugin for everyone. It will allow you t
 
 Tapping the context menu will bring up the modal, which has a role-by-role breakdown. You can see all permissions, including managing channels, managing roles, and creating invites, etc.
 
-### 2. [Hide Disabled Emojis](https://betterdiscord.app/plugin/HideDisabledEmojis)
+### 2. Hide Disabled Emojis
 
 ![hide disabled emojis](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-hide-disabled-emojis.jpg)
 
 Discord plugins consist of a perfect collection of different emojis from different sections. At the same time, it comes with some disabled emojis as well. Using this plugin, you can easily hide all the disabled emojis, not to make them visible again.
 
-### 3. [Read All Notifications Button](https://betterdiscord.app/plugin/ReadAllNotificationsButton)
+### 3. Read All Notifications Button
 
 ![notifications discord plugin](https://images.wondershare.com/filmora/article-images/2021/notifications-discord-plugin.jpg)
 
@@ -67,7 +67,7 @@ Read All Notifications Button is a handy Discord plugin to remove all notificati
 
 Upon activating this plugin, a **Clear** button will show on your server list, and a mentions popout. Hitting the **Clear** tab from any of these two options will instantly clear every notification.
 
-### 4. [Better Role Colors](https://betterdiscord.app/plugin/BetterRoleColors)
+### 4. Better Role Colors
 
 ![better role colors discord plugin](https://images.wondershare.com/filmora/article-images/2021/better-role-colors-discord-plugin.jpg)
 
@@ -75,19 +75,19 @@ As the name signifies, this plugin will let you set the custom font colors for d
 
 The plugin includes colored voice, colored typing, color popouts and modals, and finally, a colored audit log.
 
-### 5. [Creation Date](https://betterdiscord.app/plugin/CreationDate)
+### 5. Creation Date
 
 Creation Date Discord plugin will assist users in seeing details right from the creation of users' accounts. Right after the launch, the plugin will display the creation date of an account in the user model and the user popout.
 
 Just beneath the name, you will see a tab called "**Create on**" to disclose the information like both date and time. The date is in DD/MM/YYYY format, and time is given in HH: MM format. Thus, it's quite a simple little Better Discord plugin.
 
-### 6. [Google Translate Option](https://betterdiscord.app/plugin/GoogleTranslateOption)
+### 6. Google Translate Option
 
 This is the go-to plugin if you are you use an international Discord server. With its usage, you may want to translate messages and switch to another language.
 
 You can easily translate messages in any language right from Discord itself with the help of this Google Translate Option Discord plugin. This plugin supports both outgoing and incoming and messages, so if you want to send messages in some other language, the **better discord plugin** will cover you.
 
-### 7. [Show Hidden Controls](https://betterdiscord.app/plugin/ShowHiddenChannels)
+### 7. Show Hidden Controls
 
 ![show hidden controls discord plugin](https://images.wondershare.com/filmora/article-images/2021/show-hidden-controls-discord-plugin.jpg)
 
@@ -95,13 +95,13 @@ Another famous Discord pluginis Show Hidden Controls that allows access to hidde
 
 Using this cool Discord Plugin, you can also see an entire overview of the channel. However, you will be unable to send and view messages on the server. It only discloses the hidden channels and essential details regarding the same.
 
-### 8. [Spotify Controls](https://betterdiscord.app/plugin/SpotifyControls)
+### 8. Spotify Controls
 
 Well, we all know that you can connect and use your Spotify account on Discord. Well, if you want to do this, then this plugin is for you. This plugin lets you control the Spotify audio playback right from the Discord itself.
 
 Upon enabling this Discord plugin, you will see a new **Spotify Controls** section within the server. It consists of information like the singer, cover photo, the song played, and elapsed time. Moreover, you can play/pause, go forward or backward with the in-built Spotify controls.
 
-### 9. [Send Large Messages](https://betterdiscord.app/plugin/SendLargeMessages)
+### 9. Send Large Messages
 
 We all know that Discord has a messaging limit of 2000 characters. You can use Send Large Messages better discord plugin to bypass this limit. This plugin will automatically split your shorter texts into multiple messages and send them to the other servers for you.
 
@@ -187,7 +187,7 @@ With the official server of Better Discord, you can install Discord Plugins and 
 
 Given below are some popular Discord plugins that are easily downloadable to improve the Discord server.
 
-### 1. [Permissions Viewer](https://betterdiscord.app/plugin/PermissionsViewer)
+### 1. Permissions Viewer
 
 ![discord plugin permissions viewer](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-permissions-viewer.jpg)
 
@@ -195,13 +195,13 @@ Permission's Viewer is a useful Discord plugin for everyone. It will allow you t
 
 Tapping the context menu will bring up the modal, which has a role-by-role breakdown. You can see all permissions, including managing channels, managing roles, and creating invites, etc.
 
-### 2. [Hide Disabled Emojis](https://betterdiscord.app/plugin/HideDisabledEmojis)
+### 2. Hide Disabled Emojis
 
 ![hide disabled emojis](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-hide-disabled-emojis.jpg)
 
 Discord plugins consist of a perfect collection of different emojis from different sections. At the same time, it comes with some disabled emojis as well. Using this plugin, you can easily hide all the disabled emojis, not to make them visible again.
 
-### 3. [Read All Notifications Button](https://betterdiscord.app/plugin/ReadAllNotificationsButton)
+### 3. Read All Notifications Button
 
 ![notifications discord plugin](https://images.wondershare.com/filmora/article-images/2021/notifications-discord-plugin.jpg)
 
@@ -209,7 +209,7 @@ Read All Notifications Button is a handy Discord plugin to remove all notificati
 
 Upon activating this plugin, a **Clear** button will show on your server list, and a mentions popout. Hitting the **Clear** tab from any of these two options will instantly clear every notification.
 
-### 4. [Better Role Colors](https://betterdiscord.app/plugin/BetterRoleColors)
+### 4. Better Role Colors
 
 ![better role colors discord plugin](https://images.wondershare.com/filmora/article-images/2021/better-role-colors-discord-plugin.jpg)
 
@@ -217,19 +217,19 @@ As the name signifies, this plugin will let you set the custom font colors for d
 
 The plugin includes colored voice, colored typing, color popouts and modals, and finally, a colored audit log.
 
-### 5. [Creation Date](https://betterdiscord.app/plugin/CreationDate)
+### 5. Creation Date
 
 Creation Date Discord plugin will assist users in seeing details right from the creation of users' accounts. Right after the launch, the plugin will display the creation date of an account in the user model and the user popout.
 
 Just beneath the name, you will see a tab called "**Create on**" to disclose the information like both date and time. The date is in DD/MM/YYYY format, and time is given in HH: MM format. Thus, it's quite a simple little Better Discord plugin.
 
-### 6. [Google Translate Option](https://betterdiscord.app/plugin/GoogleTranslateOption)
+### 6. Google Translate Option
 
 This is the go-to plugin if you are you use an international Discord server. With its usage, you may want to translate messages and switch to another language.
 
 You can easily translate messages in any language right from Discord itself with the help of this Google Translate Option Discord plugin. This plugin supports both outgoing and incoming and messages, so if you want to send messages in some other language, the **better discord plugin** will cover you.
 
-### 7. [Show Hidden Controls](https://betterdiscord.app/plugin/ShowHiddenChannels)
+### 7. Show Hidden Controls
 
 ![show hidden controls discord plugin](https://images.wondershare.com/filmora/article-images/2021/show-hidden-controls-discord-plugin.jpg)
 
@@ -237,13 +237,13 @@ Another famous Discord pluginis Show Hidden Controls that allows access to hidde
 
 Using this cool Discord Plugin, you can also see an entire overview of the channel. However, you will be unable to send and view messages on the server. It only discloses the hidden channels and essential details regarding the same.
 
-### 8. [Spotify Controls](https://betterdiscord.app/plugin/SpotifyControls)
+### 8. Spotify Controls
 
 Well, we all know that you can connect and use your Spotify account on Discord. Well, if you want to do this, then this plugin is for you. This plugin lets you control the Spotify audio playback right from the Discord itself.
 
 Upon enabling this Discord plugin, you will see a new **Spotify Controls** section within the server. It consists of information like the singer, cover photo, the song played, and elapsed time. Moreover, you can play/pause, go forward or backward with the in-built Spotify controls.
 
-### 9. [Send Large Messages](https://betterdiscord.app/plugin/SendLargeMessages)
+### 9. Send Large Messages
 
 We all know that Discord has a messaging limit of 2000 characters. You can use Send Large Messages better discord plugin to bypass this limit. This plugin will automatically split your shorter texts into multiple messages and send them to the other servers for you.
 
@@ -329,7 +329,7 @@ With the official server of Better Discord, you can install Discord Plugins and 
 
 Given below are some popular Discord plugins that are easily downloadable to improve the Discord server.
 
-### 1. [Permissions Viewer](https://betterdiscord.app/plugin/PermissionsViewer)
+### 1. Permissions Viewer
 
 ![discord plugin permissions viewer](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-permissions-viewer.jpg)
 
@@ -337,13 +337,13 @@ Permission's Viewer is a useful Discord plugin for everyone. It will allow you t
 
 Tapping the context menu will bring up the modal, which has a role-by-role breakdown. You can see all permissions, including managing channels, managing roles, and creating invites, etc.
 
-### 2. [Hide Disabled Emojis](https://betterdiscord.app/plugin/HideDisabledEmojis)
+### 2. Hide Disabled Emojis
 
 ![hide disabled emojis](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-hide-disabled-emojis.jpg)
 
 Discord plugins consist of a perfect collection of different emojis from different sections. At the same time, it comes with some disabled emojis as well. Using this plugin, you can easily hide all the disabled emojis, not to make them visible again.
 
-### 3. [Read All Notifications Button](https://betterdiscord.app/plugin/ReadAllNotificationsButton)
+### 3. Read All Notifications Button
 
 ![notifications discord plugin](https://images.wondershare.com/filmora/article-images/2021/notifications-discord-plugin.jpg)
 
@@ -351,7 +351,7 @@ Read All Notifications Button is a handy Discord plugin to remove all notificati
 
 Upon activating this plugin, a **Clear** button will show on your server list, and a mentions popout. Hitting the **Clear** tab from any of these two options will instantly clear every notification.
 
-### 4. [Better Role Colors](https://betterdiscord.app/plugin/BetterRoleColors)
+### 4. Better Role Colors
 
 ![better role colors discord plugin](https://images.wondershare.com/filmora/article-images/2021/better-role-colors-discord-plugin.jpg)
 
@@ -359,19 +359,19 @@ As the name signifies, this plugin will let you set the custom font colors for d
 
 The plugin includes colored voice, colored typing, color popouts and modals, and finally, a colored audit log.
 
-### 5. [Creation Date](https://betterdiscord.app/plugin/CreationDate)
+### 5. Creation Date
 
 Creation Date Discord plugin will assist users in seeing details right from the creation of users' accounts. Right after the launch, the plugin will display the creation date of an account in the user model and the user popout.
 
 Just beneath the name, you will see a tab called "**Create on**" to disclose the information like both date and time. The date is in DD/MM/YYYY format, and time is given in HH: MM format. Thus, it's quite a simple little Better Discord plugin.
 
-### 6. [Google Translate Option](https://betterdiscord.app/plugin/GoogleTranslateOption)
+### 6. Google Translate Option
 
 This is the go-to plugin if you are you use an international Discord server. With its usage, you may want to translate messages and switch to another language.
 
 You can easily translate messages in any language right from Discord itself with the help of this Google Translate Option Discord plugin. This plugin supports both outgoing and incoming and messages, so if you want to send messages in some other language, the **better discord plugin** will cover you.
 
-### 7. [Show Hidden Controls](https://betterdiscord.app/plugin/ShowHiddenChannels)
+### 7. Show Hidden Controls
 
 ![show hidden controls discord plugin](https://images.wondershare.com/filmora/article-images/2021/show-hidden-controls-discord-plugin.jpg)
 
@@ -379,13 +379,13 @@ Another famous Discord pluginis Show Hidden Controls that allows access to hidde
 
 Using this cool Discord Plugin, you can also see an entire overview of the channel. However, you will be unable to send and view messages on the server. It only discloses the hidden channels and essential details regarding the same.
 
-### 8. [Spotify Controls](https://betterdiscord.app/plugin/SpotifyControls)
+### 8. Spotify Controls
 
 Well, we all know that you can connect and use your Spotify account on Discord. Well, if you want to do this, then this plugin is for you. This plugin lets you control the Spotify audio playback right from the Discord itself.
 
 Upon enabling this Discord plugin, you will see a new **Spotify Controls** section within the server. It consists of information like the singer, cover photo, the song played, and elapsed time. Moreover, you can play/pause, go forward or backward with the in-built Spotify controls.
 
-### 9. [Send Large Messages](https://betterdiscord.app/plugin/SendLargeMessages)
+### 9. Send Large Messages
 
 We all know that Discord has a messaging limit of 2000 characters. You can use Send Large Messages better discord plugin to bypass this limit. This plugin will automatically split your shorter texts into multiple messages and send them to the other servers for you.
 
@@ -471,7 +471,7 @@ With the official server of Better Discord, you can install Discord Plugins and 
 
 Given below are some popular Discord plugins that are easily downloadable to improve the Discord server.
 
-### 1. [Permissions Viewer](https://betterdiscord.app/plugin/PermissionsViewer)
+### 1. Permissions Viewer
 
 ![discord plugin permissions viewer](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-permissions-viewer.jpg)
 
@@ -479,13 +479,13 @@ Permission's Viewer is a useful Discord plugin for everyone. It will allow you t
 
 Tapping the context menu will bring up the modal, which has a role-by-role breakdown. You can see all permissions, including managing channels, managing roles, and creating invites, etc.
 
-### 2. [Hide Disabled Emojis](https://betterdiscord.app/plugin/HideDisabledEmojis)
+### 2. Hide Disabled Emojis
 
 ![hide disabled emojis](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-hide-disabled-emojis.jpg)
 
 Discord plugins consist of a perfect collection of different emojis from different sections. At the same time, it comes with some disabled emojis as well. Using this plugin, you can easily hide all the disabled emojis, not to make them visible again.
 
-### 3. [Read All Notifications Button](https://betterdiscord.app/plugin/ReadAllNotificationsButton)
+### 3. Read All Notifications Button
 
 ![notifications discord plugin](https://images.wondershare.com/filmora/article-images/2021/notifications-discord-plugin.jpg)
 
@@ -493,7 +493,7 @@ Read All Notifications Button is a handy Discord plugin to remove all notificati
 
 Upon activating this plugin, a **Clear** button will show on your server list, and a mentions popout. Hitting the **Clear** tab from any of these two options will instantly clear every notification.
 
-### 4. [Better Role Colors](https://betterdiscord.app/plugin/BetterRoleColors)
+### 4. Better Role Colors
 
 ![better role colors discord plugin](https://images.wondershare.com/filmora/article-images/2021/better-role-colors-discord-plugin.jpg)
 
@@ -501,19 +501,19 @@ As the name signifies, this plugin will let you set the custom font colors for d
 
 The plugin includes colored voice, colored typing, color popouts and modals, and finally, a colored audit log.
 
-### 5. [Creation Date](https://betterdiscord.app/plugin/CreationDate)
+### 5. Creation Date
 
 Creation Date Discord plugin will assist users in seeing details right from the creation of users' accounts. Right after the launch, the plugin will display the creation date of an account in the user model and the user popout.
 
 Just beneath the name, you will see a tab called "**Create on**" to disclose the information like both date and time. The date is in DD/MM/YYYY format, and time is given in HH: MM format. Thus, it's quite a simple little Better Discord plugin.
 
-### 6. [Google Translate Option](https://betterdiscord.app/plugin/GoogleTranslateOption)
+### 6. Google Translate Option
 
 This is the go-to plugin if you are you use an international Discord server. With its usage, you may want to translate messages and switch to another language.
 
 You can easily translate messages in any language right from Discord itself with the help of this Google Translate Option Discord plugin. This plugin supports both outgoing and incoming and messages, so if you want to send messages in some other language, the **better discord plugin** will cover you.
 
-### 7. [Show Hidden Controls](https://betterdiscord.app/plugin/ShowHiddenChannels)
+### 7. Show Hidden Controls
 
 ![show hidden controls discord plugin](https://images.wondershare.com/filmora/article-images/2021/show-hidden-controls-discord-plugin.jpg)
 
@@ -521,13 +521,13 @@ Another famous Discord pluginis Show Hidden Controls that allows access to hidde
 
 Using this cool Discord Plugin, you can also see an entire overview of the channel. However, you will be unable to send and view messages on the server. It only discloses the hidden channels and essential details regarding the same.
 
-### 8. [Spotify Controls](https://betterdiscord.app/plugin/SpotifyControls)
+### 8. Spotify Controls
 
 Well, we all know that you can connect and use your Spotify account on Discord. Well, if you want to do this, then this plugin is for you. This plugin lets you control the Spotify audio playback right from the Discord itself.
 
 Upon enabling this Discord plugin, you will see a new **Spotify Controls** section within the server. It consists of information like the singer, cover photo, the song played, and elapsed time. Moreover, you can play/pause, go forward or backward with the in-built Spotify controls.
 
-### 9. [Send Large Messages](https://betterdiscord.app/plugin/SendLargeMessages)
+### 9. Send Large Messages
 
 We all know that Discord has a messaging limit of 2000 characters. You can use Send Large Messages better discord plugin to bypass this limit. This plugin will automatically split your shorter texts into multiple messages and send them to the other servers for you.
 
@@ -634,11 +634,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -649,11 +649,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -744,11 +744,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -759,11 +759,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -854,11 +854,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -869,11 +869,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -964,11 +964,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -979,11 +979,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 

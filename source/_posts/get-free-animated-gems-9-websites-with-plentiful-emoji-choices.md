@@ -1,7 +1,7 @@
 ---
 title: "\"Get FREE Animated Gems  9 Websites with Plentiful Emoji Choices\""
-date: 2024-05-23T22:47:28.414Z
-updated: 2024-05-24T22:47:28.414Z
+date: 2024-07-07T19:11:09.278Z
+updated: 2024-07-08T19:11:09.278Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Get FREE Animated Gems: 9 Websites with Plentiful Emoji Choices\""
 excerpt: "\"This Article Describes Get FREE Animated Gems: 9 Websites with Plentiful Emoji Choices\""
 keywords: "Free Animated Gems,Emoji Choices Web,Gems Emojis Selection,Emoji Plentiful Sites,Websites Emoji Access,Animated Gems Resources,Plentiful Emoji Online,Free Gems Emoji,Emojis Web Access,Gems for Emoji Use,Access Plentiful Emoji,Websites Emoji Choice,Animated Emoji Sites,Plentiful Free Emojis"
-thumbnail: https://www.lifewire.com/thmb/lbxhd7OB6rqQx-qqETdnPadxxu4=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/selfie-with-cute-little-dog-with-eyeglasses-595737544-562674d335a74d94828f7a5d7fe1f6b2.jpg
+thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc52f88c01d78e6b3f6c28c68c.jpg
 ---
 
 ## Get FREE Animated Gems: 9 Websites with Plentiful Emoji Choices
@@ -658,12 +658,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -679,7 +679,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -778,12 +778,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -799,7 +799,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -898,12 +898,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -919,7 +919,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -1018,12 +1018,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -1039,7 +1039,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 

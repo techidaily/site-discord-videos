@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, How to Add a Touch of Personality to Your Discord Status  A PC & Mobile Walkthrough\""
-date: 2024-05-23T22:47:45.427Z
-updated: 2024-05-24T22:47:45.427Z
+date: 2024-07-07T19:11:06.268Z
+updated: 2024-07-08T19:11:06.268Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, How to Add a Touch of Personality to Your Discord Status: A PC & Mobile Walkthrough\""
 excerpt: "\"This Article Describes In 2024, How to Add a Touch of Personality to Your Discord Status: A PC & Mobile Walkthrough\""
 keywords: "Personalize Discord Status,Enhancing Discord Stat,Creative Stat Boost,Unique Stat Ideas,PC/Mobile Stat Guide,Status Customization Tips,Personalized Discord Display"
-thumbnail: https://www.lifewire.com/thmb/BC6OeiwkBymr7dc4CcbkqAYWOxw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1251892298-4a6a303ae72a47ff807e5d0b7a9e899a.jpg
+thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d94da77b1f5b8b2204a1d875.jpg
 ---
 
 ## How to Add a Touch of Personality to Your Discord Status: A PC & Mobile Walkthrough

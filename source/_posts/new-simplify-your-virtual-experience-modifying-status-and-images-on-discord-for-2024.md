@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Simplify Your Virtual Experience  Modifying Status & Images on Discord for 2024\""
-date: 2024-05-23T22:48:22.457Z
-updated: 2024-05-24T22:48:22.457Z
+date: 2024-07-07T19:11:13.810Z
+updated: 2024-07-08T19:11:13.810Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Simplify Your Virtual Experience: Modifying Status & Images on Discord for 2024\""
 excerpt: "\"This Article Describes [New] Simplify Your Virtual Experience: Modifying Status & Images on Discord for 2024\""
 keywords: "Simplify Discord Experience,Change Discord Status,Edit Discord Photo,Update Discord Avatar,Modify Discord Profile,Customize Discord Image,Streamline Discord Appearance"
-thumbnail: https://www.lifewire.com/thmb/n-gh4j1AaDVZ39nbqdgnvkuDwv0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/freeinternet-c3d6ba69b0de4ee3852547ba7dc8250f.jpg
+thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a1e199fa6e8f6bfec8524954.jpg
 ---
 
 ## Simplify Your Virtual Experience: Modifying Status & Images on Discord
@@ -68,7 +68,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -76,7 +76,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -86,7 +86,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -112,7 +112,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -126,11 +126,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -207,7 +207,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -215,7 +215,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -225,7 +225,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -251,7 +251,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -265,11 +265,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -346,7 +346,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -354,7 +354,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -364,7 +364,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -390,7 +390,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -404,11 +404,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -485,7 +485,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -493,7 +493,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -503,7 +503,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -529,7 +529,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -543,11 +543,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -624,13 +624,13 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+![add spoiler tag to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+![add spoiler tag slash to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -651,7 +651,7 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+![add spoiler to image and video on Discord](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -684,7 +684,7 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+![turn off spoiler on Discord](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
@@ -725,13 +725,13 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+![add spoiler tag to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+![add spoiler tag slash to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -752,7 +752,7 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+![add spoiler to image and video on Discord](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -785,7 +785,7 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+![turn off spoiler on Discord](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
@@ -826,13 +826,13 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+![add spoiler tag to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+![add spoiler tag slash to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -853,7 +853,7 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+![add spoiler to image and video on Discord](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -886,7 +886,7 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+![turn off spoiler on Discord](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
@@ -927,13 +927,13 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+![add spoiler tag to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+![add spoiler tag slash to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -954,7 +954,7 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+![add spoiler to image and video on Discord](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -987,7 +987,7 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+![turn off spoiler on Discord](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 

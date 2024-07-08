@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Social Synergy  Add Friends Effortlessly on Devices for 2024\""
-date: 2024-05-23T22:48:22.605Z
-updated: 2024-05-24T22:48:22.605Z
+date: 2024-07-07T19:11:15.523Z
+updated: 2024-07-08T19:11:15.523Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Social Synergy: Add Friends Effortlessly on Devices for 2024\""
 excerpt: "\"This Article Describes [Updated] Social Synergy: Add Friends Effortlessly on Devices for 2024\""
 keywords: "\"Social Connect Devices,Friend Invite Seamless,Device-Friendly Syncing,Easy Online Networking,Synergy Sharing Apps,Automatic Friends Addition,Effortless Linking Platform\""
-thumbnail: https://www.lifewire.com/thmb/R4hO61lalLOqraKCRcJdmU6HWfQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_21-best-teen-movies-on-netflix-5104880-b0e9832746854cabb4f33cafef96214b.jpg
+thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d9b87e9c40850a4f81b5f21f.jpg
 ---
 
 ## Social Synergy: Add Friends Effortlessly on Devices
@@ -44,12 +44,12 @@ If you are using a desktop app or the website, here is how you can add friends -
 1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
 2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
 
-![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
+![Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
 
 1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
 2. Hit the send friend request button to send the friend request.
 
-![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
+![Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
 
 1. The friend will appear in your friend list once they accept your friend request.
 
@@ -62,7 +62,7 @@ Severs are the places where you find your best buddies who obsess over the same 
 1. Open the server that you and your friend are a part of.
 2. Tap on your friend’s profile. You can find their profile in the user list of the server.
 
-![ add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
+![add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
 
 1. View their profile. Click open the profile's menu.
 2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
@@ -86,7 +86,7 @@ If you have some friends that you do not share common channels with, you can add
 1. Open the discord app.
 2. Tap on the Friends button that is located towards the bottom.
 
-![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
+![add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
 
 1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
 2. A box appears. Enter the discord username and the tag number.
@@ -107,7 +107,7 @@ Follow these steps to add a friend that you met on the server.
 4. Find your friend on the list. When you find your friend, tap on their profile.
 5. Their profile will pop up. Click the ‘add friend’ button.
 
-![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
+![add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
 
 1. Your friend request will be delivered.
 2. Once they approve, they will be a part of your friend list.
@@ -123,11 +123,11 @@ In case you have been using discord for a while, you might have realized that th
 3. Tap the Friends symbol that appears on the bottom tab.
 4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
 
-![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
+![add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
 
 1. Ask your friend to turn on the Nearby Scan mode on their phone too.
 
-![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
+![add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
 
 1. When your friend gets detected, they appear on the radar.
 2. Hit the ‘Send’ button to send a Friend Request.
@@ -194,12 +194,12 @@ If you are using a desktop app or the website, here is how you can add friends -
 1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
 2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
 
-![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
+![Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
 
 1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
 2. Hit the send friend request button to send the friend request.
 
-![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
+![Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
 
 1. The friend will appear in your friend list once they accept your friend request.
 
@@ -212,7 +212,7 @@ Severs are the places where you find your best buddies who obsess over the same 
 1. Open the server that you and your friend are a part of.
 2. Tap on your friend’s profile. You can find their profile in the user list of the server.
 
-![ add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
+![add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
 
 1. View their profile. Click open the profile's menu.
 2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
@@ -236,7 +236,7 @@ If you have some friends that you do not share common channels with, you can add
 1. Open the discord app.
 2. Tap on the Friends button that is located towards the bottom.
 
-![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
+![add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
 
 1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
 2. A box appears. Enter the discord username and the tag number.
@@ -257,7 +257,7 @@ Follow these steps to add a friend that you met on the server.
 4. Find your friend on the list. When you find your friend, tap on their profile.
 5. Their profile will pop up. Click the ‘add friend’ button.
 
-![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
+![add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
 
 1. Your friend request will be delivered.
 2. Once they approve, they will be a part of your friend list.
@@ -273,11 +273,11 @@ In case you have been using discord for a while, you might have realized that th
 3. Tap the Friends symbol that appears on the bottom tab.
 4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
 
-![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
+![add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
 
 1. Ask your friend to turn on the Nearby Scan mode on their phone too.
 
-![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
+![add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
 
 1. When your friend gets detected, they appear on the radar.
 2. Hit the ‘Send’ button to send a Friend Request.
@@ -344,12 +344,12 @@ If you are using a desktop app or the website, here is how you can add friends -
 1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
 2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
 
-![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
+![Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
 
 1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
 2. Hit the send friend request button to send the friend request.
 
-![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
+![Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
 
 1. The friend will appear in your friend list once they accept your friend request.
 
@@ -362,7 +362,7 @@ Severs are the places where you find your best buddies who obsess over the same 
 1. Open the server that you and your friend are a part of.
 2. Tap on your friend’s profile. You can find their profile in the user list of the server.
 
-![ add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
+![add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
 
 1. View their profile. Click open the profile's menu.
 2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
@@ -386,7 +386,7 @@ If you have some friends that you do not share common channels with, you can add
 1. Open the discord app.
 2. Tap on the Friends button that is located towards the bottom.
 
-![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
+![add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
 
 1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
 2. A box appears. Enter the discord username and the tag number.
@@ -407,7 +407,7 @@ Follow these steps to add a friend that you met on the server.
 4. Find your friend on the list. When you find your friend, tap on their profile.
 5. Their profile will pop up. Click the ‘add friend’ button.
 
-![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
+![add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
 
 1. Your friend request will be delivered.
 2. Once they approve, they will be a part of your friend list.
@@ -423,11 +423,11 @@ In case you have been using discord for a while, you might have realized that th
 3. Tap the Friends symbol that appears on the bottom tab.
 4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
 
-![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
+![add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
 
 1. Ask your friend to turn on the Nearby Scan mode on their phone too.
 
-![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
+![add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
 
 1. When your friend gets detected, they appear on the radar.
 2. Hit the ‘Send’ button to send a Friend Request.
@@ -494,12 +494,12 @@ If you are using a desktop app or the website, here is how you can add friends -
 1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
 2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
 
-![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
+![Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
 
 1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
 2. Hit the send friend request button to send the friend request.
 
-![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
+![Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
 
 1. The friend will appear in your friend list once they accept your friend request.
 
@@ -512,7 +512,7 @@ Severs are the places where you find your best buddies who obsess over the same 
 1. Open the server that you and your friend are a part of.
 2. Tap on your friend’s profile. You can find their profile in the user list of the server.
 
-![ add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
+![add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
 
 1. View their profile. Click open the profile's menu.
 2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
@@ -536,7 +536,7 @@ If you have some friends that you do not share common channels with, you can add
 1. Open the discord app.
 2. Tap on the Friends button that is located towards the bottom.
 
-![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
+![add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
 
 1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
 2. A box appears. Enter the discord username and the tag number.
@@ -557,7 +557,7 @@ Follow these steps to add a friend that you met on the server.
 4. Find your friend on the list. When you find your friend, tap on their profile.
 5. Their profile will pop up. Click the ‘add friend’ button.
 
-![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
+![add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
 
 1. Your friend request will be delivered.
 2. Once they approve, they will be a part of your friend list.
@@ -573,11 +573,11 @@ In case you have been using discord for a while, you might have realized that th
 3. Tap the Friends symbol that appears on the bottom tab.
 4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
 
-![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
+![add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
 
 1. Ask your friend to turn on the Nearby Scan mode on their phone too.
 
-![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
+![add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
 
 1. When your friend gets detected, they appear on the radar.
 2. Hit the ‘Send’ button to send a Friend Request.
@@ -668,13 +668,13 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+![add spoiler tag to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+![add spoiler tag slash to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -695,7 +695,7 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+![add spoiler to image and video on Discord](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -728,7 +728,7 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+![turn off spoiler on Discord](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
@@ -769,13 +769,13 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+![add spoiler tag to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+![add spoiler tag slash to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -796,7 +796,7 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+![add spoiler to image and video on Discord](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -829,7 +829,7 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+![turn off spoiler on Discord](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
@@ -870,13 +870,13 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+![add spoiler tag to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+![add spoiler tag slash to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -897,7 +897,7 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+![add spoiler to image and video on Discord](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -930,7 +930,7 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+![turn off spoiler on Discord](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
@@ -971,13 +971,13 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+![add spoiler tag to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+![add spoiler tag slash to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -998,7 +998,7 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+![add spoiler to image and video on Discord](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -1031,7 +1031,7 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+![turn off spoiler on Discord](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Unleashing the Power of Visual Identity  Mastering Discord Pfp's\""
-date: 2024-05-23T22:48:29.736Z
-updated: 2024-05-24T22:48:29.736Z
+date: 2024-07-07T19:11:27.613Z
+updated: 2024-07-08T19:11:27.613Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Unleashing the Power of Visual Identity: Mastering Discord Pfp's\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Unleashing the Power of Visual Identity: Mastering Discord Pfp's\""
 keywords: "Visual Identity Mastery,Discord PFP Power,Branding with PFPs,Visual PFP Strategy,Discord Iconic Design,PFP Marketing Techniques,Image Representation in PFPs"
-thumbnail: https://www.lifewire.com/thmb/7qDbbPuSLzuZN4zFzJ05A8TCM0k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/panos-sakalakis-525108-unsplash-5c76011f46e0fb00019b8cda.jpg
+thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a22bc00e9feef5b8e8bfa78d1.jpg
 ---
 
 ## Unleashing the Power of Visual Identity: Mastering Discord Pfp's
@@ -124,7 +124,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -134,7 +134,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -146,7 +146,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -271,7 +271,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -281,7 +281,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -293,7 +293,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -418,7 +418,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -428,7 +428,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -440,7 +440,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -565,7 +565,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -575,7 +575,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -587,7 +587,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -651,7 +651,7 @@ With the official server of Better Discord, you can install Discord Plugins and 
 
 Given below are some popular Discord plugins that are easily downloadable to improve the Discord server.
 
-### 1. [Permissions Viewer](https://betterdiscord.app/plugin/PermissionsViewer)
+### 1. Permissions Viewer
 
 ![discord plugin permissions viewer](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-permissions-viewer.jpg)
 
@@ -659,13 +659,13 @@ Permission's Viewer is a useful Discord plugin for everyone. It will allow you t
 
 Tapping the context menu will bring up the modal, which has a role-by-role breakdown. You can see all permissions, including managing channels, managing roles, and creating invites, etc.
 
-### 2. [Hide Disabled Emojis](https://betterdiscord.app/plugin/HideDisabledEmojis)
+### 2. Hide Disabled Emojis
 
 ![hide disabled emojis](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-hide-disabled-emojis.jpg)
 
 Discord plugins consist of a perfect collection of different emojis from different sections. At the same time, it comes with some disabled emojis as well. Using this plugin, you can easily hide all the disabled emojis, not to make them visible again.
 
-### 3. [Read All Notifications Button](https://betterdiscord.app/plugin/ReadAllNotificationsButton)
+### 3. Read All Notifications Button
 
 ![notifications discord plugin](https://images.wondershare.com/filmora/article-images/2021/notifications-discord-plugin.jpg)
 
@@ -673,7 +673,7 @@ Read All Notifications Button is a handy Discord plugin to remove all notificati
 
 Upon activating this plugin, a **Clear** button will show on your server list, and a mentions popout. Hitting the **Clear** tab from any of these two options will instantly clear every notification.
 
-### 4. [Better Role Colors](https://betterdiscord.app/plugin/BetterRoleColors)
+### 4. Better Role Colors
 
 ![better role colors discord plugin](https://images.wondershare.com/filmora/article-images/2021/better-role-colors-discord-plugin.jpg)
 
@@ -681,19 +681,19 @@ As the name signifies, this plugin will let you set the custom font colors for d
 
 The plugin includes colored voice, colored typing, color popouts and modals, and finally, a colored audit log.
 
-### 5. [Creation Date](https://betterdiscord.app/plugin/CreationDate)
+### 5. Creation Date
 
 Creation Date Discord plugin will assist users in seeing details right from the creation of users' accounts. Right after the launch, the plugin will display the creation date of an account in the user model and the user popout.
 
 Just beneath the name, you will see a tab called "**Create on**" to disclose the information like both date and time. The date is in DD/MM/YYYY format, and time is given in HH: MM format. Thus, it's quite a simple little Better Discord plugin.
 
-### 6. [Google Translate Option](https://betterdiscord.app/plugin/GoogleTranslateOption)
+### 6. Google Translate Option
 
 This is the go-to plugin if you are you use an international Discord server. With its usage, you may want to translate messages and switch to another language.
 
 You can easily translate messages in any language right from Discord itself with the help of this Google Translate Option Discord plugin. This plugin supports both outgoing and incoming and messages, so if you want to send messages in some other language, the **better discord plugin** will cover you.
 
-### 7. [Show Hidden Controls](https://betterdiscord.app/plugin/ShowHiddenChannels)
+### 7. Show Hidden Controls
 
 ![show hidden controls discord plugin](https://images.wondershare.com/filmora/article-images/2021/show-hidden-controls-discord-plugin.jpg)
 
@@ -701,13 +701,13 @@ Another famous Discord pluginis Show Hidden Controls that allows access to hidde
 
 Using this cool Discord Plugin, you can also see an entire overview of the channel. However, you will be unable to send and view messages on the server. It only discloses the hidden channels and essential details regarding the same.
 
-### 8. [Spotify Controls](https://betterdiscord.app/plugin/SpotifyControls)
+### 8. Spotify Controls
 
 Well, we all know that you can connect and use your Spotify account on Discord. Well, if you want to do this, then this plugin is for you. This plugin lets you control the Spotify audio playback right from the Discord itself.
 
 Upon enabling this Discord plugin, you will see a new **Spotify Controls** section within the server. It consists of information like the singer, cover photo, the song played, and elapsed time. Moreover, you can play/pause, go forward or backward with the in-built Spotify controls.
 
-### 9. [Send Large Messages](https://betterdiscord.app/plugin/SendLargeMessages)
+### 9. Send Large Messages
 
 We all know that Discord has a messaging limit of 2000 characters. You can use Send Large Messages better discord plugin to bypass this limit. This plugin will automatically split your shorter texts into multiple messages and send them to the other servers for you.
 
@@ -793,7 +793,7 @@ With the official server of Better Discord, you can install Discord Plugins and 
 
 Given below are some popular Discord plugins that are easily downloadable to improve the Discord server.
 
-### 1. [Permissions Viewer](https://betterdiscord.app/plugin/PermissionsViewer)
+### 1. Permissions Viewer
 
 ![discord plugin permissions viewer](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-permissions-viewer.jpg)
 
@@ -801,13 +801,13 @@ Permission's Viewer is a useful Discord plugin for everyone. It will allow you t
 
 Tapping the context menu will bring up the modal, which has a role-by-role breakdown. You can see all permissions, including managing channels, managing roles, and creating invites, etc.
 
-### 2. [Hide Disabled Emojis](https://betterdiscord.app/plugin/HideDisabledEmojis)
+### 2. Hide Disabled Emojis
 
 ![hide disabled emojis](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-hide-disabled-emojis.jpg)
 
 Discord plugins consist of a perfect collection of different emojis from different sections. At the same time, it comes with some disabled emojis as well. Using this plugin, you can easily hide all the disabled emojis, not to make them visible again.
 
-### 3. [Read All Notifications Button](https://betterdiscord.app/plugin/ReadAllNotificationsButton)
+### 3. Read All Notifications Button
 
 ![notifications discord plugin](https://images.wondershare.com/filmora/article-images/2021/notifications-discord-plugin.jpg)
 
@@ -815,7 +815,7 @@ Read All Notifications Button is a handy Discord plugin to remove all notificati
 
 Upon activating this plugin, a **Clear** button will show on your server list, and a mentions popout. Hitting the **Clear** tab from any of these two options will instantly clear every notification.
 
-### 4. [Better Role Colors](https://betterdiscord.app/plugin/BetterRoleColors)
+### 4. Better Role Colors
 
 ![better role colors discord plugin](https://images.wondershare.com/filmora/article-images/2021/better-role-colors-discord-plugin.jpg)
 
@@ -823,19 +823,19 @@ As the name signifies, this plugin will let you set the custom font colors for d
 
 The plugin includes colored voice, colored typing, color popouts and modals, and finally, a colored audit log.
 
-### 5. [Creation Date](https://betterdiscord.app/plugin/CreationDate)
+### 5. Creation Date
 
 Creation Date Discord plugin will assist users in seeing details right from the creation of users' accounts. Right after the launch, the plugin will display the creation date of an account in the user model and the user popout.
 
 Just beneath the name, you will see a tab called "**Create on**" to disclose the information like both date and time. The date is in DD/MM/YYYY format, and time is given in HH: MM format. Thus, it's quite a simple little Better Discord plugin.
 
-### 6. [Google Translate Option](https://betterdiscord.app/plugin/GoogleTranslateOption)
+### 6. Google Translate Option
 
 This is the go-to plugin if you are you use an international Discord server. With its usage, you may want to translate messages and switch to another language.
 
 You can easily translate messages in any language right from Discord itself with the help of this Google Translate Option Discord plugin. This plugin supports both outgoing and incoming and messages, so if you want to send messages in some other language, the **better discord plugin** will cover you.
 
-### 7. [Show Hidden Controls](https://betterdiscord.app/plugin/ShowHiddenChannels)
+### 7. Show Hidden Controls
 
 ![show hidden controls discord plugin](https://images.wondershare.com/filmora/article-images/2021/show-hidden-controls-discord-plugin.jpg)
 
@@ -843,13 +843,13 @@ Another famous Discord pluginis Show Hidden Controls that allows access to hidde
 
 Using this cool Discord Plugin, you can also see an entire overview of the channel. However, you will be unable to send and view messages on the server. It only discloses the hidden channels and essential details regarding the same.
 
-### 8. [Spotify Controls](https://betterdiscord.app/plugin/SpotifyControls)
+### 8. Spotify Controls
 
 Well, we all know that you can connect and use your Spotify account on Discord. Well, if you want to do this, then this plugin is for you. This plugin lets you control the Spotify audio playback right from the Discord itself.
 
 Upon enabling this Discord plugin, you will see a new **Spotify Controls** section within the server. It consists of information like the singer, cover photo, the song played, and elapsed time. Moreover, you can play/pause, go forward or backward with the in-built Spotify controls.
 
-### 9. [Send Large Messages](https://betterdiscord.app/plugin/SendLargeMessages)
+### 9. Send Large Messages
 
 We all know that Discord has a messaging limit of 2000 characters. You can use Send Large Messages better discord plugin to bypass this limit. This plugin will automatically split your shorter texts into multiple messages and send them to the other servers for you.
 
@@ -935,7 +935,7 @@ With the official server of Better Discord, you can install Discord Plugins and 
 
 Given below are some popular Discord plugins that are easily downloadable to improve the Discord server.
 
-### 1. [Permissions Viewer](https://betterdiscord.app/plugin/PermissionsViewer)
+### 1. Permissions Viewer
 
 ![discord plugin permissions viewer](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-permissions-viewer.jpg)
 
@@ -943,13 +943,13 @@ Permission's Viewer is a useful Discord plugin for everyone. It will allow you t
 
 Tapping the context menu will bring up the modal, which has a role-by-role breakdown. You can see all permissions, including managing channels, managing roles, and creating invites, etc.
 
-### 2. [Hide Disabled Emojis](https://betterdiscord.app/plugin/HideDisabledEmojis)
+### 2. Hide Disabled Emojis
 
 ![hide disabled emojis](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-hide-disabled-emojis.jpg)
 
 Discord plugins consist of a perfect collection of different emojis from different sections. At the same time, it comes with some disabled emojis as well. Using this plugin, you can easily hide all the disabled emojis, not to make them visible again.
 
-### 3. [Read All Notifications Button](https://betterdiscord.app/plugin/ReadAllNotificationsButton)
+### 3. Read All Notifications Button
 
 ![notifications discord plugin](https://images.wondershare.com/filmora/article-images/2021/notifications-discord-plugin.jpg)
 
@@ -957,7 +957,7 @@ Read All Notifications Button is a handy Discord plugin to remove all notificati
 
 Upon activating this plugin, a **Clear** button will show on your server list, and a mentions popout. Hitting the **Clear** tab from any of these two options will instantly clear every notification.
 
-### 4. [Better Role Colors](https://betterdiscord.app/plugin/BetterRoleColors)
+### 4. Better Role Colors
 
 ![better role colors discord plugin](https://images.wondershare.com/filmora/article-images/2021/better-role-colors-discord-plugin.jpg)
 
@@ -965,19 +965,19 @@ As the name signifies, this plugin will let you set the custom font colors for d
 
 The plugin includes colored voice, colored typing, color popouts and modals, and finally, a colored audit log.
 
-### 5. [Creation Date](https://betterdiscord.app/plugin/CreationDate)
+### 5. Creation Date
 
 Creation Date Discord plugin will assist users in seeing details right from the creation of users' accounts. Right after the launch, the plugin will display the creation date of an account in the user model and the user popout.
 
 Just beneath the name, you will see a tab called "**Create on**" to disclose the information like both date and time. The date is in DD/MM/YYYY format, and time is given in HH: MM format. Thus, it's quite a simple little Better Discord plugin.
 
-### 6. [Google Translate Option](https://betterdiscord.app/plugin/GoogleTranslateOption)
+### 6. Google Translate Option
 
 This is the go-to plugin if you are you use an international Discord server. With its usage, you may want to translate messages and switch to another language.
 
 You can easily translate messages in any language right from Discord itself with the help of this Google Translate Option Discord plugin. This plugin supports both outgoing and incoming and messages, so if you want to send messages in some other language, the **better discord plugin** will cover you.
 
-### 7. [Show Hidden Controls](https://betterdiscord.app/plugin/ShowHiddenChannels)
+### 7. Show Hidden Controls
 
 ![show hidden controls discord plugin](https://images.wondershare.com/filmora/article-images/2021/show-hidden-controls-discord-plugin.jpg)
 
@@ -985,13 +985,13 @@ Another famous Discord pluginis Show Hidden Controls that allows access to hidde
 
 Using this cool Discord Plugin, you can also see an entire overview of the channel. However, you will be unable to send and view messages on the server. It only discloses the hidden channels and essential details regarding the same.
 
-### 8. [Spotify Controls](https://betterdiscord.app/plugin/SpotifyControls)
+### 8. Spotify Controls
 
 Well, we all know that you can connect and use your Spotify account on Discord. Well, if you want to do this, then this plugin is for you. This plugin lets you control the Spotify audio playback right from the Discord itself.
 
 Upon enabling this Discord plugin, you will see a new **Spotify Controls** section within the server. It consists of information like the singer, cover photo, the song played, and elapsed time. Moreover, you can play/pause, go forward or backward with the in-built Spotify controls.
 
-### 9. [Send Large Messages](https://betterdiscord.app/plugin/SendLargeMessages)
+### 9. Send Large Messages
 
 We all know that Discord has a messaging limit of 2000 characters. You can use Send Large Messages better discord plugin to bypass this limit. This plugin will automatically split your shorter texts into multiple messages and send them to the other servers for you.
 
@@ -1077,7 +1077,7 @@ With the official server of Better Discord, you can install Discord Plugins and 
 
 Given below are some popular Discord plugins that are easily downloadable to improve the Discord server.
 
-### 1. [Permissions Viewer](https://betterdiscord.app/plugin/PermissionsViewer)
+### 1. Permissions Viewer
 
 ![discord plugin permissions viewer](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-permissions-viewer.jpg)
 
@@ -1085,13 +1085,13 @@ Permission's Viewer is a useful Discord plugin for everyone. It will allow you t
 
 Tapping the context menu will bring up the modal, which has a role-by-role breakdown. You can see all permissions, including managing channels, managing roles, and creating invites, etc.
 
-### 2. [Hide Disabled Emojis](https://betterdiscord.app/plugin/HideDisabledEmojis)
+### 2. Hide Disabled Emojis
 
 ![hide disabled emojis](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-hide-disabled-emojis.jpg)
 
 Discord plugins consist of a perfect collection of different emojis from different sections. At the same time, it comes with some disabled emojis as well. Using this plugin, you can easily hide all the disabled emojis, not to make them visible again.
 
-### 3. [Read All Notifications Button](https://betterdiscord.app/plugin/ReadAllNotificationsButton)
+### 3. Read All Notifications Button
 
 ![notifications discord plugin](https://images.wondershare.com/filmora/article-images/2021/notifications-discord-plugin.jpg)
 
@@ -1099,7 +1099,7 @@ Read All Notifications Button is a handy Discord plugin to remove all notificati
 
 Upon activating this plugin, a **Clear** button will show on your server list, and a mentions popout. Hitting the **Clear** tab from any of these two options will instantly clear every notification.
 
-### 4. [Better Role Colors](https://betterdiscord.app/plugin/BetterRoleColors)
+### 4. Better Role Colors
 
 ![better role colors discord plugin](https://images.wondershare.com/filmora/article-images/2021/better-role-colors-discord-plugin.jpg)
 
@@ -1107,19 +1107,19 @@ As the name signifies, this plugin will let you set the custom font colors for d
 
 The plugin includes colored voice, colored typing, color popouts and modals, and finally, a colored audit log.
 
-### 5. [Creation Date](https://betterdiscord.app/plugin/CreationDate)
+### 5. Creation Date
 
 Creation Date Discord plugin will assist users in seeing details right from the creation of users' accounts. Right after the launch, the plugin will display the creation date of an account in the user model and the user popout.
 
 Just beneath the name, you will see a tab called "**Create on**" to disclose the information like both date and time. The date is in DD/MM/YYYY format, and time is given in HH: MM format. Thus, it's quite a simple little Better Discord plugin.
 
-### 6. [Google Translate Option](https://betterdiscord.app/plugin/GoogleTranslateOption)
+### 6. Google Translate Option
 
 This is the go-to plugin if you are you use an international Discord server. With its usage, you may want to translate messages and switch to another language.
 
 You can easily translate messages in any language right from Discord itself with the help of this Google Translate Option Discord plugin. This plugin supports both outgoing and incoming and messages, so if you want to send messages in some other language, the **better discord plugin** will cover you.
 
-### 7. [Show Hidden Controls](https://betterdiscord.app/plugin/ShowHiddenChannels)
+### 7. Show Hidden Controls
 
 ![show hidden controls discord plugin](https://images.wondershare.com/filmora/article-images/2021/show-hidden-controls-discord-plugin.jpg)
 
@@ -1127,13 +1127,13 @@ Another famous Discord pluginis Show Hidden Controls that allows access to hidde
 
 Using this cool Discord Plugin, you can also see an entire overview of the channel. However, you will be unable to send and view messages on the server. It only discloses the hidden channels and essential details regarding the same.
 
-### 8. [Spotify Controls](https://betterdiscord.app/plugin/SpotifyControls)
+### 8. Spotify Controls
 
 Well, we all know that you can connect and use your Spotify account on Discord. Well, if you want to do this, then this plugin is for you. This plugin lets you control the Spotify audio playback right from the Discord itself.
 
 Upon enabling this Discord plugin, you will see a new **Spotify Controls** section within the server. It consists of information like the singer, cover photo, the song played, and elapsed time. Moreover, you can play/pause, go forward or backward with the in-built Spotify controls.
 
-### 9. [Send Large Messages](https://betterdiscord.app/plugin/SendLargeMessages)
+### 9. Send Large Messages
 
 We all know that Discord has a messaging limit of 2000 characters. You can use Send Large Messages better discord plugin to bypass this limit. This plugin will automatically split your shorter texts into multiple messages and send them to the other servers for you.
 

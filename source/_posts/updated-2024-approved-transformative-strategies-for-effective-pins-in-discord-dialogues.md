@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Transformative Strategies for Effective Pins in Discord Dialogues\""
-date: 2024-05-23T22:48:28.281Z
-updated: 2024-05-24T22:48:28.281Z
+date: 2024-07-07T19:11:25.416Z
+updated: 2024-07-08T19:11:25.416Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Transformative Strategies for Effective Pins in Discord Dialogues\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Transformative Strategies for Effective Pins in Discord Dialogues\""
 keywords: "Pin Efficiency Tactics,Transformative Pin Techniques,Effective Pins Methods,Discord Conversation Strategies,Innovative Dialogue Pins,Enhancing Dialogues with Pins,Engaging Pins in Chats"
-thumbnail: https://www.lifewire.com/thmb/bOfNYccWsXItTg-VTVvCOXOEsec=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/copilotword01-6325e891b0804326a8b01ed1a9e02693.jpg
+thumbnail: https://thmb.techidaily.com/1ccd2dbf2e6000433c361586dbc867e80efe1088f86d15f3203e5baee21b7684.jpg
 ---
 
 ## Transformative Strategies for Effective Pins in Discord Dialogues
@@ -44,12 +44,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -65,7 +65,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -164,12 +164,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -185,7 +185,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -284,12 +284,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -305,7 +305,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -404,12 +404,12 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+![Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -425,7 +425,7 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+![Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
@@ -553,11 +553,11 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Once you select the server, there will be an options list under the server's name
 3. Click the "server setting" button from the menu (This will be the second option on the list)
 
-![ Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
+![Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
 
 1. At the end of the sidebar, you will find the option "delete the server on the left side." Click it
 
-![ Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
+![Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
 
 **Image**: _The image shows the screen that pops up after clicking "Server settings," here, the delete button can be seen in red._
 
@@ -565,7 +565,7 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Confirm by entering the server's name and authentication code; this is only required when two-factor authentication is enabled
 3. Click on "delete server" to confirm
 
-![ Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
+![Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
 
 **Image:** _As mentioned, you must be sure you want to permanently lose a server and all of its content before deleting it; this prompt serves the same purpose_
 
@@ -644,11 +644,11 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Once you select the server, there will be an options list under the server's name
 3. Click the "server setting" button from the menu (This will be the second option on the list)
 
-![ Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
+![Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
 
 1. At the end of the sidebar, you will find the option "delete the server on the left side." Click it
 
-![ Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
+![Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
 
 **Image**: _The image shows the screen that pops up after clicking "Server settings," here, the delete button can be seen in red._
 
@@ -656,7 +656,7 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Confirm by entering the server's name and authentication code; this is only required when two-factor authentication is enabled
 3. Click on "delete server" to confirm
 
-![ Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
+![Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
 
 **Image:** _As mentioned, you must be sure you want to permanently lose a server and all of its content before deleting it; this prompt serves the same purpose_
 
@@ -735,11 +735,11 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Once you select the server, there will be an options list under the server's name
 3. Click the "server setting" button from the menu (This will be the second option on the list)
 
-![ Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
+![Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
 
 1. At the end of the sidebar, you will find the option "delete the server on the left side." Click it
 
-![ Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
+![Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
 
 **Image**: _The image shows the screen that pops up after clicking "Server settings," here, the delete button can be seen in red._
 
@@ -747,7 +747,7 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Confirm by entering the server's name and authentication code; this is only required when two-factor authentication is enabled
 3. Click on "delete server" to confirm
 
-![ Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
+![Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
 
 **Image:** _As mentioned, you must be sure you want to permanently lose a server and all of its content before deleting it; this prompt serves the same purpose_
 
@@ -826,11 +826,11 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Once you select the server, there will be an options list under the server's name
 3. Click the "server setting" button from the menu (This will be the second option on the list)
 
-![ Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
+![Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
 
 1. At the end of the sidebar, you will find the option "delete the server on the left side." Click it
 
-![ Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
+![Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
 
 **Image**: _The image shows the screen that pops up after clicking "Server settings," here, the delete button can be seen in red._
 
@@ -838,7 +838,7 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Confirm by entering the server's name and authentication code; this is only required when two-factor authentication is enabled
 3. Click on "delete server" to confirm
 
-![ Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
+![Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
 
 **Image:** _As mentioned, you must be sure you want to permanently lose a server and all of its content before deleting it; this prompt serves the same purpose_
 

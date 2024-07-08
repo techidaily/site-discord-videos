@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Step-by-Step Process to Disengage From Discord Groups\""
-date: 2024-05-23T22:48:32.743Z
-updated: 2024-05-24T22:48:32.743Z
+date: 2024-07-07T19:11:08.962Z
+updated: 2024-07-08T19:11:08.962Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, The Step-by-Step Process to Disengage From Discord Groups\""
 excerpt: "\"This Article Describes In 2024, The Step-by-Step Process to Disengage From Discord Groups\""
 keywords: "Discord Leave Guide,Disconnecting From Groups,Exit Discord Servers,Unfollow in Discord,Step Out Of Chat Rooms,End Discord Membership,Break Up In Online Communities"
-thumbnail: https://www.lifewire.com/thmb/gkHTDPF5tRElmHvxvKCu-VDPyhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-an-apple-tv-5248431-f35331ef36b749b9895a2c1e3705cf22.jpg
+thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06feae865a9a356c9f8b695aec3.jpg
 ---
 
 ## The Step-by-Step Process to Disengage From Discord Groups
@@ -48,11 +48,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -63,11 +63,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -158,11 +158,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -173,11 +173,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -268,11 +268,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -283,11 +283,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -378,11 +378,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -393,11 +393,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -509,7 +509,7 @@ To create a new link all you have to do is type !new in the chat and it will cre
 
 Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
 
-![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
+![Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
 
  Add the Among Us Bot to:
 
@@ -545,7 +545,7 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
 
-![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
+![Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
 
 It can also be used to inform others about the state of the game.
 
@@ -561,7 +561,7 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
-![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
+![Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
 
@@ -573,7 +573,7 @@ You can check out Among Stats at their official [website](https://amongstats.net
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
 
-![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
+![Among Us Helper Bot](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
 
 To begin an Among Us Helper session, run the command
 
@@ -598,7 +598,7 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
-![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
+![Connect Among Us Manager  Bot to Discord](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
 
@@ -654,7 +654,7 @@ To create a new link all you have to do is type !new in the chat and it will cre
 
 Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
 
-![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
+![Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
 
  Add the Among Us Bot to:
 
@@ -690,7 +690,7 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
 
-![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
+![Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
 
 It can also be used to inform others about the state of the game.
 
@@ -706,7 +706,7 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
-![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
+![Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
 
@@ -718,7 +718,7 @@ You can check out Among Stats at their official [website](https://amongstats.net
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
 
-![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
+![Among Us Helper Bot](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
 
 To begin an Among Us Helper session, run the command
 
@@ -743,7 +743,7 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
-![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
+![Connect Among Us Manager  Bot to Discord](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
 
@@ -799,7 +799,7 @@ To create a new link all you have to do is type !new in the chat and it will cre
 
 Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
 
-![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
+![Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
 
  Add the Among Us Bot to:
 
@@ -835,7 +835,7 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
 
-![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
+![Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
 
 It can also be used to inform others about the state of the game.
 
@@ -851,7 +851,7 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
-![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
+![Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
 
@@ -863,7 +863,7 @@ You can check out Among Stats at their official [website](https://amongstats.net
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
 
-![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
+![Among Us Helper Bot](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
 
 To begin an Among Us Helper session, run the command
 
@@ -888,7 +888,7 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
-![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
+![Connect Among Us Manager  Bot to Discord](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
 
@@ -944,7 +944,7 @@ To create a new link all you have to do is type !new in the chat and it will cre
 
 Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
 
-![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
+![Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
 
  Add the Among Us Bot to:
 
@@ -980,7 +980,7 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
 
-![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
+![Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
 
 It can also be used to inform others about the state of the game.
 
@@ -996,7 +996,7 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
-![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
+![Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
 
@@ -1008,7 +1008,7 @@ You can check out Among Stats at their official [website](https://amongstats.net
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
 
-![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
+![Among Us Helper Bot](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
 
 To begin an Among Us Helper session, run the command
 
@@ -1033,7 +1033,7 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
-![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
+![Connect Among Us Manager  Bot to Discord](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
 

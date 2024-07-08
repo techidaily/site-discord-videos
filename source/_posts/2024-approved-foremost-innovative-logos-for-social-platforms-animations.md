@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Foremost Innovative Logos for Social Platforms' Animations\""
-date: 2024-05-23T22:47:44.254Z
-updated: 2024-05-24T22:47:44.254Z
+date: 2024-07-07T19:11:09.386Z
+updated: 2024-07-08T19:11:09.386Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Foremost Innovative Logos for Social Platforms' Animations\""
 excerpt: "\"This Article Describes 2024 Approved: Foremost Innovative Logos for Social Platforms' Animations\""
 keywords: "Social Media Designs,Dynamic Animation Logos,Innovative Brand Identity,Modern Logo Creation,Creative Logos For Apps,Animated Logo Concepts,Trendy Brand Animations"
-thumbnail: https://www.lifewire.com/thmb/pB84IVlbNt7SUn9y37ax7gJTFn0=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a364f88560f34c633d621d6cbc.jpg
 ---
 
 ## Foremost Innovative Logos for Social Platforms' Animations
@@ -458,7 +458,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -466,7 +466,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -476,7 +476,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -502,7 +502,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -516,11 +516,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -597,7 +597,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -605,7 +605,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -615,7 +615,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -641,7 +641,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -655,11 +655,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -736,7 +736,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -744,7 +744,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -754,7 +754,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -780,7 +780,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -794,11 +794,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -875,7 +875,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -883,7 +883,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -893,7 +893,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -919,7 +919,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -933,11 +933,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 

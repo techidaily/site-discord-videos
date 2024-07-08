@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Novice to Veteran  Implementing Roles in Discord\""
-date: 2024-05-23T22:47:44.845Z
-updated: 2024-05-24T22:47:44.845Z
+date: 2024-07-07T19:11:22.487Z
+updated: 2024-07-08T19:11:22.487Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: From Novice to Veteran: Implementing Roles in Discord\""
 excerpt: "\"This Article Describes 2024 Approved: From Novice to Veteran: Implementing Roles in Discord\""
 keywords: "Discord Role Guide,Beginner's Role Tips,Advanced Discord Memberships,Mastering Discord Roles,Navigating Discord Permissions,Building Discord Communities,Leading in Discord Groups"
-thumbnail: https://www.lifewire.com/thmb/bL_5ExgXCmH-xP6aer4hd4p6ICw=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/InternetNetworking_GettyImages-876819100_anyaberkut_CROPPED-2622223ffceb418f993b2f804cb3e0e7.jpg
+thumbnail: https://thmb.techidaily.com/318f85e5a53d5f60469d32582133c5ee92bbc0ceb979fd63de287576e36507bb.jpg
 ---
 
 ## From Novice to Veteran: Implementing Roles in Discord

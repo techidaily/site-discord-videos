@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Execute a Swift and Silent Chat Purge on Discord Platform"
-date: 2024-05-23T22:48:12.984Z
-updated: 2024-05-24T22:48:12.984Z
+date: 2024-07-07T19:11:12.700Z
+updated: 2024-07-08T19:11:12.700Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, How to Execute a Swift and Silent Chat Purge on Discord Platform"
 excerpt: "This Article Describes [Updated] In 2024, How to Execute a Swift and Silent Chat Purge on Discord Platform"
 keywords: "\"Discard Chat Cleanse,Stealthy Chat Elimination,Quiet Discord Purging,Silent Chat Wipe-Out,Swift Chat Purge Methods,Hushed Discord Clearance,Discreet Chat Cleanup\""
-thumbnail: https://www.lifewire.com/thmb/nY-xMmJ8eSNy6sVe0OKN-PVjSNM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/subwaysurfers-11a4d59f94d64363ad6a19cd07dfe109.jpeg
+thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0dbe084557e36eab0ab2db64.jpeg
 ---
 
 ## How to Execute a Swift and Silent Chat Purge on Discord Platform
@@ -89,7 +89,7 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
-![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+![delete Discord Message](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -154,7 +154,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
-![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+![delete discord channel message with MEE6 Bot](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
@@ -305,7 +305,7 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
-![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+![delete Discord Message](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -370,7 +370,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
-![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+![delete discord channel message with MEE6 Bot](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
@@ -521,7 +521,7 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
-![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+![delete Discord Message](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -586,7 +586,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
-![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+![delete discord channel message with MEE6 Bot](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
@@ -737,7 +737,7 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
-![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+![delete Discord Message](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -802,7 +802,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
-![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+![delete discord channel message with MEE6 Bot](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
@@ -930,11 +930,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -945,11 +945,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -1040,11 +1040,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -1055,11 +1055,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -1150,11 +1150,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -1165,11 +1165,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -1260,11 +1260,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -1275,11 +1275,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 

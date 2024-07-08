@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Decoding the Complexities of Discord Spoilers for Gamers"
-date: 2024-05-23T22:47:37.216Z
-updated: 2024-05-24T22:47:37.216Z
+date: 2024-07-07T19:11:15.375Z
+updated: 2024-07-08T19:11:15.375Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Decoding the Complexities of Discord Spoilers for Gamers"
 excerpt: "This Article Describes In 2024, Decoding the Complexities of Discord Spoilers for Gamers"
 keywords: "Gamers & Spoilers Guide,DiscoSpoiler Tips,Game Spoilers Strategies,Preventing Game Leaks,Discord Spoilers Help,Avoiding Game Spoilers,Secure Gaming Chat"
-thumbnail: https://www.lifewire.com/thmb/bDlwC9Qm_dNJuekB6AkJEW6GIEQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/kindle-update-1560728_1920-400773d7b5a24bd28089ebc2b8068d70.jpg
+thumbnail: https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc921370376e92e90f7d158bcf8.jpg
 ---
 
 ## Decoding the Complexities of Discord Spoilers for Gamers
@@ -50,13 +50,13 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+![add spoiler tag to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+![add spoiler tag slash to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -77,7 +77,7 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+![add spoiler to image and video on Discord](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -110,7 +110,7 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+![turn off spoiler on Discord](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
@@ -151,13 +151,13 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+![add spoiler tag to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+![add spoiler tag slash to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -178,7 +178,7 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+![add spoiler to image and video on Discord](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -211,7 +211,7 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+![turn off spoiler on Discord](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
@@ -252,13 +252,13 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+![add spoiler tag to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+![add spoiler tag slash to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -279,7 +279,7 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+![add spoiler to image and video on Discord](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -312,7 +312,7 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+![turn off spoiler on Discord](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
@@ -353,13 +353,13 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+![add spoiler tag to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+![add spoiler tag slash to Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -380,7 +380,7 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+![add spoiler to image and video on Discord](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -413,7 +413,7 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+![turn off spoiler on Discord](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 

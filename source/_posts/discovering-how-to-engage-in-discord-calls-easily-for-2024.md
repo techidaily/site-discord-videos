@@ -1,7 +1,7 @@
 ---
 title: "Discovering How to Engage in Discord Calls Easily for 2024"
-date: 2024-05-23T22:47:39.143Z
-updated: 2024-05-24T22:47:39.143Z
+date: 2024-07-07T19:11:27.658Z
+updated: 2024-07-08T19:11:27.658Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Discovering How to Engage in Discord Calls Easily for 2024"
 excerpt: "This Article Describes Discovering How to Engage in Discord Calls Easily for 2024"
 keywords: "Disco Call Basics,Easy Discord Talk,Join Discord Chats,Learn Discord Talk,Discord Commence,Simple Discord Engage,Navigate Discord Calls"
-thumbnail: https://www.lifewire.com/thmb/UgZFn1LjdiPD7yj2MRRWCGpAQWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d-link-default-password-list-2619152-d6281a924f45426f879c8707220ce92d.png
+thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01fc1cf31d37490fb679a3c33d.png
 ---
 
 ## Discovering How to Engage in Discord Calls Easily
@@ -42,7 +42,7 @@ Before you start calling everyone, you’ll want to check your settings to make 
 
 So, start by heading to the User Settings page. You’ll find this at the bottom left of the screen – look for the cog icon next to your name. You won’t see this on mobile, this is only on the desktop app and the web browser version of Discord.
 
-![Discord Video Call Settings ](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
+![Discord Video Call Settings](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
 
 Once you’ve opened settings, you’ll want to click on the **Voice & Video** tab. Here you can check your microphone settings and adjust the volume, and choose your camera. If you’re using an external camera instead of the built-in option, check that the right one is selected in the dropdown.
 
@@ -58,11 +58,11 @@ Once you’ve got your settings ready, you’re set to make your private Discord
 
 If you’re only calling one person then it’s easy – just click on their name.
 
-![Discord Video Call with Friends ](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
+![Discord Video Call with Friends](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
 
 If you want to call a private group, you need to click the + button and then create a group DM. Add the names of the users you want to call.
 
-![Discord Video Call with group ](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
+![Discord Video Call with group](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
 
 Once you’re in the direct message window of the person or group you want to call, you need to look at the buttons at the top right of the screen. The second icon that looks like a video camera is the one you’re looking for. Click that and you’ll start a video call.
 
@@ -84,13 +84,13 @@ If you want to make a group video call on a public server, you again need to fir
 
 Once you’re in the voice channel, click Lounge, Community Hangout or Stream Room, and then switch on your camera by clicking the ‘Video’ button. You’ll find this at the bottom-left of the screen. Again, if you’re on the web browser, you’ll be asked by your browser for permission to use your camera at this stage.
 
-![Discord Server Video Call  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
+![Discord Server Video Call](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
 
 And that’s it – the video call is now live and anyone who joins the voice channel will be able to see you, chat to you and switch on their camera to join the video conference as well.
 
 On mobile, it’s slightly different. You’ll still want to head to the server you want to join and then click on the voice channel to join it. But as soon as you click on the voice channel, you’ll get a pop-up with an icon at the bottom right where you can instantly switch on your camera.
 
-![Discord Server Video Call on mobile  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
+![Discord Server Video Call on mobile](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
 
 If you prefer, you can still just join as voice, and then at any stage click on your name where you’ll be able to then switch on your camera to turn a voice chat into a video call.
 
@@ -139,7 +139,7 @@ Before you start calling everyone, you’ll want to check your settings to make 
 
 So, start by heading to the User Settings page. You’ll find this at the bottom left of the screen – look for the cog icon next to your name. You won’t see this on mobile, this is only on the desktop app and the web browser version of Discord.
 
-![Discord Video Call Settings ](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
+![Discord Video Call Settings](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
 
 Once you’ve opened settings, you’ll want to click on the **Voice & Video** tab. Here you can check your microphone settings and adjust the volume, and choose your camera. If you’re using an external camera instead of the built-in option, check that the right one is selected in the dropdown.
 
@@ -155,11 +155,11 @@ Once you’ve got your settings ready, you’re set to make your private Discord
 
 If you’re only calling one person then it’s easy – just click on their name.
 
-![Discord Video Call with Friends ](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
+![Discord Video Call with Friends](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
 
 If you want to call a private group, you need to click the + button and then create a group DM. Add the names of the users you want to call.
 
-![Discord Video Call with group ](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
+![Discord Video Call with group](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
 
 Once you’re in the direct message window of the person or group you want to call, you need to look at the buttons at the top right of the screen. The second icon that looks like a video camera is the one you’re looking for. Click that and you’ll start a video call.
 
@@ -181,13 +181,13 @@ If you want to make a group video call on a public server, you again need to fir
 
 Once you’re in the voice channel, click Lounge, Community Hangout or Stream Room, and then switch on your camera by clicking the ‘Video’ button. You’ll find this at the bottom-left of the screen. Again, if you’re on the web browser, you’ll be asked by your browser for permission to use your camera at this stage.
 
-![Discord Server Video Call  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
+![Discord Server Video Call](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
 
 And that’s it – the video call is now live and anyone who joins the voice channel will be able to see you, chat to you and switch on their camera to join the video conference as well.
 
 On mobile, it’s slightly different. You’ll still want to head to the server you want to join and then click on the voice channel to join it. But as soon as you click on the voice channel, you’ll get a pop-up with an icon at the bottom right where you can instantly switch on your camera.
 
-![Discord Server Video Call on mobile  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
+![Discord Server Video Call on mobile](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
 
 If you prefer, you can still just join as voice, and then at any stage click on your name where you’ll be able to then switch on your camera to turn a voice chat into a video call.
 
@@ -236,7 +236,7 @@ Before you start calling everyone, you’ll want to check your settings to make 
 
 So, start by heading to the User Settings page. You’ll find this at the bottom left of the screen – look for the cog icon next to your name. You won’t see this on mobile, this is only on the desktop app and the web browser version of Discord.
 
-![Discord Video Call Settings ](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
+![Discord Video Call Settings](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
 
 Once you’ve opened settings, you’ll want to click on the **Voice & Video** tab. Here you can check your microphone settings and adjust the volume, and choose your camera. If you’re using an external camera instead of the built-in option, check that the right one is selected in the dropdown.
 
@@ -252,11 +252,11 @@ Once you’ve got your settings ready, you’re set to make your private Discord
 
 If you’re only calling one person then it’s easy – just click on their name.
 
-![Discord Video Call with Friends ](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
+![Discord Video Call with Friends](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
 
 If you want to call a private group, you need to click the + button and then create a group DM. Add the names of the users you want to call.
 
-![Discord Video Call with group ](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
+![Discord Video Call with group](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
 
 Once you’re in the direct message window of the person or group you want to call, you need to look at the buttons at the top right of the screen. The second icon that looks like a video camera is the one you’re looking for. Click that and you’ll start a video call.
 
@@ -278,13 +278,13 @@ If you want to make a group video call on a public server, you again need to fir
 
 Once you’re in the voice channel, click Lounge, Community Hangout or Stream Room, and then switch on your camera by clicking the ‘Video’ button. You’ll find this at the bottom-left of the screen. Again, if you’re on the web browser, you’ll be asked by your browser for permission to use your camera at this stage.
 
-![Discord Server Video Call  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
+![Discord Server Video Call](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
 
 And that’s it – the video call is now live and anyone who joins the voice channel will be able to see you, chat to you and switch on their camera to join the video conference as well.
 
 On mobile, it’s slightly different. You’ll still want to head to the server you want to join and then click on the voice channel to join it. But as soon as you click on the voice channel, you’ll get a pop-up with an icon at the bottom right where you can instantly switch on your camera.
 
-![Discord Server Video Call on mobile  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
+![Discord Server Video Call on mobile](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
 
 If you prefer, you can still just join as voice, and then at any stage click on your name where you’ll be able to then switch on your camera to turn a voice chat into a video call.
 
@@ -333,7 +333,7 @@ Before you start calling everyone, you’ll want to check your settings to make 
 
 So, start by heading to the User Settings page. You’ll find this at the bottom left of the screen – look for the cog icon next to your name. You won’t see this on mobile, this is only on the desktop app and the web browser version of Discord.
 
-![Discord Video Call Settings ](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
+![Discord Video Call Settings](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
 
 Once you’ve opened settings, you’ll want to click on the **Voice & Video** tab. Here you can check your microphone settings and adjust the volume, and choose your camera. If you’re using an external camera instead of the built-in option, check that the right one is selected in the dropdown.
 
@@ -349,11 +349,11 @@ Once you’ve got your settings ready, you’re set to make your private Discord
 
 If you’re only calling one person then it’s easy – just click on their name.
 
-![Discord Video Call with Friends ](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
+![Discord Video Call with Friends](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
 
 If you want to call a private group, you need to click the + button and then create a group DM. Add the names of the users you want to call.
 
-![Discord Video Call with group ](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
+![Discord Video Call with group](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
 
 Once you’re in the direct message window of the person or group you want to call, you need to look at the buttons at the top right of the screen. The second icon that looks like a video camera is the one you’re looking for. Click that and you’ll start a video call.
 
@@ -375,13 +375,13 @@ If you want to make a group video call on a public server, you again need to fir
 
 Once you’re in the voice channel, click Lounge, Community Hangout or Stream Room, and then switch on your camera by clicking the ‘Video’ button. You’ll find this at the bottom-left of the screen. Again, if you’re on the web browser, you’ll be asked by your browser for permission to use your camera at this stage.
 
-![Discord Server Video Call  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
+![Discord Server Video Call](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
 
 And that’s it – the video call is now live and anyone who joins the voice channel will be able to see you, chat to you and switch on their camera to join the video conference as well.
 
 On mobile, it’s slightly different. You’ll still want to head to the server you want to join and then click on the voice channel to join it. But as soon as you click on the voice channel, you’ll get a pop-up with an icon at the bottom right where you can instantly switch on your camera.
 
-![Discord Server Video Call on mobile  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
+![Discord Server Video Call on mobile](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
 
 If you prefer, you can still just join as voice, and then at any stage click on your name where you’ll be able to then switch on your camera to turn a voice chat into a video call.
 
@@ -451,7 +451,7 @@ With the official server of Better Discord, you can install Discord Plugins and 
 
 Given below are some popular Discord plugins that are easily downloadable to improve the Discord server.
 
-### 1. [Permissions Viewer](https://betterdiscord.app/plugin/PermissionsViewer)
+### 1. Permissions Viewer
 
 ![discord plugin permissions viewer](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-permissions-viewer.jpg)
 
@@ -459,13 +459,13 @@ Permission's Viewer is a useful Discord plugin for everyone. It will allow you t
 
 Tapping the context menu will bring up the modal, which has a role-by-role breakdown. You can see all permissions, including managing channels, managing roles, and creating invites, etc.
 
-### 2. [Hide Disabled Emojis](https://betterdiscord.app/plugin/HideDisabledEmojis)
+### 2. Hide Disabled Emojis
 
 ![hide disabled emojis](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-hide-disabled-emojis.jpg)
 
 Discord plugins consist of a perfect collection of different emojis from different sections. At the same time, it comes with some disabled emojis as well. Using this plugin, you can easily hide all the disabled emojis, not to make them visible again.
 
-### 3. [Read All Notifications Button](https://betterdiscord.app/plugin/ReadAllNotificationsButton)
+### 3. Read All Notifications Button
 
 ![notifications discord plugin](https://images.wondershare.com/filmora/article-images/2021/notifications-discord-plugin.jpg)
 
@@ -473,7 +473,7 @@ Read All Notifications Button is a handy Discord plugin to remove all notificati
 
 Upon activating this plugin, a **Clear** button will show on your server list, and a mentions popout. Hitting the **Clear** tab from any of these two options will instantly clear every notification.
 
-### 4. [Better Role Colors](https://betterdiscord.app/plugin/BetterRoleColors)
+### 4. Better Role Colors
 
 ![better role colors discord plugin](https://images.wondershare.com/filmora/article-images/2021/better-role-colors-discord-plugin.jpg)
 
@@ -481,19 +481,19 @@ As the name signifies, this plugin will let you set the custom font colors for d
 
 The plugin includes colored voice, colored typing, color popouts and modals, and finally, a colored audit log.
 
-### 5. [Creation Date](https://betterdiscord.app/plugin/CreationDate)
+### 5. Creation Date
 
 Creation Date Discord plugin will assist users in seeing details right from the creation of users' accounts. Right after the launch, the plugin will display the creation date of an account in the user model and the user popout.
 
 Just beneath the name, you will see a tab called "**Create on**" to disclose the information like both date and time. The date is in DD/MM/YYYY format, and time is given in HH: MM format. Thus, it's quite a simple little Better Discord plugin.
 
-### 6. [Google Translate Option](https://betterdiscord.app/plugin/GoogleTranslateOption)
+### 6. Google Translate Option
 
 This is the go-to plugin if you are you use an international Discord server. With its usage, you may want to translate messages and switch to another language.
 
 You can easily translate messages in any language right from Discord itself with the help of this Google Translate Option Discord plugin. This plugin supports both outgoing and incoming and messages, so if you want to send messages in some other language, the **better discord plugin** will cover you.
 
-### 7. [Show Hidden Controls](https://betterdiscord.app/plugin/ShowHiddenChannels)
+### 7. Show Hidden Controls
 
 ![show hidden controls discord plugin](https://images.wondershare.com/filmora/article-images/2021/show-hidden-controls-discord-plugin.jpg)
 
@@ -501,13 +501,13 @@ Another famous Discord pluginis Show Hidden Controls that allows access to hidde
 
 Using this cool Discord Plugin, you can also see an entire overview of the channel. However, you will be unable to send and view messages on the server. It only discloses the hidden channels and essential details regarding the same.
 
-### 8. [Spotify Controls](https://betterdiscord.app/plugin/SpotifyControls)
+### 8. Spotify Controls
 
 Well, we all know that you can connect and use your Spotify account on Discord. Well, if you want to do this, then this plugin is for you. This plugin lets you control the Spotify audio playback right from the Discord itself.
 
 Upon enabling this Discord plugin, you will see a new **Spotify Controls** section within the server. It consists of information like the singer, cover photo, the song played, and elapsed time. Moreover, you can play/pause, go forward or backward with the in-built Spotify controls.
 
-### 9. [Send Large Messages](https://betterdiscord.app/plugin/SendLargeMessages)
+### 9. Send Large Messages
 
 We all know that Discord has a messaging limit of 2000 characters. You can use Send Large Messages better discord plugin to bypass this limit. This plugin will automatically split your shorter texts into multiple messages and send them to the other servers for you.
 
@@ -593,7 +593,7 @@ With the official server of Better Discord, you can install Discord Plugins and 
 
 Given below are some popular Discord plugins that are easily downloadable to improve the Discord server.
 
-### 1. [Permissions Viewer](https://betterdiscord.app/plugin/PermissionsViewer)
+### 1. Permissions Viewer
 
 ![discord plugin permissions viewer](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-permissions-viewer.jpg)
 
@@ -601,13 +601,13 @@ Permission's Viewer is a useful Discord plugin for everyone. It will allow you t
 
 Tapping the context menu will bring up the modal, which has a role-by-role breakdown. You can see all permissions, including managing channels, managing roles, and creating invites, etc.
 
-### 2. [Hide Disabled Emojis](https://betterdiscord.app/plugin/HideDisabledEmojis)
+### 2. Hide Disabled Emojis
 
 ![hide disabled emojis](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-hide-disabled-emojis.jpg)
 
 Discord plugins consist of a perfect collection of different emojis from different sections. At the same time, it comes with some disabled emojis as well. Using this plugin, you can easily hide all the disabled emojis, not to make them visible again.
 
-### 3. [Read All Notifications Button](https://betterdiscord.app/plugin/ReadAllNotificationsButton)
+### 3. Read All Notifications Button
 
 ![notifications discord plugin](https://images.wondershare.com/filmora/article-images/2021/notifications-discord-plugin.jpg)
 
@@ -615,7 +615,7 @@ Read All Notifications Button is a handy Discord plugin to remove all notificati
 
 Upon activating this plugin, a **Clear** button will show on your server list, and a mentions popout. Hitting the **Clear** tab from any of these two options will instantly clear every notification.
 
-### 4. [Better Role Colors](https://betterdiscord.app/plugin/BetterRoleColors)
+### 4. Better Role Colors
 
 ![better role colors discord plugin](https://images.wondershare.com/filmora/article-images/2021/better-role-colors-discord-plugin.jpg)
 
@@ -623,19 +623,19 @@ As the name signifies, this plugin will let you set the custom font colors for d
 
 The plugin includes colored voice, colored typing, color popouts and modals, and finally, a colored audit log.
 
-### 5. [Creation Date](https://betterdiscord.app/plugin/CreationDate)
+### 5. Creation Date
 
 Creation Date Discord plugin will assist users in seeing details right from the creation of users' accounts. Right after the launch, the plugin will display the creation date of an account in the user model and the user popout.
 
 Just beneath the name, you will see a tab called "**Create on**" to disclose the information like both date and time. The date is in DD/MM/YYYY format, and time is given in HH: MM format. Thus, it's quite a simple little Better Discord plugin.
 
-### 6. [Google Translate Option](https://betterdiscord.app/plugin/GoogleTranslateOption)
+### 6. Google Translate Option
 
 This is the go-to plugin if you are you use an international Discord server. With its usage, you may want to translate messages and switch to another language.
 
 You can easily translate messages in any language right from Discord itself with the help of this Google Translate Option Discord plugin. This plugin supports both outgoing and incoming and messages, so if you want to send messages in some other language, the **better discord plugin** will cover you.
 
-### 7. [Show Hidden Controls](https://betterdiscord.app/plugin/ShowHiddenChannels)
+### 7. Show Hidden Controls
 
 ![show hidden controls discord plugin](https://images.wondershare.com/filmora/article-images/2021/show-hidden-controls-discord-plugin.jpg)
 
@@ -643,13 +643,13 @@ Another famous Discord pluginis Show Hidden Controls that allows access to hidde
 
 Using this cool Discord Plugin, you can also see an entire overview of the channel. However, you will be unable to send and view messages on the server. It only discloses the hidden channels and essential details regarding the same.
 
-### 8. [Spotify Controls](https://betterdiscord.app/plugin/SpotifyControls)
+### 8. Spotify Controls
 
 Well, we all know that you can connect and use your Spotify account on Discord. Well, if you want to do this, then this plugin is for you. This plugin lets you control the Spotify audio playback right from the Discord itself.
 
 Upon enabling this Discord plugin, you will see a new **Spotify Controls** section within the server. It consists of information like the singer, cover photo, the song played, and elapsed time. Moreover, you can play/pause, go forward or backward with the in-built Spotify controls.
 
-### 9. [Send Large Messages](https://betterdiscord.app/plugin/SendLargeMessages)
+### 9. Send Large Messages
 
 We all know that Discord has a messaging limit of 2000 characters. You can use Send Large Messages better discord plugin to bypass this limit. This plugin will automatically split your shorter texts into multiple messages and send them to the other servers for you.
 
@@ -735,7 +735,7 @@ With the official server of Better Discord, you can install Discord Plugins and 
 
 Given below are some popular Discord plugins that are easily downloadable to improve the Discord server.
 
-### 1. [Permissions Viewer](https://betterdiscord.app/plugin/PermissionsViewer)
+### 1. Permissions Viewer
 
 ![discord plugin permissions viewer](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-permissions-viewer.jpg)
 
@@ -743,13 +743,13 @@ Permission's Viewer is a useful Discord plugin for everyone. It will allow you t
 
 Tapping the context menu will bring up the modal, which has a role-by-role breakdown. You can see all permissions, including managing channels, managing roles, and creating invites, etc.
 
-### 2. [Hide Disabled Emojis](https://betterdiscord.app/plugin/HideDisabledEmojis)
+### 2. Hide Disabled Emojis
 
 ![hide disabled emojis](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-hide-disabled-emojis.jpg)
 
 Discord plugins consist of a perfect collection of different emojis from different sections. At the same time, it comes with some disabled emojis as well. Using this plugin, you can easily hide all the disabled emojis, not to make them visible again.
 
-### 3. [Read All Notifications Button](https://betterdiscord.app/plugin/ReadAllNotificationsButton)
+### 3. Read All Notifications Button
 
 ![notifications discord plugin](https://images.wondershare.com/filmora/article-images/2021/notifications-discord-plugin.jpg)
 
@@ -757,7 +757,7 @@ Read All Notifications Button is a handy Discord plugin to remove all notificati
 
 Upon activating this plugin, a **Clear** button will show on your server list, and a mentions popout. Hitting the **Clear** tab from any of these two options will instantly clear every notification.
 
-### 4. [Better Role Colors](https://betterdiscord.app/plugin/BetterRoleColors)
+### 4. Better Role Colors
 
 ![better role colors discord plugin](https://images.wondershare.com/filmora/article-images/2021/better-role-colors-discord-plugin.jpg)
 
@@ -765,19 +765,19 @@ As the name signifies, this plugin will let you set the custom font colors for d
 
 The plugin includes colored voice, colored typing, color popouts and modals, and finally, a colored audit log.
 
-### 5. [Creation Date](https://betterdiscord.app/plugin/CreationDate)
+### 5. Creation Date
 
 Creation Date Discord plugin will assist users in seeing details right from the creation of users' accounts. Right after the launch, the plugin will display the creation date of an account in the user model and the user popout.
 
 Just beneath the name, you will see a tab called "**Create on**" to disclose the information like both date and time. The date is in DD/MM/YYYY format, and time is given in HH: MM format. Thus, it's quite a simple little Better Discord plugin.
 
-### 6. [Google Translate Option](https://betterdiscord.app/plugin/GoogleTranslateOption)
+### 6. Google Translate Option
 
 This is the go-to plugin if you are you use an international Discord server. With its usage, you may want to translate messages and switch to another language.
 
 You can easily translate messages in any language right from Discord itself with the help of this Google Translate Option Discord plugin. This plugin supports both outgoing and incoming and messages, so if you want to send messages in some other language, the **better discord plugin** will cover you.
 
-### 7. [Show Hidden Controls](https://betterdiscord.app/plugin/ShowHiddenChannels)
+### 7. Show Hidden Controls
 
 ![show hidden controls discord plugin](https://images.wondershare.com/filmora/article-images/2021/show-hidden-controls-discord-plugin.jpg)
 
@@ -785,13 +785,13 @@ Another famous Discord pluginis Show Hidden Controls that allows access to hidde
 
 Using this cool Discord Plugin, you can also see an entire overview of the channel. However, you will be unable to send and view messages on the server. It only discloses the hidden channels and essential details regarding the same.
 
-### 8. [Spotify Controls](https://betterdiscord.app/plugin/SpotifyControls)
+### 8. Spotify Controls
 
 Well, we all know that you can connect and use your Spotify account on Discord. Well, if you want to do this, then this plugin is for you. This plugin lets you control the Spotify audio playback right from the Discord itself.
 
 Upon enabling this Discord plugin, you will see a new **Spotify Controls** section within the server. It consists of information like the singer, cover photo, the song played, and elapsed time. Moreover, you can play/pause, go forward or backward with the in-built Spotify controls.
 
-### 9. [Send Large Messages](https://betterdiscord.app/plugin/SendLargeMessages)
+### 9. Send Large Messages
 
 We all know that Discord has a messaging limit of 2000 characters. You can use Send Large Messages better discord plugin to bypass this limit. This plugin will automatically split your shorter texts into multiple messages and send them to the other servers for you.
 
@@ -877,7 +877,7 @@ With the official server of Better Discord, you can install Discord Plugins and 
 
 Given below are some popular Discord plugins that are easily downloadable to improve the Discord server.
 
-### 1. [Permissions Viewer](https://betterdiscord.app/plugin/PermissionsViewer)
+### 1. Permissions Viewer
 
 ![discord plugin permissions viewer](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-permissions-viewer.jpg)
 
@@ -885,13 +885,13 @@ Permission's Viewer is a useful Discord plugin for everyone. It will allow you t
 
 Tapping the context menu will bring up the modal, which has a role-by-role breakdown. You can see all permissions, including managing channels, managing roles, and creating invites, etc.
 
-### 2. [Hide Disabled Emojis](https://betterdiscord.app/plugin/HideDisabledEmojis)
+### 2. Hide Disabled Emojis
 
 ![hide disabled emojis](https://images.wondershare.com/filmora/article-images/2021/discord-plugin-hide-disabled-emojis.jpg)
 
 Discord plugins consist of a perfect collection of different emojis from different sections. At the same time, it comes with some disabled emojis as well. Using this plugin, you can easily hide all the disabled emojis, not to make them visible again.
 
-### 3. [Read All Notifications Button](https://betterdiscord.app/plugin/ReadAllNotificationsButton)
+### 3. Read All Notifications Button
 
 ![notifications discord plugin](https://images.wondershare.com/filmora/article-images/2021/notifications-discord-plugin.jpg)
 
@@ -899,7 +899,7 @@ Read All Notifications Button is a handy Discord plugin to remove all notificati
 
 Upon activating this plugin, a **Clear** button will show on your server list, and a mentions popout. Hitting the **Clear** tab from any of these two options will instantly clear every notification.
 
-### 4. [Better Role Colors](https://betterdiscord.app/plugin/BetterRoleColors)
+### 4. Better Role Colors
 
 ![better role colors discord plugin](https://images.wondershare.com/filmora/article-images/2021/better-role-colors-discord-plugin.jpg)
 
@@ -907,19 +907,19 @@ As the name signifies, this plugin will let you set the custom font colors for d
 
 The plugin includes colored voice, colored typing, color popouts and modals, and finally, a colored audit log.
 
-### 5. [Creation Date](https://betterdiscord.app/plugin/CreationDate)
+### 5. Creation Date
 
 Creation Date Discord plugin will assist users in seeing details right from the creation of users' accounts. Right after the launch, the plugin will display the creation date of an account in the user model and the user popout.
 
 Just beneath the name, you will see a tab called "**Create on**" to disclose the information like both date and time. The date is in DD/MM/YYYY format, and time is given in HH: MM format. Thus, it's quite a simple little Better Discord plugin.
 
-### 6. [Google Translate Option](https://betterdiscord.app/plugin/GoogleTranslateOption)
+### 6. Google Translate Option
 
 This is the go-to plugin if you are you use an international Discord server. With its usage, you may want to translate messages and switch to another language.
 
 You can easily translate messages in any language right from Discord itself with the help of this Google Translate Option Discord plugin. This plugin supports both outgoing and incoming and messages, so if you want to send messages in some other language, the **better discord plugin** will cover you.
 
-### 7. [Show Hidden Controls](https://betterdiscord.app/plugin/ShowHiddenChannels)
+### 7. Show Hidden Controls
 
 ![show hidden controls discord plugin](https://images.wondershare.com/filmora/article-images/2021/show-hidden-controls-discord-plugin.jpg)
 
@@ -927,13 +927,13 @@ Another famous Discord pluginis Show Hidden Controls that allows access to hidde
 
 Using this cool Discord Plugin, you can also see an entire overview of the channel. However, you will be unable to send and view messages on the server. It only discloses the hidden channels and essential details regarding the same.
 
-### 8. [Spotify Controls](https://betterdiscord.app/plugin/SpotifyControls)
+### 8. Spotify Controls
 
 Well, we all know that you can connect and use your Spotify account on Discord. Well, if you want to do this, then this plugin is for you. This plugin lets you control the Spotify audio playback right from the Discord itself.
 
 Upon enabling this Discord plugin, you will see a new **Spotify Controls** section within the server. It consists of information like the singer, cover photo, the song played, and elapsed time. Moreover, you can play/pause, go forward or backward with the in-built Spotify controls.
 
-### 9. [Send Large Messages](https://betterdiscord.app/plugin/SendLargeMessages)
+### 9. Send Large Messages
 
 We all know that Discord has a messaging limit of 2000 characters. You can use Send Large Messages better discord plugin to bypass this limit. This plugin will automatically split your shorter texts into multiple messages and send them to the other servers for you.
 

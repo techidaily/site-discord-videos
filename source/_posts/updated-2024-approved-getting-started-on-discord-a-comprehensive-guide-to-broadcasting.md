@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Getting Started on Discord  A Comprehensive Guide to Broadcasting\""
-date: 2024-05-23T22:48:12.333Z
-updated: 2024-05-24T22:48:12.333Z
+date: 2024-07-07T19:11:22.828Z
+updated: 2024-07-08T19:11:22.828Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Getting Started on Discord: A Comprehensive Guide to Broadcasting\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Getting Started on Discord: A Comprehensive Guide to Broadcasting\""
 keywords: "Disco Broadcast Basics,Discord Streaming Tips,Beginner's Channel Live,Join Chat Room Sharing,Started Discord Voice,Learn Discord Broadcast,Discord Streaming Guide"
-thumbnail: https://www.lifewire.com/thmb/l_iYQlQgF06PMgnz1dmoCo6QLTc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/group-of-people-using-smart-phone-at-music-concert-763276353-a33d46d1b7c74a7c9d469879a87f9a27.jpg
+thumbnail: https://thmb.techidaily.com/2667f52774b221737f5b40cebcdbe6bd28a1a07909c05b7a4646323bdf667e48.jpg
 ---
 
 ## Getting Started on Discord: A Comprehensive Guide to Broadcasting

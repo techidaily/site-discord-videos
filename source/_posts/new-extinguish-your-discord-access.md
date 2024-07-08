@@ -1,7 +1,7 @@
 ---
 title: "[New] Extinguish Your Discord Access"
-date: 2024-05-23T22:47:43.918Z
-updated: 2024-05-24T22:47:43.918Z
+date: 2024-07-07T19:11:23.984Z
+updated: 2024-07-08T19:11:23.984Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Extinguish Your Discord Access"
 excerpt: "This Article Describes [New] Extinguish Your Discord Access"
 keywords: "End Discord Ban,Block Discord,Stop Discord,Halt Discord Access,Disconnect Discord,Cease Discord Use,Quit Discord"
-thumbnail: https://www.lifewire.com/thmb/kc5FQ7Wvdv0F_Krq4_-5yHNDSOw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/April-johnson-headshot-landscape-4a86f4e97518448ca071547d9ebe581a.png
+thumbnail: https://thmb.techidaily.com/9be41d62e85e6d9d35faed892e42e95be3740ff6798e8e9db724143c55700cdb.png
 ---
 
 ## Extinguish Your Discord Access
@@ -642,11 +642,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -657,11 +657,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -752,11 +752,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -767,11 +767,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -862,11 +862,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -877,11 +877,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -972,11 +972,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -987,11 +987,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 

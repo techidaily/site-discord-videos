@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Elevate Your Profile on Discord with Custom Emoji Stamps\""
-date: 2024-05-23T22:48:12.881Z
-updated: 2024-05-24T22:48:12.881Z
+date: 2024-07-07T19:11:05.623Z
+updated: 2024-07-08T19:11:05.623Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: How to Elevate Your Profile on Discord with Custom Emoji Stamps\""
 excerpt: "\"This Article Describes [New] 2024 Approved: How to Elevate Your Profile on Discord with Custom Emoji Stamps\""
 keywords: "Elevate Profile,Disco Emojis,Custom Stamps,Profile Enhancement,Emoji Branding,User Stamps Personalize,Stand Out Discord"
-thumbnail: https://www.lifewire.com/thmb/ADwMZAl5AjJaezwcgc229Y2W9FU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1558254975-0a8ae81a4cd04f3eba064dd56ba8b030.jpg
+thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f83678c9c2635006dd72b341f.jpg
 ---
 
 ## How to Elevate Your Profile on Discord with Custom Emoji Stamps

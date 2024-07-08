@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Take Control of Your Discord Community with Roles for 2024"
-date: 2024-05-23T22:48:13.394Z
-updated: 2024-05-24T22:48:13.394Z
+date: 2024-07-07T19:11:05.597Z
+updated: 2024-07-08T19:11:05.597Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] How to Take Control of Your Discord Community with Roles for 2024"
 excerpt: "This Article Describes [New] How to Take Control of Your Discord Community with Roles for 2024"
 keywords: "Control Discord Groups,Leadership in Discord,Manage Discord Communities,Setup Discord Roles,Organize Discord Servers,Role Management on Discord,Enhance Discord Community"
-thumbnail: https://www.lifewire.com/thmb/GNTJCbX1JbBQZqSWyGdMgU7lxsE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/samsung-smart-tv-lifestyle-alt-5c89160046e0fb00013365c2.jpg
+thumbnail: https://thmb.techidaily.com/a3895cce3360de5913e31306b1dac3362ecfc87f8052e7d36fccdff1f24bd61a.jpg
 ---
 
 ## How to Take Control of Your Discord Community with Roles
@@ -942,7 +942,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -952,7 +952,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -964,7 +964,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -1089,7 +1089,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -1099,7 +1099,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -1111,7 +1111,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -1236,7 +1236,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -1246,7 +1246,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -1258,7 +1258,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 
@@ -1383,7 +1383,7 @@ And, you can also consider using Discord GIF PFPsto get maximum attention. A GIF
 
 There are different ways to carry our Discord server growth, and one of them is to submit your Discord server to server directories or websites that allow you to post a listing for your server.
 
-### 1\. [Disboard](https://disboard.org/servers)
+### 1\. Disboard
 
 ![discord server pfp disboard](https://images.wondershare.com/filmora/article-images/2021/discord-server-pfp-disboard.jpg)
 
@@ -1393,7 +1393,7 @@ As severs here are browsed by category, ensure that you select the correct categ
 
 No matter you have a music server or a gaming server, there's sure to be a category for your server, and if not, there's also an "other" server category, so fear not!
 
-### 2.[Top.gg](https://top.gg/servers)
+### 2. Top.gg
 
 ![top gg discord server](https://images.wondershare.com/filmora/article-images/2021/top-gg-discord-server.jpg)
 
@@ -1405,7 +1405,7 @@ Servers categorize through tags, including Anime, Music, and 30 plus other categ
 
 A cool feature of the site is the users' comments on the custom server listing pages so that you can enjoy a great community.
 
-### 3\. [Discord Servers.com](https://discordservers.com/server/536415342411644929)
+### 3\. Discord Servers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers-pfp.jpg)
 

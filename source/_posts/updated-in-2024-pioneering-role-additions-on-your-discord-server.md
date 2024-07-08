@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Pioneering Role Additions on Your Discord Server"
-date: 2024-05-23T22:48:20.356Z
-updated: 2024-05-24T22:48:20.356Z
+date: 2024-07-07T19:11:05.336Z
+updated: 2024-07-08T19:11:05.336Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Pioneering Role Additions on Your Discord Server"
 excerpt: "This Article Describes [Updated] In 2024, Pioneering Role Additions on Your Discord Server"
 keywords: "Disco Leadership Enhancement,Discord Server Expansion,Adding Pioneer Roles,Discord Role Innovation,Leading Discord Servers,New Discord Staffing,Advancing Server Hierarchy"
-thumbnail: https://www.lifewire.com/thmb/w_GV57P4r5qdCqIJ7X3yV9UrMPo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/disk-drill-windows-11-f02a6492ea74401d8dda41db93a4201e.png
+thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c4dc2f3157ebd6066028a057.png
 ---
 
 ## Pioneering Role Additions on Your Discord Server

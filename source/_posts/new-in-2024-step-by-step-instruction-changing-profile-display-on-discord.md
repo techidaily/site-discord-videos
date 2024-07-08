@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Step-By-Step Instruction  Changing Profile Display on Discord\""
-date: 2024-05-23T22:48:23.085Z
-updated: 2024-05-24T22:48:23.085Z
+date: 2024-07-07T19:11:06.122Z
+updated: 2024-07-08T19:11:06.122Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Step-By-Step Instruction: Changing Profile Display on Discord\""
 excerpt: "\"This Article Describes [New] In 2024, Step-By-Step Instruction: Changing Profile Display on Discord\""
 keywords: "Change Discord Profile,Set Display Name,Update Avatar,Customize User Image,Alter Profile View,Modify Display Settings,Adjust Account Visibility"
-thumbnail: https://www.lifewire.com/thmb/4XBKBeuRAARBy1u3vDVh6ycEpCU=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/PolkAudioRC80i-594adc4a3df78cae81a59280.jpg
+thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf69849bc4b8a8c3c123bbebb43d1.jpg
 ---
 
 ## Step-By-Step Instruction: Changing Profile Display on Discord
@@ -68,7 +68,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -76,7 +76,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -86,7 +86,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -112,7 +112,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -126,11 +126,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -207,7 +207,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -215,7 +215,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -225,7 +225,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -251,7 +251,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -265,11 +265,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -346,7 +346,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -354,7 +354,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -364,7 +364,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -390,7 +390,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -404,11 +404,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -485,7 +485,7 @@ As I said before, Discord custom status enables you to add messages you want to 
 
 Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
 
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from (Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
@@ -493,7 +493,7 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+![custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -503,7 +503,7 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+![clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -529,7 +529,7 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+![change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
@@ -543,11 +543,11 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+![open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+![Display running game as a status message](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -617,7 +617,7 @@ One of the popular and easiest ways to find servers is to use explore Public Ser
 2. Tap the compass symbol to open the explore public service option.
 1. You will be directed towards the official Discord server directory. It has a search box on the top. Many top servers are listed below. Popular games like Minecraft, Fortnite, Call of Duty, and more are listed. You can tap open any of these channels to explore the community.
 
-![Find Discord Server   ](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
+![Find Discord Server](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
 
 1. Likewise, you can enter some search terms in a search box and explore the channels related to the term. For instance, you can input the term 'Disney Movies' or 'Call of Duty' and hit the search button. And a list of servers dedicated to the terms will appear.
 2. After exploring Discord servers, you might stumble upon a channel that you like. All you have to do is tab the join button.
@@ -632,13 +632,13 @@ Some of the popular channel directories are -
 
 1. [Discord.me](http://discord.me/)
 
-![Find Discord Server  via Discord.me ](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
+![Find Discord Server  via Discord.me](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
 
 You will fall in love with the appearance and user interface of Discord.me. The directory offers more than a thousand Discord servers. And a good number of them are legit. The ‘Categories’ drop-down list has a huge number of categories that people generally look for. You can also look for random servers and bots. The huge search bar at the top helps you explore the channels related to your search queries. Just below the search bar, the top channel categories are listed. If you scroll even further down, top servers are displayed. You can even look at the ones that have seen a recent surge in members and the ones that have mature content.
 
 1. [disboard.org](http://discord.org/)
 
-![Find Discord Server via  disboard.org ](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
+![Find Discord Server via  disboard.org](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
 
 This is the biggest directory that features servers sprawl across various subjects like languages, music, politics, LGBTQ, and several more alongside the usual gaming channels. You can use the search bar to hunt for servers related to your tastes. If you are baffled about where to start, you can explore the categories and tags underneath the search bar.
 
@@ -646,7 +646,7 @@ If you keep scrolling, you will come across popular channels or channels that ha
 
 1. [Discordservers.com](http://discordservers.com/)
 
-![Find Discord Server via  Discordservers.com ](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
+![Find Discord Server via  Discordservers.com](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
 
 This directory houses a vast collection of servers that are dedicated gaming community and geekdom. Upon entering the site, you will immediately notice that it has a sleek and minimal interface. You can easily navigate and find what you are looking for. The landing page has a list of featured channels. On the top, there is a search bar that can assist you in finding the servers related to your interests. However, you can hit the ‘browse’ button beside the search bar to explore all the categories.
 
@@ -708,7 +708,7 @@ One of the popular and easiest ways to find servers is to use explore Public Ser
 2. Tap the compass symbol to open the explore public service option.
 1. You will be directed towards the official Discord server directory. It has a search box on the top. Many top servers are listed below. Popular games like Minecraft, Fortnite, Call of Duty, and more are listed. You can tap open any of these channels to explore the community.
 
-![Find Discord Server   ](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
+![Find Discord Server](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
 
 1. Likewise, you can enter some search terms in a search box and explore the channels related to the term. For instance, you can input the term 'Disney Movies' or 'Call of Duty' and hit the search button. And a list of servers dedicated to the terms will appear.
 2. After exploring Discord servers, you might stumble upon a channel that you like. All you have to do is tab the join button.
@@ -723,13 +723,13 @@ Some of the popular channel directories are -
 
 1. [Discord.me](http://discord.me/)
 
-![Find Discord Server  via Discord.me ](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
+![Find Discord Server  via Discord.me](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
 
 You will fall in love with the appearance and user interface of Discord.me. The directory offers more than a thousand Discord servers. And a good number of them are legit. The ‘Categories’ drop-down list has a huge number of categories that people generally look for. You can also look for random servers and bots. The huge search bar at the top helps you explore the channels related to your search queries. Just below the search bar, the top channel categories are listed. If you scroll even further down, top servers are displayed. You can even look at the ones that have seen a recent surge in members and the ones that have mature content.
 
 1. [disboard.org](http://discord.org/)
 
-![Find Discord Server via  disboard.org ](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
+![Find Discord Server via  disboard.org](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
 
 This is the biggest directory that features servers sprawl across various subjects like languages, music, politics, LGBTQ, and several more alongside the usual gaming channels. You can use the search bar to hunt for servers related to your tastes. If you are baffled about where to start, you can explore the categories and tags underneath the search bar.
 
@@ -737,7 +737,7 @@ If you keep scrolling, you will come across popular channels or channels that ha
 
 1. [Discordservers.com](http://discordservers.com/)
 
-![Find Discord Server via  Discordservers.com ](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
+![Find Discord Server via  Discordservers.com](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
 
 This directory houses a vast collection of servers that are dedicated gaming community and geekdom. Upon entering the site, you will immediately notice that it has a sleek and minimal interface. You can easily navigate and find what you are looking for. The landing page has a list of featured channels. On the top, there is a search bar that can assist you in finding the servers related to your interests. However, you can hit the ‘browse’ button beside the search bar to explore all the categories.
 
@@ -799,7 +799,7 @@ One of the popular and easiest ways to find servers is to use explore Public Ser
 2. Tap the compass symbol to open the explore public service option.
 1. You will be directed towards the official Discord server directory. It has a search box on the top. Many top servers are listed below. Popular games like Minecraft, Fortnite, Call of Duty, and more are listed. You can tap open any of these channels to explore the community.
 
-![Find Discord Server   ](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
+![Find Discord Server](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
 
 1. Likewise, you can enter some search terms in a search box and explore the channels related to the term. For instance, you can input the term 'Disney Movies' or 'Call of Duty' and hit the search button. And a list of servers dedicated to the terms will appear.
 2. After exploring Discord servers, you might stumble upon a channel that you like. All you have to do is tab the join button.
@@ -814,13 +814,13 @@ Some of the popular channel directories are -
 
 1. [Discord.me](http://discord.me/)
 
-![Find Discord Server  via Discord.me ](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
+![Find Discord Server  via Discord.me](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
 
 You will fall in love with the appearance and user interface of Discord.me. The directory offers more than a thousand Discord servers. And a good number of them are legit. The ‘Categories’ drop-down list has a huge number of categories that people generally look for. You can also look for random servers and bots. The huge search bar at the top helps you explore the channels related to your search queries. Just below the search bar, the top channel categories are listed. If you scroll even further down, top servers are displayed. You can even look at the ones that have seen a recent surge in members and the ones that have mature content.
 
 1. [disboard.org](http://discord.org/)
 
-![Find Discord Server via  disboard.org ](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
+![Find Discord Server via  disboard.org](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
 
 This is the biggest directory that features servers sprawl across various subjects like languages, music, politics, LGBTQ, and several more alongside the usual gaming channels. You can use the search bar to hunt for servers related to your tastes. If you are baffled about where to start, you can explore the categories and tags underneath the search bar.
 
@@ -828,7 +828,7 @@ If you keep scrolling, you will come across popular channels or channels that ha
 
 1. [Discordservers.com](http://discordservers.com/)
 
-![Find Discord Server via  Discordservers.com ](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
+![Find Discord Server via  Discordservers.com](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
 
 This directory houses a vast collection of servers that are dedicated gaming community and geekdom. Upon entering the site, you will immediately notice that it has a sleek and minimal interface. You can easily navigate and find what you are looking for. The landing page has a list of featured channels. On the top, there is a search bar that can assist you in finding the servers related to your interests. However, you can hit the ‘browse’ button beside the search bar to explore all the categories.
 
@@ -890,7 +890,7 @@ One of the popular and easiest ways to find servers is to use explore Public Ser
 2. Tap the compass symbol to open the explore public service option.
 1. You will be directed towards the official Discord server directory. It has a search box on the top. Many top servers are listed below. Popular games like Minecraft, Fortnite, Call of Duty, and more are listed. You can tap open any of these channels to explore the community.
 
-![Find Discord Server   ](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
+![Find Discord Server](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
 
 1. Likewise, you can enter some search terms in a search box and explore the channels related to the term. For instance, you can input the term 'Disney Movies' or 'Call of Duty' and hit the search button. And a list of servers dedicated to the terms will appear.
 2. After exploring Discord servers, you might stumble upon a channel that you like. All you have to do is tab the join button.
@@ -905,13 +905,13 @@ Some of the popular channel directories are -
 
 1. [Discord.me](http://discord.me/)
 
-![Find Discord Server  via Discord.me ](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
+![Find Discord Server  via Discord.me](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
 
 You will fall in love with the appearance and user interface of Discord.me. The directory offers more than a thousand Discord servers. And a good number of them are legit. The ‘Categories’ drop-down list has a huge number of categories that people generally look for. You can also look for random servers and bots. The huge search bar at the top helps you explore the channels related to your search queries. Just below the search bar, the top channel categories are listed. If you scroll even further down, top servers are displayed. You can even look at the ones that have seen a recent surge in members and the ones that have mature content.
 
 1. [disboard.org](http://discord.org/)
 
-![Find Discord Server via  disboard.org ](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
+![Find Discord Server via  disboard.org](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
 
 This is the biggest directory that features servers sprawl across various subjects like languages, music, politics, LGBTQ, and several more alongside the usual gaming channels. You can use the search bar to hunt for servers related to your tastes. If you are baffled about where to start, you can explore the categories and tags underneath the search bar.
 
@@ -919,7 +919,7 @@ If you keep scrolling, you will come across popular channels or channels that ha
 
 1. [Discordservers.com](http://discordservers.com/)
 
-![Find Discord Server via  Discordservers.com ](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
+![Find Discord Server via  Discordservers.com](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
 
 This directory houses a vast collection of servers that are dedicated gaming community and geekdom. Upon entering the site, you will immediately notice that it has a sleek and minimal interface. You can easily navigate and find what you are looking for. The landing page has a list of featured channels. On the top, there is a search bar that can assist you in finding the servers related to your interests. However, you can hit the ‘browse’ button beside the search bar to explore all the categories.
 

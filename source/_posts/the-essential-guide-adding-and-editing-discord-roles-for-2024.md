@@ -1,7 +1,7 @@
 ---
 title: "\"The Essential Guide  Adding and Editing Discord Roles for 2024\""
-date: 2024-05-23T22:47:54.866Z
-updated: 2024-05-24T22:47:54.866Z
+date: 2024-07-07T19:11:18.929Z
+updated: 2024-07-08T19:11:18.929Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes The Essential Guide: Adding and Editing Discord Roles for 2024\""
 excerpt: "\"This Article Describes The Essential Guide: Adding and Editing Discord Roles for 2024\""
 keywords: "Disco Roles Basics,Role Management Tips,Editing Discord Roles,Add Discord Roles Ease,Role Guidelines Guide,Discord Admin Tools,Role Creation Steps"
-thumbnail: https://www.lifewire.com/thmb/G1pig-yg5gznDMqmD0fZ63WA19E=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Streaming_GettyImages-1317927924_grinvalds_CROPPED-71ab52546b8b477ca2c0788bc26d150f.jpg
+thumbnail: https://thmb.techidaily.com/4740430244a268b3ae9a4b1e15c683b234a7cf8bdf323c545591ca9aaa0e0818.jpg
 ---
 
 ## The Essential Guide: Adding and Editing Discord Roles

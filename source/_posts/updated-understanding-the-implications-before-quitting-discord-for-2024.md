@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding the Implications Before Quitting Discord for 2024"
-date: 2024-05-23T22:48:29.298Z
-updated: 2024-05-24T22:48:29.298Z
+date: 2024-07-07T19:11:16.510Z
+updated: 2024-07-08T19:11:16.510Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Understanding the Implications Before Quitting Discord for 2024"
 excerpt: "This Article Describes [Updated] Understanding the Implications Before Quitting Discord for 2024"
 keywords: "\"Discord Exit Consequences,Quit Discord Risks,Disconnecting From Discord,Terminating Discord Usage,Impacts Of Quitting Discord,Pre-Quit Discord Analysis,Discord Quitter Considerations\""
-thumbnail: https://www.lifewire.com/thmb/o9Q9WuSk80JXjgUWGQkyTXmmm-M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
 ## Understanding the Implications Before Quitting Discord
@@ -48,11 +48,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -63,11 +63,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -158,11 +158,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -173,11 +173,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -268,11 +268,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -283,11 +283,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -378,11 +378,11 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
@@ -393,11 +393,11 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
@@ -559,7 +559,7 @@ Buying stickers is useless if you don't send them over texts. So, once you purch
 
 ### 1\. Sending Stickers on Discord Mobile App
 
-![ send Discord Stickers on mobile](https://images.wondershare.com/filmora/article-images/sending-stickers-discord-mobile.jpg)
+![send Discord Stickers on mobile](https://images.wondershare.com/filmora/article-images/sending-stickers-discord-mobile.jpg)
 
 If you have the Discord app on your phone, tap on the emoji button. The Stickers tab appears, and this menu enables you to send the most-used stickers quickly, view all the purchased stickers, and search for appropriate stickers.
 
@@ -575,7 +575,7 @@ Once opened, the menu will show you the most-used stickers. You can view other p
 
 You can tap on a sticker to send it on chats and servers.
 
-## Bonus: Adding Face-tracking AR Stickers to Video with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Bonus: Adding Face-tracking AR Stickers to Video with Wondershare Filmora
 
 In the latest version of Wondershare Filmora (V10.5 and later version), you can add face-tracking AR stickers to people in the video, and light up the celebration with flashy and cute characters and elements. Here are some brief steps to add AR stickers to your video in Filmora.
 
@@ -597,11 +597,11 @@ However, if you are working on a video project with many footages, it is recomme
 
 After trimming or cutting out unnecessary frames from the video, you can now add the AR stickers to the footage. Go to the Effects tab and then scroll down to the **AR Sticker** directory.
 
-![ Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/ar-sticker-directory.jpg)
+![Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/ar-sticker-directory.jpg)
 
 Currently, there are 40 stickers available in Filmora. You can click each one to preview and download. To add a sticker to the video, you can drag and drop it to the video track above or to the video clip directly. You can add several stickers at the same time by placing them in the tracks accordingly.
 
-![ Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/add-multiple-ar-stickers-video.jpg)
+![Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/add-multiple-ar-stickers-video.jpg)
 
 ### Step 4\. Preview and Export
 
@@ -725,7 +725,7 @@ Buying stickers is useless if you don't send them over texts. So, once you purch
 
 ### 1\. Sending Stickers on Discord Mobile App
 
-![ send Discord Stickers on mobile](https://images.wondershare.com/filmora/article-images/sending-stickers-discord-mobile.jpg)
+![send Discord Stickers on mobile](https://images.wondershare.com/filmora/article-images/sending-stickers-discord-mobile.jpg)
 
 If you have the Discord app on your phone, tap on the emoji button. The Stickers tab appears, and this menu enables you to send the most-used stickers quickly, view all the purchased stickers, and search for appropriate stickers.
 
@@ -741,7 +741,7 @@ Once opened, the menu will show you the most-used stickers. You can view other p
 
 You can tap on a sticker to send it on chats and servers.
 
-## Bonus: Adding Face-tracking AR Stickers to Video with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Bonus: Adding Face-tracking AR Stickers to Video with Wondershare Filmora
 
 In the latest version of Wondershare Filmora (V10.5 and later version), you can add face-tracking AR stickers to people in the video, and light up the celebration with flashy and cute characters and elements. Here are some brief steps to add AR stickers to your video in Filmora.
 
@@ -763,11 +763,11 @@ However, if you are working on a video project with many footages, it is recomme
 
 After trimming or cutting out unnecessary frames from the video, you can now add the AR stickers to the footage. Go to the Effects tab and then scroll down to the **AR Sticker** directory.
 
-![ Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/ar-sticker-directory.jpg)
+![Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/ar-sticker-directory.jpg)
 
 Currently, there are 40 stickers available in Filmora. You can click each one to preview and download. To add a sticker to the video, you can drag and drop it to the video track above or to the video clip directly. You can add several stickers at the same time by placing them in the tracks accordingly.
 
-![ Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/add-multiple-ar-stickers-video.jpg)
+![Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/add-multiple-ar-stickers-video.jpg)
 
 ### Step 4\. Preview and Export
 
@@ -891,7 +891,7 @@ Buying stickers is useless if you don't send them over texts. So, once you purch
 
 ### 1\. Sending Stickers on Discord Mobile App
 
-![ send Discord Stickers on mobile](https://images.wondershare.com/filmora/article-images/sending-stickers-discord-mobile.jpg)
+![send Discord Stickers on mobile](https://images.wondershare.com/filmora/article-images/sending-stickers-discord-mobile.jpg)
 
 If you have the Discord app on your phone, tap on the emoji button. The Stickers tab appears, and this menu enables you to send the most-used stickers quickly, view all the purchased stickers, and search for appropriate stickers.
 
@@ -907,7 +907,7 @@ Once opened, the menu will show you the most-used stickers. You can view other p
 
 You can tap on a sticker to send it on chats and servers.
 
-## Bonus: Adding Face-tracking AR Stickers to Video with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Bonus: Adding Face-tracking AR Stickers to Video with Wondershare Filmora
 
 In the latest version of Wondershare Filmora (V10.5 and later version), you can add face-tracking AR stickers to people in the video, and light up the celebration with flashy and cute characters and elements. Here are some brief steps to add AR stickers to your video in Filmora.
 
@@ -929,11 +929,11 @@ However, if you are working on a video project with many footages, it is recomme
 
 After trimming or cutting out unnecessary frames from the video, you can now add the AR stickers to the footage. Go to the Effects tab and then scroll down to the **AR Sticker** directory.
 
-![ Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/ar-sticker-directory.jpg)
+![Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/ar-sticker-directory.jpg)
 
 Currently, there are 40 stickers available in Filmora. You can click each one to preview and download. To add a sticker to the video, you can drag and drop it to the video track above or to the video clip directly. You can add several stickers at the same time by placing them in the tracks accordingly.
 
-![ Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/add-multiple-ar-stickers-video.jpg)
+![Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/add-multiple-ar-stickers-video.jpg)
 
 ### Step 4\. Preview and Export
 
@@ -1057,7 +1057,7 @@ Buying stickers is useless if you don't send them over texts. So, once you purch
 
 ### 1\. Sending Stickers on Discord Mobile App
 
-![ send Discord Stickers on mobile](https://images.wondershare.com/filmora/article-images/sending-stickers-discord-mobile.jpg)
+![send Discord Stickers on mobile](https://images.wondershare.com/filmora/article-images/sending-stickers-discord-mobile.jpg)
 
 If you have the Discord app on your phone, tap on the emoji button. The Stickers tab appears, and this menu enables you to send the most-used stickers quickly, view all the purchased stickers, and search for appropriate stickers.
 
@@ -1073,7 +1073,7 @@ Once opened, the menu will show you the most-used stickers. You can view other p
 
 You can tap on a sticker to send it on chats and servers.
 
-## Bonus: Adding Face-tracking AR Stickers to Video with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Bonus: Adding Face-tracking AR Stickers to Video with Wondershare Filmora
 
 In the latest version of Wondershare Filmora (V10.5 and later version), you can add face-tracking AR stickers to people in the video, and light up the celebration with flashy and cute characters and elements. Here are some brief steps to add AR stickers to your video in Filmora.
 
@@ -1095,11 +1095,11 @@ However, if you are working on a video project with many footages, it is recomme
 
 After trimming or cutting out unnecessary frames from the video, you can now add the AR stickers to the footage. Go to the Effects tab and then scroll down to the **AR Sticker** directory.
 
-![ Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/ar-sticker-directory.jpg)
+![Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/ar-sticker-directory.jpg)
 
 Currently, there are 40 stickers available in Filmora. You can click each one to preview and download. To add a sticker to the video, you can drag and drop it to the video track above or to the video clip directly. You can add several stickers at the same time by placing them in the tracks accordingly.
 
-![ Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/add-multiple-ar-stickers-video.jpg)
+![Filmora AR Stickers](https://images.wondershare.com/filmora/article-images/add-multiple-ar-stickers-video.jpg)
 
 ### Step 4\. Preview and Export
 

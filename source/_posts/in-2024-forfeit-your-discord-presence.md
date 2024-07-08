@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Forfeit Your Discord Presence"
-date: 2024-05-23T22:47:44.255Z
-updated: 2024-05-24T22:47:44.255Z
+date: 2024-07-07T19:11:16.946Z
+updated: 2024-07-08T19:11:16.946Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Forfeit Your Discord Presence"
 excerpt: "This Article Describes In 2024, Forfeit Your Discord Presence"
 keywords: "Lose Discord Account,Cancel Discord Membership,End Discord Profile,Quit Discord Servers,Delete Discord ID,Terminate Discord Access,Remove Discord Username"
-thumbnail: https://www.lifewire.com/thmb/S38L-iV0SaOTCbQndhFff22cEEc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/EsiT5fdXEAEs0A3-503736188b9943edba694c60b3be7776.jpg
+thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b373b3c35d45e36e3b5fdd2147.jpg
 ---
 
 ## Forfeit Your Discord Presence

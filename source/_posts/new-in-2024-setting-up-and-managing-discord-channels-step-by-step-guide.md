@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Setting Up and Managing Discord Channels  Step-by-Step Guide\""
-date: 2024-05-23T22:48:22.305Z
-updated: 2024-05-24T22:48:22.305Z
+date: 2024-07-07T19:11:05.024Z
+updated: 2024-07-08T19:11:05.024Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Setting Up and Managing Discord Channels: Step-by-Step Guide\""
 excerpt: "\"This Article Describes [New] In 2024, Setting Up and Managing Discord Channels: Step-by-Step Guide\""
 keywords: "\"Discord Channel Management,Creating Discord Channels,Manage Discord Servers,Step-by-Step Discord Guide,Setting Up Discord Groups,Organize Discord Chat Rooms,Guiding Discord Channel Setup\""
-thumbnail: https://www.lifewire.com/thmb/Cf134RZWfKPf0IK4nvJEe0UWK6M=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/buy-used-iphone-5717c2523df78c3fa23ddc70.jpg
+thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160ded041f221da6fa3c4abad49.jpg
 ---
 
 ## Setting Up and Managing Discord Channels: Step-by-Step Guide

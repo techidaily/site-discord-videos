@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Best Discord Couple Chat Spaces"
-date: 2024-05-23T22:47:34.676Z
-updated: 2024-05-24T22:47:34.676Z
+date: 2024-07-07T19:11:11.894Z
+updated: 2024-07-08T19:11:11.894Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Best Discord Couple Chat Spaces"
 excerpt: "This Article Describes [Updated] Best Discord Couple Chat Spaces"
 keywords: "Top Discord Pairs,Premium Discord Chats,Elite Discord Duos,Prime Couple Discords,Excellent Couple Chat Spaces,Ideal Disco Pairings,Superior Duo Chats"
-thumbnail: https://www.lifewire.com/thmb/PUnRurqDMEhLT6VrZqPRE65yXbk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-set-up-and-use-the-nintendo-online-family-plan-featured-3b6c415d14f34e37a972e3800dc94c7d.jpg
+thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c53599613008193fcbe550b0f87978d3601d.jpg
 ---
 
 ## Best Discord Couple Chat Spaces
@@ -39,7 +39,7 @@ Today, in this article, we'll focus on Dating Discord servers. Yes, you've read 
 
 In the following list, we’ve shared some of the best and highly active discord dating servers that you can right away join for free. However, we would like to inform our readers that some servers are age-restricted and suitable for mature users only. So, you can join these dating servers Discord at your own risk.
 
-### 1\. [Beautiful People](https://discordapp.com/invite/a2Q2fAs)
+### 1\. Beautiful People
 
 Our first discord dating server in the list is Beautiful People, a community based solely on something as superficial as your physical appearance being worth your time.
 
@@ -49,43 +49,43 @@ Our first discord dating server in the list is Beautiful People, a community bas
 
 The Global Surreal Club is an 18 plus discord dating server that is quite interactive for young folks. It is the gp-place if you’re also looking to date or meet some new friends.
 
-### 3. [Lounge 18+](https://disboard.org/server/734159186853625876)
+### 3. Lounge 18+
 
 As the name suggests, it is another 18 plus discord dating server made for social geeks looking for fun bots, active dating channels, a friendly community, and more.
 
-### 4\. [Universal Matrix 18+](https://disboard.org/server/732982142921080904)
+### 4\. Universal Matrix 18+
 
 Our list of 18 plus discord dating servers doesn’t end as this Universal Matrix 18+ is only for adults.
 
-### 5\. [Tincord](https://disboard.org/server/554104140301598723)
+### 5\. Tincord
 
 Tincord is a hangout discord dating server channel that also includes its Tinder-like bot. It also has a nice community where everyone can get along, chat etc.
 
 ![tincord](https://images.wondershare.com/filmora/article-images/2021/discord-dating-server-tincord.jpg)
 
-### 6\. [Love Lounge](https://disboard.org/server/841715837072179201)
+### 6\. Love Lounge
 
 Love Lounge is a discord dating server channel tagged with Dating, Teens, Dating-Server, Soulmate etc.
 
-### 7\. [Blue Club](https://disboard.org/server/568102591163269121)
+### 7\. Blue Club
 
 Blue Club is quite an active community of daters also tagged with Voice Chat and E-Dating. They also have a friendly community with active chats, and a robust verification system.
 
 ![blue club discord](https://images.wondershare.com/filmora/article-images/2021/discord-dating-server-blue-club.jpg)
 
-### 8\. [Sofa Dating](https://disboard.org/server/880744087198769192)
+### 8\. Sofa Dating
 
 Sofa Dating is a discord dating server channel with a friendly community, no catfish system, and is very friendly to teens. If you like watching cartoons, it will be a good place to find your partners.
 
 ![sofa dating discord](https://images.wondershare.com/filmora/article-images/2021/discord-server-sofa-dating.jpg)
 
-### 9\. [The Coffee](https://disboard.org/server/852051262219747358)
+### 9\. The Coffee
 
 The Coffee is a discord dating server channel tagged with anime, chat, events, coffee, and more. You can discuss topics, interact with others, and become an elite coffee member with this discord community.
 
 ![discord dating server coffee](https://images.wondershare.com/filmora/article-images/2021/discord-dating-server-coffee.jpg)
 
-### 10\. [Only The Homies](https://disboard.org/server/867982694854844498)
+### 10\. Only The Homies
 
 Only The Homies is a discord dating server channel with great admin staff. However, it’s a basic server but chill at times to hang out with many young folks.
 
@@ -101,13 +101,13 @@ The simplest way to find legit Dating Discord servers is to explore the online d
 
 Some of the popular Discord directories are –
 
-### 1\. [Discord. me](https://discord.me/servers)
+### 1\. Discord. me
 
 ![discord me](https://images.wondershare.com/filmora/article-images/2021/discord-server-discordme.jpg)
 
 The user interface and appearance of Discord. me is pretty remarkable. The directory provides thousand plus Discord servers. The ‘**Categories’** drop-down list offers a list of options that people usually search for. You can search for random servers and bots. The top channel categories are listed just beneath the **Search** bar.
 
-### 2.[Discordservers.com](https://discordservers.com/server/536415342411644929)
+### 2. Discordservers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers.jpg)
 
@@ -115,7 +115,7 @@ This directory houses a vast collection of Discord dating servers aimed at an on
 
 After exploring the Discord dating servers, you can pick a handful and have a glance at the servers before you decide upon their joining concern. Then, you can scroll until you find a suitable dating Discord server channel for yourself. You can join multiple channels too.
 
-### 3.[Disboard.org](https://discord.org/)
+### 3. Disboard.org
 
 This is the most extensive directory that features servers sprawl across various subjects like languages, politics, music, LGBTQ, and other usual gaming channels. You can use the search bar and browse for media related to your dating Discord servers. If you are baffled about starting, you can explore the tags and categories beneath the **Search** bar.
 
@@ -167,7 +167,7 @@ Today, in this article, we'll focus on Dating Discord servers. Yes, you've read 
 
 In the following list, we’ve shared some of the best and highly active discord dating servers that you can right away join for free. However, we would like to inform our readers that some servers are age-restricted and suitable for mature users only. So, you can join these dating servers Discord at your own risk.
 
-### 1\. [Beautiful People](https://discordapp.com/invite/a2Q2fAs)
+### 1\. Beautiful People
 
 Our first discord dating server in the list is Beautiful People, a community based solely on something as superficial as your physical appearance being worth your time.
 
@@ -177,43 +177,43 @@ Our first discord dating server in the list is Beautiful People, a community bas
 
 The Global Surreal Club is an 18 plus discord dating server that is quite interactive for young folks. It is the gp-place if you’re also looking to date or meet some new friends.
 
-### 3. [Lounge 18+](https://disboard.org/server/734159186853625876)
+### 3. Lounge 18+
 
 As the name suggests, it is another 18 plus discord dating server made for social geeks looking for fun bots, active dating channels, a friendly community, and more.
 
-### 4\. [Universal Matrix 18+](https://disboard.org/server/732982142921080904)
+### 4\. Universal Matrix 18+
 
 Our list of 18 plus discord dating servers doesn’t end as this Universal Matrix 18+ is only for adults.
 
-### 5\. [Tincord](https://disboard.org/server/554104140301598723)
+### 5\. Tincord
 
 Tincord is a hangout discord dating server channel that also includes its Tinder-like bot. It also has a nice community where everyone can get along, chat etc.
 
 ![tincord](https://images.wondershare.com/filmora/article-images/2021/discord-dating-server-tincord.jpg)
 
-### 6\. [Love Lounge](https://disboard.org/server/841715837072179201)
+### 6\. Love Lounge
 
 Love Lounge is a discord dating server channel tagged with Dating, Teens, Dating-Server, Soulmate etc.
 
-### 7\. [Blue Club](https://disboard.org/server/568102591163269121)
+### 7\. Blue Club
 
 Blue Club is quite an active community of daters also tagged with Voice Chat and E-Dating. They also have a friendly community with active chats, and a robust verification system.
 
 ![blue club discord](https://images.wondershare.com/filmora/article-images/2021/discord-dating-server-blue-club.jpg)
 
-### 8\. [Sofa Dating](https://disboard.org/server/880744087198769192)
+### 8\. Sofa Dating
 
 Sofa Dating is a discord dating server channel with a friendly community, no catfish system, and is very friendly to teens. If you like watching cartoons, it will be a good place to find your partners.
 
 ![sofa dating discord](https://images.wondershare.com/filmora/article-images/2021/discord-server-sofa-dating.jpg)
 
-### 9\. [The Coffee](https://disboard.org/server/852051262219747358)
+### 9\. The Coffee
 
 The Coffee is a discord dating server channel tagged with anime, chat, events, coffee, and more. You can discuss topics, interact with others, and become an elite coffee member with this discord community.
 
 ![discord dating server coffee](https://images.wondershare.com/filmora/article-images/2021/discord-dating-server-coffee.jpg)
 
-### 10\. [Only The Homies](https://disboard.org/server/867982694854844498)
+### 10\. Only The Homies
 
 Only The Homies is a discord dating server channel with great admin staff. However, it’s a basic server but chill at times to hang out with many young folks.
 
@@ -229,13 +229,13 @@ The simplest way to find legit Dating Discord servers is to explore the online d
 
 Some of the popular Discord directories are –
 
-### 1\. [Discord. me](https://discord.me/servers)
+### 1\. Discord. me
 
 ![discord me](https://images.wondershare.com/filmora/article-images/2021/discord-server-discordme.jpg)
 
 The user interface and appearance of Discord. me is pretty remarkable. The directory provides thousand plus Discord servers. The ‘**Categories’** drop-down list offers a list of options that people usually search for. You can search for random servers and bots. The top channel categories are listed just beneath the **Search** bar.
 
-### 2.[Discordservers.com](https://discordservers.com/server/536415342411644929)
+### 2. Discordservers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers.jpg)
 
@@ -243,7 +243,7 @@ This directory houses a vast collection of Discord dating servers aimed at an on
 
 After exploring the Discord dating servers, you can pick a handful and have a glance at the servers before you decide upon their joining concern. Then, you can scroll until you find a suitable dating Discord server channel for yourself. You can join multiple channels too.
 
-### 3.[Disboard.org](https://discord.org/)
+### 3. Disboard.org
 
 This is the most extensive directory that features servers sprawl across various subjects like languages, politics, music, LGBTQ, and other usual gaming channels. You can use the search bar and browse for media related to your dating Discord servers. If you are baffled about starting, you can explore the tags and categories beneath the **Search** bar.
 
@@ -295,7 +295,7 @@ Today, in this article, we'll focus on Dating Discord servers. Yes, you've read 
 
 In the following list, we’ve shared some of the best and highly active discord dating servers that you can right away join for free. However, we would like to inform our readers that some servers are age-restricted and suitable for mature users only. So, you can join these dating servers Discord at your own risk.
 
-### 1\. [Beautiful People](https://discordapp.com/invite/a2Q2fAs)
+### 1\. Beautiful People
 
 Our first discord dating server in the list is Beautiful People, a community based solely on something as superficial as your physical appearance being worth your time.
 
@@ -305,43 +305,43 @@ Our first discord dating server in the list is Beautiful People, a community bas
 
 The Global Surreal Club is an 18 plus discord dating server that is quite interactive for young folks. It is the gp-place if you’re also looking to date or meet some new friends.
 
-### 3. [Lounge 18+](https://disboard.org/server/734159186853625876)
+### 3. Lounge 18+
 
 As the name suggests, it is another 18 plus discord dating server made for social geeks looking for fun bots, active dating channels, a friendly community, and more.
 
-### 4\. [Universal Matrix 18+](https://disboard.org/server/732982142921080904)
+### 4\. Universal Matrix 18+
 
 Our list of 18 plus discord dating servers doesn’t end as this Universal Matrix 18+ is only for adults.
 
-### 5\. [Tincord](https://disboard.org/server/554104140301598723)
+### 5\. Tincord
 
 Tincord is a hangout discord dating server channel that also includes its Tinder-like bot. It also has a nice community where everyone can get along, chat etc.
 
 ![tincord](https://images.wondershare.com/filmora/article-images/2021/discord-dating-server-tincord.jpg)
 
-### 6\. [Love Lounge](https://disboard.org/server/841715837072179201)
+### 6\. Love Lounge
 
 Love Lounge is a discord dating server channel tagged with Dating, Teens, Dating-Server, Soulmate etc.
 
-### 7\. [Blue Club](https://disboard.org/server/568102591163269121)
+### 7\. Blue Club
 
 Blue Club is quite an active community of daters also tagged with Voice Chat and E-Dating. They also have a friendly community with active chats, and a robust verification system.
 
 ![blue club discord](https://images.wondershare.com/filmora/article-images/2021/discord-dating-server-blue-club.jpg)
 
-### 8\. [Sofa Dating](https://disboard.org/server/880744087198769192)
+### 8\. Sofa Dating
 
 Sofa Dating is a discord dating server channel with a friendly community, no catfish system, and is very friendly to teens. If you like watching cartoons, it will be a good place to find your partners.
 
 ![sofa dating discord](https://images.wondershare.com/filmora/article-images/2021/discord-server-sofa-dating.jpg)
 
-### 9\. [The Coffee](https://disboard.org/server/852051262219747358)
+### 9\. The Coffee
 
 The Coffee is a discord dating server channel tagged with anime, chat, events, coffee, and more. You can discuss topics, interact with others, and become an elite coffee member with this discord community.
 
 ![discord dating server coffee](https://images.wondershare.com/filmora/article-images/2021/discord-dating-server-coffee.jpg)
 
-### 10\. [Only The Homies](https://disboard.org/server/867982694854844498)
+### 10\. Only The Homies
 
 Only The Homies is a discord dating server channel with great admin staff. However, it’s a basic server but chill at times to hang out with many young folks.
 
@@ -357,13 +357,13 @@ The simplest way to find legit Dating Discord servers is to explore the online d
 
 Some of the popular Discord directories are –
 
-### 1\. [Discord. me](https://discord.me/servers)
+### 1\. Discord. me
 
 ![discord me](https://images.wondershare.com/filmora/article-images/2021/discord-server-discordme.jpg)
 
 The user interface and appearance of Discord. me is pretty remarkable. The directory provides thousand plus Discord servers. The ‘**Categories’** drop-down list offers a list of options that people usually search for. You can search for random servers and bots. The top channel categories are listed just beneath the **Search** bar.
 
-### 2.[Discordservers.com](https://discordservers.com/server/536415342411644929)
+### 2. Discordservers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers.jpg)
 
@@ -371,7 +371,7 @@ This directory houses a vast collection of Discord dating servers aimed at an on
 
 After exploring the Discord dating servers, you can pick a handful and have a glance at the servers before you decide upon their joining concern. Then, you can scroll until you find a suitable dating Discord server channel for yourself. You can join multiple channels too.
 
-### 3.[Disboard.org](https://discord.org/)
+### 3. Disboard.org
 
 This is the most extensive directory that features servers sprawl across various subjects like languages, politics, music, LGBTQ, and other usual gaming channels. You can use the search bar and browse for media related to your dating Discord servers. If you are baffled about starting, you can explore the tags and categories beneath the **Search** bar.
 
@@ -423,7 +423,7 @@ Today, in this article, we'll focus on Dating Discord servers. Yes, you've read 
 
 In the following list, we’ve shared some of the best and highly active discord dating servers that you can right away join for free. However, we would like to inform our readers that some servers are age-restricted and suitable for mature users only. So, you can join these dating servers Discord at your own risk.
 
-### 1\. [Beautiful People](https://discordapp.com/invite/a2Q2fAs)
+### 1\. Beautiful People
 
 Our first discord dating server in the list is Beautiful People, a community based solely on something as superficial as your physical appearance being worth your time.
 
@@ -433,43 +433,43 @@ Our first discord dating server in the list is Beautiful People, a community bas
 
 The Global Surreal Club is an 18 plus discord dating server that is quite interactive for young folks. It is the gp-place if you’re also looking to date or meet some new friends.
 
-### 3. [Lounge 18+](https://disboard.org/server/734159186853625876)
+### 3. Lounge 18+
 
 As the name suggests, it is another 18 plus discord dating server made for social geeks looking for fun bots, active dating channels, a friendly community, and more.
 
-### 4\. [Universal Matrix 18+](https://disboard.org/server/732982142921080904)
+### 4\. Universal Matrix 18+
 
 Our list of 18 plus discord dating servers doesn’t end as this Universal Matrix 18+ is only for adults.
 
-### 5\. [Tincord](https://disboard.org/server/554104140301598723)
+### 5\. Tincord
 
 Tincord is a hangout discord dating server channel that also includes its Tinder-like bot. It also has a nice community where everyone can get along, chat etc.
 
 ![tincord](https://images.wondershare.com/filmora/article-images/2021/discord-dating-server-tincord.jpg)
 
-### 6\. [Love Lounge](https://disboard.org/server/841715837072179201)
+### 6\. Love Lounge
 
 Love Lounge is a discord dating server channel tagged with Dating, Teens, Dating-Server, Soulmate etc.
 
-### 7\. [Blue Club](https://disboard.org/server/568102591163269121)
+### 7\. Blue Club
 
 Blue Club is quite an active community of daters also tagged with Voice Chat and E-Dating. They also have a friendly community with active chats, and a robust verification system.
 
 ![blue club discord](https://images.wondershare.com/filmora/article-images/2021/discord-dating-server-blue-club.jpg)
 
-### 8\. [Sofa Dating](https://disboard.org/server/880744087198769192)
+### 8\. Sofa Dating
 
 Sofa Dating is a discord dating server channel with a friendly community, no catfish system, and is very friendly to teens. If you like watching cartoons, it will be a good place to find your partners.
 
 ![sofa dating discord](https://images.wondershare.com/filmora/article-images/2021/discord-server-sofa-dating.jpg)
 
-### 9\. [The Coffee](https://disboard.org/server/852051262219747358)
+### 9\. The Coffee
 
 The Coffee is a discord dating server channel tagged with anime, chat, events, coffee, and more. You can discuss topics, interact with others, and become an elite coffee member with this discord community.
 
 ![discord dating server coffee](https://images.wondershare.com/filmora/article-images/2021/discord-dating-server-coffee.jpg)
 
-### 10\. [Only The Homies](https://disboard.org/server/867982694854844498)
+### 10\. Only The Homies
 
 Only The Homies is a discord dating server channel with great admin staff. However, it’s a basic server but chill at times to hang out with many young folks.
 
@@ -485,13 +485,13 @@ The simplest way to find legit Dating Discord servers is to explore the online d
 
 Some of the popular Discord directories are –
 
-### 1\. [Discord. me](https://discord.me/servers)
+### 1\. Discord. me
 
 ![discord me](https://images.wondershare.com/filmora/article-images/2021/discord-server-discordme.jpg)
 
 The user interface and appearance of Discord. me is pretty remarkable. The directory provides thousand plus Discord servers. The ‘**Categories’** drop-down list offers a list of options that people usually search for. You can search for random servers and bots. The top channel categories are listed just beneath the **Search** bar.
 
-### 2.[Discordservers.com](https://discordservers.com/server/536415342411644929)
+### 2. Discordservers.com
 
 ![discord servers](https://images.wondershare.com/filmora/article-images/2021/discord-servers.jpg)
 
@@ -499,7 +499,7 @@ This directory houses a vast collection of Discord dating servers aimed at an on
 
 After exploring the Discord dating servers, you can pick a handful and have a glance at the servers before you decide upon their joining concern. Then, you can scroll until you find a suitable dating Discord server channel for yourself. You can join multiple channels too.
 
-### 3.[Disboard.org](https://discord.org/)
+### 3. Disboard.org
 
 This is the most extensive directory that features servers sprawl across various subjects like languages, politics, music, LGBTQ, and other usual gaming channels. You can use the search bar and browse for media related to your dating Discord servers. If you are baffled about starting, you can explore the tags and categories beneath the **Search** bar.
 
@@ -589,12 +589,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -615,7 +615,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -626,7 +626,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -745,12 +745,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -771,7 +771,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -782,7 +782,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -901,12 +901,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -927,7 +927,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -938,7 +938,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -1057,12 +1057,12 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
@@ -1083,7 +1083,7 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
@@ -1094,7 +1094,7 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 

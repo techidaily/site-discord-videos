@@ -1,7 +1,7 @@
 ---
 title: "\"Top Trends in Social Media Imagery  Animated Symbols for 2024\""
-date: 2024-05-23T22:47:57.216Z
-updated: 2024-05-24T22:47:57.216Z
+date: 2024-07-07T19:11:07.688Z
+updated: 2024-07-08T19:11:07.688Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Top Trends in Social Media Imagery: Animated Symbols for 2024\""
 excerpt: "\"This Article Describes Top Trends in Social Media Imagery: Animated Symbols for 2024\""
 keywords: "Social Media Art,Imagery Trends,Animation Symbols,Animated Graphics,Social Iconography,Media Visualization,Trendy Emojis"
-thumbnail: https://www.lifewire.com/thmb/KvyKv3qw43Rj30-fBwiiF96FrEQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-06-08at11.43.45AM-2ef9daaff54943558fd3a1612153347d.png
+thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33cafa8864cd2873a58b515ce.png
 ---
 
 ## Top Trends in Social Media Imagery: Animated Symbols

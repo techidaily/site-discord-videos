@@ -1,7 +1,7 @@
 ---
 title: "[New] Understanding & Implementing Discord Text Styles for 2024"
-date: 2024-06-28T03:28:23.308Z
-updated: 2024-06-29T03:28:23.308Z
+date: 2024-07-29T01:08:14.112Z
+updated: 2024-07-30T01:08:14.112Z
 tags:
   - ai video
   - ai discord
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 
 # How to Change Text Style in Discord | 3 Methods
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -69,6 +72,9 @@ As we mentioned previously, Markdown is completely text-based and has a very sim
 
 Here is an overview of the most important options for changing text style in Discord, and you can preview the text style in real time before sending to friends:
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Change Text Style in Discord  - Basic](https://images.wondershare.com/filmora/article-images/discord-change-text-style.jpg)
 
 #### **How to Bold Text in Discord?**
@@ -87,6 +93,10 @@ In order to get a strikethrough effect on your text, you will have to type two t
 
 Underline effect is also available on Discord and equally simple to activate. Just type two underscore dashes (\_\_)at the start and the ending of the text selection to apply it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### How to Combine Text Formatting Options in Discord?
 
 Once you mastered the basic effects and know the commands without thinking, it’s time to consider more complex text transformations that combine more than one effect. In principle, Markdown lets you do this just as easily, for as long as you know all the right combinations of characters that produce the desired effect. Here are the detailed instructions for some of the most frequently utilized combos:
@@ -113,8 +123,14 @@ This combination is achieved by placing two underscore marks (\_\_) and three st
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
 In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
@@ -127,6 +143,9 @@ To change the text color, you should create a simple, three-line block. In the t
 
 Here is a detailed video tutorial for creating customized text in a range of different colors with all the relevant code phrases.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## FAQs About Discord Text Formatting
 
 #### 1\. What is the default Discord font?
@@ -141,6 +160,9 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -157,3 +179,54 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-audio-to-words-on-youtube-a-comprehensible-free-guide/"><u>[New] 2024 Approved  From Audio to Words on YouTube  A Comprehensible Free Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-adjust-privacy-settings-for-secure-online-viewing-for-2024/"><u>[New] Adjust Privacy Settings for Secure Online Viewing for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-easy-steps-to-record-your-dell-laptops-display-for-2024/"><u>[New] Easy Steps to Record Your Dell Laptop's Display for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-effortless-steps-for-switching-user-statuses-on-discord/"><u>[New] Effortless Steps for Switching User Statuses on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-terminate-discord-access-dual-devices/"><u>[New] In 2024, Terminate Discord Access - Dual Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-insiders-move-to-effortless-discord-calls/"><u>[New] In 2024, The Insider's Move to Effortless Discord Calls</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-tips-for-engaging-video-blog-storytelling/"><u>[New] In 2024, Tips for Engaging Video Blog Storytelling</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-top-tier-designers-making-magic-in-discord-emojis/"><u>[New] In 2024, Top-Tier Designers  Making Magic in Discord Emojis</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-transforming-chat-sounds-on-discord-our-top-10-free-plugins/"><u>[New] In 2024, Transforming Chat Sounds on Discord  Our Top 10 Free Plugins</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-unlock-a-vast-collection-of-animated-emojis-top-8-free-sources/"><u>[New] In 2024, Unlock a Vast Collection of Animated Emojis  Top 8 FREE Sources</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-friend-requests-desktop-and-mobile-guide/"><u>[New] Mastering Friend Requests  Desktop & Mobile Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-discord-server-deletion-desktopmobile-for-2024/"><u>[New] Navigating Discord Server Deletion (Desktop/Mobile) for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-team-communication-tools-uncovering-superiority-between-slack-and-discord-for-2024/"><u>[New] Navigating Team Communication Tools  Uncovering Superiority Between Slack & Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-the-virtual-space-mastering-discord-screencasts/"><u>[New] Navigating the Virtual Space  Mastering Discord Screencasts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-practical-steps-for-farewell-in-a-discord-environment/"><u>[New] Practical Steps for Farewell in a Discord Environment</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-premiere-online-screen-recording-apps-discord-edition-for-2024/"><u>[New] Premiere Online Screen Recording Apps  Discord Edition for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-premium-font-fabrication-tools-for-discord-users/"><u>[New] Premium Font Fabrication Tools for Discord Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-skype-or-discord-finding-your-ideal-chat-app-for-2024/"><u>[New] Skype or Discord  Finding Your Ideal Chat App for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-step-by-step-enablingdisabling-picture-in-picture/"><u>[New] Step by Step  Enabling/Disabling Picture-in-Picture</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-step-by-step-incorporating-roles-into-your-discord-server/"><u>[New] Step-by-Step  Incorporating Roles Into Your Discord Server</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-art-of-video-transmission-within-discords-realm-for-2024/"><u>[New] The Art of Video Transmission Within Discord's Realm for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-voice-alteration-collection-for-discord/"><u>[New] The Ultimate Voice Alteration Collection for Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-top-custom-font-services-for-discord-on-iosandroid-devices/"><u>[New] Top Custom Font Services for Discord on iOS/Android Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweeting-videos-directly-from-your-phone-no-rt-for-2024/"><u>[New] Tweeting Videos Directly From Your Phone (No RT) for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unveiling-the-best-practices-for-transmitting-media-in-discord-for-2024/"><u>[New] Unveiling the Best Practices for Transmitting Media in Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unveiling-the-secrets-of-effective-dispute-resolution-on-discord-for-2024/"><u>[New] Unveiling the Secrets of Effective Dispute Resolution on Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-vivid-vistas-the-ultimate-selection-of-popular-discotheme-sets/"><u>[New] Vivid Vistas  The Ultimate Selection of Popular DiscoTheme Sets</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-faster-phonetic-playback-choose-from-these-10/"><u>[Updated] Faster Phonetic Playback  Choose From These 10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-guide-to-best-liked-ae-templates/"><u>[Updated] In 2024, The Ultimate Guide to Best-Liked AE Templates</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-professional-filmmakers-pick-is-it-filmora-or-democreator/"><u>[Updated] Professional Filmmakers' Pick  Is It Filmora or Democreator?</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-zte-axon-40-lite-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your ZTE Axon 40 Lite? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-huawei-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Huawei Phone Screen?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-infuse-originality-into-your-discord-status-with-personal-emojis-for-2024/"><u>How to Infuse Originality Into Your Discord Status with Personal Emojis for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-xs-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone XS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-huawei-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Huawei Through Google Earth?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-assessing-inshot-a-thorough-comparative-study/"><u>In 2024, Assessing InShot  A Thorough Comparative Study</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-unlock-the-potential-of-your-channels-with-our-guide-to-discord-broadcasting/"><u>In 2024, Unlock the Potential of Your Channels with Our Guide to Discord Broadcasting</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-nokia-c22-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Nokia C22 Device</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/navigate-discords-streaming-landscape-a-comprehensive-tutorial-for-2024/"><u>Navigate Discord's Streaming Landscape  A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-create-split-screen-videos-for-free-online-and-offline-editor-reviews/"><u>New 2024 Approved Create Split Screen Videos for Free Online and Offline Editor Reviews</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/optimal-zero-price-logo-maker-for-discord-channels-for-2024/"><u>Optimal Zero-Price Logo Maker for Discord Channels for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/premium-mobile-and-desktop-discord-recorders/"><u>Premium Mobile & Desktop Discord Recorders</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/proven-techniques-for-swiftly-locating-your-desired-discord-server/"><u>Proven Techniques for Swiftly Locating Your Desired Discord Server</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-setting-up-a-channel-for-streaming/"><u>Step-by-Step  Setting up a Channel for Streaming</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-process-to-make-professional-discord-photos-for-2024/"><u>Step-By-Step Process to Make Professional Discord Photos for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/streamlining-content-sharing-on-discord-with-ease-and-finesse/"><u>Streamlining Content Sharing on Discord with Ease and Finesse</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-lowdown-on-discords-nitro-exclusives-and-how-to-secure-them/"><u>The Lowdown on Discord's Nitro - Exclusives and How to Secure Them</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tactics for Toxic Troubleshooting  Your Complete Guide to Addressing Misconduct in Chat Rooms for 2024\""
-date: 2024-06-20T01:41:45.326Z
-updated: 2024-06-21T01:41:45.326Z
+date: 2024-07-29T01:07:29.598Z
+updated: 2024-07-30T01:07:29.598Z
 tags:
   - ai video
   - ai discord
@@ -50,6 +50,9 @@ Reporting helps make healthier communities and allows you to avoid conflicts and
 
 Today we will look into how to report someone on Discord using desktop and mobile devices. Moreover, we will look at other ways to deal with indecent behavior, such as kicking people or banning them.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Report Users on Discord Desktop
 
 Before you can report a person to Discord's Trust and Safety team, you will need to enable Discord's developer mode.
@@ -85,6 +88,9 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
@@ -96,6 +102,10 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
@@ -117,6 +127,9 @@ Now, you can send this information to the [Trust and Safety team](https://suppor
 2. Provide your email address along with the context behind the situation
 3. Click on "Submit"
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Part 3: How to Kick People on Discord
 
 Discord also allows you to take care of improper behavior yourself. If you are a moderator or server owner, you can kick people for violating Discord's guidelines.
@@ -149,6 +162,9 @@ If you happen to be a moderator or server owner, you have the authority to kick 
 
 There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Can I Report People on Discord Anonymously?
 
 According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
@@ -169,6 +185,9 @@ Individuals under the age of 13 are not permitted to use Discord unless they hav
 
 If you know someone who is undoubtedly underage, then you can report them to the Trust & Safety team by filling out their form and adding evidence to back your claim.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -185,3 +204,36 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-elevating-your-presence-a-guide-to-discord-broadcasts/"><u>[New] In 2024, Elevating Your Presence  A Guide to Discord Broadcasts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-how-to-engage-your-audience-in-live-discord-streams-easily/"><u>[New] In 2024, How to Engage Your Audience in Live Discord Streams Easily</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-strategic-message-management-expert-tips-for-discord-pinning/"><u>[New] In 2024, Strategic Message Management  Expert Tips for Discord Pinning</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unleash-the-artistry-of-impressive-gopro-timelapse-videos/"><u>[New] In 2024, Unleash the Artistry of Impressive GoPro Timelapse Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-unleashing-creativity-making-discords-profile-pictures-pop/"><u>[New] In 2024, Unleashing Creativity  Making Discord's Profile Pictures Pop</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagrams-latest-features-reels-and-stories-for-2024/"><u>[New] Mastering Instagram’s Latest Features  Reels & Stories for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-discord-live-a-users-blueprint-for-2024/"><u>[New] Navigating Discord Live  A User's Blueprint for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-speed-kings-guide-to-fast-frame-gathering-for-2024/"><u>[New] Speed King's Guide to Fast Frame Gathering for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-swift-secrets-to-selecting-superior-screen-names/"><u>[New] The Swift Secrets to Selecting Superior Screen Names</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-elevate-chat-dynamics-pin-messages-with-confidence-in-discord/"><u>[Updated] Elevate Chat Dynamics  Pin Messages with Confidence in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-getting-started-on-discord-a-comprehensive-guide-to-broadcasting/"><u>[Updated] Getting Started on Discord  A Comprehensive Guide to Broadcasting</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-discover-the-hottest-channel-names-for-recognition/"><u>[Updated] In 2024, Discover the Hottest Channel Names for Recognition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-from-anonymity-to-authority-the-essential-pathway-for-raising-issues-on-digital-platforms-like-discord/"><u>[Updated] In 2024, From Anonymity to Authority  The Essential Pathway for Raising Issues on Digital Platforms Like Discord</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-making-history-a-present-using-camera-roll-in-snaps-for-2024/"><u>[Updated] Making History a Present - Using Camera Roll in Snaps for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-discord-live-a-users-blueprint/"><u>[Updated] Navigating Discord Live  A User's Blueprint</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-delicate-process-of-unjoining-discords/"><u>[Updated] The Delicate Process of Unjoining Discords</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-resource-for-adding-dynamic-gifs-to-discord-conversations/"><u>[Updated] The Ultimate Resource for Adding Dynamic GIFs to Discord Conversations</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-how-to-keep-the-conversation-flowing-on-discord/"><u>2024 Approved  How to Keep the Conversation Flowing on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-practical-steps-for-farewell-in-a-discord-environment/"><u>2024 Approved  Practical Steps for Farewell in a Discord Environment</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-seize-high-def-online-videos-a-facebook-strategy/"><u>2024 Approved  Seize High-Def Online Videos  A Facebook Strategy</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/android-snapshot-wonders-ranking-the-best-8-for-free-screen-capture-for-2024/"><u>Android Snapshot Wonders - Ranking the Best 8 for Free Screen Capture for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-windows-10-audio-experience-with-driver-update/"><u>Improve Windows 10 Audio Experience with Driver Update</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-exploring-ai-face-generators/"><u>In 2024, Exploring AI Face Generators</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/pioneering-video-exchange-strategies-within-discord-networks-for-2024/"><u>Pioneering Video Exchange Strategies Within Discord Networks for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-to-creating-professional-discord-profile-pictures-for-2024/"><u>Step-by-Step Guide to Creating Professional Discord Profile Pictures for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/uncover-the-power-of-discords-spoiler-system/"><u>Uncover the Power of Discord's Spoiler System</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unleash-the-power-of-expression-emojis-in-your-discord-statues-for-2024/"><u>Unleash the Power of Expression  Emojis in Your Discord Statues for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/vibey-vistas-your-guide-to-the-10-most-trending-discothemes-for-2024/"><u>Vibey Vistas  Your Guide to the 10 Most Trending DiscoThemes for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-oppo-reno-10-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo Reno 10 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>

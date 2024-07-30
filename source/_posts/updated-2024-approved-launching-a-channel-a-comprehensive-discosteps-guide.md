@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Launching a Channel  A Comprehensive DiscoSteps Guide\""
-date: 2024-05-23T22:48:14.343Z
-updated: 2024-05-24T22:48:14.343Z
+date: 2024-07-29T00:56:10.606Z
+updated: 2024-07-30T00:56:10.606Z
 tags:
   - ai video
   - ai discord
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Launching a Channel: A Comprehensive DiscoSteps Guide\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Launching a Channel: A Comprehensive DiscoSteps Guide\""
 keywords: "Discovery Steps Guide,Launch Channel Tips,Channel Start Guide,Starting Online Channels,Digital Content Strategy,Media Platform Initiation,Video Channel Foundations,Content Strategy Beginning,Video Channel Foundation"
-thumbnail: https://www.lifewire.com/thmb/aaxHEgQKWsTUa3xjOYphr1B-IzA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-457316526-57deda085f9b58651650818c-5c62f2e346e0fb0001f2552f.jpg
+thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af9216aa863bdd663f250b5d16d.jpg
 ---
 
 ## Launching a Channel: A Comprehensive DiscoSteps Guide
@@ -31,6 +31,10 @@ For your assistance, this article will instantly address how to live **stream on
 * [FAQs about the live stream on Discord](#part7)
 * [Bonus Tip: Easily Record and Edit your Stream with Filmora](#part8)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## Part 1: What is Discord?
 
 [Discord](https://discord.com/) is a popular platform created to offer a better communication experience between game players. The major reason for the massive recognition of Discord is its ability to generate servers instantly. Game players and other users can instantly create voice or text servers for enhanced communication.
@@ -41,30 +45,59 @@ Discord provides excellent flexibility to users by providing high-quality audio 
 
 Along with using Discord Voice and Text chat features, you can live stream your gameplays. The live streaming on Discord won't be a public show, as it will only be confined to your selected server. Through this, you can ask your friends for assistance while playing games. Moreover, Discord is also capable of capturing other screens. Hence, it’s a great platform for professionals, game lovers, and other individuals to communicate efficiently.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Prerequisites for Stream on Discord
 
 Many social media platforms put restrictions on users for live streaming. Some platforms require you to have a specific number of followers in order to conduct live streaming. However, in Discord, you don’t have to worry about such restrictions. By creating a server and channel on Discord, you can easily go for live streaming. Check the below prerequisites for performing a **live stream on Discord**:
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Create your Discord Server
 
 Step1 Open your Discord and hit the “Plus” icon given on the left side. It will open a small menu where you can select a template to start or create your own server.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![select the server template](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-2.jpg)
 
 Step2 If you want to create your server, click "Create My Own." Now select the type of server you want to create. Once done, create the server name and click the "Create" button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![choose the type of server](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### 2\. Create your Discord Channel
 
 Step1 To create a Discord channel, open any of your servers from the left side. Now tap on the "Plus" icon adjacent to "Voice Channels."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![tap on the plus icon](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-4.jpg)
 
 Step2 You can either create a “Text” channel or a “Voice” channel. After choosing the channel type, create a channel name. You can also enable the “Private Channel” option to create a private channel. Once done, click on the “Create Channel” button.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![adjust the channel settings](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How to Stream Videos on Discord
 
 Once you have created a server and channel, you can begin your live streaming. Discord provides you with an option through which you can stream your videos instantly. To know the process, check the below steps:
@@ -83,12 +116,18 @@ Do you want to give a tutorial session through your webcam? Through live webcam 
 
 Step1 Once you have opened a server on Discord, go to your Voice channel. From there, tap on the “Camera” icon above your username.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![choose the webcam option](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-8.jpg)
 
 Step2 It will open a new screen through which you can start an activity or share your screen. Moreover, you can also invite others to join your webcam streaming. Once done with your activities, click on the “Red” button to disconnect.
 
 ![webcam live streaming activated](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: How to Change the Shared Screen on Discord
 
 Do you want to change a shared screen on Discord? If you want to open a presentation, web browser, or any other application, Discord can easily change the shared screen. Through this facility, you can quickly shift between multiple screens without hassle.
@@ -99,8 +138,14 @@ Step1 If you are live streaming your shared screen, you can instantly change win
 
 Step2 From the settings menu, click on "Change Windows." Now select the screen that you want to change. After choosing the required screen, hit on the "Go Live" button.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select change windows option](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 6: How to Stream Discord on my Mobile Phone?
 
 Discord has the same operating systems on Android and iOS devices. That’s why the steps to **stream on** **Discord** on both these devices are the same.
@@ -123,6 +168,9 @@ During the pandemic, up to 50 people were able to join live streaming on Discord
 
 Open Discord and navigate to the “User Settings” given at the bottom of the screen. Select the "Game Activity" section and activate the option "Display currently running game as a status message." Now click on the “Add it” button and choose the type of games you want to play. Once done, Discord would be able to detect the type of game automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### 3\. How to share a video on Discord?
 
 On your computer, launch Discord and go to your desired channel. On the chat box space, click on the “Plus” icon. Now browse the video from your system that you want to share. Click on the "Open" button and select the "Upload" option. By doing so, you can easily share videos.
@@ -135,6 +183,9 @@ To save and edit your live stream sessions, we will highly recommend you the scr
 
 Using this screen recorder, you can capture your desired area during live streaming. Once you capture your live-streaming session, you can edit it on this platform. Using the editing tool of Filmora, you can cut, crop, resize, and modify your screen recording efficiently.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora screen recorder settings](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-14.jpg)
 
 ## Conclusion
@@ -155,30 +206,59 @@ Discord provides excellent flexibility to users by providing high-quality audio 
 
 Along with using Discord Voice and Text chat features, you can live stream your gameplays. The live streaming on Discord won't be a public show, as it will only be confined to your selected server. Through this, you can ask your friends for assistance while playing games. Moreover, Discord is also capable of capturing other screens. Hence, it’s a great platform for professionals, game lovers, and other individuals to communicate efficiently.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Part 2: Prerequisites for Stream on Discord
 
 Many social media platforms put restrictions on users for live streaming. Some platforms require you to have a specific number of followers in order to conduct live streaming. However, in Discord, you don’t have to worry about such restrictions. By creating a server and channel on Discord, you can easily go for live streaming. Check the below prerequisites for performing a **live stream on Discord**:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### 1\. Create your Discord Server
 
 Step1 Open your Discord and hit the “Plus” icon given on the left side. It will open a small menu where you can select a template to start or create your own server.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the server template](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-2.jpg)
 
 Step2 If you want to create your server, click "Create My Own." Now select the type of server you want to create. Once done, create the server name and click the "Create" button.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the type of server](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### 2\. Create your Discord Channel
 
 Step1 To create a Discord channel, open any of your servers from the left side. Now tap on the "Plus" icon adjacent to "Voice Channels."
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on the plus icon](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-4.jpg)
 
 Step2 You can either create a “Text” channel or a “Voice” channel. After choosing the channel type, create a channel name. You can also enable the “Private Channel” option to create a private channel. Once done, click on the “Create Channel” button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![adjust the channel settings](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How to Stream Videos on Discord
 
 Once you have created a server and channel, you can begin your live streaming. Discord provides you with an option through which you can stream your videos instantly. To know the process, check the below steps:
@@ -197,10 +277,16 @@ Do you want to give a tutorial session through your webcam? Through live webcam 
 
 Step1 Once you have opened a server on Discord, go to your Voice channel. From there, tap on the “Camera” icon above your username.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the webcam option](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-8.jpg)
 
 Step2 It will open a new screen through which you can start an activity or share your screen. Moreover, you can also invite others to join your webcam streaming. Once done with your activities, click on the “Red” button to disconnect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![webcam live streaming activated](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-9.jpg)
 
 ## Part 5: How to Change the Shared Screen on Discord
@@ -213,6 +299,9 @@ Step1 If you are live streaming your shared screen, you can instantly change win
 
 Step2 From the settings menu, click on "Change Windows." Now select the screen that you want to change. After choosing the required screen, hit on the "Go Live" button.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![select change windows option](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-11.jpg)
 
 ## Part 6: How to Stream Discord on my Mobile Phone?
@@ -227,6 +316,9 @@ Step2 Now tap "Join Voice" to initiate live streaming. Here, you can turn on you
 
 ![access your voice channel](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 7: FAQs about the live stream on Discord
 
 ### 1\. How many people can watch my Discord live simultaneously?
@@ -237,6 +329,9 @@ During the pandemic, up to 50 people were able to join live streaming on Discord
 
 Open Discord and navigate to the “User Settings” given at the bottom of the screen. Select the "Game Activity" section and activate the option "Display currently running game as a status message." Now click on the “Add it” button and choose the type of games you want to play. Once done, Discord would be able to detect the type of game automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. How to share a video on Discord?
 
 On your computer, launch Discord and go to your desired channel. On the chat box space, click on the “Plus” icon. Now browse the video from your system that you want to share. Click on the "Open" button and select the "Upload" option. By doing so, you can easily share videos.
@@ -292,10 +387,16 @@ Thankfully, Discord came out with the perfect solution. Now, if you are sharing 
 * [Bonus: Is it the same to use Spoiler on Mobile devices?](#part3)
 * [Bonus: How to turn off the Spoiler tag?](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Part 1: How to Use Spoilers on Discord to Hide Text Messages?
 
 And now we come to the point - **how to do spoilers on Discord**? Well, there are two ways to do it. You can run through both of them and choose whichever suits you the best. All the methods are simple to follow. Note that some are available only on the desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1: Adding Spoiler Text Via Tag on Discord
 
 We will begin with the tag method. All you have to do is add the spoiler tag on Discord. Here is a quick rundown of the steps –
@@ -314,6 +415,249 @@ You can also add ‘/spoiler’ before the spoiler content. This is an alternati
 
 ![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
+### Method 2: Sending Spoiler Message with Mark as Spoiler icon
+
+This alternate method is quite simple. This was a recent update on Discord that enables you to add the spoiler tag quickly. Here is a brief rundown for you –
+
+1. Type out the spoiler content in the chatbox.
+2. Select the spoiler part of the text (highlight it).
+3. Upon selection, a floating bar will appear. Click the ‘eye’ symbol. and then the '||' mark will immediately accompany the selected text, and the selected message will be spoiled automatically.
+4. After you hit the send button, the text will be sent to the server. Only the people who wish to see the spoiler will tap on it unveil it.
+
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
+![add spoiler marker on Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-icon.jpg)
+
+This method is available only on the Discord desktop app and browser version. For iOS, the steps are similar. The only difference is that you have to select the spoiler mark from the context menu.
+
+## Part 2: How to Add Spoiler to Image and Video on Discord?
+
+There are many scenarios where a **Discord spoiler** can come in handy. As you might be aware that Discord is quite popular and its cross-platform flexibility make it a favorite among gamers. You can connect to your friends over multiple devices with a single account.
+
+Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
+![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+
+Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
+
+* Open Discord on your desktop app or browser.
+* Select the image or video that you want to send on the server.
+* Drag it to your server chat and drop it there.
+* Next, tap on the ‘+’ symbol.
+* From the options that appear, choose 'Mark as Spoiler.'
+* Hit the Upload button.
+* The result is a blurred image sent on the server. Anyone who wishes to view the image can tap on it.
+
+Note that spoilers that contain images, videos, or other multimedia files can be sent only on the desktop app or the browser. Mobile apps do not support spoiler marks for images or other media files.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
+## Bonus: Is it the same to use Spoiler on Mobile devices?
+
+The **Discord mobile spoiler** tag works the same on mobile apps. The process is more or less the same. Here is a quick rundown of the steps –
+
+1. Type out the spoiler text.
+2. Add ‘||’ symbols at the start and end of the text you want to hide.
+3. Hit the send button, and your spoiler text will be covered.
+4. Only the curious ones can tap and see your spoiler texts.
+
+You can even mark embedded links as spoilers with the same process. But this does not apply to Discord server links. Furthermore, **you cannot add spoiler tags to images, videos, and other files from the mobile app.**
+
+For iOS, you can select and highlight the text that you want to hide. Then, tap open the context menu and click on the ‘Mark as Spoiler’ to hide the text.
+
+## Bonus: How to turn off the Spoiler tag?
+
+For some reason, you may want to remove the spoiler tag from the spoiler texts. In that case, open the User Settings and tap on Text & Images. Scroll down to the Show Spoiler Content tab and you will see options to control when spoiler content is displayed. You can choose to display on click, on servers I moderate, and always.
+
+If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+
+This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+With Discord, you can [text with emojis](https://tools.techidaily.com/wondershare/filmora/download/) and even send GIFs. However, as servers become crowded, they get bombarded with texts. And some of these texts have spoilers for games (or other stuff) that others may not want to know or read. But ignoring spoilers was not that easy. As you scroll miles and miles of texts, your eyes are bound to catch some hints and ruin the suspense for you.
+
+Thankfully, Discord came out with the perfect solution. Now, if you are sharing some spoilers or secrets, you can mark them as spoilers. The result is a text that is sent but is blacked out. Curious users who are not scared of spoilers can view it. Others can enjoy their bliss of ignorance.
+
+#### In this article
+
+* [Part 1: How to Use Spoilers on Discord to Hide Text Messages?](#part1)
+* [Part 2: How to Add Spoiler to Image and Video on Discord?](#part2)
+* [Bonus: Is it the same to use Spoiler on Mobile devices?](#part3)
+* [Bonus: How to turn off the Spoiler tag?](#part4)
+
+## Part 1: How to Use Spoilers on Discord to Hide Text Messages?
+
+And now we come to the point - **how to do spoilers on Discord**? Well, there are two ways to do it. You can run through both of them and choose whichever suits you the best. All the methods are simple to follow. Note that some are available only on the desktop.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
+### Method 1: Adding Spoiler Text Via Tag on Discord
+
+We will begin with the tag method. All you have to do is add the spoiler tag on Discord. Here is a quick rundown of the steps –
+
+1. Open the Discord app and log in using your credentials.
+2. Pick a server from your server list or a friend from the friend list.
+3. Type whatever you want to in the chatbox.
+4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
+5. Hit the enter key to send and your spoiler is sent without spoiling anything!
+
+![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+
+This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
+
+You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
+
+![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+### Method 2: Sending Spoiler Message with Mark as Spoiler icon
+
+This alternate method is quite simple. This was a recent update on Discord that enables you to add the spoiler tag quickly. Here is a brief rundown for you –
+
+1. Type out the spoiler content in the chatbox.
+2. Select the spoiler part of the text (highlight it).
+3. Upon selection, a floating bar will appear. Click the ‘eye’ symbol. and then the '||' mark will immediately accompany the selected text, and the selected message will be spoiled automatically.
+4. After you hit the send button, the text will be sent to the server. Only the people who wish to see the spoiler will tap on it unveil it.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
+![add spoiler marker on Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-icon.jpg)
+
+This method is available only on the Discord desktop app and browser version. For iOS, the steps are similar. The only difference is that you have to select the spoiler mark from the context menu.
+
+## Part 2: How to Add Spoiler to Image and Video on Discord?
+
+There are many scenarios where a **Discord spoiler** can come in handy. As you might be aware that Discord is quite popular and its cross-platform flexibility make it a favorite among gamers. You can connect to your friends over multiple devices with a single account.
+
+Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
+
+![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+
+Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
+
+* Open Discord on your desktop app or browser.
+* Select the image or video that you want to send on the server.
+* Drag it to your server chat and drop it there.
+* Next, tap on the ‘+’ symbol.
+* From the options that appear, choose 'Mark as Spoiler.'
+* Hit the Upload button.
+* The result is a blurred image sent on the server. Anyone who wishes to view the image can tap on it.
+
+Note that spoilers that contain images, videos, or other multimedia files can be sent only on the desktop app or the browser. Mobile apps do not support spoiler marks for images or other media files.
+
+## Bonus: Is it the same to use Spoiler on Mobile devices?
+
+The **Discord mobile spoiler** tag works the same on mobile apps. The process is more or less the same. Here is a quick rundown of the steps –
+
+1. Type out the spoiler text.
+2. Add ‘||’ symbols at the start and end of the text you want to hide.
+3. Hit the send button, and your spoiler text will be covered.
+4. Only the curious ones can tap and see your spoiler texts.
+
+You can even mark embedded links as spoilers with the same process. But this does not apply to Discord server links. Furthermore, **you cannot add spoiler tags to images, videos, and other files from the mobile app.**
+
+For iOS, you can select and highlight the text that you want to hide. Then, tap open the context menu and click on the ‘Mark as Spoiler’ to hide the text.
+
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Bonus: How to turn off the Spoiler tag?
+
+For some reason, you may want to remove the spoiler tag from the spoiler texts. In that case, open the User Settings and tap on Text & Images. Scroll down to the Show Spoiler Content tab and you will see options to control when spoiler content is displayed. You can choose to display on click, on servers I moderate, and always.
+
+If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
+
+![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+
+This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+With Discord, you can [text with emojis](https://tools.techidaily.com/wondershare/filmora/download/) and even send GIFs. However, as servers become crowded, they get bombarded with texts. And some of these texts have spoilers for games (or other stuff) that others may not want to know or read. But ignoring spoilers was not that easy. As you scroll miles and miles of texts, your eyes are bound to catch some hints and ruin the suspense for you.
+
+Thankfully, Discord came out with the perfect solution. Now, if you are sharing some spoilers or secrets, you can mark them as spoilers. The result is a text that is sent but is blacked out. Curious users who are not scared of spoilers can view it. Others can enjoy their bliss of ignorance.
+
+#### In this article
+
+* [Part 1: How to Use Spoilers on Discord to Hide Text Messages?](#part1)
+* [Part 2: How to Add Spoiler to Image and Video on Discord?](#part2)
+* [Bonus: Is it the same to use Spoiler on Mobile devices?](#part3)
+* [Bonus: How to turn off the Spoiler tag?](#part4)
+
+## Part 1: How to Use Spoilers on Discord to Hide Text Messages?
+
+And now we come to the point - **how to do spoilers on Discord**? Well, there are two ways to do it. You can run through both of them and choose whichever suits you the best. All the methods are simple to follow. Note that some are available only on the desktop.
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 1: Adding Spoiler Text Via Tag on Discord
+
+We will begin with the tag method. All you have to do is add the spoiler tag on Discord. Here is a quick rundown of the steps –
+
+1. Open the Discord app and log in using your credentials.
+2. Pick a server from your server list or a friend from the friend list.
+3. Type whatever you want to in the chatbox.
+4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
+5. Hit the enter key to send and your spoiler is sent without spoiling anything!
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+
+This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
+
+You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
+
+![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
 This alternate method is quite simple. This was a recent update on Discord that enables you to add the spoiler tag quickly. Here is a brief rundown for you –
@@ -370,6 +714,9 @@ If you want to display all spoiler content, choose Always to turn off the spoile
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -424,10 +771,16 @@ This alternate method is quite simple. This was a recent update on Discord that 
 3. Upon selection, a floating bar will appear. Click the ‘eye’ symbol. and then the '||' mark will immediately accompany the selected text, and the selected message will be spoiled automatically.
 4. After you hit the send button, the text will be sent to the server. Only the people who wish to see the spoiler will tap on it unveil it.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add spoiler marker on Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-icon.jpg)
 
 This method is available only on the Discord desktop app and browser version. For iOS, the steps are similar. The only difference is that you have to select the spoiler mark from the context menu.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Add Spoiler to Image and Video on Discord?
 
 There are many scenarios where a **Discord spoiler** can come in handy. As you might be aware that Discord is quite popular and its cross-platform flexibility make it a favorite among gamers. You can connect to your friends over multiple devices with a single account.
@@ -448,6 +801,10 @@ Images can be tagged as spoilers before you upload them on servers. To add spoil
 
 Note that spoilers that contain images, videos, or other multimedia files can be sent only on the desktop app or the browser. Mobile apps do not support spoiler marks for images or other media files.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Bonus: Is it the same to use Spoiler on Mobile devices?
 
 The **Discord mobile spoiler** tag works the same on mobile apps. The process is more or less the same. Here is a quick rundown of the steps –
@@ -461,6 +818,9 @@ You can even mark embedded links as spoilers with the same process. But this doe
 
 For iOS, you can select and highlight the text that you want to hide. Then, tap open the context menu and click on the ‘Mark as Spoiler’ to hide the text.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Bonus: How to turn off the Spoiler tag?
 
 For some reason, you may want to remove the spoiler tag from the spoiler texts. In that case, open the User Settings and tap on Text & Images. Scroll down to the Show Spoiler Content tab and you will see options to control when spoiler content is displayed. You can choose to display on click, on servers I moderate, and always.
@@ -471,208 +831,9 @@ If you want to display all spoiler content, choose Always to turn off the spoile
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-With Discord, you can [text with emojis](https://tools.techidaily.com/wondershare/filmora/download/) and even send GIFs. However, as servers become crowded, they get bombarded with texts. And some of these texts have spoilers for games (or other stuff) that others may not want to know or read. But ignoring spoilers was not that easy. As you scroll miles and miles of texts, your eyes are bound to catch some hints and ruin the suspense for you.
-
-Thankfully, Discord came out with the perfect solution. Now, if you are sharing some spoilers or secrets, you can mark them as spoilers. The result is a text that is sent but is blacked out. Curious users who are not scared of spoilers can view it. Others can enjoy their bliss of ignorance.
-
-#### In this article
-
-* [Part 1: How to Use Spoilers on Discord to Hide Text Messages?](#part1)
-* [Part 2: How to Add Spoiler to Image and Video on Discord?](#part2)
-* [Bonus: Is it the same to use Spoiler on Mobile devices?](#part3)
-* [Bonus: How to turn off the Spoiler tag?](#part4)
-
-## Part 1: How to Use Spoilers on Discord to Hide Text Messages?
-
-And now we come to the point - **how to do spoilers on Discord**? Well, there are two ways to do it. You can run through both of them and choose whichever suits you the best. All the methods are simple to follow. Note that some are available only on the desktop.
-
-### Method 1: Adding Spoiler Text Via Tag on Discord
-
-We will begin with the tag method. All you have to do is add the spoiler tag on Discord. Here is a quick rundown of the steps –
-
-1. Open the Discord app and log in using your credentials.
-2. Pick a server from your server list or a friend from the friend list.
-3. Type whatever you want to in the chatbox.
-4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
-5. Hit the enter key to send and your spoiler is sent without spoiling anything!
-
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
-
-This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
-
-You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
-
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
-
-### Method 2: Sending Spoiler Message with Mark as Spoiler icon
-
-This alternate method is quite simple. This was a recent update on Discord that enables you to add the spoiler tag quickly. Here is a brief rundown for you –
-
-1. Type out the spoiler content in the chatbox.
-2. Select the spoiler part of the text (highlight it).
-3. Upon selection, a floating bar will appear. Click the ‘eye’ symbol. and then the '||' mark will immediately accompany the selected text, and the selected message will be spoiled automatically.
-4. After you hit the send button, the text will be sent to the server. Only the people who wish to see the spoiler will tap on it unveil it.
-
-![add spoiler marker on Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-icon.jpg)
-
-This method is available only on the Discord desktop app and browser version. For iOS, the steps are similar. The only difference is that you have to select the spoiler mark from the context menu.
-
-## Part 2: How to Add Spoiler to Image and Video on Discord?
-
-There are many scenarios where a **Discord spoiler** can come in handy. As you might be aware that Discord is quite popular and its cross-platform flexibility make it a favorite among gamers. You can connect to your friends over multiple devices with a single account.
-
-Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
-
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
-
-Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
-
-* Open Discord on your desktop app or browser.
-* Select the image or video that you want to send on the server.
-* Drag it to your server chat and drop it there.
-* Next, tap on the ‘+’ symbol.
-* From the options that appear, choose 'Mark as Spoiler.'
-* Hit the Upload button.
-* The result is a blurred image sent on the server. Anyone who wishes to view the image can tap on it.
-
-Note that spoilers that contain images, videos, or other multimedia files can be sent only on the desktop app or the browser. Mobile apps do not support spoiler marks for images or other media files.
-
-## Bonus: Is it the same to use Spoiler on Mobile devices?
-
-The **Discord mobile spoiler** tag works the same on mobile apps. The process is more or less the same. Here is a quick rundown of the steps –
-
-1. Type out the spoiler text.
-2. Add ‘||’ symbols at the start and end of the text you want to hide.
-3. Hit the send button, and your spoiler text will be covered.
-4. Only the curious ones can tap and see your spoiler texts.
-
-You can even mark embedded links as spoilers with the same process. But this does not apply to Discord server links. Furthermore, **you cannot add spoiler tags to images, videos, and other files from the mobile app.**
-
-For iOS, you can select and highlight the text that you want to hide. Then, tap open the context menu and click on the ‘Mark as Spoiler’ to hide the text.
-
-## Bonus: How to turn off the Spoiler tag?
-
-For some reason, you may want to remove the spoiler tag from the spoiler texts. In that case, open the User Settings and tap on Text & Images. Scroll down to the Show Spoiler Content tab and you will see options to control when spoiler content is displayed. You can choose to display on click, on servers I moderate, and always.
-
-If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
-
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
-
-This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-With Discord, you can [text with emojis](https://tools.techidaily.com/wondershare/filmora/download/) and even send GIFs. However, as servers become crowded, they get bombarded with texts. And some of these texts have spoilers for games (or other stuff) that others may not want to know or read. But ignoring spoilers was not that easy. As you scroll miles and miles of texts, your eyes are bound to catch some hints and ruin the suspense for you.
-
-Thankfully, Discord came out with the perfect solution. Now, if you are sharing some spoilers or secrets, you can mark them as spoilers. The result is a text that is sent but is blacked out. Curious users who are not scared of spoilers can view it. Others can enjoy their bliss of ignorance.
-
-#### In this article
-
-* [Part 1: How to Use Spoilers on Discord to Hide Text Messages?](#part1)
-* [Part 2: How to Add Spoiler to Image and Video on Discord?](#part2)
-* [Bonus: Is it the same to use Spoiler on Mobile devices?](#part3)
-* [Bonus: How to turn off the Spoiler tag?](#part4)
-
-## Part 1: How to Use Spoilers on Discord to Hide Text Messages?
-
-And now we come to the point - **how to do spoilers on Discord**? Well, there are two ways to do it. You can run through both of them and choose whichever suits you the best. All the methods are simple to follow. Note that some are available only on the desktop.
-
-### Method 1: Adding Spoiler Text Via Tag on Discord
-
-We will begin with the tag method. All you have to do is add the spoiler tag on Discord. Here is a quick rundown of the steps –
-
-1. Open the Discord app and log in using your credentials.
-2. Pick a server from your server list or a friend from the friend list.
-3. Type whatever you want to in the chatbox.
-4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
-5. Hit the enter key to send and your spoiler is sent without spoiling anything!
-
-![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
-
-This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
-
-You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
-
-![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
-
-### Method 2: Sending Spoiler Message with Mark as Spoiler icon
-
-This alternate method is quite simple. This was a recent update on Discord that enables you to add the spoiler tag quickly. Here is a brief rundown for you –
-
-1. Type out the spoiler content in the chatbox.
-2. Select the spoiler part of the text (highlight it).
-3. Upon selection, a floating bar will appear. Click the ‘eye’ symbol. and then the '||' mark will immediately accompany the selected text, and the selected message will be spoiled automatically.
-4. After you hit the send button, the text will be sent to the server. Only the people who wish to see the spoiler will tap on it unveil it.
-
-![add spoiler marker on Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-icon.jpg)
-
-This method is available only on the Discord desktop app and browser version. For iOS, the steps are similar. The only difference is that you have to select the spoiler mark from the context menu.
-
-## Part 2: How to Add Spoiler to Image and Video on Discord?
-
-There are many scenarios where a **Discord spoiler** can come in handy. As you might be aware that Discord is quite popular and its cross-platform flexibility make it a favorite among gamers. You can connect to your friends over multiple devices with a single account.
-
-Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
-
-![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
-
-Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
-
-* Open Discord on your desktop app or browser.
-* Select the image or video that you want to send on the server.
-* Drag it to your server chat and drop it there.
-* Next, tap on the ‘+’ symbol.
-* From the options that appear, choose 'Mark as Spoiler.'
-* Hit the Upload button.
-* The result is a blurred image sent on the server. Anyone who wishes to view the image can tap on it.
-
-Note that spoilers that contain images, videos, or other multimedia files can be sent only on the desktop app or the browser. Mobile apps do not support spoiler marks for images or other media files.
-
-## Bonus: Is it the same to use Spoiler on Mobile devices?
-
-The **Discord mobile spoiler** tag works the same on mobile apps. The process is more or less the same. Here is a quick rundown of the steps –
-
-1. Type out the spoiler text.
-2. Add ‘||’ symbols at the start and end of the text you want to hide.
-3. Hit the send button, and your spoiler text will be covered.
-4. Only the curious ones can tap and see your spoiler texts.
-
-You can even mark embedded links as spoilers with the same process. But this does not apply to Discord server links. Furthermore, **you cannot add spoiler tags to images, videos, and other files from the mobile app.**
-
-For iOS, you can select and highlight the text that you want to hide. Then, tap open the context menu and click on the ‘Mark as Spoiler’ to hide the text.
-
-## Bonus: How to turn off the Spoiler tag?
-
-For some reason, you may want to remove the spoiler tag from the spoiler texts. In that case, open the User Settings and tap on Text & Images. Scroll down to the Show Spoiler Content tab and you will see options to control when spoiler content is displayed. You can choose to display on click, on servers I moderate, and always.
-
-If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
-
-![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
-
-This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
-
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -697,3 +858,60 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-ace-discord-conversations-with-effective-pinning-tips/"><u>[New] 2024 Approved  Ace Discord Conversations with Effective Pinning Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-deciphering-instagrams-video-limit-rules/"><u>[New] 2024 Approved  Deciphering Instagram's Video Limit Rules</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unlock-your-potential-designing-captivating-discord-photos/"><u>[New] 2024 Approved  Unlock Your Potential  Designing Captivating Discord Photos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-a-complete-guide-to-personalizing-your-virtual-space-on-discord/"><u>[New] A Complete Guide to Personalizing Your Virtual Space on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discovering-the-secrets-to-a-perfect-pfp-on-discord/"><u>[New] Discovering The Secrets to a Perfect Pfp on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-exclusive-a-step-by-step-process-to-finding-hidden-discords/"><u>[New] Exclusive  A Step-by-Step Process to Finding Hidden Discords</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-exploring-advanced-strategies-for-sending-videos-in-discord-for-2024/"><u>[New] Exploring Advanced Strategies for Sending Videos in Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-building-a-stronger-team-integrating-roles-in-discord/"><u>[New] In 2024, Building a Stronger Team  Integrating Roles in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-essential-steps-for-starting-a-channel-on-discord/"><u>[New] In 2024, Essential Steps for Starting a Channel on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-from-novice-to-expert-with-discord/"><u>[New] In 2024, From Novice to Expert with Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-navigating-everyday-chats-smart-reacts-and-replies-discord/"><u>[New] In 2024, Navigating Everyday Chats  Smart Reacts and Replies (Discord)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-status-update-in-discord-chat/"><u>[New] Mastering Status Update in Discord Chat</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-stabilizing-high-flying-camera-work-a-guide/"><u>[New] Stabilizing High-Flying Camera Work  A Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-strategic-message-management-expert-tips-for-discord-pinning-for-2024/"><u>[New] Strategic Message Management  Expert Tips for Discord Pinning for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-stream-success-linking-twitch-feeds-to-fb-networks/"><u>[New] Stream Success  Linking Twitch Feeds to FB Networks</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-dissolve-link-to-discord-on-devices/"><u>[Updated] 2024 Approved  Dissolve Link to Discord on Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-device-specific-discord-deletion-techniques/"><u>[Updated] 2024 Approved  Mastering Device-Specific Discord Deletion Techniques</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-right-way-to-disband-from-a-discord-community/"><u>[Updated] 2024 Approved  The Right Way to Disband From a Discord Community</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-simplest-way-to-understand-and-apply-discord-spoilers/"><u>[Updated] 2024 Approved  The Simplest Way to Understand and Apply Discord Spoilers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-a-complete-guideline-for-mobizen-screen-recorder-for-2024/"><u>[Updated] A Complete Guideline for Mobizen Screen Recorder for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-avoiding-triggers-exiting-with-ease-from-discord-servers-for-2024/"><u>[Updated] Avoiding Triggers  Exiting with Ease From Discord Servers for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-engage-your-audience-in-live-discord-streams-easily-for-2024/"><u>[Updated] How to Engage Your Audience in Live Discord Streams Easily for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-discord-streaming-essentials-a-comprehensive-beginners-tutorial/"><u>[Updated] In 2024, Discord Streaming Essentials  A Comprehensive Beginner's Tutorial</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unplugging-the-servers-deleting-discord-on-devices/"><u>[Updated] In 2024, Unplugging the Servers  Deleting Discord on Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-livestream-guide-decide-between-pmix-and-wirecast/"><u>[Updated] Ultimate Livestream Guide  Decide Between PMix & Wirecast</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-10-popular-discord-themes-from-betterdiscord/"><u>2024 Approved  10 Popular Discord Themes [From BetterDiscord]</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-how-to-send-a-snap-from-memoriescamera-roll-on-snapchat/"><u>2024 Approved  How to Send a Snap From Memories/Camera Roll on Snapchat</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-mastery-in-making-stunning-discord-pfps-with-minimal-effort/"><u>2024 Approved  Mastery in Making Stunning Discord Pfps with Minimal Effort</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-navigating-discords-streaming-features-desktopmobile/"><u>2024 Approved  Navigating Discord's Streaming Features (Desktop/Mobile)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-step-by-step-strategies-for-hosting-engaging-discord-channels/"><u>2024 Approved  Step-by-Step Strategies for Hosting Engaging Discord Channels</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/cloaked-content-exploration-reading-instagram-stories-without-sharing-your-identity/"><u>Cloaked Content Exploration  Reading Instagram Stories without Sharing Your Identity</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/cutting-edge-simple-win-11-recorders/"><u>Cutting-Edge Simple Win 11 Recorders</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-8-plus-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://article-files.techidaily.com/enhance-browsing-with-effortless-side-by-side-view-on-chromes-fullscreen-for-2024/"><u>Enhance Browsing with Effortless Side-by-Side View on Chrome's Fullscreen for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhance-your-videography-youtube-studio-edition-techniques-for-2024/"><u>Enhance Your Videography  YouTube Studio Edition Techniques for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-realme-12plus-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Realme 12+ 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-mix-fold-3-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Mix Fold 3 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-tecno-spark-20-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Spark 20 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-tecno-spark-20c-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Tecno Spark 20C Activity | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-cutting-edge-strategies-for-igtv-backgrounds/"><u>In 2024, Cutting-Edge Strategies for IGTV Backgrounds</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-infinix-note-30-vip-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Infinix Note 30 VIP Phone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-how-to-voice-activate-your-discord-conversations/"><u>In 2024, How to Voice-Activate Your Discord Conversations</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-11-5-ways-to-get-into-a-locked-iphone-11-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 11? 5 Ways to get into a Locked iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-the-best-iphone-and-ipad-videos-top-10/"><u>In 2024, The Ultimate Guide to the Best iPhone & iPad Videos (Top 10)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-unveiling-the-capabilities-of-springs-advanced-screenscape/"><u>In 2024, Unveiling the Capabilities of Spring's Advanced Screenscape</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecnofrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your TecnoFRP Lock</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/navigating-discord-server-deletion-desktopmobile-for-2024/"><u>Navigating Discord Server Deletion (Desktop/Mobile) for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oppo-find-n3-flip-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Oppo Find N3 Flip</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-art-of-adding-unique-emojis-in-discord-a-complete-guide-for-pc-and-mobile-users/"><u>The Art of Adding Unique Emojis in Discord  A Complete Guide for PC & Mobile Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-checklist-for-broadcasting-on-discord-for-2024/"><u>The Ultimate Checklist for Broadcasting on Discord for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-wizardry-of-images-elevate-your-snapchat-with-edits-for-2024/"><u>The Wizardry of Images  Elevate Your Snapchat with Edits for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unlocking-the-power-of-discord-spoiler-labels/"><u>Unlocking the Power of Discord Spoiler Labels</u></a></li>
+</ul></div>

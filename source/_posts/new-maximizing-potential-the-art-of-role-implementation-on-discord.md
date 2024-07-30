@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Maximizing Potential  The Art of Role Implementation on Discord\""
-date: 2024-06-10T22:52:27.620Z
-updated: 2024-06-11T22:52:27.620Z
+date: 2024-07-29T01:06:33.809Z
+updated: 2024-07-30T01:06:33.809Z
 tags:
   - ai video
   - ai discord
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
 
 # How to Add Roles in Discord?
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -38,6 +41,9 @@ So, let us learn the art of delegation on Discord! This guide will help you with
 * [Part 5: How to Add Roles on Discord Mobile?](#part5)
 * [Part 6: Adding Roles to Discord FAQs](#part6)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## Part 1: Discord Server Permissions You Can Set Up
 
 To give you a heads-up, there are around 29 permissions that you can adjust over a Discord server. More specifically, there are 7 voice permissions, 9 permissions related to texts, and about 13 permissions dealing with the server.
@@ -92,6 +98,9 @@ Use External Emojis – if enabled, users can send emojis from other servers.
 
 Add Reactions – with this; users can add new reactions to a text.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Voice channel permissions
 
 Connect – enables users to connect themselves over the voice channel.
@@ -130,6 +139,9 @@ Before you can assign roles, you need a server. Once you have created your Disco
 3. Now comes the time to grant some permissions. These are basically the authority that you gave to every profile.
 4. When you are done, save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Assign Roles to Members in Discord?
 
 To be able to assign roles, you should first create them
@@ -150,6 +162,10 @@ The quickest and easiest way to manage your bloating server is to let all member
 
 Further, you can easily figure out what roles you have assigned to whom. Due to these colors, the other members can identify moderators, admins, or other roles.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## Part 4: How to Delete Roles in Discord?
 
 Honestly, removing Discord roles easier than setting them up. There are hardly a few steps that you need to follow for role removal.
@@ -160,10 +176,16 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 1. Towards the bottom, you will see the option to delete the role.
 2. Press ok to confirm.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: How to Add Roles on Discord Mobile?
 
 Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. How to create roles in Discord mobile app?
 
 Before you can assign roles, you have to create them.
@@ -186,6 +208,9 @@ You can repeat this multiple times to create more roles.
 
 Save the changes, and you are good to go! You can assign multiple roles to a member.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Part 6: FAQs about Discord Server Roles
 
 Just some obvious things you might wonder about.
@@ -229,3 +254,60 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-crafting-igtv-content-with-multilingual-support/"><u>[New] 2024 Approved  Crafting IGTV Content with Multilingual Support</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-decoding-the-mysteries-of-effective-youtube-keywords/"><u>[New] 2024 Approved  Decoding the Mysteries of Effective YouTube Keywords</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-discord-broadcast-mastery-the-ultimate-guide-for-novices-and-pros/"><u>[New] 2024 Approved  Discord Broadcast Mastery  The Ultimate Guide for Novices and Pros</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unlocking-free-anime-gifs-in-discord-nitro-inclusive/"><u>[New] 2024 Approved  Unlocking Free Anime GIFs in Discord  Nitro Inclusive?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-ai-assisted-creativity-the-best-name-makers-for-pods/"><u>[New] AI-Assisted Creativity  The Best Name Makers for Pods</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-creating-engaging-content-through-discord-streams-for-2024/"><u>[New] Creating Engaging Content Through Discord Streams for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discord-broadcasting-step-by-step-techniques-for-seamless-sessions/"><u>[New] Discord Broadcasting  Step-by-Step Techniques for Seamless Sessions</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-effective-communication-in-live-discovers-with-our-guide/"><u>[New] Effective Communication in Live Discovers with Our Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-deleting-a-discord-server-desktop-and-mobile-guide/"><u>[New] In 2024, Deleting a Discord Server  Desktop & Mobile Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-expediting-the-engagement-of-instagram-videos/"><u>[New] In 2024, Expediting the Engagement of Instagram Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-quick-win-strategies-for-replying-on-discord-platforms/"><u>[New] In 2024, Quick-Win Strategies for Replying on Discord Platforms</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-securing-your-digital-footprint-when-leaving-discord/"><u>[New] In 2024, Securing Your Digital Footprint When Leaving Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-talk-the-walk-engaging-others-on-discord-desktopmobile/"><u>[New] In 2024, Talk the Walk  Engaging Others on Discord Desktop/Mobile</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-the-art-of-memorable-channel-titles-on-discord-for-2024/"><u>[New] Mastering the Art of Memorable Channel Titles on Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-discord-a-must-know-guide/"><u>[New] Navigating Discord  A Must-Know Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-step-by-step-guide-to-creating-professional-discord-profile-pictures-for-2024/"><u>[New] Step-by-Step Guide to Creating Professional Discord Profile Pictures for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tickletech-design-easy-entertaining-visuals/"><u>[New] TickleTech  Design Easy, Entertaining Visuals</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-a-pocket-guide-for-channel-setup-and-management-on-discord/"><u>[Updated] 2024 Approved  A Pocket Guide for Channel Setup and Management on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-avoid-bots-manual-linking-between-spotify-and-discord-works/"><u>[Updated] 2024 Approved  Avoid Bots? Manual Linking Between Spotify & Discord Works</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-disconnect-and-delete-discord-accounts-devices/"><u>[Updated] 2024 Approved  Disconnect and Delete Discord Accounts (Devices)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-step-by-step-guide-sending-videos-in-discord/"><u>[Updated] 2024 Approved  Step-by-Step Guide  Sending Videos in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-steps-for-deleting-discord-on-computermobile/"><u>[Updated] 2024 Approved  Steps for Deleting Discord on Computer/Mobile</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-tackling-toxicity-head-on-the-definitive-guide-to-reporting-users-on-discord/"><u>[Updated] 2024 Approved  Tackling Toxicity Head-On  The Definitive Guide to Reporting Users on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-swift-steps-to-stellar-screen-names-on-discord/"><u>[Updated] 2024 Approved  The Swift Steps to Stellar Screen Names on Discord</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-how-to-mass-download-tiktok-videos/"><u>[Updated] How To Mass Download TikTok Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-beginners-pathway-to-effective-discostreaming/"><u>[Updated] In 2024, Beginner's Pathway to Effective DiscoStreaming</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-deactivating-your-discord-server-a-device-centric-approach/"><u>[Updated] In 2024, Deactivating Your Discord Server  A Device-Centric Approach</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-dissolving-ties-how-to-break-away-from-discord-servers/"><u>[Updated] In 2024, Dissolving Ties  How to Break Away From Discord Servers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-premier-robot-interactions-in-discord/"><u>[Updated] In 2024, Premier Robot Interactions in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-revolutionize-your-discord-conversations-learn-to-pin-effectively/"><u>[Updated] In 2024, Revolutionize Your Discord Conversations  Learn to Pin Effectively</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-direct-route-streaming-from-spotify-in-discord-platforms/"><u>[Updated] In 2024, The Direct Route  Streaming From Spotify in Discord Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-selection-of-top-8-high-quality-free-online-translators/"><u>[Updated] Mastering Selection of Top 8 High-Quality Free Online Translators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-pioneering-playgrounds-of-action-adventure-classics-top-10-for-2024/"><u>[Updated] Pioneering Playgrounds of Action-Adventure Classics (Top 10) for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simultaneous-video-documentation/"><u>[Updated] Simultaneous Video Documentation</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-definitive-guide-to-live-on-discord/"><u>[Updated] The Definitive Guide to Live on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-discovering-the-basics-of-streaming-via-discord/"><u>2024 Approved  Discovering the Basics of Streaming via Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-download-discord-videos-for-no-charge-mobile-and-pc-tips/"><u>2024 Approved  Download Discord Videos for No Charge - Mobile & PC Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-high-quality-the-best-srt-translation-tools-ranked/"><u>2024 Approved  Free, High-Quality  The Best SRT Translation Tools Ranked</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-quick-start-applying-discord-spoilers-correctly/"><u>2024 Approved  Quick Start  Applying Discord Spoilers Correctly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-top-15-instagram-videophoto-downloaders/"><u>2024 Approved  Top 15 Instagram Video/Photo Downloaders</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-ultimate-plugins-list-after-effects-edition/"><u>2024 Approved  Ultimate Plugins List  After Effects Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-unite-in-style-the-bestdiscords-batch-of-top-10-themes/"><u>2024 Approved  Unite in Style  The BestDiscord's Batch of Top 10 Themes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-start-your-own-discord-channel-a-detailed-walkthrough/"><u>How to Start Your Own Discord Channel  A Detailed Walkthrough</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-11-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone 11 If Youve Tried Everything</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-navigate-discord-with-ease-a-compreeher-guide-to-pins/"><u>In 2024, Navigate Discord with Ease  A Compreeher Guide to Pins</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-tips-for-saving-the-world-with-a-smile/"><u>In 2024, Quick Tips for Saving the World with a Smile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-8-must-play-virtual-reality-titles-for-now/"><u>In 2024, Top 8 Must-Play Virtual Reality Titles for Now</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/japans-alphabet-unveiled-a-linguistic-journey/"><u>Japan's Alphabet Unveiled: A Linguistic Journey</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/master-the-art-of-message-interaction-on-desktopmobile/"><u>Master the Art of Message Interaction on Desktop/Mobile</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/navigating-discords-video-chat-features-on-gadgets-for-2024/"><u>Navigating Discord's Video Chat Features on Gadgets for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/quick-and-easy-methods-for-including-emojis-into-discord-statements/"><u>Quick and Easy Methods for Including Emojis Into Discord Statements</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/streamlining-the-process-of-removing-a-discord-server/"><u>Streamlining the Process of Removing a Discord Server</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-10-plugin-recommendations-for-an-unmatched-discord-experience-for-2024/"><u>Top 10 Plugin Recommendations for an Unmatched Discord Experience for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-find-n3-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo Find N3 Device</u></a></li>
+</ul></div>

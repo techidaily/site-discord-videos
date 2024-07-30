@@ -1,7 +1,7 @@
 ---
 title: "[New] The Secret to Swiftly and Stealthily Purging Messages on Discord for 2024"
-date: 2024-06-28T03:28:43.922Z
-updated: 2024-06-29T03:28:43.922Z
+date: 2024-07-29T01:08:31.442Z
+updated: 2024-07-30T01:08:31.442Z
 tags:
   - ai video
   - ai discord
@@ -41,6 +41,9 @@ If you're looking to mass-delete your messages from a server or channel on Disco
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## Part 1: Understanding Discord Message Types
 
 In Discord, you will see two types of messages: Direct Messages and Channel Messages in servers. Here are the differences between the two:
@@ -75,12 +78,18 @@ However, this was soon changed because the mass execution directly affected the 
 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Delete Direct Messages on Discord
 
 If you use Discord on your desktop computer, this section will discuss the steps to follow to delete your direct messages.
 
 However, keep in mind that Discord does not allow you to delete direct messages. If you don't want to show messages from a particular friend, you can remove the chat copy, and it will disappear from the messages temporarily, although it will still be visible in the recipient's chats. And if the friend contacts you again, the messages will show.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Remove Discord Direct Message Copy](https://images.wondershare.com/filmora/article-images/remove-discord-copy.jpg)
 
 You can delete the local copy of messages by following the steps below:
@@ -89,6 +98,9 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![delete Discord Message](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
@@ -140,20 +152,32 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 1. Go to the official MEE6 website and click on the button that says Add to Discord
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![delete messages on discord with mee6 bot](https://images.wondershare.com/filmora/article-images/discord-bot-mee6.jpg)
 
 1. You'll be prompted to authorize so that MEE6 bot can access your username, and know what server you’re in.
 2. Pin-point the server you want to add the bot and then set up to connect MEE6 to the Discord server.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to delete discord message with mee6 bot](https://images.wondershare.com/filmora/article-images/select-server-to-add-mee6-bot-discord.jpg)
 
 1. Click Authorize again and the bot will be added to your Discord server soon;
 2. To enable MEE6 to clear the chat, you should enable the Moderator plugin first. Click the Moderator option under Plugins first, and then click Yes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![remove discord message with mee 6](https://images.wondershare.com/filmora/article-images/mee6-moderator-plugin-moderator.jpg)
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![delete discord channel message with MEE6 Bot](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
@@ -215,6 +239,10 @@ Ideally, you'll want the following things from your AutoHotkey script:
 * [Best Discord Emoji Makers](https://tools.techidaily.com/wondershare/filmora/download/)
 * [10+ Best Free Discord Voice Changers](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## FAQs About Deleting Discord Messages
 
 #### 1\. Can I Recover A Deleted Message on Discord?
@@ -245,3 +273,48 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-concluding-an-online-journey-in-a-discord-server/"><u>[New] 2024 Approved  Concluding an Online Journey in a Discord Server</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-from-joiner-writhe-step-by-step-strategy-for-achieving-partner-status/"><u>[New] 2024 Approved  From Joiner' Writhe  Step-by-Step Strategy for Achieving Partner Status</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-simplifying-the-process-of-live-sharing-with-discord/"><u>[New] 2024 Approved  Simplifying the Process of Live Sharing with Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unlock-the-potential-of-your-channels-with-our-guide-to-discord-broadcasting/"><u>[New] 2024 Approved  Unlock the Potential of Your Channels with Our Guide to Discord Broadcasting</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-exploring-advanced-features-of-discords-live-stream-functionality-for-2024/"><u>[New] Exploring Advanced Features of Discord's Live Stream Functionality for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-personalize-your-discord-presence-adding-custom-emojis-easily/"><u>[New] In 2024, Personalize Your Discord Presence  Adding Custom Emojis Easily</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-the-certification-journey-becoming-a-verified-disco-member/"><u>[New] Mastering the Certification Journey  Becoming a Verified Disco Member</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-screen-sharing-on-discord/"><u>[Updated] 2024 Approved  Mastering Screen Sharing on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-step-by-step-process-for-adding-unique-emojis-to-your-discord-avatar-pcmobile/"><u>[Updated] 2024 Approved  Step-By-Step Process for Adding Unique Emojis to Your Discord Avatar (PC/Mobile)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-beginners-path-to-becoming-a-discord-live-stream-guru/"><u>[Updated] 2024 Approved  The Beginner's Path to Becoming a Discord Live Stream Guru</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-gentle-art-of-stepping-back-from-discords/"><u>[Updated] 2024 Approved  The Gentle Art of Stepping Back From Discords</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unlocking-your-full-potential-changing-status-in-discord/"><u>[Updated] 2024 Approved  Unlocking Your Full Potential  Changing Status in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unveiling-the-pathway-to-discord-affiliation-a-verification-manual/"><u>[Updated] 2024 Approved  Unveiling the Pathway to Discord Affiliation  A Verification Manual</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-cancel-discord-server-pcmobile-methods/"><u>[Updated] Cancel Discord Server  PC/Mobile Methods</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-avoiding-common-pitfalls-in-discord-video-broadcasts/"><u>[Updated] In 2024, Avoiding Common Pitfalls in Discord Video Broadcasts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-essential-skills-for-effective-discord-message-pinning/"><u>[Updated] In 2024, Essential Skills for Effective Discord Message Pinning</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-exploring-the-world-of-visual-identity-in-discord-profiles/"><u>[Updated] In 2024, Exploring the World of Visual Identity in Discord Profiles</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-hps-simplified-guide-to-capturing-and-storing-pc-screen-content/"><u>[Updated] In 2024, HP's Simplified Guide to Capturing and Storing PC Screen Content</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-streamline-your-sound-game-expert-guide-for-using-voicemod-in-discord/"><u>[Updated] In 2024, Streamline Your Sound Game  Expert Guide for Using VoiceMod in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-sever-link-pc-and-mobile-devices-discord/"><u>[Updated] Sever Link - PC & Mobile Devices  Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-essential-guide-crafting-a-standout-discord-profile-with-custom-emojis/"><u>[Updated] The Essential Guide  Crafting a Standout Discord Profile with Custom Emojis</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-advanced-conversational-machines-discord/"><u>2024 Approved  Advanced Conversational Machines (Discord)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-launch-a-seamless-live-experience-on-discord-with-these-steps/"><u>2024 Approved  Launch a Seamless Live Experience on Discord with These Steps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-mastering-the-art-of-emoji-inclusion-in-discord-user-statements/"><u>2024 Approved  Mastering the Art of Emoji Inclusion in Discord User Statements</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-navigating-discords-video-sharing-feature-with-expertise/"><u>2024 Approved  Navigating Discord's Video Sharing Feature with Expertise</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-quick-react-guide-efficiently-answering-discord-messages/"><u>2024 Approved  Quick-React Guide  Efficiently Answering Discord Messages</u></a></li>
+<li><a href="https://ai-video.techidaily.com/2024-approved-step-by-step-guide-how-to-translate-tiktok-videos/"><u>2024 Approved Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-motorola-edge-2023-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Motorola Edge 2023 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-lava-blaze-2-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Lava Blaze 2 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-photographic-techniques-from-auto-to-smart-hdr/"><u>Advanced Photographic Techniques  From Auto to Smart HDR</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/becoming-one-in-the-tiktok-living-room-your-steps-for-2024/"><u>Becoming One in the TikTok Living Room  Your Steps for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/identifying-lack-of-engagement-in-snapsphere-for-2024/"><u>Identifying Lack of Engagement in Snapsphere for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-discover-betterdiscords-top-10-trending-themes/"><u>In 2024, Discover BetterDiscord's Top 10 Trending Themes</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-complete-guide-to-cashing-in-on-tiktok-in-8-steps/"><u>In 2024, The Complete Guide to Cashing In on TikTok in 8 Steps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-poco-c50-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Poco C50 Phone Pattern Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-redmi-a2-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Xiaomi Redmi A2</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-unleash-the-power-of-style-in-your-discord-chats/"><u>In 2024, Unleash the Power of Style in Your Discord Chats</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-wiping-your-discord-servers-from-pc-and-android-devices/"><u>In 2024, Wiping Your Discord Servers From PC and Android Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/leaving-with-honor-a-disconnect-guide-for-servers/"><u>Leaving with Honor  A Disconnect Guide for Servers</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-in-2024-top-10-solutions-for-movie-subtitle-translation-making-things-perfect/"><u>New In 2024, Top 10 Solutions for Movie Subtitle Translation Making Things Perfect</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-strategy-for-role-assignment-on-discord-for-2024/"><u>The Ultimate Strategy for Role Assignment on Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unmasking-silence-how-to-speak-up-and-document-toxicity-in-virtual-communities-like-discord/"><u>Unmasking Silence  How to Speak Up and Document Toxicity in Virtual Communities Like Discord</u></a></li>
+</ul></div>

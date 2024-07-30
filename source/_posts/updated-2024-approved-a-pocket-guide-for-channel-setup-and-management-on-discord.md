@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  A Pocket Guide for Channel Setup and Management on Discord\""
-date: 2024-07-07T19:11:11.470Z
-updated: 2024-07-08T19:11:11.470Z
+date: 2024-07-29T00:49:50.297Z
+updated: 2024-07-30T00:49:50.297Z
 tags:
   - ai video
   - ai discord
@@ -49,16 +49,26 @@ Many social media platforms put restrictions on users for live streaming. Some p
 
 Step1 Open your Discord and hit the “Plus” icon given on the left side. It will open a small menu where you can select a template to start or create your own server.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the server template](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-2.jpg)
 
 Step2 If you want to create your server, click "Create My Own." Now select the type of server you want to create. Once done, create the server name and click the "Create" button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![choose the type of server](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-3.jpg)
 
 ### 2\. Create your Discord Channel
 
 Step1 To create a Discord channel, open any of your servers from the left side. Now tap on the "Plus" icon adjacent to "Voice Channels."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on the plus icon](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-4.jpg)
 
 Step2 You can either create a “Text” channel or a “Voice” channel. After choosing the channel type, create a channel name. You can also enable the “Private Channel” option to create a private channel. Once done, click on the “Create Channel” button.
@@ -71,22 +81,38 @@ Once you have created a server and channel, you can begin your live streaming. D
 
 Step1 Open Discord and navigate to your desired server. Now proceed to your voice channel and click on the “Share Your Screen” button given below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on share icon](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-6.jpg)
 
 Step2 Select the screen you want to stream in the "Applications" tab. From the new menu, you can adjust the stream quality, such as resolution and frame rate. After adjusting the live streaming settings, click on the "Go Live" button.
 
 ![press the go live button](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: How to Stream your Webcam on Discord
 
 Do you want to give a tutorial session through your webcam? Through live webcam streaming, you can demonstrate a particular product while giving facial expressions. Using Discord, you can stream your webcam with a single click.
 
 Step1 Once you have opened a server on Discord, go to your Voice channel. From there, tap on the “Camera” icon above your username.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![choose the webcam option](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-8.jpg)
 
 Step2 It will open a new screen through which you can start an activity or share your screen. Moreover, you can also invite others to join your webcam streaming. Once done with your activities, click on the “Red” button to disconnect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![webcam live streaming activated](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-9.jpg)
 
 ## Part 5: How to Change the Shared Screen on Discord
@@ -95,10 +121,16 @@ Do you want to change a shared screen on Discord? If you want to open a presenta
 
 Step1 If you are live streaming your shared screen, you can instantly change windows on Discord. For this, click on the “Gear” icon on your live streaming screen to open settings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![tap on gear icon](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-10.jpg)
 
 Step2 From the settings menu, click on "Change Windows." Now select the screen that you want to change. After choosing the required screen, hit on the "Go Live" button.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![select change windows option](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-11.jpg)
 
 ## Part 6: How to Stream Discord on my Mobile Phone?
@@ -107,12 +139,21 @@ Discord has the same operating systems on Android and iOS devices. That’s why 
 
 Step1 Open Discord on your mobile and select the desired server. Now choose the voice channel through which you want to **live stream Discord**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![access your voice channel](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-12.jpg)
 
 Step2 Now tap "Join Voice" to initiate live streaming. Here, you can turn on your camera and share the screen. You can also mute your voice from the given options. Once done with live streaming, tap on the “Red” button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![access your voice channel](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 7: FAQs about the live stream on Discord
 
 ### 1\. How many people can watch my Discord live simultaneously?
@@ -123,20 +164,46 @@ During the pandemic, up to 50 people were able to join live streaming on Discord
 
 Open Discord and navigate to the “User Settings” given at the bottom of the screen. Select the "Game Activity" section and activate the option "Display currently running game as a status message." Now click on the “Add it” button and choose the type of games you want to play. Once done, Discord would be able to detect the type of game automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. How to share a video on Discord?
 
 On your computer, launch Discord and go to your desired channel. On the chat box space, click on the “Plus” icon. Now browse the video from your system that you want to share. Click on the "Open" button and select the "Upload" option. By doing so, you can easily share videos.
 
 For mobile users, go to your Discord app and choose the preferred channel. On the left side of the typing area, you can see the "Image" icon. Tap on this option and choose the video you want to share from your phone. Now hit the “Arrow” button to send the selected video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## Bonus Tip: Easily Record and Edit your Stream with Filmora
 
 To save and edit your live stream sessions, we will highly recommend you the screen recorder of [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Through this screen recorder, you can capture your live-streaming session on Discord in the best possible quality.
 
 Using this screen recorder, you can capture your desired area during live streaming. Once you capture your live-streaming session, you can edit it on this platform. Using the editing tool of Filmora, you can cut, crop, resize, and modify your screen recording efficiently.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![filmora screen recorder settings](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Have you ever **streamed on Discord** before? Discord is a great communication platform that provides advanced features. With its vast flexibility, you can create private servers and channels. This article can guide you to learn how to **go live on Discord**. We have also suggested Wondershare Filmora, which can help you to screen record and edit your live streaming sessions on Discord.
@@ -151,6 +218,9 @@ Part 1: What is Discord?
 
 Discord provides excellent flexibility to users by providing high-quality audio services with no background noise. Even if your friends are in different parts of the world, you can chat with them smoothly. You can create private and public servers in Discord to communicate with people having similar interests.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![discord interface](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-1.jpg)
 
 Along with using Discord Voice and Text chat features, you can live stream your gameplays. The live streaming on Discord won't be a public show, as it will only be confined to your selected server. Through this, you can ask your friends for assistance while playing games. Moreover, Discord is also capable of capturing other screens. Hence, it’s a great platform for professionals, game lovers, and other individuals to communicate efficiently.
@@ -159,6 +229,9 @@ Along with using Discord Voice and Text chat features, you can live stream your 
 
 Many social media platforms put restrictions on users for live streaming. Some platforms require you to have a specific number of followers in order to conduct live streaming. However, in Discord, you don’t have to worry about such restrictions. By creating a server and channel on Discord, you can easily go for live streaming. Check the below prerequisites for performing a **live stream on Discord**:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### 1\. Create your Discord Server
 
 Step1 Open your Discord and hit the “Plus” icon given on the left side. It will open a small menu where you can select a template to start or create your own server.
@@ -169,6 +242,9 @@ Step2 If you want to create your server, click "Create My Own." Now select the t
 
 ![choose the type of server](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### 2\. Create your Discord Channel
 
 Step1 To create a Discord channel, open any of your servers from the left side. Now tap on the "Plus" icon adjacent to "Voice Channels."
@@ -191,6 +267,9 @@ Step2 Select the screen you want to stream in the "Applications" tab. From the n
 
 ![press the go live button](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Stream your Webcam on Discord
 
 Do you want to give a tutorial session through your webcam? Through live webcam streaming, you can demonstrate a particular product while giving facial expressions. Using Discord, you can stream your webcam with a single click.
@@ -201,6 +280,9 @@ Step1 Once you have opened a server on Discord, go to your Voice channel. From t
 
 Step2 It will open a new screen through which you can start an activity or share your screen. Moreover, you can also invite others to join your webcam streaming. Once done with your activities, click on the “Red” button to disconnect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![webcam live streaming activated](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-9.jpg)
 
 ## Part 5: How to Change the Shared Screen on Discord
@@ -221,12 +303,23 @@ Discord has the same operating systems on Android and iOS devices. That’s why 
 
 Step1 Open Discord on your mobile and select the desired server. Now choose the voice channel through which you want to **live stream Discord**.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access your voice channel](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-12.jpg)
 
 Step2 Now tap "Join Voice" to initiate live streaming. Here, you can turn on your camera and share the screen. You can also mute your voice from the given options. Once done with live streaming, tap on the “Red” button.
 
 ![access your voice channel](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-13.jpg)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 7: FAQs about the live stream on Discord
 
 ### 1\. How many people can watch my Discord live simultaneously?
@@ -237,12 +330,19 @@ During the pandemic, up to 50 people were able to join live streaming on Discord
 
 Open Discord and navigate to the “User Settings” given at the bottom of the screen. Select the "Game Activity" section and activate the option "Display currently running game as a status message." Now click on the “Add it” button and choose the type of games you want to play. Once done, Discord would be able to detect the type of game automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### 3\. How to share a video on Discord?
 
 On your computer, launch Discord and go to your desired channel. On the chat box space, click on the “Plus” icon. Now browse the video from your system that you want to share. Click on the "Open" button and select the "Upload" option. By doing so, you can easily share videos.
 
 For mobile users, go to your Discord app and choose the preferred channel. On the left side of the typing area, you can see the "Image" icon. Tap on this option and choose the video you want to share from your phone. Now hit the “Arrow” button to send the selected video.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Tip: Easily Record and Edit your Stream with Filmora
 
 To save and edit your live stream sessions, we will highly recommend you the screen recorder of [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Through this screen recorder, you can capture your live-streaming session on Discord in the best possible quality.
@@ -271,6 +371,9 @@ Have you ever **streamed on Discord** before? Discord is a great communication p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## From Silence to Significance: Replying in Discord Chats
 
 # How to Reply Message on Discord
@@ -301,6 +404,10 @@ In this article, we will cover the following parts on how to reply to messages o
 * [Part 4: Replying to Messages with Reactions on Discord](#part4)
 * [Part 5: Quoting Messages on Discord?](#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Part 1: How to Reply to a Specific Message on Discord on Desktop
 
 This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
@@ -316,6 +423,9 @@ This technique works for both the browser and the desktop applications; use it w
 5. Write your reply in the text box. You will now see a banner telling you who you are replying to. There will also be a "@" sign over the text box, which will tag the person you respond to (this can be turned off with a click)
 6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
 
 ## Part 2: How to Reply to a Certain Message on Discord Mobile
@@ -326,6 +436,9 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 2. Hold down on the comment until a list of options appears on the screen
 3. Choose the "Reply" option
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
 
 1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
@@ -341,6 +454,9 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![auto reply  message on Discord](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
@@ -362,6 +478,167 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 1. Hover your mouse cursor over the message you wish to react to
 2. Click the smiley face titled "Add reaction" on the message's far-right
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+![add reactions to message replying on Discord](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
+
+1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
+
+![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
+
+Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
+
+1. Click on the emoji, and it would increase the total number of responses by 1
+2. Hovering over the emoji will also let you know the names of the people who reacted to the message
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+## Part 5: How to Quote Messages on Discord?
+
+Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
+
+![quote message on Discord](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
+
+On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
+
+1. Add > after every line. However, this can become annoying
+2. Instead, add >>> at the start of the paragraph you wish to quote
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+![multiple quote message on Discord](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Discord is a communication app targeted towards gamers. Games such as Fortnite and Among Us – a social deduction game – drove many new users to the platform
+
+It surged in popularity during the pandemic, doubling its active monthly users to 120 million towards the end of 2020.
+
+This popularity comes from the fact that Discord is now also being used by households and workplaces for seamless communication.
+
+Today, we will focus on how the 'discord reply to message' feature works. This feature helps when you are trying to pick out a single message to reply to from a list of messages.
+
+You can also include a link back to the message you respond to, making it easier for other people to follow the conversation.
+
+You can even tag the person you are replying to so that they receive a notification whenever they log on to Discord.
+
+In this article, we will cover the following parts on how to reply to messages on Discord:
+
+* [Part 1: How to Reply to a Specific Message on Discord on Desktop](#part1)
+* [Part 2: Replying to a Certain Message on Discord Mobile](#part2)
+* [Part 3: Setting up Auto Reply on Discord with Bots](#part3)
+* [Part 4: Replying to Messages with Reactions on Discord](#part4)
+* [Part 5: Quoting Messages on Discord?](#part5)
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1: How to Reply to a Specific Message on Discord on Desktop
+
+This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
+
+1. Locate the message you wish to reply to
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
+
+1. Hover your cursor on the comment as you see icons on the right of the message
+2. Now click on the arrow icon
+3. Alternatively, you might have to click on the ellipsis icon (…) if you are replying to a comment by yourself
+4. After clicking on the ellipsis icon, choose the "Reply" button
+5. Write your reply in the text box. You will now see a banner telling you who you are replying to. There will also be a "@" sign over the text box, which will tag the person you respond to (this can be turned off with a click)
+6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
+![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Part 2: How to Reply to a Certain Message on Discord Mobile
+
+Replying on the mobile app is similar to Desktop. Here's how to do it:
+
+1. Locate the message you wish to reply to in the Discord app
+2. Hold down on the comment until a list of options appears on the screen
+3. Choose the "Reply" option
+
+![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
+
+1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
+2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
+
+After pressing the send button, you should now be able to see your message in the channel.
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Part 3: How to Set Auto Reply on Discord
+
+It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
+
+Here's an example of how you can implement this feature in your server. In this example, we are going to be using the Dyno bot:
+
+1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![auto reply  message on Discord](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
+
+1. Now you will have to sign in to your Discord account from your browser
+2. Next, you will have to pick which server you want to invite the bot to
+3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
+![set up permission for bots](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
+
+1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
+![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
+
+After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
+## Part 4: How to Reply to Messages with Reactions on Discord
+
+Discord allows you to react to posts with emojis. To respond with an emoji:
+
+1. Hover your mouse cursor over the message you wish to react to
+2. Click the smiley face titled "Add reaction" on the message's far-right
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add reactions to message replying on Discord](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
 
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
@@ -435,6 +712,9 @@ This technique works for both the browser and the desktop applications; use it w
 
 ![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Reply to a Certain Message on Discord Mobile
 
 Replying on the mobile app is similar to Desktop. Here's how to do it:
@@ -443,6 +723,9 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 2. Hold down on the comment until a list of options appears on the screen
 3. Choose the "Reply" option
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
 
 1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
@@ -450,6 +733,9 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 
 After pressing the send button, you should now be able to see your message in the channel.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How to Set Auto Reply on Discord
 
 It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
@@ -472,6 +758,9 @@ Here's an example of how you can implement this feature in your server. In this 
 
 After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Reply to Messages with Reactions on Discord
 
 Discord allows you to react to posts with emojis. To respond with an emoji:
@@ -541,6 +830,9 @@ This technique works for both the browser and the desktop applications; use it w
 
 1. Locate the message you wish to reply to
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
 
 1. Hover your cursor on the comment as you see icons on the right of the message
@@ -550,6 +842,9 @@ This technique works for both the browser and the desktop applications; use it w
 5. Write your reply in the text box. You will now see a banner telling you who you are replying to. There will also be a "@" sign over the text box, which will tag the person you respond to (this can be turned off with a click)
 6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
 
 ## Part 2: How to Reply to a Certain Message on Discord Mobile
@@ -560,6 +855,9 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 2. Hold down on the comment until a list of options appears on the screen
 3. Choose the "Reply" option
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
 
 1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
@@ -567,6 +865,9 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 
 After pressing the send button, you should now be able to see your message in the channel.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Set Auto Reply on Discord
 
 It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
@@ -585,6 +886,9 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
 
 After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
@@ -596,10 +900,25 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 1. Hover your mouse cursor over the message you wish to react to
 2. Click the smiley face titled "Add reaction" on the message's far-right
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add reactions to message replying on Discord](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
 
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
 
 Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
@@ -618,123 +937,9 @@ On the other hand, multi-line quoting is when you need to quote a paragraph or b
 1. Add > after every line. However, this can become annoying
 2. Instead, add >>> at the start of the paragraph you wish to quote
 
-![multiple quote message on Discord](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Discord is a communication app targeted towards gamers. Games such as Fortnite and Among Us – a social deduction game – drove many new users to the platform
-
-It surged in popularity during the pandemic, doubling its active monthly users to 120 million towards the end of 2020.
-
-This popularity comes from the fact that Discord is now also being used by households and workplaces for seamless communication.
-
-Today, we will focus on how the 'discord reply to message' feature works. This feature helps when you are trying to pick out a single message to reply to from a list of messages.
-
-You can also include a link back to the message you respond to, making it easier for other people to follow the conversation.
-
-You can even tag the person you are replying to so that they receive a notification whenever they log on to Discord.
-
-In this article, we will cover the following parts on how to reply to messages on Discord:
-
-* [Part 1: How to Reply to a Specific Message on Discord on Desktop](#part1)
-* [Part 2: Replying to a Certain Message on Discord Mobile](#part2)
-* [Part 3: Setting up Auto Reply on Discord with Bots](#part3)
-* [Part 4: Replying to Messages with Reactions on Discord](#part4)
-* [Part 5: Quoting Messages on Discord?](#part5)
-
-## Part 1: How to Reply to a Specific Message on Discord on Desktop
-
-This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
-
-1. Locate the message you wish to reply to
-
-![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
-
-1. Hover your cursor on the comment as you see icons on the right of the message
-2. Now click on the arrow icon
-3. Alternatively, you might have to click on the ellipsis icon (…) if you are replying to a comment by yourself
-4. After clicking on the ellipsis icon, choose the "Reply" button
-5. Write your reply in the text box. You will now see a banner telling you who you are replying to. There will also be a "@" sign over the text box, which will tag the person you respond to (this can be turned off with a click)
-6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
-
-![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
-
-## Part 2: How to Reply to a Certain Message on Discord Mobile
-
-Replying on the mobile app is similar to Desktop. Here's how to do it:
-
-1. Locate the message you wish to reply to in the Discord app
-2. Hold down on the comment until a list of options appears on the screen
-3. Choose the "Reply" option
-
-![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
-
-1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
-2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
-
-After pressing the send button, you should now be able to see your message in the channel.
-
-## Part 3: How to Set Auto Reply on Discord
-
-It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
-
-Here's an example of how you can implement this feature in your server. In this example, we are going to be using the Dyno bot:
-
-1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
-
-![auto reply  message on Discord](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
-
-1. Now you will have to sign in to your Discord account from your browser
-2. Next, you will have to pick which server you want to invite the bot to
-3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
-
-![set up permission for bots](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
-
-1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
-
-![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
-
-After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
-
-## Part 4: How to Reply to Messages with Reactions on Discord
-
-Discord allows you to react to posts with emojis. To respond with an emoji:
-
-1. Hover your mouse cursor over the message you wish to react to
-2. Click the smiley face titled "Add reaction" on the message's far-right
-
-![add reactions to message replying on Discord](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
-
-1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
-
-![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
-
-Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
-
-1. Click on the emoji, and it would increase the total number of responses by 1
-2. Hovering over the emoji will also let you know the names of the people who reacted to the message
-
-## Part 5: How to Quote Messages on Discord?
-
-Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
-
-![quote message on Discord](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
-
-On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
-
-1. Add > after every line. However, this can become annoying
-2. Instead, add >>> at the start of the paragraph you wish to quote
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![multiple quote message on Discord](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -761,3 +966,53 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-advanced-control-enhancing-your-live-broadcast-experience/"><u>[New] 2024 Approved  Advanced Control  Enhancing Your Live Broadcast Experience</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-boosting-status-appeal-integrating-emojis-into-discord/"><u>[New] 2024 Approved  Boosting Status Appeal  Integrating Emojis Into Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-uncovering-steps-to-pinpoint-perfect-discord-communities/"><u>[New] 2024 Approved  Uncovering  Steps to Pinpoint Perfect Discord Communities</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-best-discord-emoji-makers-online-and-mobile-for-2024/"><u>[New] Best Discord Emoji Makers - Online & Mobile for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-efficiently-speaking-out-a-blueprint-for-reporting-incidents-in-digital-communities-for-2024/"><u>[New] Efficiently Speaking Out  A Blueprint for Reporting Incidents in Digital Communities for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-boost-your-discord-experience-mastering-emoji-enriched-statuses/"><u>[New] In 2024, Boost Your Discord Experience  Mastering Emoji-Enriched Statuses</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-enhancing-community-management-with-discord-roles/"><u>[New] In 2024, Enhancing Community Management with Discord Roles</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-from-setting-up-to-broadcasting-a-discoguide/"><u>[New] In 2024, From Setting Up to Broadcasting  A DiscoGuide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-thriving-on-both-sides-work-and-youtubing-tips/"><u>[New] In 2024, Thriving on Both Sides  Work and YouTubing Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-your-ultimate-iphone-podcast-downloading-manual/"><u>[New] In 2024, Your Ultimate iPhone Podcast Downloading Manual</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-master-the-art-of-music-and-messaging-spotifyplusdiscord-connection/"><u>[New] Master the Art of Music and Messaging  Spotify+Discord Connection</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-maximizing-user-experience-for-live-streams-on-discord-platform-for-2024/"><u>[New] Maximizing User Experience for Live Streams on Discord Platform for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-exit-the-guide-to-disconnecting-from-a-discord-community/"><u>[New] Navigating Exit  The Guide to Disconnecting From a Discord Community</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-safe-exit-procedures-for-departing-discord-servers/"><u>[New] Safe Exit  Procedures for Departing Discord Servers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-path-to-connected-playlists-and-channels-for-2024/"><u>[New] The Path to Connected Playlists & Channels for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-simplest-way-to-understand-and-apply-discord-spoilers/"><u>[New] The Simplest Way to Understand and Apply Discord Spoilers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-guide-to-mastering-message-pins-on-discord/"><u>[New] The Ultimate Guide to Mastering Message Pins on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-resource-for-adding-dynamic-gifs-to-discord-conversations-for-2024/"><u>[New] The Ultimate Resource for Adding Dynamic GIFs to Discord Conversations for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tracing-the-evolutionary-path-of-windows-movie-maker/"><u>[New] Tracing the Evolutionary Path of Windows Movie Maker</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-simplifying-server-removal-for-desktopmobile-use/"><u>[Updated] 2024 Approved  Simplifying Server Removal for Desktop/Mobile Use</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-charting-your-course-to-certification-a-guide-to-verified-partnership/"><u>[Updated] Charting Your Course to Certification  A Guide to Verified Partnership</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-free-discolinking-techniques-desktop-and-smartphone-edition/"><u>[Updated] Free DiscoLinking Techniques  Desktop & Smartphone Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-mastering-the-certification-journey-becoming-a-verified-disco-member/"><u>[Updated] In 2024, Mastering the Certification Journey  Becoming a Verified Disco Member</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-discord-server-deletion-desktopmobile/"><u>[Updated] Navigating Discord Server Deletion (Desktop/Mobile)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-quick-start-applying-discord-spoilers-correctly-for-2024/"><u>[Updated] Quick Start  Applying Discord Spoilers Correctly for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-timer-power-with-zero-cost/"><u>[Updated] Unlocking Timer Power with Zero Cost</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-comparative-analysis-lowest-priced-cloud-vendors/"><u>2024 Approved  Comparative Analysis  Lowest Priced Cloud Vendors</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-explore-sony-vegas-for-high-impact-video-editing-on-youtube/"><u>2024 Approved  Explore Sony Vegas for High-Impact Video Editing on YouTube</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-from-novice-to-pro-your-discord-broadcast-journey/"><u>2024 Approved  From Novice to Pro  Your Discord Broadcast Journey</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-guide-to-pocket-friendly-discord-video-downloads-on-tech-devices/"><u>2024 Approved  Guide to Pocket-Friendly Discord Video Downloads on Tech Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-navigating-discord-server-deletion-desktopmobile/"><u>2024 Approved  Navigating Discord Server Deletion (Desktop/Mobile)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-adventurers-manual-how-to-dive-into-less-conventional-discord-communities/"><u>2024 Approved  The Adventurer's Manual  How to Dive Into Less Conventional Discord Communities</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-transformative-strategies-for-effective-pins-in-discord-dialogues/"><u>2024 Approved  Transformative Strategies for Effective Pins in Discord Dialogues</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/exploring-advanced-features-of-discords-live-stream-functionality-for-2024/"><u>Exploring Advanced Features of Discord's Live Stream Functionality for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/from-novice-to-pro-your-discord-broadcast-journey/"><u>From Novice to Pro  Your Discord Broadcast Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-delight-keychron-meets-lemokey-l3/"><u>Gamer's Delight: Keychron Meets Lemokey L3</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-motorola-defy-2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Motorola Defy 2 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-conquer-the-shadows-5-ways-to-fix-black-screen-with-obs/"><u>In 2024, Conquer the Shadows  5 Ways to Fix Black Screen with OBS</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-how-to-elevate-your-virtual-look-with-stunning-discord-photos/"><u>In 2024, How to Elevate Your Virtual Look with Stunning Discord Photos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/make-your-discord-messages-hearable-learn-tts/"><u>Make Your Discord Messages Hearable  Learn TTS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-the-art-of-transferring-instagram-footage-to-pcmac-for-2024/"><u>Mastering the Art of Transferring Instagram Footage to PC/Mac for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/seamless-emoji-incorporation-into-discords-status-feature/"><u>Seamless Emoji Incorporation Into Discord's Status Feature</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-best-ios-resources-for-playing-retro-psp-games-1-5-for-2024/"><u>The Best iOS Resources for Playing Retro PSP Games #1-5 for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-10-vibes-a-discotheme-adventure/"><u>Top 10 Vibes  A DiscoTheme Adventure</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unraveling-zooms-secrets-mastery-of-screenshot-sharing-for-2024/"><u>Unraveling Zoom's Secrets  Mastery of Screenshot Sharing for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-realme-c55-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme C55 Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>

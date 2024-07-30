@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unmasking Silence  How to Speak Up and Document Toxicity in Virtual Communities Like Discord\""
-date: 2024-06-28T03:28:41.004Z
-updated: 2024-06-29T03:28:41.004Z
+date: 2024-07-29T01:08:29.031Z
+updated: 2024-07-30T01:08:29.031Z
 tags:
   - ai video
   - ai discord
@@ -50,6 +50,9 @@ Reporting helps make healthier communities and allows you to avoid conflicts and
 
 Today we will look into how to report someone on Discord using desktop and mobile devices. Moreover, we will look at other ways to deal with indecent behavior, such as kicking people or banning them.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Report Users on Discord Desktop
 
 Before you can report a person to Discord's Trust and Safety team, you will need to enable Discord's developer mode.
@@ -89,6 +92,9 @@ Also, it would help if you gave context regarding your report describing how and
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Part 2: How to Report Users on Discord on iPhone And Android
 
 Just like on a desktop, you will first need to enable developer mode.
@@ -96,6 +102,9 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
@@ -145,6 +154,9 @@ If you happen to be a moderator or server owner, you have the authority to kick 
 3. Right-click on their username and then select "Kick"
 4. Click on "Kick" again to confirm your decision
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: FAQs About Discord Reporting
 
 There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
@@ -153,6 +165,9 @@ There is no need to Google responses to "How do you report someone on Discord," 
 
 According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### What Happens If I Report Someone on Discord?
 
 After you report someone on Discord, the T&S team goes through the evidence to justify or negate your claims.
@@ -169,6 +184,9 @@ Individuals under the age of 13 are not permitted to use Discord unless they hav
 
 If you know someone who is undoubtedly underage, then you can report them to the Trust & Safety team by filling out their form and adding evidence to back your claim.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -185,3 +203,40 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-proven-techniques-for-swiftly-locating-your-desired-discord-server/"><u>[New] 2024 Approved  Proven Techniques for Swiftly Locating Your Desired Discord Server</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-spinning-stories-rotate-videos-to-captivate-your-instagram-community/"><u>[New] 2024 Approved  Spinning Stories  Rotate Videos to Captivate Your Instagram Community</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-algorithm-advantage-tips-for-achieving-instagram-video-fame/"><u>[New] 2024 Approved  The Algorithm Advantage  Tips for Achieving Instagram Video Fame</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-the-right-way-to-disband-from-a-discord-community/"><u>[New] 2024 Approved  The Right Way to Disband From a Discord Community</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-camera-companion-dilemma-polaroid-cube-or-gopro-hero-edition/"><u>[New] Camera Companion Dilemma  Polaroid Cube or GoPro Hero Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-hottest-hooks-in-the-crowd-ultimate-discord-nicknames-guide/"><u>[New] In 2024, Hottest Hooks in the Crowd  Ultimate Discord Nicknames Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-masterclass-in-business-creating-an-enterprise-instagram-profile-for-2024/"><u>[New] Masterclass in Business  Creating an Enterprise Instagram Profile for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigate-discord-with-ease-a-compreeher-guide-to-pins-for-2024/"><u>[New] Navigate Discord with Ease  A Compreeher Guide to Pins for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-streamlining-video-submissions-from-imovie-to-vimeo/"><u>[New] Streamlining Video Submissions From iMovie to Vimeo</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unlocking-the-potential-of-live-broadcasting-on-discord-for-2024/"><u>[New] Unlocking the Potential of Live Broadcasting on Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-addressing-conflict-a-guide-to-effective-reporting-methods-on-discord/"><u>[Updated] 2024 Approved  Mastering the Art of Addressing Conflict  A Guide to Effective Reporting Methods on Discord</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-open-air-fb-audio-downloads/"><u>[Updated] 2024 Approved  Open Air FB Audio Downloads</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-remove-a-desktop-discord-server-for-2024/"><u>[Updated] How to Remove a Desktop Discord Server for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-essential-tips-for-stepping-away-from-a-discord-chat-room/"><u>[Updated] In 2024, Essential Tips for Stepping Away From a Discord Chat Room</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-mastering-discord-spoilers-key-insights-revealed-for-2024/"><u>[Updated] Mastering Discord Spoilers  Key Insights Revealed for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-quick-guide-to-stellar-disco-screen-names-for-2024/"><u>[Updated] The Quick Guide to Stellar Disco Screen Names for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-list-of-flashy-discord-tags/"><u>[Updated] The Ultimate List of Flashy Discord Tags</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-pinnacle-bots-of-online-communities/"><u>2024 Approved  Pinnacle Bots of Online Communities</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-pro-tips-for-efficient-message-reactions-on-discord/"><u>2024 Approved  Pro Tips for Efficient Message Reactions on Discord</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-secrets-to-the-ultimate-5-free-pinterest-video-loader/"><u>2024 Approved  Secrets to the Ultimate 5-Free Pinterest Video Loader</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-typing-prowess-changing-and-adding-keyboards-for-win-11/"><u>Boost Typing Prowess: Changing and Adding Keyboards for Win 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-asus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Asus Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-a-beginners-primer-to-modifying-your-status-on-discord/"><u>In 2024, A Beginner's Primer to Modifying Your Status on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-decoding-discord-spoilers-in-minutes/"><u>In 2024, Decoding Discord Spoilers in Minutes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-efficient-ways-to-terminate-your-discord-membership/"><u>In 2024, Efficient Ways to Terminate Your Discord Membership</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-gt-neo-5-se-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme GT Neo 5 SE Location | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-uncover-the-power-of-discords-spoiler-system/"><u>In 2024, Uncover the Power of Discord's Spoiler System</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mastering-response-etiquette-discord-messaging-guide-for-2024/"><u>Mastering Response Etiquette  Discord Messaging Guide for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/revolutionize-your-discord-conversations-learn-to-pin-effectively-for-2024/"><u>Revolutionize Your Discord Conversations  Learn to Pin Effectively for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-guide-essential-advice-on-securely-wiping-digital-information/"><u>Stellar's Guide: Essential Advice on Securely Wiping Digital Information</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-magnification-in-roblox-worlds/"><u>The Art of Magnification in Roblox Worlds</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-discoresponders-handbook-react-and-converse/"><u>The DiscoResponder's Handbook  React and Converse</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-step-by-step-guide-for-adding-and-curating-dynamic-graphics-gifs-in-your-discord-chats-for-2024/"><u>The Ultimate Step-by-Step Guide for Adding and Curating Dynamic Graphics (GIFs) in Your Discord Chats for 2024</u></a></li>
+</ul></div>

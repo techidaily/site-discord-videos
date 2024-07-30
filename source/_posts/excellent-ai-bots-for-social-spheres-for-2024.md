@@ -1,7 +1,7 @@
 ---
 title: "Excellent AI Bots for Social Spheres for 2024"
-date: 2024-05-23T22:47:43.104Z
-updated: 2024-05-24T22:47:43.104Z
+date: 2024-07-29T00:40:58.967Z
+updated: 2024-07-30T00:40:58.967Z
 tags:
   - ai video
   - ai discord
@@ -12,14 +12,193 @@ categories:
 description: "This Article Describes Excellent AI Bots for Social Spheres for 2024"
 excerpt: "This Article Describes Excellent AI Bots for Social Spheres for 2024"
 keywords: "AI Social Robots,AI Bot Conversation,AI Social Engagement,Smart Bot Social Use,Intelligent Bot Interaction,Advanced AI Bots,Enhanced Bot Sociability"
-thumbnail: https://www.lifewire.com/thmb/18xIWVgwfIJ0V9is8QVNZgp5lKg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-673781390-59f0b3b8685fbe0011e5991e.jpg
+thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d753be69ed2a2544fd8a3a51.jpg
 ---
 
 ## Excellent AI Bots for Social Spheres
 
 # Best Among Us Discord Bots
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Among Us is the most trending game in 2020\. It requires players to play together to find the imposter among them before the imposter gets them all. Especially when everyone had to stay indoors because of quarantine, there wasn’t much to do but game online with your friends.
+
+Discord is a program that allows users to communicate with each other while in-game or just in general. There are AI programmed users on Discord called Bots which add certain functionalities for users to make all things working efficiently in Discord.
+
+So, with the rise of the game Among Us, a lot of Discord users have been looking to add bots related to Among Us into their Discord Servers.
+
+Let's go over some of the Best Discord Bots that you can add to your Discord Server.
+
+## Part 1: Best Among Us Bots for Discord
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1\. Among Us Crewmate
+
+This bot is pretty useful as it is easy to use and easily allows one to moderate the game by muting and deafening players.
+
+It can also be used to share lobby codes, game stats and more. It has a lot of upvotes as the best Among Us Discord Bot and a good rating with great reviews.
+
+This bot at the time of writing this article (2021-1-8) is a part of **1200+** servers and has **240+** upvotes.
+
+To create a new link all you have to do is type !new in the chat and it will create a link to your game lobby and then you add players to it by typing **!link \[@username\] \[colour\]** in the chat.
+
+[You can check out Among Us Crewmate here](https://top.gg/bot/732086609184292895).
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### 2\. Among Us
+
+Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
+
+![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
+
+ Add the Among Us Bot to:
+
+* Improve your voice channels!
+* Includes Moderation
+* Voice Channels
+* Matchmaking
+* and more!
+
+Bot updated daily!
+
+I have used this Bot personally and love it, with its simple and large variety of commands its really easy to check who’s up to play and moderate the game. The best part is the report system. It is no secret that a lot of players try to ruin the fun for others and this system makes it easier for you to ban/mute someone to make it easier for everyone else.
+
+To get started, just type **!help** in the chat and the bot will display a tab with everything you need.
+
+[You can check out Among Us! Here](https://top.gg/bot/746578520343445515).
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
+### 3\. Doraemon
+
+Doraemon is a RPG engagement Bot with the option to play and moderate Among Us.
+
+It can be used to moderate voice and chat channels for users currently in the game. But not only that, it has many more commands from RPG, PvP games and much more.
+
+This bot is added to more than **13000+** servers and **900+** upvotes and increasing. Mainly because of the other many features it provides. The star being the Doraemon RP. Doraemon is a very famous Japanese animated show that featured two main characters and gadgets that were used to have fun and solve problems.
+
+This Bot doesn’t help with the Among Us game but it provides its very own In-Discord Among Us Experience.
+
+You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[arguments\]**. To start the Among Us game just type cat amongwumpii.
+
+[You can check out this bot here](https://top.gg/bot/574812330760863744).
+
+### 4\. Among Us Manager
+
+More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
+
+![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
+
+It can also be used to inform others about the state of the game.
+
+To get started type **am.help** in the chat and it’ll show u a list of commands that it can perform, but all commands are to be preceded by am.
+
+To start the game just use **am.start <code>** command and then players can join the game using **am.join** command but they have to be in the voice channel that the host is in.
+
+What’s better is that this bot can also help you get better as it provides maps, wiki and tips about both Imposter and Crewmate.
+
+[So get this bot right now here](https://top.gg/bot/756743033181044827).
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
+### 5\. Among Stats
+
+Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
+
+![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
+
+This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
+
+All you have to do is post a screenshot of your in-game stats in the chat with the bot. To get started just type **!help** in the chat.
+
+You can check out Among Stats at their official [website](https://amongstats.net/).
+
+### 6\. Among Us Helper
+
+If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
+
+![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
+
+To begin an Among Us Helper session, run the command
+
+au!start (optional) <GameCode> <Region>
+
+Once you do that, go to the channel that the command tells you the control panel is in.
+
+The control panel has a bunch of reactions that allow you to do certain things.
+
+* The Start game reaction deafens and mutes everyone
+* Start meeting reaction mutes ghosts and unmutes and undeafens all alive players
+* The set dead reaction sets you as dead and unmutes/undeafens you so that you talk to other ghosts
+* And more.
+
+[You can check out Among Us Helper here](https://discordbotlist.com/bots/among-us-helper-au).
+
+## Part 2: How to Add an Among Us Bot to a Discord Server?
+
+Adding a bot to your server is pretty easy, first decide what bot you want to add and then go over to it’s site. In this example we’ll be using Among Us Manager Bot as an example.
+
+After going to the Website, click the invite link button. Some websites might not have a button to “invite link”. In that case, look for a different button like “invite/add” etc.
+
+After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
+
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
+
+Just select a server and then click continue.
+
+Next, it’ll ask what permissions you want to give to the bot. Go over this carefully and select the ones you want. But you may lose some functions if a certain permission isn’t given.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Connect Among Us Manager  Bot to Discord Permission Settings](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord-permission-settings.jpg)
+
+Click Authorize. It will then ask you to verify whether you’re human or not. If you pass this little test, the bot will be added to your selected server.
+
+You can then go over to your server in discord and found your bot there.
+
+Now all that’s left is getting your friends and hoping into a fun filled and thrilled game of the murder mystery game Among Us.
+
+**Conclusion:**
+
+In the end, all the Among Us bots are basically used to mute players and unmute them at certain points so that there is no cheating and everyone can play the game fairly and it doesn’t get ruined because of some toxic rotten tomatoes.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
 
 ##### Richard Bennett
 
@@ -87,6 +266,9 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
 
 It can also be used to inform others about the state of the game.
@@ -103,6 +285,9 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
@@ -111,10 +296,21 @@ All you have to do is post a screenshot of your in-game stats in the chat with t
 
 You can check out Among Stats at their official [website](https://amongstats.net/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Among Us Helper
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
 
 To begin an Among Us Helper session, run the command
@@ -140,6 +336,9 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
@@ -228,6 +427,9 @@ You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[argument
 
 [You can check out this bot here](https://top.gg/bot/574812330760863744).
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Among Us Manager
 
 More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
@@ -248,6 +450,14 @@ What’s better is that this bot can also help you get better as it provides map
 
 Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
 
 This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
@@ -256,6 +466,9 @@ All you have to do is post a screenshot of your in-game stats in the chat with t
 
 You can check out Among Stats at their official [website](https://amongstats.net/).
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ### 6\. Among Us Helper
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
@@ -285,6 +498,9 @@ After going to the Website, click the invite link button. Some websites might no
 
 After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
 
 Just select a server and then click continue.
@@ -323,6 +539,9 @@ So, with the rise of the game Among Us, a lot of Discord users have been looking
 
 Let's go over some of the Best Discord Bots that you can add to your Discord Server.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Best Among Us Bots for Discord
 
 ### 1\. Among Us Crewmate
@@ -337,10 +556,16 @@ To create a new link all you have to do is type !new in the chat and it will cre
 
 [You can check out Among Us Crewmate here](https://top.gg/bot/732086609184292895).
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Among Us
 
 Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
 
  Add the Among Us Bot to:
@@ -401,6 +626,9 @@ All you have to do is post a screenshot of your in-game stats in the chat with t
 
 You can check out Among Stats at their official [website](https://amongstats.net/).
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Among Us Helper
 
 If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
@@ -422,151 +650,10 @@ The control panel has a bunch of reactions that allow you to do certain things.
 
 [You can check out Among Us Helper here](https://discordbotlist.com/bots/among-us-helper-au).
 
-## Part 2: How to Add an Among Us Bot to a Discord Server?
-
-Adding a bot to your server is pretty easy, first decide what bot you want to add and then go over to it’s site. In this example we’ll be using Among Us Manager Bot as an example.
-
-After going to the Website, click the invite link button. Some websites might not have a button to “invite link”. In that case, look for a different button like “invite/add” etc.
-
-After you click the button, you’ll have to sign in to your discord account and it will then ask which server you wish to add the bot to.
-
-![Connect Among Us Manager  Bot to Discord ](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord.jpg)
-
-Just select a server and then click continue.
-
-Next, it’ll ask what permissions you want to give to the bot. Go over this carefully and select the ones you want. But you may lose some functions if a certain permission isn’t given.
-
-![Connect Among Us Manager  Bot to Discord Permission Settings](https://images.wondershare.com/filmora/article-images/connect-among-us-manager-to-discord-permission-settings.jpg)
-
-Click Authorize. It will then ask you to verify whether you’re human or not. If you pass this little test, the bot will be added to your selected server.
-
-You can then go over to your server in discord and found your bot there.
-
-Now all that’s left is getting your friends and hoping into a fun filled and thrilled game of the murder mystery game Among Us.
-
-**Conclusion:**
-
-In the end, all the Among Us bots are basically used to mute players and unmute them at certain points so that there is no cheating and everyone can play the game fairly and it doesn’t get ruined because of some toxic rotten tomatoes.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Among Us is the most trending game in 2020\. It requires players to play together to find the imposter among them before the imposter gets them all. Especially when everyone had to stay indoors because of quarantine, there wasn’t much to do but game online with your friends.
-
-Discord is a program that allows users to communicate with each other while in-game or just in general. There are AI programmed users on Discord called Bots which add certain functionalities for users to make all things working efficiently in Discord.
-
-So, with the rise of the game Among Us, a lot of Discord users have been looking to add bots related to Among Us into their Discord Servers.
-
-Let's go over some of the Best Discord Bots that you can add to your Discord Server.
-
-## Part 1: Best Among Us Bots for Discord
-
-### 1\. Among Us Crewmate
-
-This bot is pretty useful as it is easy to use and easily allows one to moderate the game by muting and deafening players.
-
-It can also be used to share lobby codes, game stats and more. It has a lot of upvotes as the best Among Us Discord Bot and a good rating with great reviews.
-
-This bot at the time of writing this article (2021-1-8) is a part of **1200+** servers and has **240+** upvotes.
-
-To create a new link all you have to do is type !new in the chat and it will create a link to your game lobby and then you add players to it by typing **!link \[@username\] \[colour\]** in the chat.
-
-[You can check out Among Us Crewmate here](https://top.gg/bot/732086609184292895).
-
-### 2\. Among Us
-
-Among Us! is a Discord Bot made especially for the Among Us game. This bot is currently a part of **1900+** servers
-
-![ Among US Bot Command](https://images.wondershare.com/filmora/article-images/among-us-bot-command.jpg)
-
- Add the Among Us Bot to:
-
-* Improve your voice channels!
-* Includes Moderation
-* Voice Channels
-* Matchmaking
-* and more!
-
-Bot updated daily!
-
-I have used this Bot personally and love it, with its simple and large variety of commands its really easy to check who’s up to play and moderate the game. The best part is the report system. It is no secret that a lot of players try to ruin the fun for others and this system makes it easier for you to ban/mute someone to make it easier for everyone else.
-
-To get started, just type **!help** in the chat and the bot will display a tab with everything you need.
-
-[You can check out Among Us! Here](https://top.gg/bot/746578520343445515).
-
-### 3\. Doraemon
-
-Doraemon is a RPG engagement Bot with the option to play and moderate Among Us.
-
-It can be used to moderate voice and chat channels for users currently in the game. But not only that, it has many more commands from RPG, PvP games and much more.
-
-This bot is added to more than **13000+** servers and **900+** upvotes and increasing. Mainly because of the other many features it provides. The star being the Doraemon RP. Doraemon is a very famous Japanese animated show that featured two main characters and gadgets that were used to have fun and solve problems.
-
-This Bot doesn’t help with the Among Us game but it provides its very own In-Discord Among Us Experience.
-
-You can use this syntax for Doraemon **cat \[command\] \[subcommand\] \[arguments\]**. To start the Among Us game just type cat amongwumpii.
-
-[You can check out this bot here](https://top.gg/bot/574812330760863744).
-
-### 4\. Among Us Manager
-
-More than **3300+** servers have been attached to this bot and currently have an upvote count of **176**. When playing Among Us, it controls the speech channels and auto mutes and deafens players according to the comfort of the game.
-
-![ Among Us Manager Bot Command](https://images.wondershare.com/filmora/article-images/among-us-manager-bot-command.jpg)
-
-It can also be used to inform others about the state of the game.
-
-To get started type **am.help** in the chat and it’ll show u a list of commands that it can perform, but all commands are to be preceded by am.
-
-To start the game just use **am.start <code>** command and then players can join the game using **am.join** command but they have to be in the voice channel that the host is in.
-
-What’s better is that this bot can also help you get better as it provides maps, wiki and tips about both Imposter and Crewmate.
-
-[So get this bot right now here](https://top.gg/bot/756743033181044827).
-
-### 5\. Among Stats
-
-Among Stats is a worldwide leaderboard of sorts. You can add this bot to your server and then parse screenshots of your server and see what rank you’re at in your server and even worldwide.
-
-![ Among Stats Bot Features](https://images.wondershare.com/filmora/article-images/amongstats-bot-features.jpg)
-
-This bot doesn’t specifically improve the gameplay of the game but it helps the competitive feel when you and your friends reach a certain point in the leaderboard.
-
-All you have to do is post a screenshot of your in-game stats in the chat with the bot. To get started just type **!help** in the chat.
-
-You can check out Among Stats at their official [website](https://amongstats.net/).
-
-### 6\. Among Us Helper
-
-If you aren’t very good with commands and such then this is the bot for you. Don’t get me wrong, you still need commands but there are less commands and more visual options like reacting to the bot message with a certain emoji.
-
-![ Among Us Helper Bot ](https://images.wondershare.com/filmora/article-images/among-us-helper-au-bot.jpg)
-
-To begin an Among Us Helper session, run the command
-
-au!start (optional) <GameCode> <Region>
-
-Once you do that, go to the channel that the command tells you the control panel is in.
-
-The control panel has a bunch of reactions that allow you to do certain things.
-
-* The Start game reaction deafens and mutes everyone
-* Start meeting reaction mutes ghosts and unmutes and undeafens all alive players
-* The set dead reaction sets you as dead and unmutes/undeafens you so that you talk to other ghosts
-* And more.
-
-[You can check out Among Us Helper here](https://discordbotlist.com/bots/among-us-helper-au).
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Part 2: How to Add an Among Us Bot to a Discord Server?
 
 Adding a bot to your server is pretty easy, first decide what bot you want to add and then go over to it’s site. In this example we’ll be using Among Us Manager Bot as an example.
@@ -613,10 +700,16 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Quick Tips for Navigating Discord Message Interaction
 
 # How to Reply Message on Discord
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -649,6 +742,9 @@ This technique works for both the browser and the desktop applications; use it w
 
 1. Locate the message you wish to reply to
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
 
 1. Hover your cursor on the comment as you see icons on the right of the message
@@ -660,6 +756,165 @@ This technique works for both the browser and the desktop applications; use it w
 
 ![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
 
+## Part 2: How to Reply to a Certain Message on Discord Mobile
+
+Replying on the mobile app is similar to Desktop. Here's how to do it:
+
+1. Locate the message you wish to reply to in the Discord app
+2. Hold down on the comment until a list of options appears on the screen
+3. Choose the "Reply" option
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
+![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
+
+1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
+2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
+
+After pressing the send button, you should now be able to see your message in the channel.
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3: How to Set Auto Reply on Discord
+
+It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
+
+Here's an example of how you can implement this feature in your server. In this example, we are going to be using the Dyno bot:
+
+1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
+
+![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
+
+1. Now you will have to sign in to your Discord account from your browser
+2. Next, you will have to pick which server you want to invite the bot to
+3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
+
+![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
+
+1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
+
+After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
+
+## Part 4: How to Reply to Messages with Reactions on Discord
+
+Discord allows you to react to posts with emojis. To respond with an emoji:
+
+1. Hover your mouse cursor over the message you wish to react to
+2. Click the smiley face titled "Add reaction" on the message's far-right
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
+![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
+
+1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
+
+Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
+
+1. Click on the emoji, and it would increase the total number of responses by 1
+2. Hovering over the emoji will also let you know the names of the people who reacted to the message
+
+## Part 5: How to Quote Messages on Discord?
+
+Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
+
+On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
+
+1. Add > after every line. However, this can become annoying
+2. Instead, add >>> at the start of the paragraph you wish to quote
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Discord is a communication app targeted towards gamers. Games such as Fortnite and Among Us – a social deduction game – drove many new users to the platform
+
+It surged in popularity during the pandemic, doubling its active monthly users to 120 million towards the end of 2020.
+
+This popularity comes from the fact that Discord is now also being used by households and workplaces for seamless communication.
+
+Today, we will focus on how the 'discord reply to message' feature works. This feature helps when you are trying to pick out a single message to reply to from a list of messages.
+
+You can also include a link back to the message you respond to, making it easier for other people to follow the conversation.
+
+You can even tag the person you are replying to so that they receive a notification whenever they log on to Discord.
+
+In this article, we will cover the following parts on how to reply to messages on Discord:
+
+* [Part 1: How to Reply to a Specific Message on Discord on Desktop](#part1)
+* [Part 2: Replying to a Certain Message on Discord Mobile](#part2)
+* [Part 3: Setting up Auto Reply on Discord with Bots](#part3)
+* [Part 4: Replying to Messages with Reactions on Discord](#part4)
+* [Part 5: Quoting Messages on Discord?](#part5)
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1: How to Reply to a Specific Message on Discord on Desktop
+
+This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
+
+1. Locate the message you wish to reply to
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
+![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
+
+1. Hover your cursor on the comment as you see icons on the right of the message
+2. Now click on the arrow icon
+3. Alternatively, you might have to click on the ellipsis icon (…) if you are replying to a comment by yourself
+4. After clicking on the ellipsis icon, choose the "Reply" button
+5. Write your reply in the text box. You will now see a banner telling you who you are replying to. There will also be a "@" sign over the text box, which will tag the person you respond to (this can be turned off with a click)
+6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Reply to a Certain Message on Discord Mobile
 
 Replying on the mobile app is similar to Desktop. Here's how to do it:
@@ -683,6 +938,9 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
@@ -697,6 +955,172 @@ Here's an example of how you can implement this feature in your server. In this 
 
 After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 4: How to Reply to Messages with Reactions on Discord
+
+Discord allows you to react to posts with emojis. To respond with an emoji:
+
+1. Hover your mouse cursor over the message you wish to react to
+2. Click the smiley face titled "Add reaction" on the message's far-right
+
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
+
+1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
+
+![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
+
+Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
+
+1. Click on the emoji, and it would increase the total number of responses by 1
+2. Hovering over the emoji will also let you know the names of the people who reacted to the message
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
+## Part 5: How to Quote Messages on Discord?
+
+Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
+![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
+
+On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
+
+1. Add > after every line. However, this can become annoying
+2. Instead, add >>> at the start of the paragraph you wish to quote
+
+![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Discord is a communication app targeted towards gamers. Games such as Fortnite and Among Us – a social deduction game – drove many new users to the platform
+
+It surged in popularity during the pandemic, doubling its active monthly users to 120 million towards the end of 2020.
+
+This popularity comes from the fact that Discord is now also being used by households and workplaces for seamless communication.
+
+Today, we will focus on how the 'discord reply to message' feature works. This feature helps when you are trying to pick out a single message to reply to from a list of messages.
+
+You can also include a link back to the message you respond to, making it easier for other people to follow the conversation.
+
+You can even tag the person you are replying to so that they receive a notification whenever they log on to Discord.
+
+In this article, we will cover the following parts on how to reply to messages on Discord:
+
+* [Part 1: How to Reply to a Specific Message on Discord on Desktop](#part1)
+* [Part 2: Replying to a Certain Message on Discord Mobile](#part2)
+* [Part 3: Setting up Auto Reply on Discord with Bots](#part3)
+* [Part 4: Replying to Messages with Reactions on Discord](#part4)
+* [Part 5: Quoting Messages on Discord?](#part5)
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Part 1: How to Reply to a Specific Message on Discord on Desktop
+
+This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
+
+1. Locate the message you wish to reply to
+
+![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
+
+1. Hover your cursor on the comment as you see icons on the right of the message
+2. Now click on the arrow icon
+3. Alternatively, you might have to click on the ellipsis icon (…) if you are replying to a comment by yourself
+4. After clicking on the ellipsis icon, choose the "Reply" button
+5. Write your reply in the text box. You will now see a banner telling you who you are replying to. There will also be a "@" sign over the text box, which will tag the person you respond to (this can be turned off with a click)
+6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
+
+## Part 2: How to Reply to a Certain Message on Discord Mobile
+
+Replying on the mobile app is similar to Desktop. Here's how to do it:
+
+1. Locate the message you wish to reply to in the Discord app
+2. Hold down on the comment until a list of options appears on the screen
+3. Choose the "Reply" option
+
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
+
+1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
+2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
+
+After pressing the send button, you should now be able to see your message in the channel.
+
+## Part 3: How to Set Auto Reply on Discord
+
+It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
+
+Here's an example of how you can implement this feature in your server. In this example, we are going to be using the Dyno bot:
+
+1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
+
+1. Now you will have to sign in to your Discord account from your browser
+2. Next, you will have to pick which server you want to invite the bot to
+3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
+
+![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
+
+1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
+
+After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Reply to Messages with Reactions on Discord
 
 Discord allows you to react to posts with emojis. To respond with an emoji:
@@ -726,6 +1150,9 @@ On the other hand, multi-line quoting is when you need to quote a paragraph or b
 1. Add > after every line. However, this can become annoying
 2. Instead, add >>> at the start of the paragraph you wish to quote
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -760,6 +1187,9 @@ In this article, we will cover the following parts on how to reply to messages o
 * [Part 4: Replying to Messages with Reactions on Discord](#part4)
 * [Part 5: Quoting Messages on Discord?](#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Reply to a Specific Message on Discord on Desktop
 
 This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
@@ -775,6 +1205,9 @@ This technique works for both the browser and the desktop applications; use it w
 5. Write your reply in the text box. You will now see a banner telling you who you are replying to. There will also be a "@" sign over the text box, which will tag the person you respond to (this can be turned off with a click)
 6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
 
 ## Part 2: How to Reply to a Certain Message on Discord Mobile
@@ -800,12 +1233,18 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
@@ -814,6 +1253,9 @@ Here's an example of how you can implement this feature in your server. In this 
 
 After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: How to Reply to Messages with Reactions on Discord
 
 Discord allows you to react to posts with emojis. To respond with an emoji:
@@ -832,6 +1274,9 @@ Furthermore, to react to a message with an emoji that has already been used as a
 1. Click on the emoji, and it would increase the total number of responses by 1
 2. Hovering over the emoji will also let you know the names of the people who reacted to the message
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: How to Quote Messages on Discord?
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
@@ -843,242 +1288,15 @@ On the other hand, multi-line quoting is when you need to quote a paragraph or b
 1. Add > after every line. However, this can become annoying
 2. Instead, add >>> at the start of the paragraph you wish to quote
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Discord is a communication app targeted towards gamers. Games such as Fortnite and Among Us – a social deduction game – drove many new users to the platform
-
-It surged in popularity during the pandemic, doubling its active monthly users to 120 million towards the end of 2020.
-
-This popularity comes from the fact that Discord is now also being used by households and workplaces for seamless communication.
-
-Today, we will focus on how the 'discord reply to message' feature works. This feature helps when you are trying to pick out a single message to reply to from a list of messages.
-
-You can also include a link back to the message you respond to, making it easier for other people to follow the conversation.
-
-You can even tag the person you are replying to so that they receive a notification whenever they log on to Discord.
-
-In this article, we will cover the following parts on how to reply to messages on Discord:
-
-* [Part 1: How to Reply to a Specific Message on Discord on Desktop](#part1)
-* [Part 2: Replying to a Certain Message on Discord Mobile](#part2)
-* [Part 3: Setting up Auto Reply on Discord with Bots](#part3)
-* [Part 4: Replying to Messages with Reactions on Discord](#part4)
-* [Part 5: Quoting Messages on Discord?](#part5)
-
-## Part 1: How to Reply to a Specific Message on Discord on Desktop
-
-This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
-
-1. Locate the message you wish to reply to
-
-![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
-
-1. Hover your cursor on the comment as you see icons on the right of the message
-2. Now click on the arrow icon
-3. Alternatively, you might have to click on the ellipsis icon (…) if you are replying to a comment by yourself
-4. After clicking on the ellipsis icon, choose the "Reply" button
-5. Write your reply in the text box. You will now see a banner telling you who you are replying to. There will also be a "@" sign over the text box, which will tag the person you respond to (this can be turned off with a click)
-6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
-
-![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
-
-## Part 2: How to Reply to a Certain Message on Discord Mobile
-
-Replying on the mobile app is similar to Desktop. Here's how to do it:
-
-1. Locate the message you wish to reply to in the Discord app
-2. Hold down on the comment until a list of options appears on the screen
-3. Choose the "Reply" option
-
-![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
-
-1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
-2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
-
-After pressing the send button, you should now be able to see your message in the channel.
-
-## Part 3: How to Set Auto Reply on Discord
-
-It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
-
-Here's an example of how you can implement this feature in your server. In this example, we are going to be using the Dyno bot:
-
-1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
-
-![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
-
-1. Now you will have to sign in to your Discord account from your browser
-2. Next, you will have to pick which server you want to invite the bot to
-3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
-
-![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
-
-1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
-
-![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
-
-After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
-
-## Part 4: How to Reply to Messages with Reactions on Discord
-
-Discord allows you to react to posts with emojis. To respond with an emoji:
-
-1. Hover your mouse cursor over the message you wish to react to
-2. Click the smiley face titled "Add reaction" on the message's far-right
-
-![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
-
-1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
-
-![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
-
-Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
-
-1. Click on the emoji, and it would increase the total number of responses by 1
-2. Hovering over the emoji will also let you know the names of the people who reacted to the message
-
-## Part 5: How to Quote Messages on Discord?
-
-Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
-
-![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
-
-On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
-
-1. Add > after every line. However, this can become annoying
-2. Instead, add >>> at the start of the paragraph you wish to quote
-
-![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Discord is a communication app targeted towards gamers. Games such as Fortnite and Among Us – a social deduction game – drove many new users to the platform
-
-It surged in popularity during the pandemic, doubling its active monthly users to 120 million towards the end of 2020.
-
-This popularity comes from the fact that Discord is now also being used by households and workplaces for seamless communication.
-
-Today, we will focus on how the 'discord reply to message' feature works. This feature helps when you are trying to pick out a single message to reply to from a list of messages.
-
-You can also include a link back to the message you respond to, making it easier for other people to follow the conversation.
-
-You can even tag the person you are replying to so that they receive a notification whenever they log on to Discord.
-
-In this article, we will cover the following parts on how to reply to messages on Discord:
-
-* [Part 1: How to Reply to a Specific Message on Discord on Desktop](#part1)
-* [Part 2: Replying to a Certain Message on Discord Mobile](#part2)
-* [Part 3: Setting up Auto Reply on Discord with Bots](#part3)
-* [Part 4: Replying to Messages with Reactions on Discord](#part4)
-* [Part 5: Quoting Messages on Discord?](#part5)
-
-## Part 1: How to Reply to a Specific Message on Discord on Desktop
-
-This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
-
-1. Locate the message you wish to reply to
-
-![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
-
-1. Hover your cursor on the comment as you see icons on the right of the message
-2. Now click on the arrow icon
-3. Alternatively, you might have to click on the ellipsis icon (…) if you are replying to a comment by yourself
-4. After clicking on the ellipsis icon, choose the "Reply" button
-5. Write your reply in the text box. You will now see a banner telling you who you are replying to. There will also be a "@" sign over the text box, which will tag the person you respond to (this can be turned off with a click)
-6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
-
-![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
-
-## Part 2: How to Reply to a Certain Message on Discord Mobile
-
-Replying on the mobile app is similar to Desktop. Here's how to do it:
-
-1. Locate the message you wish to reply to in the Discord app
-2. Hold down on the comment until a list of options appears on the screen
-3. Choose the "Reply" option
-
-![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
-
-1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
-2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
-
-After pressing the send button, you should now be able to see your message in the channel.
-
-## Part 3: How to Set Auto Reply on Discord
-
-It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
-
-Here's an example of how you can implement this feature in your server. In this example, we are going to be using the Dyno bot:
-
-1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
-
-![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
-
-1. Now you will have to sign in to your Discord account from your browser
-2. Next, you will have to pick which server you want to invite the bot to
-3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
-
-![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
-
-1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
-
-![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
-
-After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
-
-## Part 4: How to Reply to Messages with Reactions on Discord
-
-Discord allows you to react to posts with emojis. To respond with an emoji:
-
-1. Hover your mouse cursor over the message you wish to react to
-2. Click the smiley face titled "Add reaction" on the message's far-right
-
-![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
-
-1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
-
-![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
-
-Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
-
-1. Click on the emoji, and it would increase the total number of responses by 1
-2. Hovering over the emoji will also let you know the names of the people who reacted to the message
-
-## Part 5: How to Quote Messages on Discord?
-
-Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
-
-![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
-
-On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
-
-1. Add > after every line. However, this can become annoying
-2. Instead, add >>> at the start of the paragraph you wish to quote
-
-![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
-
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -1103,3 +1321,69 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-achieving-seamless-synchronization-on-desktop-and-mobile/"><u>[New] Achieving Seamless Synchronization on Desktop & Mobile</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-enhance-discord-explore-the-10-most-influential-plugins/"><u>[New] Enhance Discord  Explore the 10 Most Influential Plugins</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-snapper-to-maker-wealth-creation-on-snapchat-platforms/"><u>[New] From Snapper to Maker  Wealth Creation on Snapchat Platforms</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-securely-connect-a-step-by-step-guide-to-discord-calls/"><u>[New] In 2024, Securely Connect  A Step-by-Step Guide to Discord Calls</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-step-by-step-incorporating-roles-into-your-discord-server/"><u>[New] In 2024, Step-by-Step  Incorporating Roles Into Your Discord Server</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-art-of-managing-discord-spoilers/"><u>[New] In 2024, The Art of Managing Discord Spoilers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-discords-digital-portraiture/"><u>[New] In 2024, The Ultimate Guide to Discord's Digital Portraiture</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-ultimate-desktopmobile-discord-screen-recorders-guide/"><u>[New] In 2024, Ultimate Desktop/Mobile Discord Screen Recorders Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-ultimate-guide-to-free-voice-alteration-tools-for-discord-2023-edition/"><u>[New] In 2024, Ultimate Guide to Free Voice Alteration Tools for Discord - 2023 Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-unraveling-the-mysteries-of-discord-nitro-benefits-and-acquisition-tactics/"><u>[New] In 2024, Unraveling the Mysteries of Discord Nitro - Benefits & Acquisition Tactics</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-inside-disconitro-understanding-and-obtaining-entry-passes-for-2024/"><u>[New] Inside DiscoNitro  Understanding and Obtaining Entry Passes for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-inside-the-world-of-discord-nitro-highlights-and-acquisition-strategies-for-2024/"><u>[New] Inside the World of Discord Nitro  Highlights and Acquisition Strategies for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-intro-to-role-customization-for-discopundits-for-2024/"><u>[New] Intro to Role Customization for DiscoPundits for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-group-chat-on-discord-for-2024/"><u>[New] Mastering Group Chat on Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-optimize-discord-a-compendium-of-top-bots-for-2024/"><u>[New] Optimize Discord  A Compendium of Top Bots for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-premier-zero-cost-discord-symbol-artist-platforms/"><u>[New] Premier Zero-Cost Discord Symbol Artist Platforms</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-premium-free-service-craft-your-own-discord-emblem/"><u>[New] Premium Free Service  Craft Your Own Discord Emblem</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-roguelikes-roots-and-their-rebirth-as-roguiles/"><u>[New] Roguelikes' Roots & Their Rebirth as Roguiles</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-strikingly-successful-nicknames-a-must-have-list-for-disco-channels-for-2024/"><u>[New] Strikingly Successful Nicknames  A Must-Have List for Disco Channels for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-tactics-for-toxic-troubleshooting-your-complete-guide-to-addressing-misconduct-in-chat-rooms-for-2024/"><u>[New] Tactics for Toxic Troubleshooting  Your Complete Guide to Addressing Misconduct in Chat Rooms for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-experts-path-to-masterful-discord-screen-broadcasting/"><u>[New] The Expert's Path to Masterful Discord Screen Broadcasting</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-explorers-blueprint-how-to-unearth-hidden-discord-communities/"><u>[New] The Explorer's Blueprint  How to Unearth Hidden Discord Communities</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-strategists-approach-to-locating-and-joining-specialized-discord-channels/"><u>[New] The Strategist's Approach to Locating and Joining Specialized Discord Channels</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-strategists-approach-to-locating-and-joining-specialized-discord-channels-for-2024/"><u>[New] The Strategist's Approach to Locating and Joining Specialized Discord Channels for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-transforming-chat-into-dialogue-a-discord-tts-primer/"><u>[New] Transforming Chat Into Dialogue  A Discord TTS Primer</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-transforming-conversations-with-discords-powerful-graphics-library/"><u>[New] Transforming Conversations with Discord's Powerful Graphics Library</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unlocking-discords-potential-the-art-of-pinning/"><u>[New] Unlocking Discord's Potential  The Art of Pinning</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-which-online-platform-stands-out-discord-and-skype-compared/"><u>[New] Which Online Platform Stands Out? Discord & Skype Compared</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instas-secrets-unveiled-the-art-of-selfie-confirmation/"><u>[Updated] 2024 Approved  Insta's Secrets Unveiled  The Art of Selfie Confirmation</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-beyond-tube-the-premier-spots-for-online-video-sharing/"><u>[Updated] Beyond Tube  The Premier Spots for Online Video Sharing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-techniques-for-live-broadcasting-recorded-videographies-on-fb/"><u>[Updated] In 2024, Techniques for Live Broadcasting Recorded Videographies on FB</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-10-gif-recorder-mac-for-2024/"><u>[Updated] Top 10 Gif Recorder Mac for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-what-are-instagrams-daily-story-snapshots-in-2024/"><u>[Updated] What Are Instagram's Daily Story Snapshots, In 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-abletons-pathway-to-harmonious-declines/"><u>2024 Approved  Ableton's Pathway to Harmonious Declines</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-box-customization-havens-on-the-internet/"><u>2024 Approved  Best Box-Customization Havens on the Internet</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-cutting-through-chatter-effective-discord-responses/"><u>2024 Approved  Cutting Through Chatter  Effective Discord Responses</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-eliminate-your-discord-servers-desktop-and-android-tips/"><u>2024 Approved  Eliminate Your Discord Servers  Desktop & Android Tips</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-mastering-the-art-of-deleting-discord-servers/"><u>2024 Approved  Mastering the Art of Deleting Discord Servers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-setting-up-a-stream-discord-edition-101/"><u>2024 Approved  Setting Up a Stream  Discord Edition 101</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-steps-for-deleting-discord-on-computermobile/"><u>2024 Approved  Steps for Deleting Discord on Computer/Mobile</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/advanced-screen-recorder-for-mp4-files-for-2024/"><u>Advanced Screen Recorder for MP4 Files for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhanced-engagement-the-importance-of-chapter-marking-in-youtube/"><u>Enhanced Engagement  The Importance of Chapter Marking in YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-immersive-videography-the-360-journey/"><u>Exploring Immersive Videography  The 360° Journey</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/reative-and-cost-effective-with-a-stash-of-over-50-free-youtube-promo-artwork/"><u>Get Creative and Cost-Effective with a Stash of Over 50 Free YouTube Promo Artwork</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-nubia-red-magic-8s-proplus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Nubia Red Magic 8S Pro+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-elevate-your-presence-mastering-ig-video-borders/"><u>In 2024, Elevate Your Presence  Mastering IG Video Borders</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-a79-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-11-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 11 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-mastering-youtube-metrics-a-compreousible-roadmap-to-tracking-traffic-and-turnover/"><u>In 2024, Mastering YouTube Metrics  A Compreousible Roadmap to Tracking Traffic and Turnover</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-ranking-of-top-10-budget-friendly-video-calls-iphoneandroid/"><u>In 2024, Ranking of Top 10 Budget-Friendly Video Calls (iPhone/Android)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-streamlining-your-ps3-gaming-archive/"><u>In 2024, Streamlining Your PS3 Gaming Archive</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/launch-your-wealth-journey-on-periscope-platform/"><u>Launch Your Wealth Journey on Periscope Platform</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastery-of-microscopic-minecraft-mapping-for-2024/"><u>Mastery of Microscopic Minecraft Mapping for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/polity-playground-quintessential-politic-simulators-review/"><u>Polity Playground  Quintessential Politic Simulators Review</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-xr-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone XR Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/superior-compre-points-to-free-high-quality-icons-for-2024/"><u>Superior, Compre Points to Free High-Quality Icons for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-disco-diplomats-manual-how-to-respond-effectively-for-2024/"><u>The Disco Diplomat's Manual  How to Respond Effectively for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-picture-perfect-framing-24/"><u>The Ultimate Guide to Picture-Perfect Framing '24</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-pova-6-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Pova 6 Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>

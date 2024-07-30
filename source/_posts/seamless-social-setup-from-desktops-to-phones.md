@@ -1,7 +1,7 @@
 ---
 title: "\"Seamless Social Setup  From Desktops to Phones\""
-date: 2024-07-07T19:11:53.047Z
-updated: 2024-07-08T19:11:53.047Z
+date: 2024-07-29T01:08:53.369Z
+updated: 2024-07-30T01:08:53.369Z
 tags:
   - ai video
   - ai discord
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/4cbebb13391bd3ac3f3b9ef43b45b771ba69f0146
 
 # How to Add Friends on Discord
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -35,6 +38,9 @@ Before that – why would you want to add friends on Discord? Well, why not! You
 
 Discord is supposed to make gaming an interactive and lively experience. So, you should start adding friends right away. Here are the steps for adding friends on Discord. The process is the same for the desktop app and browser Discord. You can add friends through two ways -
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ### How to Add friends directly on Discord desktop
 
 With this method, you can add friends using their Discord username and tag. Make sure you have their tag.
@@ -73,6 +79,23 @@ Similarly, if a person (who’s not on your Friends List) has messaged you direc
 
 To do this, open your chat list by clicking on your profile. Find the person you want to add to the chat list, and right-click on their profile. Tap the ‘Add Friend’ option. This is the fastest way to add friends on Discord without their user tag.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## Part 2: How to Add friends on Discord on Android and iOS?
 
 The user interface of discord is more or less the same across various devices. The process of adding friends is quite similar to the one we discussed for the computer.
@@ -86,6 +109,9 @@ If you have some friends that you do not share common channels with, you can add
 1. Open the discord app.
 2. Tap on the Friends button that is located towards the bottom.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
 
 1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
@@ -95,6 +121,9 @@ If you have some friends that you do not share common channels with, you can add
 
 Once your friend is added, you can directly message them or call them.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### 2\. How to add friends on Discord Server
 
 discord is all about stumbling upon like-minded people and growing your gaming group. Once you join a server, you are bound to make a lot of friends. And sometimes, you might want to add them to your friend's list so you can text them personally.
@@ -107,6 +136,9 @@ Follow these steps to add a friend that you met on the server.
 4. Find your friend on the list. When you find your friend, tap on their profile.
 5. Their profile will pop up. Click the ‘add friend’ button.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
 
 1. Your friend request will be delivered.
@@ -127,6 +159,9 @@ In case you have been using discord for a while, you might have realized that th
 
 1. Ask your friend to turn on the Nearby Scan mode on their phone too.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
 
 1. When your friend gets detected, they appear on the radar.
@@ -139,6 +174,9 @@ Further, you and your friend both must be on the Nearby Scan mode to connect wit
 
 If you and the person you want to add are on the same server, you can add them through the channel user lists, as we discussed above.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Bonus: How to Add friends on Discord without user tag via an invitation link
 
 On Discord channels, it always ‘the more, the merrier.’ And your server can be one lonely place without friends. Plus, adding friends via a server is a lot easier and needs fewer steps. Create a server and customize it according to your taste. Don’t forget to add bots for fun!
@@ -147,6 +185,9 @@ On Discord channels, it always ‘the more, the merrier.’ And your server can 
 2. Right-click on the server title. A menu with several options will appear.
 3. From that list, choose ‘invite friends’ and an invite link will appear on the pop-up menu.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![add friends to Discord Server via invitation links](https://images.wondershare.com/filmora/article-images/add-friends-to-discord-server-via-invitation-link.jpg)
 
 1. The invitation link typically expires in a day. But you can change this setting to ‘set this link to never expire.
@@ -179,3 +220,40 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-ace-the-game-crafting-a-pro-gaming-channels-success-story/"><u>[New] 2024 Approved  Ace the Game  Crafting a Pro Gaming Channels Success Story</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-discord-broadcast-mastery-the-ultimate-guide-for-novices-and-pros/"><u>[New] 2024 Approved  Discord Broadcast Mastery  The Ultimate Guide for Novices and Pros</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-creating-engaging-content-through-discord-streams-for-2024/"><u>[New] Creating Engaging Content Through Discord Streams for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-effective-communication-in-live-discovers-with-our-guide/"><u>[New] Effective Communication in Live Discovers with Our Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-finding-the-right-wordmark-for-your-personalized-tiktok-stream-for-2024/"><u>[New] Finding the Right Wordmark for Your Personalized TikTok Stream for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-quick-win-strategies-for-replying-on-discord-platforms/"><u>[New] In 2024, Quick-Win Strategies for Replying on Discord Platforms</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-securing-your-digital-footprint-when-leaving-discord/"><u>[New] In 2024, Securing Your Digital Footprint When Leaving Discord</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-the-edge-professional-cameras-that-rotate-full-circle-2023/"><u>[New] Leading the Edge  Professional Cameras That Rotate Full Circle - 2023</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-the-art-of-memorable-channel-titles-on-discord-for-2024/"><u>[New] Mastering the Art of Memorable Channel Titles on Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-discord-a-must-know-guide/"><u>[New] Navigating Discord  A Must-Know Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-step-by-step-guide-to-creating-professional-discord-profile-pictures-for-2024/"><u>[New] Step-by-Step Guide to Creating Professional Discord Profile Pictures for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-a-pocket-guide-for-channel-setup-and-management-on-discord/"><u>[Updated] 2024 Approved  A Pocket Guide for Channel Setup and Management on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-avoid-bots-manual-linking-between-spotify-and-discord-works/"><u>[Updated] 2024 Approved  Avoid Bots? Manual Linking Between Spotify & Discord Works</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-disconnect-and-delete-discord-accounts-devices/"><u>[Updated] 2024 Approved  Disconnect and Delete Discord Accounts (Devices)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-step-by-step-guide-sending-videos-in-discord/"><u>[Updated] 2024 Approved  Step-by-Step Guide  Sending Videos in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-steps-for-deleting-discord-on-computermobile/"><u>[Updated] 2024 Approved  Steps for Deleting Discord on Computer/Mobile</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-swift-steps-to-stellar-screen-names-on-discord/"><u>[Updated] 2024 Approved  The Swift Steps to Stellar Screen Names on Discord</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-artful-depth-of-field-with-modern-tools/"><u>[Updated] Crafting Artful Depth of Field with Modern Tools</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-dissolving-ties-how-to-break-away-from-discord-servers/"><u>[Updated] In 2024, Dissolving Ties  How to Break Away From Discord Servers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-premier-robot-interactions-in-discord/"><u>[Updated] In 2024, Premier Robot Interactions in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-revolutionize-your-discord-conversations-learn-to-pin-effectively/"><u>[Updated] In 2024, Revolutionize Your Discord Conversations  Learn to Pin Effectively</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-no-cost-all-benefits-with-fcp-downloads/"><u>[Updated] No Cost, All Benefits with FCP Downloads</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-definitive-guide-to-live-on-discord/"><u>[Updated] The Definitive Guide to Live on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-discovering-the-basics-of-streaming-via-discord/"><u>2024 Approved  Discovering the Basics of Streaming via Discord</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-non-competitive-front-row-fun-ranking-the-top-ten/"><u>2024 Approved  Non-Competitive Front Row Fun  Ranking the Top Ten</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/accelerating-your-creative-process-with-mac-dvd-authoring/"><u>Accelerating Your Creative Process with Mac DVD Authoring</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/average-earnings-for-podcast-creators/"><u>Average Earnings for Podcast Creators</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-google-pixel-7a-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Google Pixel 7a</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-apple-iphone-12-pro-max-smoothly-by-drfone-ios/"><u>How To Remove iCloud From Apple iPhone 12 Pro Max Smoothly</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-start-your-own-discord-channel-a-detailed-walkthrough/"><u>How to Start Your Own Discord Channel  A Detailed Walkthrough</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-srt-to-sub-masterful-conversion-methods-explored/"><u>In 2024, From SRT to SUB  Masterful Conversion Methods Explored</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-navigate-discord-with-ease-a-compreeher-guide-to-pins/"><u>In 2024, Navigate Discord with Ease  A Compreeher Guide to Pins</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/master-the-art-of-message-interaction-on-desktopmobile/"><u>Master the Art of Message Interaction on Desktop/Mobile</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-10-plugin-recommendations-for-an-unmatched-discord-experience-for-2024/"><u>Top 10 Plugin Recommendations for an Unmatched Discord Experience for 2024</u></a></li>
+</ul></div>

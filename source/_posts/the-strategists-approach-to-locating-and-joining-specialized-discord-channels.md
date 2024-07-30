@@ -1,7 +1,7 @@
 ---
 title: "The Strategist's Approach to Locating and Joining Specialized Discord Channels"
-date: 2024-05-23T22:47:31.117Z
-updated: 2024-05-24T22:47:31.118Z
+date: 2024-07-29T00:36:36.108Z
+updated: 2024-07-30T00:36:36.108Z
 tags:
   - ai video
   - ai discord
@@ -12,13 +12,16 @@ categories:
 description: "This Article Describes The Strategist's Approach to Locating and Joining Specialized Discord Channels"
 excerpt: "This Article Describes The Strategist's Approach to Locating and Joining Specialized Discord Channels"
 keywords: "Strategic Channel Finding,Join Expert Discords,Discord SPEC Channels,Optimizing Discord Joins,Locating Specialized DMs,Enhanced Discord Search,Strategy for Channel Joining"
-thumbnail: https://www.lifewire.com/thmb/Z7QL7-14ToGxatBbyXkMA5egnao=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-wh-1000xm2-wireless-noise-cancelling-headphones-59c91370c412440010f51191.PNG
+thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51b39e47e7a2ccf645d397043.PNG
 ---
 
 ## The Strategist's Approach to Locating and Joining Specialized Discord Channels
 
 # How to Find Discord Server
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -58,6 +61,9 @@ Some of the popular channel directories are -
 
 1. [Discord.me](http://discord.me/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Find Discord Server  via Discord.me ](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
 
 You will fall in love with the appearance and user interface of Discord.me. The directory offers more than a thousand Discord servers. And a good number of them are legit. The ‘Categories’ drop-down list has a huge number of categories that people generally look for. You can also look for random servers and bots. The huge search bar at the top helps you explore the channels related to your search queries. Just below the search bar, the top channel categories are listed. If you scroll even further down, top servers are displayed. You can even look at the ones that have seen a recent surge in members and the ones that have mature content.
@@ -78,6 +84,9 @@ This directory houses a vast collection of servers that are dedicated gaming com
 
 After exploring the servers, you can pick a handful and have a glance at the servers before you decide to join in. You can scroll endlessly until you find a suitable channel for yourself. You can join multiple channels too.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Part 3: How to Find Private Discord Server
 
 Along with Public Servers that can be joined just with a click, there are many private servers. These servers can be entered only by invitation. The server's creator can send the invitations to you, or you will find the links on Twitter, Facebook, or other platforms.
@@ -92,6 +101,9 @@ Some servers require you to follow certain guidelines. If you don't comply, you 
 
 Further, you can create your own server and invite your friends or your gaming clan to it. A server can be a personal space where you can talk to your friends via voice channels, stream games together, chat, share memes, listen to music, and add bots!
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Find Discord Servers to Join Via other Platforms
 
 Like we discussed above, Reddit is one of the places to find private Discord servers. Similarly, pages and communities on Facebook, Twitch, YouTube, and others might also link out to their Discord servers.
@@ -169,6 +181,9 @@ This directory houses a vast collection of servers that are dedicated gaming com
 
 After exploring the servers, you can pick a handful and have a glance at the servers before you decide to join in. You can scroll endlessly until you find a suitable channel for yourself. You can join multiple channels too.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Part 3: How to Find Private Discord Server
 
 Along with Public Servers that can be joined just with a click, there are many private servers. These servers can be entered only by invitation. The server's creator can send the invitations to you, or you will find the links on Twitter, Facebook, or other platforms.
@@ -215,6 +230,9 @@ Initially, Discord served as a voice channel for Gamers. However, today it is mu
 
 Using Discord without joining a server is as good as not using Discord at all. But if you are a newbie, you might find it difficult to join a server with active users. Not all servers are good, and this guide will help you filter out the best servers on Discord.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Find Discord Server on Explore Public Servers tab
 
 The obvious questions that you will encounter after signing up on Discord are - **How to find a Discord server**? Is it difficult? Do I have to fill up an application?
@@ -225,6 +243,10 @@ One of the popular and easiest ways to find servers is to use explore Public Ser
 2. Tap the compass symbol to open the explore public service option.
 1. You will be directed towards the official Discord server directory. It has a search box on the top. Many top servers are listed below. Popular games like Minecraft, Fortnite, Call of Duty, and more are listed. You can tap open any of these channels to explore the community.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![Find Discord Server   ](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
 
 1. Likewise, you can enter some search terms in a search box and explore the channels related to the term. For instance, you can input the term 'Disney Movies' or 'Call of Duty' and hit the search button. And a list of servers dedicated to the terms will appear.
@@ -232,6 +254,9 @@ One of the popular and easiest ways to find servers is to use explore Public Ser
 3. To return to the directory, tap the compass.
 4. Another way to hunt for the right servers is to explore the categories in the left side menu. The most common categories listed are - Gaming, Entertainment, Music, Art, and a few more.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Finding best Discord Server via Online Discord Website Directories
 
 Another quick and easy way to find legit Discord servers is to explore the online directories dedicated to Discord servers.
@@ -240,12 +265,18 @@ Some of the popular channel directories are -
 
 1. [Discord.me](http://discord.me/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Find Discord Server  via Discord.me ](https://images.wondershare.com/filmora/article-images/discordme-bot-find-server.jpg)
 
 You will fall in love with the appearance and user interface of Discord.me. The directory offers more than a thousand Discord servers. And a good number of them are legit. The ‘Categories’ drop-down list has a huge number of categories that people generally look for. You can also look for random servers and bots. The huge search bar at the top helps you explore the channels related to your search queries. Just below the search bar, the top channel categories are listed. If you scroll even further down, top servers are displayed. You can even look at the ones that have seen a recent surge in members and the ones that have mature content.
 
 1. [disboard.org](http://discord.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Find Discord Server via  disboard.org ](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
 
 This is the biggest directory that features servers sprawl across various subjects like languages, music, politics, LGBTQ, and several more alongside the usual gaming channels. You can use the search bar to hunt for servers related to your tastes. If you are baffled about where to start, you can explore the categories and tags underneath the search bar.
@@ -254,12 +285,18 @@ If you keep scrolling, you will come across popular channels or channels that ha
 
 1. [Discordservers.com](http://discordservers.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Find Discord Server via  Discordservers.com ](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
 
 This directory houses a vast collection of servers that are dedicated gaming community and geekdom. Upon entering the site, you will immediately notice that it has a sleek and minimal interface. You can easily navigate and find what you are looking for. The landing page has a list of featured channels. On the top, there is a search bar that can assist you in finding the servers related to your interests. However, you can hit the ‘browse’ button beside the search bar to explore all the categories.
 
 After exploring the servers, you can pick a handful and have a glance at the servers before you decide to join in. You can scroll endlessly until you find a suitable channel for yourself. You can join multiple channels too.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Find Private Discord Server
 
 Along with Public Servers that can be joined just with a click, there are many private servers. These servers can be entered only by invitation. The server's creator can send the invitations to you, or you will find the links on Twitter, Facebook, or other platforms.
@@ -306,6 +343,9 @@ Initially, Discord served as a voice channel for Gamers. However, today it is mu
 
 Using Discord without joining a server is as good as not using Discord at all. But if you are a newbie, you might find it difficult to join a server with active users. Not all servers are good, and this guide will help you filter out the best servers on Discord.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Part 1: How to Find Discord Server on Explore Public Servers tab
 
 The obvious questions that you will encounter after signing up on Discord are - **How to find a Discord server**? Is it difficult? Do I have to fill up an application?
@@ -316,6 +356,9 @@ One of the popular and easiest ways to find servers is to use explore Public Ser
 2. Tap the compass symbol to open the explore public service option.
 1. You will be directed towards the official Discord server directory. It has a search box on the top. Many top servers are listed below. Popular games like Minecraft, Fortnite, Call of Duty, and more are listed. You can tap open any of these channels to explore the community.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Find Discord Server   ](https://images.wondershare.com/filmora/article-images/find-community-on-discord-explore-public-server.jpg)
 
 1. Likewise, you can enter some search terms in a search box and explore the channels related to the term. For instance, you can input the term 'Disney Movies' or 'Call of Duty' and hit the search button. And a list of servers dedicated to the terms will appear.
@@ -337,6 +380,9 @@ You will fall in love with the appearance and user interface of Discord.me. The 
 
 1. [disboard.org](http://discord.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![Find Discord Server via  disboard.org ](https://images.wondershare.com/filmora/article-images/discover-discord-servers-disboard.jpg)
 
 This is the biggest directory that features servers sprawl across various subjects like languages, music, politics, LGBTQ, and several more alongside the usual gaming channels. You can use the search bar to hunt for servers related to your tastes. If you are baffled about where to start, you can explore the categories and tags underneath the search bar.
@@ -345,6 +391,9 @@ If you keep scrolling, you will come across popular channels or channels that ha
 
 1. [Discordservers.com](http://discordservers.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![Find Discord Server via  Discordservers.com ](https://images.wondershare.com/filmora/article-images/find-discord-server-via-discordservers-bot.jpg)
 
 This directory houses a vast collection of servers that are dedicated gaming community and geekdom. Upon entering the site, you will immediately notice that it has a sleek and minimal interface. You can easily navigate and find what you are looking for. The landing page has a list of featured channels. On the top, there is a search bar that can assist you in finding the servers related to your interests. However, you can hit the ‘browse’ button beside the search bar to explore all the categories.
@@ -431,6 +480,175 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+
+That's it! You have now learned how to pin messages on Discord for the desktop application.
+
+But make sure you don't pin everything that might seem important at a glance — only pin messages that may have utility in the future.
+
+Also, don't pin messages that are just important for you. In larger channels, prioritize pinning messages that will benefit most participants.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+## Part 2: How to Pin Messages on Discord Mobile App?
+
+Pinning messages in the mobile app is very similar to how it is done on the desktop application. Do it by:
+
+1. Just hold down your finger on the message you wish to pin
+2. A couple of seconds later, you will be presented with a list of options
+3. From here, click on "Pin Message"
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
+![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+
+1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
+## Part 3: How to View Pinned Messages on Discord
+
+Accessing pinned messages is just as easy as pinning them. To access a pinned message on the app's desktop version:
+
+1. Click on the pin icon appearing on the top right-hand side of your screen
+
+![view Pinned message on Discord](https://images.wondershare.com/filmora/article-images/view-pinned-message.jpg)
+
+1. Doing this will present you with a drop-down list of pinned messages. Now, you can tap on the "Jump" button next to the "x" (cross) icon to go directly to the pinned message
+2. This will allow you to understand the context behind the pinned message. You can also access and share links in the pinned messages from here
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 4: How to View Pinned Messages on Discord Mobile
+
+View your pins on the mobile version of Discord by:
+
+1. Swiping from right to left, which will open up a side menu
+2. Then click on "Pins," which is the second option from the left, as shown in the picture below
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![view Pinned message on Discord](https://images.wondershare.com/filmora/article-images/view-pinned-message-discord-mobile.jpg)
+
+1. Now you will be in the pinned messages window
+2. You can jump to a specific pinned message by clicking on it, allowing you to access any content or links in the message
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## Part 5: Limit on Pinned Messages
+
+You can only pin 50 messages in the pin box in Discord, meaning if you want to pin new messages, you will have to delete older ones to make space.
+
+This may feel like a disadvantage. However, it makes perfect sense. Pinning messages is only for important information that must be used in the future.
+
+Removing this limit and giving people free rein on the number of messages they can pin will eventually lead to too many pinned messages, defeating the feature's purpose.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
+## Part 6: How to Delete Pinned Messages on Discord?
+
+If something pinned in the past has become redundant over time, you can remove it from the pinned messages.
+
+This will make sure your pinned messages do not stockpile over time, and there is space to add new messages important to the server.
+
+To remove pinned messages on desktops:
+
+1. Go to the pin icon used to access pins
+2. Next, hover over the message you wish to unpin and click on the "x" (cross) button next to the jump button
+3. After this, click on the "yeah, remove it please kthx" button
+4. The message will now stop appearing in the list of pinned messages
+
+To do the same for mobile devices:
+
+1. Swipe right to left to access the side menu
+2. Click on "Pins" to view all the messages pinned by you or other people on the server with permissions to pin
+3. Then hold down on the message, which will give you an option to unpin it
+4. Click on "Unpin" to remove the message from the list of pinned messages
+
+**Things to keep in mind**:
+
+* You can skip the pop-up shown above when trying to remove a pinned message. All you must do is hold shift when clicking on the "x" (cross) button allowing you to go on that spree of unpins
+* Another thing to remember is that all these tips on how pin messages apply to both Direct Messages (DM) and Server group chats
+
+#### All in All
+
+Learning how to pin a message on Discord could be a little tricky at first, mostly if you haven't done so in the past and someone spontaneously asks you to do so.
+
+However, the feature is pretty intuitive and straightforward once you get the hang of it.
+
+The usefulness of pinning makes it very important for both old and new users as you can relay important information without having to go through tons of old messages.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Like TeamSpeak or Skype, Discord is a chat app aimed at easy mass communication. Although it was made for gamers, it is readily used for communicating in offices, during projects, or for professional collaboration.
+
+Even though it's straightforward to use, there are several Discord features that you may be unfamiliar with.
+
+One such feature is called pinning messages. It is available to moderators, administrators, server owners, and other users who have permission to "Manage Messages" in various server channels.
+
+This feature helps you find and share vital messages quickly, especially when new users join a specific channel.
+
+It acts like a sticky note for Discord, making sure valuable information such as server rules do not get overshadowed by new messages even months after the pinned messages are first posted.
+
+Today, we will go over how to pin a message on Discord for your desktop app on PC and Mac, as well as on your iPhone and Android mobile devices.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
+## Part 1: How to Pin A Message on Discord Desktop?
+
+If you want to learn how to pin messages on Discord desktop, follow these steps:
+
+1. Hover over any message which you wish to pin.
+2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+
+1. Now, click on the "Pin Message" option
+2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
+
 ![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
@@ -447,6 +665,150 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
+
+1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
+## Part 3: How to View Pinned Messages on Discord
+
+Accessing pinned messages is just as easy as pinning them. To access a pinned message on the app's desktop version:
+
+1. Click on the pin icon appearing on the top right-hand side of your screen
+
+![view Pinned message on Discord](https://images.wondershare.com/filmora/article-images/view-pinned-message.jpg)
+
+1. Doing this will present you with a drop-down list of pinned messages. Now, you can tap on the "Jump" button next to the "x" (cross) icon to go directly to the pinned message
+2. This will allow you to understand the context behind the pinned message. You can also access and share links in the pinned messages from here
+
+## Part 4: How to View Pinned Messages on Discord Mobile
+
+View your pins on the mobile version of Discord by:
+
+1. Swiping from right to left, which will open up a side menu
+2. Then click on "Pins," which is the second option from the left, as shown in the picture below
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![view Pinned message on Discord](https://images.wondershare.com/filmora/article-images/view-pinned-message-discord-mobile.jpg)
+
+1. Now you will be in the pinned messages window
+2. You can jump to a specific pinned message by clicking on it, allowing you to access any content or links in the message
+
+## Part 5: Limit on Pinned Messages
+
+You can only pin 50 messages in the pin box in Discord, meaning if you want to pin new messages, you will have to delete older ones to make space.
+
+This may feel like a disadvantage. However, it makes perfect sense. Pinning messages is only for important information that must be used in the future.
+
+Removing this limit and giving people free rein on the number of messages they can pin will eventually lead to too many pinned messages, defeating the feature's purpose.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+## Part 6: How to Delete Pinned Messages on Discord?
+
+If something pinned in the past has become redundant over time, you can remove it from the pinned messages.
+
+This will make sure your pinned messages do not stockpile over time, and there is space to add new messages important to the server.
+
+To remove pinned messages on desktops:
+
+1. Go to the pin icon used to access pins
+2. Next, hover over the message you wish to unpin and click on the "x" (cross) button next to the jump button
+3. After this, click on the "yeah, remove it please kthx" button
+4. The message will now stop appearing in the list of pinned messages
+
+To do the same for mobile devices:
+
+1. Swipe right to left to access the side menu
+2. Click on "Pins" to view all the messages pinned by you or other people on the server with permissions to pin
+3. Then hold down on the message, which will give you an option to unpin it
+4. Click on "Unpin" to remove the message from the list of pinned messages
+
+**Things to keep in mind**:
+
+* You can skip the pop-up shown above when trying to remove a pinned message. All you must do is hold shift when clicking on the "x" (cross) button allowing you to go on that spree of unpins
+* Another thing to remember is that all these tips on how pin messages apply to both Direct Messages (DM) and Server group chats
+
+#### All in All
+
+Learning how to pin a message on Discord could be a little tricky at first, mostly if you haven't done so in the past and someone spontaneously asks you to do so.
+
+However, the feature is pretty intuitive and straightforward once you get the hang of it.
+
+The usefulness of pinning makes it very important for both old and new users as you can relay important information without having to go through tons of old messages.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Like TeamSpeak or Skype, Discord is a chat app aimed at easy mass communication. Although it was made for gamers, it is readily used for communicating in offices, during projects, or for professional collaboration.
+
+Even though it's straightforward to use, there are several Discord features that you may be unfamiliar with.
+
+One such feature is called pinning messages. It is available to moderators, administrators, server owners, and other users who have permission to "Manage Messages" in various server channels.
+
+This feature helps you find and share vital messages quickly, especially when new users join a specific channel.
+
+It acts like a sticky note for Discord, making sure valuable information such as server rules do not get overshadowed by new messages even months after the pinned messages are first posted.
+
+Today, we will go over how to pin a message on Discord for your desktop app on PC and Mac, as well as on your iPhone and Android mobile devices.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1: How to Pin A Message on Discord Desktop?
+
+If you want to learn how to pin messages on Discord desktop, follow these steps:
+
+1. Hover over any message which you wish to pin.
+2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
+
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
+
+1. Now, click on the "Pin Message" option
+2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
+![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+
+That's it! You have now learned how to pin messages on Discord for the desktop application.
+
+But make sure you don't pin everything that might seem important at a glance — only pin messages that may have utility in the future.
+
+Also, don't pin messages that are just important for you. In larger channels, prioritize pinning messages that will benefit most participants.
+
+## Part 2: How to Pin Messages on Discord Mobile App?
+
+Pinning messages in the mobile app is very similar to how it is done on the desktop application. Do it by:
+
+1. Just hold down your finger on the message you wish to pin
+2. A couple of seconds later, you will be presented with a list of options
+3. From here, click on "Pin Message"
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
@@ -539,6 +901,9 @@ It acts like a sticky note for Discord, making sure valuable information such as
 
 Today, we will go over how to pin a message on Discord for your desktop app on PC and Mac, as well as on your iPhone and Android mobile devices.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Part 1: How to Pin A Message on Discord Desktop?
 
 If you want to learn how to pin messages on Discord desktop, follow these steps:
@@ -559,6 +924,9 @@ But make sure you don't pin everything that might seem important at a glance —
 
 Also, don't pin messages that are just important for you. In larger channels, prioritize pinning messages that will benefit most participants.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Part 2: How to Pin Messages on Discord Mobile App?
 
 Pinning messages in the mobile app is very similar to how it is done on the desktop application. Do it by:
@@ -567,10 +935,16 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 2. A couple of seconds later, you will be presented with a list of options
 3. From here, click on "Pin Message"
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to View Pinned Messages on Discord
 
 Accessing pinned messages is just as easy as pinning them. To access a pinned message on the app's desktop version:
@@ -582,6 +956,9 @@ Accessing pinned messages is just as easy as pinning them. To access a pinned me
 1. Doing this will present you with a drop-down list of pinned messages. Now, you can tap on the "Jump" button next to the "x" (cross) icon to go directly to the pinned message
 2. This will allow you to understand the context behind the pinned message. You can also access and share links in the pinned messages from here
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: How to View Pinned Messages on Discord Mobile
 
 View your pins on the mobile version of Discord by:
@@ -635,246 +1012,9 @@ However, the feature is pretty intuitive and straightforward once you get the ha
 
 The usefulness of pinning makes it very important for both old and new users as you can relay important information without having to go through tons of old messages.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Like TeamSpeak or Skype, Discord is a chat app aimed at easy mass communication. Although it was made for gamers, it is readily used for communicating in offices, during projects, or for professional collaboration.
-
-Even though it's straightforward to use, there are several Discord features that you may be unfamiliar with.
-
-One such feature is called pinning messages. It is available to moderators, administrators, server owners, and other users who have permission to "Manage Messages" in various server channels.
-
-This feature helps you find and share vital messages quickly, especially when new users join a specific channel.
-
-It acts like a sticky note for Discord, making sure valuable information such as server rules do not get overshadowed by new messages even months after the pinned messages are first posted.
-
-Today, we will go over how to pin a message on Discord for your desktop app on PC and Mac, as well as on your iPhone and Android mobile devices.
-
-## Part 1: How to Pin A Message on Discord Desktop?
-
-If you want to learn how to pin messages on Discord desktop, follow these steps:
-
-1. Hover over any message which you wish to pin.
-2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
-
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
-
-1. Now, click on the "Pin Message" option
-2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
-
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
-
-That's it! You have now learned how to pin messages on Discord for the desktop application.
-
-But make sure you don't pin everything that might seem important at a glance — only pin messages that may have utility in the future.
-
-Also, don't pin messages that are just important for you. In larger channels, prioritize pinning messages that will benefit most participants.
-
-## Part 2: How to Pin Messages on Discord Mobile App?
-
-Pinning messages in the mobile app is very similar to how it is done on the desktop application. Do it by:
-
-1. Just hold down your finger on the message you wish to pin
-2. A couple of seconds later, you will be presented with a list of options
-3. From here, click on "Pin Message"
-
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
-
-1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
-
-## Part 3: How to View Pinned Messages on Discord
-
-Accessing pinned messages is just as easy as pinning them. To access a pinned message on the app's desktop version:
-
-1. Click on the pin icon appearing on the top right-hand side of your screen
-
-![view Pinned message on Discord](https://images.wondershare.com/filmora/article-images/view-pinned-message.jpg)
-
-1. Doing this will present you with a drop-down list of pinned messages. Now, you can tap on the "Jump" button next to the "x" (cross) icon to go directly to the pinned message
-2. This will allow you to understand the context behind the pinned message. You can also access and share links in the pinned messages from here
-
-## Part 4: How to View Pinned Messages on Discord Mobile
-
-View your pins on the mobile version of Discord by:
-
-1. Swiping from right to left, which will open up a side menu
-2. Then click on "Pins," which is the second option from the left, as shown in the picture below
-
-![view Pinned message on Discord](https://images.wondershare.com/filmora/article-images/view-pinned-message-discord-mobile.jpg)
-
-1. Now you will be in the pinned messages window
-2. You can jump to a specific pinned message by clicking on it, allowing you to access any content or links in the message
-
-## Part 5: Limit on Pinned Messages
-
-You can only pin 50 messages in the pin box in Discord, meaning if you want to pin new messages, you will have to delete older ones to make space.
-
-This may feel like a disadvantage. However, it makes perfect sense. Pinning messages is only for important information that must be used in the future.
-
-Removing this limit and giving people free rein on the number of messages they can pin will eventually lead to too many pinned messages, defeating the feature's purpose.
-
-## Part 6: How to Delete Pinned Messages on Discord?
-
-If something pinned in the past has become redundant over time, you can remove it from the pinned messages.
-
-This will make sure your pinned messages do not stockpile over time, and there is space to add new messages important to the server.
-
-To remove pinned messages on desktops:
-
-1. Go to the pin icon used to access pins
-2. Next, hover over the message you wish to unpin and click on the "x" (cross) button next to the jump button
-3. After this, click on the "yeah, remove it please kthx" button
-4. The message will now stop appearing in the list of pinned messages
-
-To do the same for mobile devices:
-
-1. Swipe right to left to access the side menu
-2. Click on "Pins" to view all the messages pinned by you or other people on the server with permissions to pin
-3. Then hold down on the message, which will give you an option to unpin it
-4. Click on "Unpin" to remove the message from the list of pinned messages
-
-**Things to keep in mind**:
-
-* You can skip the pop-up shown above when trying to remove a pinned message. All you must do is hold shift when clicking on the "x" (cross) button allowing you to go on that spree of unpins
-* Another thing to remember is that all these tips on how pin messages apply to both Direct Messages (DM) and Server group chats
-
-#### All in All
-
-Learning how to pin a message on Discord could be a little tricky at first, mostly if you haven't done so in the past and someone spontaneously asks you to do so.
-
-However, the feature is pretty intuitive and straightforward once you get the hang of it.
-
-The usefulness of pinning makes it very important for both old and new users as you can relay important information without having to go through tons of old messages.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Like TeamSpeak or Skype, Discord is a chat app aimed at easy mass communication. Although it was made for gamers, it is readily used for communicating in offices, during projects, or for professional collaboration.
-
-Even though it's straightforward to use, there are several Discord features that you may be unfamiliar with.
-
-One such feature is called pinning messages. It is available to moderators, administrators, server owners, and other users who have permission to "Manage Messages" in various server channels.
-
-This feature helps you find and share vital messages quickly, especially when new users join a specific channel.
-
-It acts like a sticky note for Discord, making sure valuable information such as server rules do not get overshadowed by new messages even months after the pinned messages are first posted.
-
-Today, we will go over how to pin a message on Discord for your desktop app on PC and Mac, as well as on your iPhone and Android mobile devices.
-
-## Part 1: How to Pin A Message on Discord Desktop?
-
-If you want to learn how to pin messages on Discord desktop, follow these steps:
-
-1. Hover over any message which you wish to pin.
-2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
-
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
-
-1. Now, click on the "Pin Message" option
-2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
-
-![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
-
-That's it! You have now learned how to pin messages on Discord for the desktop application.
-
-But make sure you don't pin everything that might seem important at a glance — only pin messages that may have utility in the future.
-
-Also, don't pin messages that are just important for you. In larger channels, prioritize pinning messages that will benefit most participants.
-
-## Part 2: How to Pin Messages on Discord Mobile App?
-
-Pinning messages in the mobile app is very similar to how it is done on the desktop application. Do it by:
-
-1. Just hold down your finger on the message you wish to pin
-2. A couple of seconds later, you will be presented with a list of options
-3. From here, click on "Pin Message"
-
-![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
-
-1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
-
-## Part 3: How to View Pinned Messages on Discord
-
-Accessing pinned messages is just as easy as pinning them. To access a pinned message on the app's desktop version:
-
-1. Click on the pin icon appearing on the top right-hand side of your screen
-
-![view Pinned message on Discord](https://images.wondershare.com/filmora/article-images/view-pinned-message.jpg)
-
-1. Doing this will present you with a drop-down list of pinned messages. Now, you can tap on the "Jump" button next to the "x" (cross) icon to go directly to the pinned message
-2. This will allow you to understand the context behind the pinned message. You can also access and share links in the pinned messages from here
-
-## Part 4: How to View Pinned Messages on Discord Mobile
-
-View your pins on the mobile version of Discord by:
-
-1. Swiping from right to left, which will open up a side menu
-2. Then click on "Pins," which is the second option from the left, as shown in the picture below
-
-![view Pinned message on Discord](https://images.wondershare.com/filmora/article-images/view-pinned-message-discord-mobile.jpg)
-
-1. Now you will be in the pinned messages window
-2. You can jump to a specific pinned message by clicking on it, allowing you to access any content or links in the message
-
-## Part 5: Limit on Pinned Messages
-
-You can only pin 50 messages in the pin box in Discord, meaning if you want to pin new messages, you will have to delete older ones to make space.
-
-This may feel like a disadvantage. However, it makes perfect sense. Pinning messages is only for important information that must be used in the future.
-
-Removing this limit and giving people free rein on the number of messages they can pin will eventually lead to too many pinned messages, defeating the feature's purpose.
-
-## Part 6: How to Delete Pinned Messages on Discord?
-
-If something pinned in the past has become redundant over time, you can remove it from the pinned messages.
-
-This will make sure your pinned messages do not stockpile over time, and there is space to add new messages important to the server.
-
-To remove pinned messages on desktops:
-
-1. Go to the pin icon used to access pins
-2. Next, hover over the message you wish to unpin and click on the "x" (cross) button next to the jump button
-3. After this, click on the "yeah, remove it please kthx" button
-4. The message will now stop appearing in the list of pinned messages
-
-To do the same for mobile devices:
-
-1. Swipe right to left to access the side menu
-2. Click on "Pins" to view all the messages pinned by you or other people on the server with permissions to pin
-3. Then hold down on the message, which will give you an option to unpin it
-4. Click on "Unpin" to remove the message from the list of pinned messages
-
-**Things to keep in mind**:
-
-* You can skip the pop-up shown above when trying to remove a pinned message. All you must do is hold shift when clicking on the "x" (cross) button allowing you to go on that spree of unpins
-* Another thing to remember is that all these tips on how pin messages apply to both Direct Messages (DM) and Server group chats
-
-#### All in All
-
-Learning how to pin a message on Discord could be a little tricky at first, mostly if you haven't done so in the past and someone spontaneously asks you to do so.
-
-However, the feature is pretty intuitive and straightforward once you get the hang of it.
-
-The usefulness of pinning makes it very important for both old and new users as you can relay important information without having to go through tons of old messages.
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -899,3 +1039,78 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-audiovisual-snapshots-made-easy/"><u>[New] 2024 Approved  Audiovisual Snapshots Made Easy</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-remove-background-noise-from-your-youtube-video/"><u>[New] 2024 Approved  How To Remove Background Noise From Your Youtube Video</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-intro-to-role-customization-for-discopundits/"><u>[New] 2024 Approved  Intro to Role Customization for DiscoPundits</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-the-delicate-process-of-unjoining-discords/"><u>[New] 2024 Approved  The Delicate Process of Unjoining Discords</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-essential-guide-for-gopro-live-streams-to-social-media-hubs/"><u>[New] 2024 Approved  The Essential Guide for GoPro Live Streams to Social Media Hubs</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-disable-desktop-discords/"><u>[New] 2024 Approved  The Ultimate Guide to Disable Desktop Discords</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unite-in-style-the-bestdiscords-batch-of-top-10-themes/"><u>[New] 2024 Approved  Unite in Style  The BestDiscord's Batch of Top 10 Themes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-a-pocket-guide-for-channel-setup-and-management-on-discord/"><u>[New] A Pocket Guide for Channel Setup and Management on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-eliminate-your-discord-servers-desktop-and-android-tips/"><u>[New] Eliminate Your Discord Servers  Desktop & Android Tips</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-erase-discord-server-settings-desktopsmartphones/"><u>[New] In 2024, Erase Discord Server Settings (Desktop/Smartphones)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unveiling-the-secrets-of-excellent-interview-and-journey-audio-recordings/"><u>[New] In 2024, Unveiling the Secrets of Excellent Interview and Journey Audio Recordings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-jake-pauls-youtube-success-story-all-you-need-to-know/"><u>[New] Jake Paul's YouTube Success Story - All You Need to Know</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-key-strategies-for-efficient-screenshare-experience-with-discord-for-2024/"><u>[New] Key Strategies for Efficient Screenshare Experience with Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-the-art-of-custom-discord-emojis-pc-and-mobile-edition/"><u>[New] Mastering the Art of Custom Discord Emojis  PC & Mobile Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-optimizing-discord-stream-quality-with-these-key-steps-for-2024/"><u>[New] Optimizing Discord Stream Quality with These Key Steps for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-peerless-bots-crafted-for-chats/"><u>[New] Peerless Bots Crafted for Chats</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-speak-and-stun-on-snapchat-voice-change-made-simple-for-2024/"><u>[New] Speak and Stun on Snapchat  Voice Change Made Simple for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-journey-of-trust-a-guide-to-becoming-a-verified-discord-partner-for-2024/"><u>[New] The Journey of Trust  A Guide to Becoming a Verified Discord Partner for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-efficient-ways-to-terminate-your-discord-membership/"><u>[Updated] 2024 Approved  Efficient Ways to Terminate Your Discord Membership</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-pro-tips-for-efficient-message-reactions-on-discord/"><u>[Updated] 2024 Approved  Pro Tips for Efficient Message Reactions on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-crafting-your-own-emoji-statuses/"><u>[Updated] 2024 Approved  The Ultimate Guide to Crafting Your Own Emoji Statuses</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-transformative-strategies-for-effective-pins-in-discord-dialogues/"><u>[Updated] 2024 Approved  Transformative Strategies for Effective Pins in Discord Dialogues</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-transforming-messages-into-memorable-video-experienits/"><u>[Updated] 2024 Approved  Transforming Messages Into Memorable Video Experienits</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discover-the-instant-fame-boosting-channel-names/"><u>[Updated] Discover the Instant Fame-Boosting Channel Names</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-effective-communication-in-live-discovers-with-our-guide-for-2024/"><u>[Updated] Effective Communication in Live Discovers with Our Guide for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-effortlessly-express-yourself-with-discord-tts-for-2024/"><u>[Updated] Effortlessly Express Yourself with Discord TTS for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-elevate-your-chats-advanced-message-pinning-techniques/"><u>[Updated] Elevate Your Chats  Advanced Message Pinning Techniques</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-exclusive-servers-for-romance-and-amusement-on-discord/"><u>[Updated] Exclusive Servers for Romance and Amusement on Discord</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-ensure-accurate-game-saves-with-fbx-recorder/"><u>[Updated] How to Ensure Accurate Game Saves with FBX Recorder</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-close-up-cinematography-secrets-with-kinemaster/"><u>[Updated] In 2024, Close-Up Cinematography Secrets with Kinemaster</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-mastering-status-update-in-discord-chat/"><u>[Updated] In 2024, Mastering Status Update in Discord Chat</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-message-mastery-for-discord-users-desktopmobile/"><u>[Updated] In 2024, Message Mastery for Discord Users (Desktop/Mobile)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigating-discord-live-a-users-blueprint/"><u>[Updated] In 2024, Navigating Discord Live  A User's Blueprint</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-slash-the-size-efficient-techniques-for-reducing-youtube-video-lengths/"><u>[Updated] In 2024, Slash the Size  Efficient Techniques for Reducing YouTube Video Lengths</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-integrating-fun-factors-emojis-within-discord-status-lines/"><u>[Updated] Integrating Fun Factors  Emojis Within Discord Status Lines</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-master-the-art-of-crafting-impressive-discord-profile-pictures/"><u>[Updated] Master the Art of Crafting Impressive Discord Profile Pictures</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastery-guide-for-instagrams-favorite-interrogation-icon/"><u>[Updated] Mastery Guide for Instagram's Favorite Interrogation Icon</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-quick-win-strategies-for-replying-on-discord-platforms/"><u>[Updated] Quick-Win Strategies for Replying on Discord Platforms</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-simplifying-the-process-of-live-sharing-with-discord-for-2024/"><u>[Updated] Simplifying the Process of Live Sharing with Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unleashing-popularity-the-best-discord-screen-names-ever/"><u>[Updated] Unleashing Popularity  The Best Discord Screen Names Ever</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unlocking-free-anime-gifs-in-discord-nitro-inclusive-in-2024/"><u>[Updated] Unlocking Free Anime GIFs in Discord  Nitro Inclusive, In 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-profit-the-step-by-step-guide-to-assess-your-youtube-earnings/"><u>[Updated] Unlocking Profit  The Step-by-Step Guide to Assess Your YouTube Earnings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-navigating-the-world-of-file-conversion-in-vlc-starting-with-mp4/"><u>2024 Approved  Navigating the World of File Conversion in VLC, Starting with MP4</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-pathway-to-youtube-partnerships-simplifying-the-process-for-small-creators/"><u>2024 Approved  Pathway to YouTube Partnerships  Simplifying the Process for Small Creators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-pro-photography-iphones-best-light-tactics/"><u>2024 Approved  Perfecting Pro Photography  IPhone's Best Light Tactics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-triumph-over-triviality-amass-a-million-ish-followers-on-ig/"><u>2024 Approved  Triumph Over Triviality  Amass a Million-Ish Followers on IG</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-honor-magic5-ultimate-frp-bypass-by-drfone-android/"><u>About Honor Magic5 Ultimate FRP Bypass</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beyond-basics-advanced-imaging-and-video-with-hero5-black/"><u>Beyond Basics  Advanced Imaging & Video with Hero5 Black</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/complete-critique-gopro-hero4-silver-sensor-for-2024/"><u>Complete Critique  GoPro HERO4 Silver Sensor for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-redmi-k70-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Redmi K70</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-a-beginners-blueprint-to-proficiently-use-zd-soft-screen-recorder/"><u>In 2024, A Beginner's Blueprint to Proficiently Use ZD Soft Screen Recorder</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-12-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Redmi 12 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-confronting-cyberbullying-a-practical-handbook-to-raise-alarm-and-seek-help-on-discord/"><u>In 2024, Confronting Cyberbullying  A Practical Handbook to Raise Alarm and Seek Help on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-enhancing-community-management-with-discord-roles/"><u>In 2024, Enhancing Community Management with Discord Roles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-expert-filigree-alterations/"><u>In 2024, Expert Filigree Alterations</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-13-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 13 in the Best Ways</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-unleash-your-fame-potential-hot-screen-names-on-discord/"><u>In 2024, Unleash Your Fame Potential  Hot Screen Names on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-unveiling-the-pathway-to-discord-affiliation-a-verification-manual/"><u>In 2024, Unveiling the Pathway to Discord Affiliation  A Verification Manual</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-copyright-demystified-key-principles-and-practices/"><u>In 2024, YouTube Copyright Demystified  Key Principles and Practices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methodical-approach-fixing-nvidia-cp-error-in-ws1110/"><u>Methodical Approach: Fixing Nvidia CP Error in WS11/10</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-realme-11-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Realme 11 Pro</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snap-it-right-15-innovative-posting-hacks-for-2024/"><u>Snap It Right  15 Innovative Posting Hacks for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/speak-up-be-heard-an-introduction-to-discord-tts-for-2024/"><u>Speak Up, Be Heard  An Introduction to Discord TTS for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-honor-70-lite-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor 70 Lite 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-elan-tablet-hurdles-on-windows-10/"><u>Tackling Elan Tablet Hurdles on Windows 10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-animated-arena-androids-top-12-game-lineup/"><u>The Animated Arena  Android's Top 12 Game Lineup</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-clear-out-instructions-for-disabling-an-old-linkedin-profile/"><u>The Clear-Out  Instructions for Disabling an Old LinkedIn Profile</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-list-top-10-plugins-for-elevated-discord/"><u>The Ultimate List  Top 10 Plugins for Elevated Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/tips-for-removing-discord-servers-on-pcs-and-phones-for-2024/"><u>Tips for Removing Discord Servers on PCs & Phones for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unplugging-the-servers-deleting-discord-on-devices/"><u>Unplugging the Servers  Deleting Discord on Devices</u></a></li>
+</ul></div>

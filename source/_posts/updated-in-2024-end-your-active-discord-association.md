@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, End Your Active Discord Association"
-date: 2024-07-29T01:14:41.769Z
-updated: 2024-07-30T01:14:41.769Z
+date: 2024-09-04T06:40:13.112Z
+updated: 2024-09-05T06:40:13.112Z
 tags:
   - ai video
   - ai discord
@@ -58,16 +58,10 @@ Without further ado, here are some easy to follow steps to delete a Discord acco
 1. Open the Discord app
 2. Sign in to your Discord account and open the user settings option (Cog icon)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![How to Delete Discord Account - Go to My Account](https://images.wondershare.com/filmora/article-images/find-discord-my-account.jpg)
 
 1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete Discord Account Permantely - Account Options](https://images.wondershare.com/filmora/article-images/discord-delete-account-option.jpg)
 
 1. Click the delete account button to make your Discord account disappear!
@@ -96,9 +90,6 @@ Here’s how you can delete the server to complete the process of deleting your 
 2. Within the several options, click the “Server Settings.”
 3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
 
 1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
@@ -109,9 +100,6 @@ After this, you’ll be asked one more time to click the “delete server” but
 
 Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Delete Discord Account From iPhone And Android?
 
 Yes, you can delete the discord account from iPhone and Android. And if you’re wondering how to delete a Discord account, Here’s a quick way to do it:
@@ -122,7 +110,10 @@ Yes, you can delete the discord account from iPhone and Android. And if you’re
 4. Below the “Account Management” option, choose “Delete Account” and put your password and 2FA (if you have set it up)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: How To Disable Discord Account On Desktop Computer?
 
@@ -136,17 +127,26 @@ Here’s how you can disable a Discord account on a desktop computer:
 2. Click the “User Settings” option and then go to the “My Account” option within the user settings
 3. In the lower corner of your Mac/PC screen, you’ll see the “Disable Account” button next to the “Delete Account” button
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![How to disable discord account](https://images.wondershare.com/filmora/article-images/disable-discord-account.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Click the “Disable Account” option, and it will be disabled.
 
 #### **What’s The Difference Between Disabling And Deleting A Discord Account?**
 
 Disabling the account means you can recover it anytime you want, unlike deleting the account where you only have a 14-day restoration window. Additionally, when the account is disabled, you won’t receive notifications, but you will still get “friend requests.”
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How To Disable Discord Account On Mobile?
 
 Disabling your Discord account for Android and iOS isn’t as simple as it is on a Desktop Windows/Mac PC.
@@ -161,6 +161,12 @@ Nevertheless, follow the steps below to disable your Discord account on mobile:
 4. You’ll have the choice to either “Delete Account” or “Disable Account.” However, whatever you choose, you’ll be prompted to the support page explaining ways to disable or delete your account
 5. To complete disabling process from a mobile device, you’ll have to send a request to the support team, as it’s the only way to disable your account via your smartphone
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs About Deleting Discord Account
 
 #### 1\. How Long Does Discord Take To Delete Account?
@@ -177,6 +183,12 @@ You can re-use your deleted discord account only if the account is in a “pendi
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.

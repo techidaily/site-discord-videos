@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Seamless Blend  Linking Spotify & Discord Directly\""
-date: 2024-08-08T01:30:54.108Z
-updated: 2024-08-09T01:30:54.108Z
+date: 2024-09-04T06:40:10.270Z
+updated: 2024-09-05T06:40:10.270Z
 tags:
   - ai video
   - ai discord
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595
 
 # How to Connect Spotify to Discord
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -40,13 +37,6 @@ So, if you’re wondering how to connect Spotify to Discord, here’s your answe
 * [Part 2: Connect Spotify To Discord With Bot](#part2)
 * [Part 3: Connect Spotify To Discord Mobile App](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Part 1: How to Link Spotify To Discord on Windows PC/Mac Directly
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -64,9 +54,6 @@ As you allow your Spotify account to connect to Discord, the connections tab wil
 
 It will also display a badge on your Discord profile, which shows your Spotify username (if you like, you can also turn this off via the connections menu).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Connect  Spotify to  Discord and set as status](https://images.wondershare.com/filmora/article-images/set-spotify-as-status-on-discord.jpg)
 
 By default, whenever you’ll play some music on Spotify using the same PC/Mac you are signed in to your Discord account, the status will suddenly change into “listening to Spotify.”
@@ -77,9 +64,6 @@ This facility will let your friends tune into and listen to the same thing you�
 
 Lastly, you can also click this plus (+) sign near to chat box and choose the option ‘Invite to listen to Spotify.’ This will send users links, allowing them to join you via the “listen along” feature.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## Part 2: How to Connect Spotify To Discord With Bot
 
 The bot is a mini-program, which requires to be installed on your main program. So, in this scenario, let’s take the “Groovy” bot and install it on your Discord server to connect Spotify to Discord.
@@ -99,14 +83,17 @@ Here’s how you can connect Spotify to Discord with a bot:
 
 1. Click Authorize to grant the Groovy the Administrator permission on the selected server and pass through the “I am human” box
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Add Groovy bot to Discord Server and Authorize](https://images.wondershare.com/filmora/article-images/authorize-groovy-music-bot-to-discord-server.jpg)
 
 1. The Groovy bot will be instantly installed on the chosen Discord server. Now you can use the bot to play tracks or any other type of music you want by simply typing Play and the song name
 2. If you want to import your complete Spotify tracks into the Discord server, you can do it effortlessly: open your playlist in your Spotify app and click >Share>Copy Playlist Link and then paste copied URL into the chat after -play command.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Connect Spotify To Discord Mobile App
 
 Here’s how you can connect Spotify to Discord on your mobile app:
@@ -119,12 +106,21 @@ Here’s how you can connect Spotify to Discord on your mobile app:
 
 ![Add Spotify Connect to Discord on Mobile](https://images.wondershare.com/filmora/article-images/add-spotify-connect-to-discord-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. From the several services that appear, choose Spotify. A new window will appear, asking you to log in to the account and allow authorization to connect.
 2. Similar to your windows PC/Mac, your Spotify username will appear on the profile page. Like on desktop, you can also remove the username from your profile via the Connections menu
 3. Though you won’t be able to invite other users to “listen along” on the mobile app, however, users on Windows PC/Mac can click your status and also “listen along”
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Bonus: How to Listen Along With Friends on Discord?
 
@@ -138,6 +134,12 @@ Follow these easy steps to know how to “listen along” with friends on Discor
 
 **Note:** if you’re listening along with friends who have Spotify Free, you will hear no music during advertisements.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### FAQs About Connecting Spotify to Discord
 
 #### 1\. Why Can’t I See Playing Spotify Music on Discord Mobile?
@@ -154,11 +156,14 @@ Yes, you can disconnect Spotify from Discord. Here’s how:
 2. Click Spotify and then click X at the top-left of the green box;
 3. Click disconnect and the connection between Spotify and Discord is disconnected.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.

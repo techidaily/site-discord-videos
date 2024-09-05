@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Unveiling Discord Video Communication on Devices"
-date: 2024-08-08T01:30:51.256Z
-updated: 2024-08-09T01:30:51.256Z
+date: 2024-09-04T06:40:10.339Z
+updated: 2024-09-05T06:40:10.339Z
 tags:
   - ai video
   - ai discord
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 
 # How to Make a Discord Video Call | Desktop & Mobile
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -37,9 +34,6 @@ Discord has video call options built into the desktop app, the web browser and t
 * [Part 3: How to Make a Server Video Call on Discord?](#part3)
 * [Part 4: FAQs about Discord Video Call](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Best Settings for Discord Video Call
 
 Before you start calling everyone, you’ll want to check your settings to make sure you have the best experience. It’s important to make sure you’ve got your best equipment setup to work for the highest quality audio and video possible.
@@ -48,9 +42,6 @@ Before you start calling everyone, you’ll want to check your settings to make 
 
 So, start by heading to the User Settings page. You’ll find this at the bottom left of the screen – look for the cog icon next to your name. You won’t see this on mobile, this is only on the desktop app and the web browser version of Discord.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Discord Video Call Settings ](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
 
 Once you’ve opened settings, you’ll want to click on the **Voice & Video** tab. Here you can check your microphone settings and adjust the volume, and choose your camera. If you’re using an external camera instead of the built-in option, check that the right one is selected in the dropdown.
@@ -61,9 +52,6 @@ One quick note for the web browser version of Discord – you’ll be asked to g
 
 Once you are happy, just click the close button at the top right of the settings options.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Make a Private Video Call on Discord?
 
 Once you’ve got your settings ready, you’re set to make your private Discord video call. If you’re doing it on the web browser or desktop app, you’ll need to first navigate to the inbox you share with the person you want to call. Do this by clicking on the Home button at the top left – you’ll then get a list of all your contacts.
@@ -74,9 +62,6 @@ If you’re only calling one person then it’s easy – just click on their nam
 
 If you want to call a private group, you need to click the + button and then create a group DM. Add the names of the users you want to call.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Discord Video Call with group ](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
 
 Once you’re in the direct message window of the person or group you want to call, you need to look at the buttons at the top right of the screen. The second icon that looks like a video camera is the one you’re looking for. Click that and you’ll start a video call.
@@ -87,15 +72,18 @@ You’ll see yourself on screen at this point, but you’ll need to wait until t
 
 The process of making video call on Discord mobile is essentially identical. You just need to open the direct message group and click on the video call icon, which is still at the top right of your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Discord Video Call interface on mobile](https://images.wondershare.com/filmora/article-images/discrod-personal-video-call-mobile.jpg)
 
 You’ll need to give permissions for the Discord mobile app to use your microphone and camera if you haven’t already.
 
 Once you’ve finished your video call on either desktop or mobile, just hit the red button to end it and switch your camera off again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Make a Server Video Call on Discord?
 
 If you want to make a group video call on a public server, you again need to first navigate to the server. Once you’re there, you’ll need to join the voice channel that you should see on the left side of the screen.
@@ -104,19 +92,40 @@ Once you’re in the voice channel, click Lounge, Community Hangout or Stream Ro
 
 ![Discord Server Video Call  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 And that’s it – the video call is now live and anyone who joins the voice channel will be able to see you, chat to you and switch on their camera to join the video conference as well.
 
 On mobile, it’s slightly different. You’ll still want to head to the server you want to join and then click on the voice channel to join it. But as soon as you click on the voice channel, you’ll get a pop-up with an icon at the bottom right where you can instantly switch on your camera.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Discord Server Video Call on mobile  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If you prefer, you can still just join as voice, and then at any stage click on your name where you’ll be able to then switch on your camera to turn a voice chat into a video call.
 
 Whenever you want to end the video call, just click on your name again to switch off your camera, or disconnect completely from the voice channel.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs About Discord Video Chat Call
 
 #### 1\. How Many People Can Join in the Discord Group Video Call?
@@ -133,6 +142,12 @@ If instead, it’s a public server where a video call is happening, you just nee
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.

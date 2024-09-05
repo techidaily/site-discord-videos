@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Integrating Unique Emojis to Your Discord Profile for 2024"
-date: 2024-08-08T01:29:55.386Z
-updated: 2024-08-09T01:29:55.386Z
+date: 2024-09-04T06:40:11.660Z
+updated: 2024-09-05T06:40:11.660Z
 tags:
   - ai video
   - ai discord
@@ -74,7 +74,10 @@ By following these steps, your status with the emoji you have chosen will be sav
 **Related**: [How to Change Discord Status](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: How to Copy and Paste Emojis in Discord Status?
 
@@ -88,9 +91,6 @@ If you don’t want to go through the hassle of adding an emoji manually, you ca
 
 Please note that this may not be possible for all types of emojis, though. Also, this will work if only the website has created emojis that can be directly copied and pasted on the status section.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: How to Add Animated Emojis to Discord Status?
 
 Apart from the basic emojis, you can also add animated emojis to your Discord Status to make your status look even better. Here are the steps to follow to add an animated emoji:
@@ -107,14 +107,8 @@ Apart from the basic emojis, you can also add animated emojis to your Discord St
 
 **Step 6:** Look at the emoji that you like and memorize the animated emoji name. Press \\ followed by the name of the emoji. Now, copy the whole text and paste it again. You will see a few numbers; that’s the Nitro ID for the emoji. Copy the number only, go back to the Animated plugin and paste it on the Nitro ID field. Go back to the Nitro page again, and you will see the animated emoji on your status.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Part 5: Custom Discord Status Emoji Ideas
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![custom discord status emoji ideas](https://images.wondershare.com/filmora/article-images/custom-discord-status-emoji-ideas.jpg)
 
 If you want to make your Discord Status look really cool, you can get some custom Discord status emoji ideas from us. Read this section to find out a few super cool custom Discord status emojis ideas and get inspired.
@@ -123,10 +117,22 @@ If you want to make your Discord Status look really cool, you can get some custo
 
 Kaomoji is a collection of super cute emojis that can brighten anyone’s day! They are great because they make your status look different and cute at the same time. You can choose from stars, smiley faces, cute polar bears, and much more! And yes, they are different than your usual emojis.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Add Old-school Emoticons
 
 Remember the good old Nokia 1100 days when you used to send emojis using some signs? Well, you can try this idea too to give a vintage look to your status. Everybody uses the same smiley emojis, so why not try something different? Go back to your old 90s school days and display images, such as @}->-- which is a rose! You can find old-school emoticons online easily.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 And that’s it; now you know **how to put emoji in Discord status** without sweating much. We hope you have found this article helpful, and you will start using cool emojis on your status to make your Discord status look different than others!
@@ -140,13 +146,19 @@ And that’s it; now you know **how to put emoji in Discord status** without swe
 05 [Custom Discord Status Emoji Ideas](#part5)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1: How to Put Custom Emoji in Discord Status on Desktop and Online?
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add custom emoji discord status](https://images.wondershare.com/filmora/article-images/add-custom-emoji-discord-status.jpg)
 
 For those who want to add an emoji on their Discord status on desktop and online, you can do that easily by following the steps that we have listed below:
@@ -168,7 +180,16 @@ And that’s it. The emojis will be successfully added to your status based on t
 Related: [How to Get Free Animated Emojis on Discord](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2: How to Add Custom Emoji on Discord Status on Mobile?
 
@@ -190,9 +211,6 @@ By following these steps, your status with the emoji you have chosen will be sav
 
 **Related**: [How to Change Discord Status](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Copy and Paste Emojis in Discord Status?
 
 If you don’t want to go through the hassle of adding an emoji manually, you can just copy and paste one to your status. How to do it? Follow these steps:
@@ -206,7 +224,10 @@ If you don’t want to go through the hassle of adding an emoji manually, you ca
 Please note that this may not be possible for all types of emojis, though. Also, this will work if only the website has created emojis that can be directly copied and pasted on the status section.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4: How to Add Animated Emojis to Discord Status?
 
@@ -224,20 +245,44 @@ Apart from the basic emojis, you can also add animated emojis to your Discord St
 
 **Step 6:** Look at the emoji that you like and memorize the animated emoji name. Press \\ followed by the name of the emoji. Now, copy the whole text and paste it again. You will see a few numbers; that’s the Nitro ID for the emoji. Copy the number only, go back to the Animated plugin and paste it on the Nitro ID field. Go back to the Nitro page again, and you will see the animated emoji on your status.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: Custom Discord Status Emoji Ideas
 
 ![custom discord status emoji ideas](https://images.wondershare.com/filmora/article-images/custom-discord-status-emoji-ideas.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If you want to make your Discord Status look really cool, you can get some custom Discord status emoji ideas from us. Read this section to find out a few super cool custom Discord status emojis ideas and get inspired.
 
 ### Use Kaomoji in Status
 
 Kaomoji is a collection of super cute emojis that can brighten anyone’s day! They are great because they make your status look different and cute at the same time. You can choose from stars, smiley faces, cute polar bears, and much more! And yes, they are different than your usual emojis.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Add Old-school Emoticons
 
 Remember the good old Nokia 1100 days when you used to send emojis using some signs? Well, you can try this idea too to give a vintage look to your status. Everybody uses the same smiley emojis, so why not try something different? Go back to your old 90s school days and display images, such as @}->-- which is a rose! You can find old-school emoticons online easily.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 And that’s it; now you know **how to put emoji in Discord status** without sweating much. We hope you have found this article helpful, and you will start using cool emojis on your status to make your Discord status look different than others!
@@ -250,123 +295,6 @@ And that’s it; now you know **how to put emoji in Discord status** without swe
 
 05 [Custom Discord Status Emoji Ideas](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 1: How to Put Custom Emoji in Discord Status on Desktop and Online?
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
-![add custom emoji discord status](https://images.wondershare.com/filmora/article-images/add-custom-emoji-discord-status.jpg)
-
-For those who want to add an emoji on their Discord status on desktop and online, you can do that easily by following the steps that we have listed below:
-
-**Step 1:** First, you need to go to <https://discord.com>. Once you visit the site, please log in using your Discord credential.
-
-**Step 2:** Once your profile is open, please click on the profile picture.
-
-**Step 3:** On your profile, look at the bottom of the menu. You will see a pop-up menu that says set a custom status.
-
-**Step 4:** On the emojis bar, you can add an emoji. To do that, you need to click on the emoji status. Next, you will see a list of emojis. Please note that only an active Nitro subscription user can use animated or custom emojis. On the left will be the category of emojis. Choose one category that suits your mood; once the category opens, click on an emoji to add it.
-
-**Step 5:** After that, you need to click on the Today option. This will open a drop-down menu. You need to choose a time frame for the emoji or status. You can choose today, 4 hours, 1 hour, etc.
-
-**Step 6:** If you are done with the emoji selection and have chosen the duration for the status, you need to click on the Save option. The Save option will be on the bottom right of the same pop-up window.
-
-And that’s it. The emojis will be successfully added to your status based on the duration that you have chosen. If you want to change the emoji or remove it, you need to undergo the same process.
-
-Related: [How to Get Free Animated Emojis on Discord](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Part 2: How to Add Custom Emoji on Discord Status on Mobile?
-
-![add emoji to discord custom status](https://images.wondershare.com/filmora/article-images/add-emoji-to-discord-custom-status.jpg)
-
-If you are using the Discord app on your mobile phone, you can add a custom emoji on Discord status using your phone too. Follow the step-by-step guide that we have prepared to learn how to do that.
-
-**Step 1:** Take your smartphone and look for the Discord app. The icon will look like a controller. Click on it to launch Discord.
-
-**Step 2:** Just like the web steps, you will have to click on your profile. Click on the hamburger icon, which is there in the upper left corner. Then, look at the bottom right corner to find your profile.
-
-**Step 3:** Now, click on the Set Status option. This will be the first option on your profile. Go on and click on that.
-
-**Step 4:** After that, click on the option that says set a custom status. On the status bar, you will see an emoji. You need to click on that to open the list of emojis to choose from.
-
-**Step 5:** Choose a time frame for the emoji, for example, 30 minutes, 1-hour, clear tomorrow, etc. If you are using an Android, you will see the floppy disk option; click on that to save your status. If you are using an iOS device, you will see the save option.
-
-By following these steps, your status with the emoji you have chosen will be saved successfully. If you want to add a new emoji, repeat the same process.
-
-**Related**: [How to Change Discord Status](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
-## Part 3: How to Copy and Paste Emojis in Discord Status?
-
-If you don’t want to go through the hassle of adding an emoji manually, you can just copy and paste one to your status. How to do it? Follow these steps:
-
-**Step 1:** Go to a website that has emojis for Discord status.
-
-**Step 2:** Scroll down the list of emojis and copy it.
-
-**Step 3:** Go back to your Discord Nitro page and open the status setting. There, on the emoji section, paste the emoji that you have copied from another site.
-
-Please note that this may not be possible for all types of emojis, though. Also, this will work if only the website has created emojis that can be directly copied and pasted on the status section.
-
-## Part 4: How to Add Animated Emojis to Discord Status?
-
-Apart from the basic emojis, you can also add animated emojis to your Discord Status to make your status look even better. Here are the steps to follow to add an animated emoji:
-
-**Step 1:** First, go to a website called <https://betterdiscord.app/>. Once you are there, click on the Download option.
-
-**Step 2:** You will see a page loaded with codes, right-click on the screen and click on the Save option. When it is downloaded, click on the Better Discord Windows installer. Next, read the license agreement and click on the Next option.
-
-**Step 3:** Then click install better Discord and hit the next button. Choose the Discord version that you currently have installed.
-
-**Step 4:** Open Discord and click on the user settings. There, you will see the Better Discord section. Next, click on the Plugin option. Now, close the Discord window and drag the animated status dot plugin into the plugin folder that opened after clicking on the Plugin option.
-
-**Step 5:** Go to Discord again, and you will see the Animated Status option. Enable it and click on the gear icon. To add an animated emoji, click on the + icon. Next, you will see a Nitro ID field. Then, go to a chat page and click on the emoji option.
-
-**Step 6:** Look at the emoji that you like and memorize the animated emoji name. Press \\ followed by the name of the emoji. Now, copy the whole text and paste it again. You will see a few numbers; that’s the Nitro ID for the emoji. Copy the number only, go back to the Animated plugin and paste it on the Nitro ID field. Go back to the Nitro page again, and you will see the animated emoji on your status.
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 5: Custom Discord Status Emoji Ideas
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
-![custom discord status emoji ideas](https://images.wondershare.com/filmora/article-images/custom-discord-status-emoji-ideas.jpg)
-
-If you want to make your Discord Status look really cool, you can get some custom Discord status emoji ideas from us. Read this section to find out a few super cool custom Discord status emojis ideas and get inspired.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
-### Use Kaomoji in Status
-
-Kaomoji is a collection of super cute emojis that can brighten anyone’s day! They are great because they make your status look different and cute at the same time. You can choose from stars, smiley faces, cute polar bears, and much more! And yes, they are different than your usual emojis.
-
-### Add Old-school Emoticons
-
-Remember the good old Nokia 1100 days when you used to send emojis using some signs? Well, you can try this idea too to give a vintage look to your status. Everybody uses the same smiley emojis, so why not try something different? Go back to your old 90s school days and display images, such as @}->-- which is a rose! You can find old-school emoticons online easily.
-
-## Conclusion
-
-And that’s it; now you know **how to put emoji in Discord status** without sweating much. We hope you have found this article helpful, and you will start using cool emojis on your status to make your Discord status look different than others!
-
-02 [How to Add Custom Emoji on Discord Status on Mobile?](#part2)
-
-03 [How to Copy and Paste Emojis in Discord Status?](#part3)
-
-04 [How to Add Animated Emojis to Discord Status?](#part4)
-
-05 [Custom Discord Status Emoji Ideas](#part5)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Part 1: How to Put Custom Emoji in Discord Status on Desktop and Online?
 
 ![add custom emoji discord status](https://images.wondershare.com/filmora/article-images/add-custom-emoji-discord-status.jpg)
@@ -410,7 +338,10 @@ By following these steps, your status with the emoji you have chosen will be sav
 **Related**: [How to Change Discord Status](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: How to Copy and Paste Emojis in Discord Status?
 
@@ -441,7 +372,10 @@ Apart from the basic emojis, you can also add animated emojis to your Discord St
 **Step 6:** Look at the emoji that you like and memorize the animated emoji name. Press \\ followed by the name of the emoji. Now, copy the whole text and paste it again. You will see a few numbers; that’s the Nitro ID for the emoji. Copy the number only, go back to the Animated plugin and paste it on the Nitro ID field. Go back to the Nitro page again, and you will see the animated emoji on your status.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 5: Custom Discord Status Emoji Ideas
 
@@ -454,21 +388,159 @@ If you want to make your Discord Status look really cool, you can get some custo
 Kaomoji is a collection of super cute emojis that can brighten anyone’s day! They are great because they make your status look different and cute at the same time. You can choose from stars, smiley faces, cute polar bears, and much more! And yes, they are different than your usual emojis.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Add Old-school Emoticons
 
 Remember the good old Nokia 1100 days when you used to send emojis using some signs? Well, you can try this idea too to give a vintage look to your status. Everybody uses the same smiley emojis, so why not try something different? Go back to your old 90s school days and display images, such as @}->-- which is a rose! You can find old-school emoticons online easily.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+## Conclusion
+
+And that’s it; now you know **how to put emoji in Discord status** without sweating much. We hope you have found this article helpful, and you will start using cool emojis on your status to make your Discord status look different than others!
+
+02 [How to Add Custom Emoji on Discord Status on Mobile?](#part2)
+
+03 [How to Copy and Paste Emojis in Discord Status?](#part3)
+
+04 [How to Add Animated Emojis to Discord Status?](#part4)
+
+05 [Custom Discord Status Emoji Ideas](#part5)
+
+## Part 1: How to Put Custom Emoji in Discord Status on Desktop and Online?
+
+![add custom emoji discord status](https://images.wondershare.com/filmora/article-images/add-custom-emoji-discord-status.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+For those who want to add an emoji on their Discord status on desktop and online, you can do that easily by following the steps that we have listed below:
+
+**Step 1:** First, you need to go to <https://discord.com>. Once you visit the site, please log in using your Discord credential.
+
+**Step 2:** Once your profile is open, please click on the profile picture.
+
+**Step 3:** On your profile, look at the bottom of the menu. You will see a pop-up menu that says set a custom status.
+
+**Step 4:** On the emojis bar, you can add an emoji. To do that, you need to click on the emoji status. Next, you will see a list of emojis. Please note that only an active Nitro subscription user can use animated or custom emojis. On the left will be the category of emojis. Choose one category that suits your mood; once the category opens, click on an emoji to add it.
+
+**Step 5:** After that, you need to click on the Today option. This will open a drop-down menu. You need to choose a time frame for the emoji or status. You can choose today, 4 hours, 1 hour, etc.
+
+**Step 6:** If you are done with the emoji selection and have chosen the duration for the status, you need to click on the Save option. The Save option will be on the bottom right of the same pop-up window.
+
+And that’s it. The emojis will be successfully added to your status based on the duration that you have chosen. If you want to change the emoji or remove it, you need to undergo the same process.
+
+Related: [How to Get Free Animated Emojis on Discord](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Part 2: How to Add Custom Emoji on Discord Status on Mobile?
+
+![add emoji to discord custom status](https://images.wondershare.com/filmora/article-images/add-emoji-to-discord-custom-status.jpg)
+
+If you are using the Discord app on your mobile phone, you can add a custom emoji on Discord status using your phone too. Follow the step-by-step guide that we have prepared to learn how to do that.
+
+**Step 1:** Take your smartphone and look for the Discord app. The icon will look like a controller. Click on it to launch Discord.
+
+**Step 2:** Just like the web steps, you will have to click on your profile. Click on the hamburger icon, which is there in the upper left corner. Then, look at the bottom right corner to find your profile.
+
+**Step 3:** Now, click on the Set Status option. This will be the first option on your profile. Go on and click on that.
+
+**Step 4:** After that, click on the option that says set a custom status. On the status bar, you will see an emoji. You need to click on that to open the list of emojis to choose from.
+
+**Step 5:** Choose a time frame for the emoji, for example, 30 minutes, 1-hour, clear tomorrow, etc. If you are using an Android, you will see the floppy disk option; click on that to save your status. If you are using an iOS device, you will see the save option.
+
+By following these steps, your status with the emoji you have chosen will be saved successfully. If you want to add a new emoji, repeat the same process.
+
+**Related**: [How to Change Discord Status](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3: How to Copy and Paste Emojis in Discord Status?
+
+If you don’t want to go through the hassle of adding an emoji manually, you can just copy and paste one to your status. How to do it? Follow these steps:
+
+**Step 1:** Go to a website that has emojis for Discord status.
+
+**Step 2:** Scroll down the list of emojis and copy it.
+
+**Step 3:** Go back to your Discord Nitro page and open the status setting. There, on the emoji section, paste the emoji that you have copied from another site.
+
+Please note that this may not be possible for all types of emojis, though. Also, this will work if only the website has created emojis that can be directly copied and pasted on the status section.
+
+## Part 4: How to Add Animated Emojis to Discord Status?
+
+Apart from the basic emojis, you can also add animated emojis to your Discord Status to make your status look even better. Here are the steps to follow to add an animated emoji:
+
+**Step 1:** First, go to a website called <https://betterdiscord.app/>. Once you are there, click on the Download option.
+
+**Step 2:** You will see a page loaded with codes, right-click on the screen and click on the Save option. When it is downloaded, click on the Better Discord Windows installer. Next, read the license agreement and click on the Next option.
+
+**Step 3:** Then click install better Discord and hit the next button. Choose the Discord version that you currently have installed.
+
+**Step 4:** Open Discord and click on the user settings. There, you will see the Better Discord section. Next, click on the Plugin option. Now, close the Discord window and drag the animated status dot plugin into the plugin folder that opened after clicking on the Plugin option.
+
+**Step 5:** Go to Discord again, and you will see the Animated Status option. Enable it and click on the gear icon. To add an animated emoji, click on the + icon. Next, you will see a Nitro ID field. Then, go to a chat page and click on the emoji option.
+
+**Step 6:** Look at the emoji that you like and memorize the animated emoji name. Press \\ followed by the name of the emoji. Now, copy the whole text and paste it again. You will see a few numbers; that’s the Nitro ID for the emoji. Copy the number only, go back to the Animated plugin and paste it on the Nitro ID field. Go back to the Nitro page again, and you will see the animated emoji on your status.
+
+## Part 5: Custom Discord Status Emoji Ideas
+
+![custom discord status emoji ideas](https://images.wondershare.com/filmora/article-images/custom-discord-status-emoji-ideas.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+If you want to make your Discord Status look really cool, you can get some custom Discord status emoji ideas from us. Read this section to find out a few super cool custom Discord status emojis ideas and get inspired.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Use Kaomoji in Status
+
+Kaomoji is a collection of super cute emojis that can brighten anyone’s day! They are great because they make your status look different and cute at the same time. You can choose from stars, smiley faces, cute polar bears, and much more! And yes, they are different than your usual emojis.
+
+### Add Old-school Emoticons
+
+Remember the good old Nokia 1100 days when you used to send emojis using some signs? Well, you can try this idea too to give a vintage look to your status. Everybody uses the same smiley emojis, so why not try something different? Go back to your old 90s school days and display images, such as @}->-- which is a rose! You can find old-school emoticons online easily.
+
 ## Conclusion
 
 And that’s it; now you know **how to put emoji in Discord status** without sweating much. We hope you have found this article helpful, and you will start using cool emojis on your status to make your Discord status look different than others!
@@ -489,11 +561,14 @@ And that’s it; now you know **how to put emoji in Discord status** without swe
 
 # Stickers for Discord: Everything You Need to Know
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastery in Messaging  Perfecting Video Posting on Discord\""
-date: 2024-08-08T01:32:41.764Z
-updated: 2024-08-09T01:32:41.764Z
+date: 2024-09-04T06:40:07.927Z
+updated: 2024-09-05T06:40:07.927Z
 tags:
   - ai video
   - ai discord
@@ -34,9 +34,6 @@ So, whether it’s a compilation of your best gaming moments that you’ve caref
 * [Part 3: How to Send Long Videos on Discord That Are More Than 8MB](#part3)
 * [Part 4: FAQs About Uploading Videos to Discord](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Part 1: How to Send Videos on Discord PC
 
 It’s actually pretty simple to send videos on Discord when using a PC, providing they aren’t too large a file size.
@@ -47,25 +44,16 @@ Once you’re in the right place, click on the plus (+) icon that you’ll find 
 
 You’ll then just need to find the file on your computer, and double click on it. It’ll then bring up a pop-up for the video where you can add a comment, which will sit above the video (ideal if you need to give context on why you’re sharing it). You can also mark it as a spoiler – useful if you’re sharing a gaming tip but you don’t want to spoil the story for anyone who’s not reached that point yet.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-1.png)
 
 From there, it’s as simple as clicking the upload button. Once it’s ready, the video will be in the chat window for anyone in the server to watch, or for your friend if you’ve sent it privately. And if they want to download it, they’ll just need to click the download button (a downward-facing arrow) at the top right of the video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![how to upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-2.png)
 
 It’s worth noting that, while Discord will play most video formats, it can’t manage everything. If you upload a format that Discord isn’t compatible with, then it won’t show a video player – instead, the file will just be uploaded. Other people can still download it to watch on their own devices.
 
 Also, there’s a strict file limit of 8MB. This isn’t huge at all – while there’s no definitive file size for video (as it depends on file type, resolution, compression, etc) it’s unlikely to be more than 60 seconds of footage, and could just be a few seconds. If the video you want to upload is more than 8MB, carry on reading below to find out how.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Send Videos on Discord Mobile
 
 The process to send video on Discord Mobile is pretty similar both with iOS and Android, but with just a few minor tweaks.
@@ -78,6 +66,12 @@ Click this and it’ll give you the option to directly upload a video from your 
 
 Once you’ve selected the video, just hit the blue Send icon to send your video to the chat. Again you can add a message as a caption, but this time it’ll just be in the normal message box rather than a dedicated comment box before you hit upload.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Send Long Videos on Discord That Are More Than 8MB
 
 So as we’ve said above, there is a file size limit when you’re using a free Discord account of just 8MB, which isn’t much at all. There are a few ways around this, so take your pick from the one that sounds best for you.
@@ -96,6 +90,12 @@ This will open the Instant Cutter window where you can click Open File to add yo
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 For more detail, check out [this post](https://tools.techidaily.com/wondershare/filmora/download/) for a step-by-step guide on the different ways you can trim a video in Filmora.
 
 You can also try to compress your video size, which may let you keep the whole video at the expense of some of the quality. Again, using Filmora, this is easy. But also again, there are different ways to go about it.
@@ -113,8 +113,10 @@ So, if you want to upload massive files, you’ll need to decide whether to choo
 The only drawback to this option is that it stops other users from being able to download the video directly, and you may need to look at a file sharing alternative such as Dropbox if you want to send the actual file.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## FAQs About Uploading Videos to Discord
 
@@ -128,11 +130,20 @@ You can also use MOV files, but not everyone will be able to play them, and FLAC
 
 If you find a video on Discord that you want to share on a different server or in a private DM, you can use the download icon to save it locally. Then, follow the steps above to upload the video to the server or DM chat window where you want to share it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.

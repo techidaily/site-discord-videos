@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Complete Breakdown of Screen Casting on Discord\""
-date: 2024-07-29T01:13:31.407Z
-updated: 2024-07-30T01:13:31.407Z
+date: 2024-09-09T01:43:19.860Z
+updated: 2024-09-10T01:43:19.860Z
 tags:
   - ai video
   - ai discord
@@ -15,6 +15,12 @@ keywords: "Discord ScreenCast Guide,ScreenCast in Discord,Learn Discord Broadcas
 thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d920b7ae31f5d249d448106c6d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Complete Breakdown of Screen Casting on Discord
 
 # How to Share Screen on Discord?
@@ -38,7 +44,10 @@ You don’t just have to chat via text – Discord makes it easy to have voice c
 * [Discord Screen Sharing FAQs](#part5)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1: Settings for Screen Sharing on Discord
 
@@ -46,15 +55,24 @@ Before you get started with actually sharing your screen on Discord, you’ll wa
 
 Open up User Settings by clicking on the cog in the bottom left next to your username.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![How to Share Screen on Discord](https://images.wondershare.com/filmora/article-images/discord-user-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Here you’ll find a handy option called ‘Voice & Video’. Use this to make sure that your audio settings are working correctly – both your microphone for communicating with the person you’re sharing your screen with, and your output so that you can hear them clearly too.
 
 ![Share Screen on Discord](https://images.wondershare.com/filmora/article-images/discord-voice-video-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can also update your video settings here, if you want to also be on camera while you share your screen. Adjust your webcam options and run a test if you want to see how it’s looking.
 
 There are also plenty of clever options available if you want to tinker with things like Noise Suppression, Echo Cancellation and so on if you scroll down on this menu option. Have a play around if you want to, but for most people the default options will be sufficient.
@@ -66,7 +84,10 @@ Now, when you go to share your screen (which I’ll cover off below), you’ll b
 Here you can set the quality of the image you’ll be sharing. 480p and 720p (HD) are available by default along with 15fps and 30fps. If you want 1080p or to use the Source option, or 60fps, you’ll need to pay for a Discord Nitro account, which is an upgraded tier of membership that starts at $49.99 for the year or $4.99 per month.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2: How to Screen Share on a Discord Voice Channel Server?
 
@@ -80,9 +101,6 @@ Firstly, you’ll need to be in a voice channel server. This means that you’ll
 
 Once you’ve joined, you’ll see a new option at the bottom left of the screen to share your screen. Click this button and you’ll be presented with the option to start sharing your screen – you can choose which application you want to share specifically, or your whole screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Choose Screen Sharing Window on Discord](https://images.wondershare.com/filmora/article-images/discord-choose-screen-sharing-window.jpg)
 
 Once you’ve chosen your screen to share, you can set the settings as mentioned above.
@@ -92,15 +110,15 @@ It’s important to note that, if you’re sharing your screen via online Discor
 ![Screen Sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-choose-screen-sharing-window-web.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: How to Share Screen on a Discord Direct Message?
 
 If you want to share your screen on Discord in a private direct message, the steps are slightly different. Firstly, there’s no automatic voice channel to join, so you’ll need to begin a video call. To do this, click on the video call button at the top right of your screen when you’re in your DM folder with the person you want to share your screen with.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Satrt Video Call on Discord](https://images.wondershare.com/filmora/article-images/start-video-call-direct-screen-sharing.jpg)
 
 Then, you simply need to click the share screen button which will appear on your main call controls in the middle of the screen. Once done, you can share you screen in the same way as you would in a voice channel.
@@ -108,7 +126,10 @@ Then, you simply need to click the share screen button which will appear on your
 ![Screen Sharing with Friends on Discord](https://images.wondershare.com/filmora/article-images/discord-screen-sharing-friends.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4: How to Change Settings While Screen Sharing on Discord?
 
@@ -118,6 +139,18 @@ Firstly, when you’re sharing your screen, you’ll see a little pop-up window 
 
 ![Discord Stream Settings](https://images.wondershare.com/filmora/article-images/discord-stream-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 From here, you’ll get the stream settings menu where you can change the frame rate and resolution, or switch to a different window or application if you want to share something else.
 
 ![Screen Sharing Quality Changing on Discord](https://images.wondershare.com/filmora/article-images/discord-change-stream-quality-screen-sharing.jpg)
@@ -154,12 +187,14 @@ If you want to improve your discord screen share quality because it is lagging, 
 
 If you want to improve the video and frame rate of your screen sharing because you want it to look better, you’ll need to upgrade to Discord Nitro, which starts at $49.99 per year or $4.99 per month.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.

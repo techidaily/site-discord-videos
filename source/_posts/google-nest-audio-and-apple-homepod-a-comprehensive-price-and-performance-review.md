@@ -1,7 +1,7 @@
 ---
 title: Google Nest Audio and Apple HomePod - A Comprehensive Price and Performance Review
-date: 2024-09-09T01:43:12.665Z
-updated: 2024-09-10T01:43:12.665Z
+date: 2024-09-12T02:25:04.872Z
+updated: 2024-09-14T20:10:25.440Z
 categories:
   - BestProducts
 description: This Article Describes Google Nest Audio and Apple HomePod - A Comprehensive Price and Performance Review
@@ -13,22 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/fJ-vzAIcRCvO5h-FJpxaOSlVFR4=/400x300/fi
 
 4.4
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Clearstream ECLIPSE
 
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/C1hoQetKMx7bAHqwsQ9gt0Fz_S0=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_HeroSquare-79582ad545a44cf1993681dff0c33449.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Jonno Hill
 
  What We Like
@@ -75,30 +63,19 @@ Lifewire / Jonno Hill
 
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/AbdriPZwiRfd8iHxT9N5E6Ae2hk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_03-d434cf7b4c5f4f73b08c8c220fd0d43e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Inoffensive but unexceptional**
 
  The ClearStream Eclipse Antenna isn’t the most beautiful piece of hardware to ever grace my living room, but it’s inoffensive enough to not really be an issue. The antenna has a thin, flat, disc shape that is black on one side and white on the other. It is designed to be placed directly onto a flat surface, but you will probably be able to get away with a lot of different orientations depending on how close you are to the signal source.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup: Simple and easy**
 
  The ClearStream Eclipse Antenna has the simplest setup of all the HDTV antennas I’ve tested. There is no mounting hardware, no power adapter, and nothing else to worry about. The antenna comes with a strip of adhesive that can be used to affix it directly to a wall or other preferred surface.
@@ -107,15 +84,16 @@ Lifewire / Jonno Hill
 
  Luckily the ClearStream Eclipse Antenna comes with a 12ft coaxial cable, so next simply attach the cable to both the antenna and your TV. Make sure to run a channel scan first for best results.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Above average**
 
  I’ve tested a lot of similar antennas recently, and the ClearStream Eclipse Antenna had the best results of any unpowered antenna, even beating out a few of the powered ones. From my apartment, I was able to get acquire an average of 65 channels across all my tests. For reference, the worst-performing antenna found just 47, and the best, 76\.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Range: Fair to middling**
 
@@ -125,15 +103,16 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Not bad for the performance**
 
  The ClearStream Eclipse Antenna lands at an MSRP of $40, putting it towards the high end of the price spectrum, especially where non-powered antennas are concerned. It did do one of the best jobs of supporting as many channels as possible, so the price is somewhat justified. Then again, every single one of the indoor antennas I’ve tested was able to handle the major network channels clearly and without issue, so a high channel number might not mean more than peace of mind in practical terms.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **ClearStream Eclipse Antenna vs Winegard FL5500A FlatWave Antenna**
 
@@ -157,14 +136,11 @@ Lifewire / Jonno Hill
 * Range  35 miles
 * Warranty  Lifetime parts
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,54 +151,18 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-10-best-instagram-video-editor-for-android-pc-online/"><u>[New] 10 Best Instagram Video Editor for Android, PC, Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expertise-in-iphone-the-ultimate-hdr-photo-journey/"><u>[New] Expertise in iPhone  The Ultimate HDR Photo Journey</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-mac-users-path-to-professional-audio-with-audacity/"><u>[New] Mac Users' Path to Professional Audio with Audacity</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-2023s-best-intro-editor-app-for-all-your-devices/"><u>[Updated] 2023’S Best Intro Editor App for All Your Devices</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-building-a-strong-online-presence-with-attractive-video-thumbnails/"><u>[Updated] Building a Strong Online Presence with Attractive Video Thumbnails</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-from-joiner-to-trustee-securing-a-place-as-a-disco-partner/"><u>[Updated] In 2024, From Joiner to Trustee  Securing a Place as a Disco Partner</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-mastering-combat-skills/"><u>'God of War': Mastering Combat Skills</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-flamegrab-ff-extras/"><u>[New] 2024 Approved Flamegrab FF Extras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-preserving-your-virtual-sessions-gotomeeting-tips-for-2024/"><u>[New] Preserving Your Virtual Sessions GoToMeeting Tips for 2024</u></a></li>
 <li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-delete-messages-on-discord/"><u>[Updated] In 2024, How To Delete Messages On Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-elevate-your-virtual-look-with-stunning-discord-photos/"><u>[Updated] In 2024, How to Elevate Your Virtual Look with Stunning Discord Photos</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-erase-thousands-of-messages-in-just-a-few-clicks-on-discord/"><u>[Updated] In 2024, How to Erase Thousands of Messages in Just a Few Clicks on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-immerse-in-imagination-the-bestdiscords-10-creations/"><u>[Updated] In 2024, Immerse in Imagination  The BestDiscord’s 10 Creations</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-irreversible-steps-for-a-fixed-tiktok-exit/"><u>[Updated] In 2024, Irreversible Steps for a Fixed TikTok Exit</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-mastering-desktop-and-mobile-a-guide-to-setting-up-discord-calls/"><u>[Updated] In 2024, Mastering Desktop & Mobile  A Guide to Setting Up Discord Calls</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-peerless-bots-crafted-for-chats/"><u>[Updated] In 2024, Peerless Bots Crafted for Chats</u></a></li>
 <li><a href="https://discord-videos.techidaily.com/updated-in-2024-step-up-your-text-game-with-free-emojis-from-these-websites/"><u>[Updated] In 2024, Step Up Your Text Game with FREE Emojis From These Websites</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-step-by-step-guide-adjusting-discord-presence/"><u>[Updated] In 2024, Step-by-Step Guide  Adjusting Discord Presence</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-hunt-for-hit-tunes-and-viral-videos-on-fb/"><u>[Updated] In 2024, The Hunt for Hit Tunes and Viral Videos on FB</u></a></li>
 <li><a href="https://discord-videos.techidaily.com/updated-in-2024-ultimate-guide-to-cool-and-captivating-disco-tags/"><u>[Updated] In 2024, Ultimate Guide to Cool and Captivating Disco Tags</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-key-strategies-for-efficient-screenshare-experience-with-discord/"><u>[Updated] Key Strategies for Efficient Screenshare Experience with Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-mastering-cross-platform-play-spotifydiscord-tutorial-for-2024/"><u>[Updated] Mastering Cross-Platform Play  Spotify/Discord Tutorial for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-mastering-the-art-of-discord-screenshotting/"><u>[Updated] Mastering the Art of Discord Screenshotting</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-mastering-cross-platform-play-spotifydiscord-tutorial-for-2024/"><u>[Updated] Mastering Cross-Platform Play Spotify/Discord Tutorial for 2024</u></a></li>
 <li><a href="https://discord-videos.techidaily.com/updated-mastering-the-art-of-memorable-channel-titles-on-discord/"><u>[Updated] Mastering the Art of Memorable Channel Titles on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-navigating-everyday-chats-smart-reacts-and-replies-discord-for-2024/"><u>[Updated] Navigating Everyday Chats  Smart Reacts and Replies (Discord) for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-premium-automated-communicators-discord/"><u>[Updated] Premium Automated Communicators Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-radiant-rooms-a-compilation-of-betterdiscords-top-10-themes-for-2024/"><u>[Updated] Radiant Rooms  A Compilation of BetterDiscord’s Top 10 Themes for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-selecting-the-prime-sky-vault-for-firms/"><u>[Updated] Selecting the Prime Sky Vault for Firms</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-slow-mo-scenes-on-instagram-a-filmmakers-manual/"><u>[Updated] Slow-Mo Scenes on Instagram  A Filmmaker's Manual</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-step-by-step-editing-and-enhancing-your-youtube-content/"><u>[Updated] Step-by-Step  Editing and Enhancing Your YouTube Content</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-streamlining-office-communication-which-favors-teams-more-slack-or-discord-for-2024/"><u>[Updated] Streamlining Office Communication  Which Favors Teams More, Slack or Discord for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-streamlining-your-creative-process-with-effective-instagram-video-editing-tips-for-2024/"><u>[Updated] Streamlining Your Creative Process with Effective Instagram Video Editing Tips for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-superior-online-forums-and-boards-for-2024/"><u>[Updated] Superior Online Forums and Boards for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-exploration-of-discord-stickers/"><u>[Updated] The Ultimate Exploration of Discord Stickers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-how-to-for-eye-catching-discord-profile-pics/"><u>[Updated] The Ultimate How-To for Eye-Catching Discord Profile Pics</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-tight-knit-teams-top-chat-platforms-which-rules-the-game-slack-or-discord/"><u>[Updated] Tight-Knit Teams, Top Chat Platforms  Which Rules the Game - Slack or Discord?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-understanding-and-manipulating-discords-identity-system/"><u>[Updated] Understanding and Manipulating Discord's Identity System</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-elevate-your-team-with-expert-talent-selections/"><u>2024 Approved  Elevate Your Team with Expert Talent Selections</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-itel-p40-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/efficient-tricks-to-combat-slow-load-speeds-for-a-smooth-fallout-4-experience/"><u>Efficient Tricks to Combat Slow Load Speeds for a Smooth Fallout 4 Experience</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/essential-voice-capturing-apps-for-ipads-3-top-picks/"><u>Essential Voice Capturing Apps for iPads #3 Top Picks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-itel-p40plus-by-drfone-android/"><u>How to Bypass FRP on Itel P40+?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-lava-storm-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Lava Storm 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-perfect-playback-5-innovative-techniques-for-gamers/"><u>In 2024, Perfect Playback  5 Innovative Techniques for Gamers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/language-powerhouses-contrasted-google-palm-2-and-gpt-4/"><u>Language Powerhouses Contrasted: Google PaLM 2 & GPT-4</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/nulaxy-km18-bluetooth-car-fm-transmitter-review/"><u>Nulaxy KM18 Bluetooth Car FM Transmitter Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-samsung-galaxy-a24-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Samsung Galaxy A24 and Browser | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-ranking-top-9-puzzle-games-for-offline-play-for-2024/"><u>The Ultimate Ranking  Top 9 Puzzle Games for Offline Play for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/troubleshooting-guide-fixing-the-hyper-scape-game-crashes-on-your-pc/"><u>Troubleshooting Guide: Fixing the Hyper Scape Game Crashes on Your PC</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/your-complete-handbook-on-discord-usage/"><u>Your Complete Handbook on Discord Usage</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-xs-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone XS</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-blueprint-for-captivating-and-professional-looking-live-video-thumbnails/"><u>In 2024, The Ultimate Blueprint for Captivating and Professional-Looking Live Video Thumbnails</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-honor-100-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Honor 100 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-free-mov-cutting-tools-simplify-your-video-editing-for-2024/"><u>Updated Free MOV Cutting Tools Simplify Your Video Editing for 2024</u></a></li>
 </ul></div>
+

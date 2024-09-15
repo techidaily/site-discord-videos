@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Mastering Desktop & Mobile  A Guide to Setting Up Discord Calls\""
-date: 2024-09-09T01:43:17.892Z
-updated: 2024-09-10T01:43:17.892Z
+date: 2024-09-08T16:33:57.506Z
+updated: 2024-09-14T20:41:59.483Z
 tags:
   - ai video
   - ai discord
@@ -15,12 +15,6 @@ keywords: "Setup Discord Call,Desktop Calls,Mobile Calls,Discord Chat,VoIP on De
 thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf1634f1f32732c80e0c8c7aa.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering Desktop & Mobile: A Guide to Setting Up Discord Calls
 
 # How to Make a Discord Video Call | Desktop & Mobile
@@ -40,12 +34,6 @@ Discord has video call options built into the desktop app, the web browser and t
 * [Part 3: How to Make a Server Video Call on Discord?](#part3)
 * [Part 4: FAQs about Discord Video Call](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Best Settings for Discord Video Call
 
 Before you start calling everyone, you’ll want to check your settings to make sure you have the best experience. It’s important to make sure you’ve got your best equipment setup to work for the highest quality audio and video possible.
@@ -56,12 +44,6 @@ So, start by heading to the User Settings page. You’ll find this at the bottom
 
 ![Discord Video Call Settings ](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Once you’ve opened settings, you’ll want to click on the **Voice & Video** tab. Here you can check your microphone settings and adjust the volume, and choose your camera. If you’re using an external camera instead of the built-in option, check that the right one is selected in the dropdown.
 
 You can also use this opportunity to run a test video – so that you know you’re well-lit, properly framed and otherwise good to go. You can adjust the lighting in your room or move the camera if you don’t feel it’s quite right.
@@ -78,22 +60,10 @@ If you’re only calling one person then it’s easy – just click on their nam
 
 ![Discord Video Call with Friends ](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If you want to call a private group, you need to click the + button and then create a group DM. Add the names of the users you want to call.
 
 ![Discord Video Call with group ](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Once you’re in the direct message window of the person or group you want to call, you need to look at the buttons at the top right of the screen. The second icon that looks like a video camera is the one you’re looking for. Click that and you’ll start a video call.
 
 You’ll see yourself on screen at this point, but you’ll need to wait until the other person or group members have joined the call for the chat to properly begin.
@@ -104,12 +74,6 @@ The process of making video call on Discord mobile is essentially identical. You
 
 ![Discord Video Call interface on mobile](https://images.wondershare.com/filmora/article-images/discrod-personal-video-call-mobile.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You’ll need to give permissions for the Discord mobile app to use your microphone and camera if you haven’t already.
 
 Once you’ve finished your video call on either desktop or mobile, just hit the red button to end it and switch your camera off again.
@@ -133,11 +97,12 @@ If you prefer, you can still just join as voice, and then at any stage click on 
 Whenever you want to end the video call, just click on your name again to switch off your camera, or disconnect completely from the voice channel.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## FAQs About Discord Video Chat Call
 
 #### 1\. How Many People Can Join in the Discord Group Video Call?
@@ -154,58 +119,24 @@ If instead, it’s a public server where a video call is happening, you just nee
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-cultivating-a-positive-mindset-against-cyberbullying/"><u>[New] 2024 Approved  Cultivating a Positive Mindset Against Cyberbullying</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-stellar-instagram-content-for-maximum-influence-for-2024/"><u>[New] Crafting Stellar Instagram Content for Maximum Influence for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-discovering-the-unmatched-quality-of-benq-sw320s-4k-screen-for-2024/"><u>[New] Discovering the Unmatched Quality of BenQ SW320's 4K Screen for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-ignite-passion-the-top-10-inspirational-films/"><u>[New] In 2024, Ignite Passion  The Top 10 Inspirational Films</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-strategic-approaches-broadcasting-live-sports-with-precision/"><u>[New] Strategic Approaches  Broadcasting Live Sports with Precision</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-10-cool-discord-themes-from-betterdiscord/"><u>[Updated] 2024 Approved  10 Cool Discord Themes [From BetterDiscord]</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-50plus-cool-discord-names-to-attract-attention-in-no-time/"><u>[Updated] 2024 Approved  50+ Cool Discord Names to Attract Attention in No Time</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-boosting-discord-chats-quality-with-voicemod-tips-and-tricks/"><u>[Updated] 2024 Approved  Boosting Discord Chats' Quality with VoiceMod Tips and Tricks</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-bulk-delete-chats-a-guide-for-discord-users/"><u>[Updated] 2024 Approved  Bulk Delete Chats  A Guide for Discord Users</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-crafting-a-visual-identity-a-guide-to-perfect-pfp-on-discord/"><u>[Updated] 2024 Approved  Crafting a Visual Identity  A Guide to Perfect Pfp on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-essential-insights-into-using-discord/"><u>[Updated] 2024 Approved  Essential Insights Into Using Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-harmony-in-digital-15-high-fidelity-bots-transforming-discord-soundscape/"><u>[Updated] 2024 Approved  Harmony in Digital  15 High-Fidelity Bots Transforming Discord Soundscape</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-pioneering-video-exchange-strategies-within-discord-networks/"><u>[Updated] 2024 Approved  Pioneering Video Exchange Strategies Within Discord Networks</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-ultimate-tutorial-for-removing-multiple-messages-on-discord/"><u>[Updated] 2024 Approved  The Ultimate Tutorial for Removing Multiple Messages on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-top-10-love-focused-discord-communities/"><u>[Updated] 2024 Approved  Top 10 Love-Focused Discord Communities</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-uncover-the-power-of-discords-spoiler-system/"><u>[Updated] 2024 Approved  Uncover the Power of Discord's Spoiler System</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-a-comprehensive-guide-to-changing-avatars-and-statuses-on-discord/"><u>[Updated] A Comprehensive Guide to Changing Avatars & Statuses on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-advanced-strategies-for-mass-message-purge-on-discord-networks/"><u>[Updated] Advanced Strategies for Mass Message Purge on Discord Networks</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-advanced-virtual-meeting-spaces-beyond-discord/"><u>[Updated] Advanced Virtual Meeting Spaces Beyond Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-bestdiscords-ultimate-guide-to-popular-themes/"><u>[Updated] BestDiscord's Ultimate Guide to Popular Themes</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-evaluating-enterprise-chat-apps-for-peak-productivity-which-one-wins-slack-or-discord-for-2024/"><u>[Updated] Evaluating Enterprise Chat Apps for Peak Productivity  Which One Wins, Slack or Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-highest-ranking-mobile-and-desktop-discord-recorder-apps-for-2024/"><u>[Updated] Highest Ranking Mobile & Desktop Discord Recorder Apps for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-create-and-showcase-innovative-discord-flags-for-profile-spotlight/"><u>[Updated] In 2024, Create and Showcase  Innovative Discord Flags for Profile Spotlight</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-discover-unlimited-free-emojis-for-your-social-media-chats/"><u>[Updated] In 2024, Discover Unlimited Free Emojis for Your Social Media Chats</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-expert-strategies-for-handling-toxic-behavior-in-discord-channels/"><u>[Updated] In 2024, Expert Strategies for Handling Toxic Behavior in Discord Channels</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-how-to-watch-twitter-videos-in-full-hd/"><u>[Updated] In 2024, How To Watch Twitter Videos in Full HD?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-list-of-coolest-mc-homes-designed/"><u>[Updated] In 2024, The Ultimate List of Coolest MC Homes Designed</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-quick-guide-to-achieving-video-freeze-effects-on-snapchat/"><u>[Updated] Quick Guide to Achieving Video Freeze Effects on Snapchat</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-scriptwriting-mastery-elevate-your-youtube-channels-content-quality-for-2024/"><u>[Updated] Scriptwriting Mastery  Elevate Your YouTube Channel's Content Quality for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-artisans-path-to-crafting-confidential-snaps-for-2024/"><u>[Updated] The Artisan's Path to Crafting Confidential Snaps for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-pathway-to-pinnacle-chromatic-precision/"><u>2024 Approved  The Pathway to Pinnacle Chromatic Precision</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cinematic-frontiers-the-top-sci-fi-journeys-to-new-worlds/"><u>Cinematic Frontiers  The Top Sci-Fi Journeys to New Worlds</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-infinix-smart-8-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Infinix Smart 8 Pattern Lock Screen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-i-screen-mirroring-apple-iphone-12-pro-to-tvlaptop-drfone-by-drfone-ios/"><u>In 2024, How Can I Screen Mirroring Apple iPhone 12 Pro to TV/Laptop? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-reviewing-vlc-as-a-multimedia-recorder/"><u>In 2024, Reviewing VLC as a Multimedia Recorder</u></a></li>
-<li><a href="https://extra-information.techidaily.com/influencing-minds-with-music-selection-for-movie-previews/"><u>Influencing Minds with Music Selection for Movie Previews</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/narratives-unleashed-10-adventure-games-reviewed/"><u>Narratives Unleashed  #10 Adventure Games Reviewed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/social-media-melody-ownership-laws-for-2024/"><u>Social Media Melody Ownership Laws for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-most-budget-friendly-options-10-great-software-for-recording-discord-talk-for-2024/"><u>The Most Budget-Friendly Options  10 Great Software for Recording Discord Talk for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-ultimate-list-of-flashy-discord-tags/"><u>The Ultimate List of Flashy Discord Tags</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unlocking-free-discovideo-on-pc-android-ios-without-payments/"><u>Unlocking Free DiscoVideo on PC, Android, iOS Without Payments</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -213,3 +144,20 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-streamline-your-content-leading-android-video-editors/"><u>[Updated] 2024 Approved Streamline Your Content Leading Android Video Editors</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-step-up-your-text-game-with-free-emojis-from-these-websites/"><u>[Updated] In 2024, Step Up Your Text Game with FREE Emojis From These Websites</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-ultimate-guide-to-cool-and-captivating-disco-tags/"><u>[Updated] In 2024, Ultimate Guide to Cool and Captivating Disco Tags</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-mastering-cross-platform-play-spotifydiscord-tutorial-for-2024/"><u>[Updated] Mastering Cross-Platform Play Spotify/Discord Tutorial for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-understanding-and-manipulating-discords-identity-system/"><u>[Updated] Understanding and Manipulating Discord's Identity System</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715860146126-2024-approved-master-the-art-of-organizing-group-conversations-on-skype-irrespective-of-your-systems-os/"><u>2024 Approved Master the Art of Organizing Group Conversations on Skype, Irrespective of Your System's OS.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diagnosing-and-repairing-nonfunctional-samsung-blu-ray-devices-a-comprehensive-approach/"><u>Diagnosing and Repairing Nonfunctional Samsung Blu Ray Devices: A Comprehensive Approach</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/exclusive-mac-screen-snapper-free/"><u>Exclusive Mac Screen Snapper - Free</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-honor-x9b-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Honor X9b?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oneplus-11-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends OnePlus 11 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-windows-11-audio-malfunctions-follow-this-easy-5-step-process/"><u>Quick Fix for Windows 11 Audio Malfunctions: Follow This Easy 5-Step Process</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-techniques-for-assassins-creed-odyssey-freezing-issues-latest-guide/"><u>Troubleshooting Techniques for Assassin's Creed Odyssey Freezing Issues - Latest Guide</u></a></li>
+</ul></div>
+

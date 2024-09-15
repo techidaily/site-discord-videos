@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Tutorial for Removing Multiple Messages on Discord"
-date: 2024-09-09T01:43:16.870Z
-updated: 2024-09-10T01:43:16.871Z
+date: 2024-09-09T18:44:12.493Z
+updated: 2024-09-14T18:28:27.160Z
 tags:
   - ai video
   - ai discord
@@ -15,24 +15,12 @@ keywords: "\"Discord Message Cleanup Guide,Remove Discord Chats,Eliminate Duplic
 thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf6953f02a101819f0b8ffe4d954.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Ultimate Tutorial for Removing Multiple Messages on Discord
 
 # How To Delete Messages On Discord \[2024 Updated\]
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -53,12 +41,6 @@ If you're looking to mass-delete your messages from a server or channel on Disco
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Understanding Discord Message Types
 
 In Discord, you will see two types of messages: Direct Messages and Channel Messages in servers. Here are the differences between the two:
@@ -72,30 +54,6 @@ However, this was soon changed because the mass execution directly affected the 
 
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## A cross-platform for making videos anywhere for all creators
 
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
@@ -125,12 +83,6 @@ However, keep in mind that Discord does not allow you to delete direct messages.
 
 ![Remove Discord Direct Message Copy](https://images.wondershare.com/filmora/article-images/remove-discord-copy.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can delete the local copy of messages by following the steps below:
 
 1. Open the Discord program on your computer and go to the chat panel of the person whom you direct messaged;
@@ -196,31 +148,27 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 ![how to delete discord message with mee6 bot](https://images.wondershare.com/filmora/article-images/select-server-to-add-mee6-bot-discord.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. Click Authorize again and the bot will be added to your Discord server soon;
 2. To enable MEE6 to clear the chat, you should enable the Moderator plugin first. Click the Moderator option under Plugins first, and then click Yes.
 
 ![remove discord message with mee 6](https://images.wondershare.com/filmora/article-images/mee6-moderator-plugin-moderator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
 ![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
@@ -282,11 +230,12 @@ Ideally, you'll want the following things from your AutoHotkey script:
 * [10+ Best Free Discord Voice Changers](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## FAQs About Deleting Discord Messages
 
 #### 1\. Can I Recover A Deleted Message on Discord?
@@ -309,48 +258,29 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-cheap-pc-screenshot-and-recording-software-guide/"><u>[New] 2024 Approved  Cheap PC Screenshot & Recording Software Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-step-by-step-expedition-to-youtubes-unseen-layers-for-2024/"><u>[New] A Step-by-Step Expedition to YouTube's Unseen Layers for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-the-search-a-guide-to-finding-your-ideal-discord-server/"><u>[Updated] 2024 Approved  Mastering the Search  A Guide to Finding Your Ideal Discord Server</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-navigating-disputes-the-step-by-step-approach-to-reporting-on-discord/"><u>[Updated] 2024 Approved  Navigating Disputes  The Step-by-Step Approach to Reporting on Discord</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-navigating-the-maze-mastering-inverted-visual-lookups-in-instagram-photos/"><u>[Updated] 2024 Approved  Navigating the Maze  Mastering Inverted Visual Lookups in Instagram Photos</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-complete-guide-for-incorporating-funny-and-engaging-gifs-into-your-discord-chats/"><u>[Updated] 2024 Approved  The Complete Guide for Incorporating Funny & Engaging GIFs Into Your Discord Chats</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-turn-text-into-voice-mastering-discords-speech-features/"><u>[Updated] 2024 Approved  Turn Text Into Voice  Mastering Discord's Speech Features</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unveiling-the-visionaries-behind-disruptive-chat-symbols/"><u>[Updated] 2024 Approved  Unveiling the Visionaries Behind Disruptive Chat Symbols</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-a-comprehensive-guide-to-profile-picture-perfection-on-discord/"><u>[Updated] A Comprehensive Guide to Profile Picture Perfection on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-affordable-graphic-creation-free-discord-emblems-online/"><u>[Updated] Affordable Graphic Creation  FREE Discord Emblems Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-mobile-gif-apps-roundup-for-latest-phones/"><u>[Updated] Best Mobile GIF Apps Roundup for Latest Phones</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-beyond-simplicity-exploring-the-intricacies-of-youtubes-view-count-algorithm/"><u>[Updated] Beyond Simplicity  Exploring the Intricacies of YouTube’s View Count Algorithm</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-exclusive-deals-on-free-professional-discord-icons-for-2024/"><u>[Updated] Exclusive Deals on Free, Professional Discord Icons for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-expanding-your-circle-discord-friending-101-for-2024/"><u>[Updated] Expanding Your Circle  Discord Friending 101 for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-exploring-the-architects-behind-popular-discord-glyphs/"><u>[Updated] Exploring The Architects Behind Popular Discord Glyphs</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-exploring-the-world-of-visual-identity-in-discord-profiles/"><u>[Updated] Exploring the World of Visual Identity in Discord Profiles</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-harmonizing-with-the-best-15-premier-sound-assistants-to-enhance-your-discord-audio/"><u>[Updated] Harmonizing with the Best  15 Premier Sound Assistants to Enhance Your Discord Audio</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-how-to-download-discord-videos-free/"><u>[Updated] How to Download Discord Videos FREE?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-how-to-spice-up-your-discord-conversations-with-interactive-content-like-gifs/"><u>[Updated] How to Spice Up Your Discord Conversations with Interactive Content Like GIFs</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-8-free-emoji-websites-to-download-discord-animated-emojis/"><u>[Updated] In 2024, 8 FREE Emoji Websites to Download Discord Animated Emojis</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-advanced-strategies-for-mass-message-purge-on-discord-networks/"><u>[Updated] In 2024, Advanced Strategies for Mass Message Purge on Discord Networks</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-comprehensive-guide-to-discord-nitro-what-it-is-plus-how-you-can-get-it/"><u>[Updated] In 2024, Comprehensive Guide to Discord Nitro - What It Is + How You Can Get It</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-financial-forecasts-in-focus-select-stock-youtube-channels/"><u>[Updated] In 2024, Financial Forecasts in Focus  Select Stock YouTube Channels</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-metaverse-chuckles-building-your-own-humorous-artifacts/"><u>[Updated] Metaverse Chuckles  Building Your Own Humorous Artifacts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-insider-guide-to-regular-broadcast-etiquette-for-2024/"><u>[Updated] The Insider Guide to Regular Broadcast Etiquette for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-chuckles-galore-navigate-the-best-15-comedic-youtube-crews/"><u>2024 Approved  Chuckles Galore  Navigate the Best 15 Comedic YouTube Crews</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-srts-most-effective-upgrades-for-macwindows/"><u>2024 Approved  SRT's Most Effective Upgrades for Mac/Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-telescope-truth-expose/"><u>2024 Approved  Telescope Truth Exposé</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/automate-clean-up-tasks-on-your-mac-using-the-standard-version-of-stellar-file-eraser/"><u>Automate Clean-Up Tasks on Your Mac Using the Standard Version of Stellar File Eraser</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/four-key-feature-improvements-to-boost-the-chatgpt-plugins-shop-experience/"><u>Four Key Feature Improvements to Boost the ChatGPT Plugins Shop Experience</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-visual-upgrades-top-apps-to-transform-your-photos/"><u>In 2024, Visual Upgrades  Top Apps to Transform Your Photos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transcribe-speech-absolutely-gratis/"><u>Transcribe Speech, Absolutely Gratis</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/understanding-the-implications-before-quitting-discord-for-2024/"><u>Understanding the Implications Before Quitting Discord for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-8-youtube-thumbnail-grabbers/"><u>[New] Top 8 YouTube Thumbnail Grabbers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-elevate-your-social-media-presence-mastering-tiktok-hashtag-techniques-for-2024/"><u>[Updated] Elevate Your Social Media Presence Mastering TikTok Hashtag Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-explore-top-12-gear-best-on-the-go-flip-screen-cameras/"><u>[Updated] Explore Top 12 Gear Best On-the-Go Flip-Screen Cameras</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-from-joiner-to-trustee-securing-a-place-as-a-disco-partner/"><u>[Updated] In 2024, From Joiner to Trustee Securing a Place as a Disco Partner</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-step-up-your-text-game-with-free-emojis-from-these-websites/"><u>[Updated] In 2024, Step Up Your Text Game with FREE Emojis From These Websites</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-key-strategies-for-efficient-screenshare-experience-with-discord/"><u>[Updated] Key Strategies for Efficient Screenshare Experience with Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-mastering-the-art-of-discord-screenshotting/"><u>[Updated] Mastering the Art of Discord Screenshotting</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-streamlining-office-communication-which-favors-teams-more-slack-or-discord-for-2024/"><u>[Updated] Streamlining Office Communication Which Favors Teams More, Slack or Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-exploration-of-discord-stickers/"><u>[Updated] The Ultimate Exploration of Discord Stickers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-compreited-list-of-top-5-iphone-apps-revolutionizing-podcasts/"><u>2024 Approved A Compreited List of Top 5 iPhone Apps Revolutionizing Podcasts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-new-photography-these-are-your-cams-in-24/"><u>2024 Approved New Photography? These Are Your Cams in '24</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cracking-the-insufficient-memory-error-in-god-of-war-game-on-pc/"><u>Cracking The 'Insufficient Memory' Error in God of War Game on PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-charm-of-switchbot-mini-k10plus-your-ideal-little-helper-in-robotic-vacuum-cleans-up-small-spaces-with-ease/"><u>Discover the Charm of SwitchBot Mini K10+: Your Ideal Little Helper in Robotic Vacuum Cleans Up Small Spaces with Ease</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/efficient-tricks-to-combat-slow-load-speeds-for-a-smooth-fallout-4-experience/"><u>Efficient Tricks to Combat Slow Load Speeds for a Smooth Fallout 4 Experience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ultimate-podcast-rankings-seo-techniques-uncovered/"><u>Ultimate Podcast Rankings SEO Techniques Uncovered</u></a></li>
+</ul></div>
+

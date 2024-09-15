@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Network Necessities  How to Add Friends on Devices for 2024\""
-date: 2024-09-09T01:43:15.988Z
-updated: 2024-09-10T01:43:15.988Z
+date: 2024-09-10T21:21:52.998Z
+updated: 2024-09-14T22:40:53.948Z
 tags:
   - ai video
   - ai discord
@@ -15,24 +15,12 @@ keywords: "Adding Device Friends Guide,Friend Your Gadgets Easily,Networking Fri
 thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e6750d98eb4741caabcbcd92e96.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Network Necessities: How to Add Friends on Devices
 
 # How to Add Friends on Discord
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -63,28 +51,10 @@ If you are using a desktop app or the website, here is how you can add friends -
 
 ![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. The friend will appear in your friend list once they accept your friend request.
 
 Now you can chat with them personally.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How to add friends on Discord Server
 
 Severs are the places where you find your best buddies who obsess over the same things. If you want to add a friend that you met on a server, follow these steps -
@@ -108,6 +78,19 @@ To do this, open your chat list by clicking on your profile. Find the person you
 The user interface of discord is more or less the same across various devices. The process of adding friends is quite similar to the one we discussed for the computer.
 
 You cannot use discord over a phone's browser. To use discord on your phone, you have to download the app. It is available on Google Play Store and App Store. Once you have downloaded the app and logged in, here is **how to add people on Discord**.
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How to Add friends directly on Discord Mobile
 
@@ -139,23 +122,18 @@ Follow these steps to add a friend that you met on the server.
 
 ![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Your friend request will be delivered.
 2. Once they approve, they will be a part of your friend list.
 
 Likewise, you can build a community of your own by creating a new server. You can invite your friends or people that you met while playing games or obsessing over some fandom.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Find Someone and Add Friends on Discord Without Number
 
 In case you have been using discord for a while, you might have realized that the only way to add friends is by username and the Discord tag number. However, there is a way to add friends without the tag. And here is how to do it –
@@ -172,11 +150,12 @@ In case you have been using discord for a while, you might have realized that th
 ![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. When your friend gets detected, they appear on the radar.
 2. Hit the ‘Send’ button to send a Friend Request.
 3. Once they accept your request, they will make their way to your Friends List.
@@ -187,12 +166,6 @@ Further, you and your friend both must be on the Nearby Scan mode to connect wit
 
 If you and the person you want to add are on the same server, you can add them through the channel user lists, as we discussed above.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus: How to Add friends on Discord without user tag via an invitation link
 
 On Discord channels, it always ‘the more, the merrier.’ And your server can be one lonely place without friends. Plus, adding friends via a server is a lot easier and needs fewer steps. Create a server and customize it according to your taste. Don’t forget to add bots for fun!
@@ -203,16 +176,17 @@ On Discord channels, it always ‘the more, the merrier.’ And your server can 
 
 ![add friends to Discord Server via invitation links](https://images.wondershare.com/filmora/article-images/add-friends-to-discord-server-via-invitation-link.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. The invitation link typically expires in a day. But you can change this setting to ‘set this link to never expire.
 
 ![set Discord invitation links](https://images.wondershare.com/filmora/article-images/set-discord-invitation-link.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Share this link with your friends over other social media apps to invite them.
 2. Your friends will show up on the member list of your channel when they accept your invite and follow the link.
 3. From here, you can right-click on the profile that you want to add as your Friend.
@@ -225,54 +199,11 @@ This was a guide on **how to add friends in Discord** with user tags and from se
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-momentum-with-these-strategies-for-trending-youtubers/"><u>[New] 2024 Approved  Gain Momentum with These Strategies for Trending YouTubers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-social-exploration-pinpointing-popular-videos-on-the-worlds-biggest-network/"><u>[New] 2024 Approved  Social Exploration  Pinpointing Popular Videos on the World's Biggest Network</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-direct-audio-streaming-from-spotify-in-discord/"><u>[Updated] 2024 Approved  Direct Audio Streaming From Spotify in Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-efficient-tactics-for-exploring-and-joining-desired-discords/"><u>[Updated] 2024 Approved  Efficient Tactics for Exploring and Joining Desired Discords</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-elite-ai-companions-for-chat/"><u>[Updated] 2024 Approved  Elite AI Companions for Chat</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-embellish-your-discord-conversations-like-a-pro/"><u>[Updated] 2024 Approved  Embellish Your Discord Conversations Like a Pro</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-explore-and-learn-about-discord-stickers/"><u>[Updated] 2024 Approved  Explore & Learn About Discord Stickers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-harmonizing-with-the-best-15-premier-sound-assistants-to-enhance-your-discord-audio/"><u>[Updated] 2024 Approved  Harmonizing with the Best  15 Premier Sound Assistants to Enhance Your Discord Audio</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-add-friends-on-discord/"><u>[Updated] 2024 Approved  How to Add Friends on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-navigating-the-maze-of-online-conflict-your-pathway-to-filing-a-report-on-discord/"><u>[Updated] 2024 Approved  Navigating the Maze of Online Conflict  Your Pathway to Filing a Report on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-simplified-discord-integration-for-pc-and-phones/"><u>[Updated] 2024 Approved  Simplified Discord Integration for PC & Phones</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-streamlined-approach-to-role-assignments-on-discord-servers/"><u>[Updated] 2024 Approved  Streamlined Approach to Role Assignments on Discord Servers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-crafting-an-eye-catching-discord-avatar-picture-for-2024/"><u>[Updated] Crafting an Eye-Catching Discord Avatar Picture for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-cutting-edge-font-creators-for-discord-on-the-go-for-2024/"><u>[Updated] Cutting-Edge Font Creators for Discord on the Go for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-extinguish-your-discord-access/"><u>[Updated] Extinguish Your Discord Access</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-how-to-stream-on-discord-for-2024/"><u>[Updated] How to Stream on Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-crafting-an-eye-catching-discord-avatar-picture/"><u>[Updated] In 2024, Crafting an Eye-Catching Discord Avatar Picture</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-discoemote-studio-crafting-the-ultimate-emojis/"><u>[Updated] In 2024, DiscoEmote Studio - Crafting the Ultimate Emojis</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-discords-ultimate-romance-hubs/"><u>[Updated] In 2024, Discord's Ultimate Romance Hubs</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-diving-deep-into-discords-textual-customization-features/"><u>[Updated] In 2024, Diving Deep Into Discord's Textual Customization Features</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-elevate-communication-a-comprehensive-guide-to-using-gifs-on-discord/"><u>[Updated] In 2024, Elevate Communication  A Comprehensive Guide to Using GIFs on Discord</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-20-racing-games-for-bicyclists/"><u>[Updated] In 2024, Top 20 Racing Games for Bicyclists</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-watch-unseen-selective-tools-for-insta-enthusiasts/"><u>[Updated] In 2024, Watch Unseen  Selective Tools for Insta Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-photographers-blueprint-for-stunning-hdr-portraits/"><u>[Updated] The Photographer's Blueprint for Stunning HDR Portraits</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-connectivity-aid-fb-stories-saver-pro/"><u>2024 Approved  Connectivity Aid  FB Stories Saver Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-downloading-hp-officejet-4650-drivers-for-windows-machines/"><u>Easy Guide to Downloading HP OfficeJet 4650 Drivers for Windows Machines</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-effortlessly-run-chatgpt-on-linux-a-comprehensive-guide-using-bavarder/"><u>How to Effortlessly Run ChatGPT on Linux - A Comprehensive Guide Using Bavarder</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-call-of-duty-warzone-pc-crashes/"><u>How to Fix Call of Duty: Warzone PC Crashes</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-an-attempt-was-made-to-reference-a-token-error-in-windows-1110/"><u>How to Fix the “An Attempt Was Made to Reference a Token” Error in Windows 11/10</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-apple-iphone-xr-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 6 Apps/Services to Trace Any Apple iPhone XR Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-hidden-navigation-shortcuts-learn-how-to-enable-and-use-your-devices-discreet-path-bar/"><u>Master Hidden Navigation Shortcuts: Learn How to Enable and Use Your Device's Discreet Path Bar</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-edits-best-face-changing-apps-iphonesipads-for-2024/"><u>Premier Edits  Best Face-Changing Apps, iPhones/iPads for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unveiling-the-best-practices-for-transmitting-media-in-discord/"><u>Unveiling the Best Practices for Transmitting Media in Discord</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -280,3 +211,17 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/updated-make-your-discord-conversation-stand-out-with-style/"><u>[Updated] Make Your Discord Conversation Stand Out with Style</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-masterful-moderation-with-new-discord-roles-for-2024/"><u>[Updated] Masterful Moderation with New Discord Roles for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-8-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 8 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://facebook.techidaily.com/boost-your-fb-profile-visibility-for-higher-engagement/"><u>Boost Your FB Profile Visibility for Higher Engagement</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-correcting-system-critical-process-failed-error-on-your-pc-0xc00000e9-explained/"><u>Expert Advice: Correcting System Critical Process Failed Error on Your PC (0XC00000E9 Explained)</u></a></li>
+<li><a href="https://win-able.techidaily.com/far-cry-5-successfully-launched-without-crashing-troubleshooting-steps-for-gamers/"><u>Far Cry 5 Successfully Launched Without Crashing: Troubleshooting Steps for Gamers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-tecno-camon-20-pro-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Tecno Camon 20 Pro 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-regain-entry-to-your-encrypted-system-drive-on-windows-10/"><u>How to Regain Entry to Your Encrypted System Drive on Windows 10</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/your-budget-friendly-discord-recorder-guide-top-10-tools-for-2024/"><u>Your Budget-Friendly Discord Recorder Guide - Top 10 Tools for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, The Ultimate Combo  Using Spotify in Discord Channels\""
-date: 2024-09-09T01:43:13.627Z
-updated: 2024-09-10T01:43:13.627Z
+date: 2024-09-11T16:58:11.799Z
+updated: 2024-09-14T17:53:35.912Z
 tags:
   - ai video
   - ai discord
@@ -21,18 +21,6 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -62,24 +50,12 @@ Linking Spotify to Discord on windows PC/Mac is relatively easy. Just follow the
 
 ![Supported Connection on Discord](https://images.wondershare.com/filmora/article-images/discord-connections.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 As you allow your Spotify account to connect to Discord, the connections tab will show Spotify and Discord are connected.
 
 It will also display a badge on your Discord profile, which shows your Spotify username (if you like, you can also turn this off via the connections menu).
 
 ![Connect  Spotify to  Discord and set as status](https://images.wondershare.com/filmora/article-images/set-spotify-as-status-on-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 By default, whenever you’ll play some music on Spotify using the same PC/Mac you are signed in to your Discord account, the status will suddenly change into “listening to Spotify.”
 
 Users can see what tracks you are playing by simply clicking your name. Not just that, but they can also play the same tracks on their Mac or PC and even “listen along.”
@@ -88,12 +64,6 @@ This facility will let your friends tune into and listen to the same thing you�
 
 Lastly, you can also click this plus (+) sign near to chat box and choose the option ‘Invite to listen to Spotify.’ This will send users links, allowing them to join you via the “listen along” feature.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Connect Spotify To Discord With Bot
 
 The bot is a mini-program, which requires to be installed on your main program. So, in this scenario, let’s take the “Groovy” bot and install it on your Discord server to connect Spotify to Discord.
@@ -115,12 +85,6 @@ Here’s how you can connect Spotify to Discord with a bot:
 
 ![Add Groovy bot to Discord Server and Authorize](https://images.wondershare.com/filmora/article-images/authorize-groovy-music-bot-to-discord-server.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. The Groovy bot will be instantly installed on the chosen Discord server. Now you can use the bot to play tracks or any other type of music you want by simply typing Play and the song name
 2. If you want to import your complete Spotify tracks into the Discord server, you can do it effortlessly: open your playlist in your Spotify app and click >Share>Copy Playlist Link and then paste copied URL into the chat after -play command.
 
@@ -153,11 +117,18 @@ Follow these easy steps to know how to “listen along” with friends on Discor
 **Note:** if you’re listening along with friends who have Spotify Free, you will hear no music during advertisements.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### FAQs About Connecting Spotify to Discord
 
 #### 1\. Why Can’t I See Playing Spotify Music on Discord Mobile?
@@ -177,74 +148,17 @@ Yes, you can disconnect Spotify from Discord. Here’s how:
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-record-your-rush-make-every-game-count/"><u>[New] In 2024, Record Your Rush  Make Every Game Count</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-u/"><u>[New] SNS HDR Pro Review  Is It Worth Using and What Other HDR Software to U</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-10-cool-discord-themes-from-betterdiscord/"><u>[Updated] 2024 Approved  10 Cool Discord Themes [From BetterDiscord]</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-50plus-cool-discord-names-to-attract-attention-in-no-time/"><u>[Updated] 2024 Approved  50+ Cool Discord Names to Attract Attention in No Time</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-breaking-down-discords-report-mechanism-for-clarity-and-action/"><u>[Updated] 2024 Approved  Breaking Down Discord’s Report Mechanism for Clarity and Action</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-elevate-group-video-sessions-with-discords-share-functionality/"><u>[Updated] 2024 Approved  Elevate Group Video Sessions with Discord's Share Functionality</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-expert-advice-to-recover-missing-thumbnails-from-videos/"><u>[Updated] 2024 Approved  Expert Advice to Recover Missing Thumbnails From Videos</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-use-discord-text-to-speech/"><u>[Updated] 2024 Approved  How to Use Discord Text-To-Speech?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-identifying-the-ideal-team-chat-app-slack-or-discord-revealed/"><u>[Updated] 2024 Approved  Identifying the Ideal Team Chat App  Slack or Discord Revealed</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-navigating-the-universe-of-discord-stickers/"><u>[Updated] 2024 Approved  Navigating the Universe of Discord Stickers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-prime-bot-collective-of-digital-dialogues/"><u>[Updated] 2024 Approved  Prime Bot Collective of Digital Dialogues</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-revolutionary-discothemes-a-top-10-showcase/"><u>[Updated] 2024 Approved  Revolutionary DiscoThemes - A Top 10 Showcase</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-complete-process-to-tweak-your-instagram-voice/"><u>[Updated] 2024 Approved  The Complete Process to Tweak Your Instagram Voice</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-comprehensive-tutorial-mastering-bulk-deletion-of-discord-messages/"><u>[Updated] 2024 Approved  The Comprehensive Tutorial  Mastering Bulk Deletion of Discord Messages</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-customizing-your-discord-avatar/"><u>[Updated] 2024 Approved  The Ultimate Guide to Customizing Your Discord Avatar</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-uncover-the-power-of-discords-spoiler-system/"><u>[Updated] 2024 Approved  Uncover the Power of Discord's Spoiler System</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unleashing-the-power-of-visual-identity-mastering-discord-pfps/"><u>[Updated] 2024 Approved  Unleashing the Power of Visual Identity  Mastering Discord Pfp's</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-3-easy-youtube-audio-extraction-methods-free-and-secure-for-2024/"><u>[Updated] 3 Easy YouTube Audio Extraction Methods  Free & Secure for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-8-free-emoji-websites-to-download-discord-animated-emojis/"><u>[Updated] 8 FREE Emoji Websites to Download Discord Animated Emojis</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-advanced-chatrooms-with-private-invites-for-2024/"><u>[Updated] Advanced Chatrooms with Private Invites for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-advanced-strategies-for-mass-message-purge-on-discord-networks/"><u>[Updated] Advanced Strategies for Mass Message Purge on Discord Networks</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-boosting-discord-chats-quality-with-voicemod-tips-and-tricks/"><u>[Updated] Boosting Discord Chats' Quality with VoiceMod Tips and Tricks</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-comparing-messaging-services-discord-versus-skype-revealed-for-2024/"><u>[Updated] Comparing Messaging Services  Discord Versus Skype Revealed for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-decoding-nitro-unveiling-its-premium-status-in-the-realm-of-discord/"><u>[Updated] Decoding Nitro  Unveiling Its Premium Status in the Realm of Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discord-for-music-lovers-adding-spotify-support/"><u>[Updated] Discord for Music Lovers  Adding Spotify Support</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discovering-acquaintances-cross-device-friend-requests/"><u>[Updated] Discovering Acquaintances  Cross-Device Friend Requests</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-elevating-engagement-top-discord-bots-you-must-try-for-2024/"><u>[Updated] Elevating Engagement  Top Discord Bots You Must Try for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-knowledge-for-capturing-your-dell-device-writingscreen/"><u>[Updated] Essential Knowledge for Capturing Your Dell Device' Writingscreen</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-examining-workplace-messaging-platforms-is-team-efficiency-favored-by-slack-over-discord-for-2024/"><u>[Updated] Examining Workplace Messaging Platforms  Is Team Efficiency Favored by Slack over Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-highest-ranking-mobile-and-desktop-discord-recorder-apps-for-2024/"><u>[Updated] Highest Ranking Mobile & Desktop Discord Recorder Apps for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-how-to-pin-a-message-on-discord-for-2024/"><u>[Updated] How to Pin A Message on Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-best-on-the-go-discord-video-recorder-apps/"><u>[Updated] In 2024, Best On-the-Go Discord Video Recorder Apps</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-create-and-showcase-innovative-discord-flags-for-profile-spotlight/"><u>[Updated] In 2024, Create and Showcase  Innovative Discord Flags for Profile Spotlight</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-discovering-elite-emoji-design-tools-on-discord-platform/"><u>[Updated] In 2024, Discovering Elite Emoji Design Tools on Discord Platform</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-enhance-clarity-of-online-dialogues-with-discords-voicemod-feature/"><u>[Updated] In 2024, Enhance Clarity of Online Dialogues with Discord's VoiceMod Feature</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-expert-strategies-for-handling-toxic-behavior-in-discord-channels/"><u>[Updated] In 2024, Expert Strategies for Handling Toxic Behavior in Discord Channels</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-macbook-cam-captures-a-filmmaking-starter-pack/"><u>[Updated] MacBook Cam Captures  A Filmmaking Starter Pack</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unraveling-youtubes-platform-for-content-crafting/"><u>[Updated] Unraveling YouTube’s Platform for Content Crafting</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-audio-options-dilemma-podcasts-against-youtube/"><u>2024 Approved  Audio Options Dilemma  Podcasts Against YouTube</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-securing-your-snapchat-memories-mobile-recording-tips/"><u>2024 Approved  Securing Your Snapchat Memories  Mobile Recording Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-magic-6-pro-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Magic 6 Pro.</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo S18e? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-tailoring-recording-techniques-in-audacity-for-professionals/"><u>In 2024, Tailoring Recording Techniques in Audacity for Professionals</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972054150-instant-access-to-hp-officejet-5740-driver-downloads/"><u>Instant Access to HP OfficeJet 5740 Driver Downloads</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-youtube-titulos-con-algoritmos-for-2024/"><u>Mastering YouTube Títulos Con Algoritmos for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-disconnection-woes-essential-tips-for-keeping-airpods-synced-with-iphone/"><u>Resolving Disconnection Woes: Essential Tips for Keeping AirPods Synced with iPhone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/social-media-melody-ownership-laws/"><u>Social Media Melody Ownership Laws</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-path-to-connected-playlists-and-channels/"><u>The Path to Connected Playlists & Channels</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-ultimate-2023-guide-to-enhancing-audio-on-discord-top-plugins-reviewed/"><u>The Ultimate 2023 Guide to Enhancing Audio on Discord - Top Plugins Reviewed</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-ultimate-list-of-flashy-discord-tags/"><u>The Ultimate List of Flashy Discord Tags</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-ultimate-roadmap-to-unearthing-elusive-discord-servers/"><u>The Ultimate Roadmap to Unearthing Elusive Discord Servers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unrivaled-discord-screenshots-pcmacmobile-edition/"><u>Unrivaled Discord Screenshots  PC/Mac/Mobile Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/virtually-profitable-gaming-channels-for-2024/"><u>Virtually Profitable Gaming Channels for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -252,3 +166,20 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-carryminati-the-youtube-money-trail-of-ajey-nagar/"><u>[New] 2024 Approved CarryMinati The YouTube Money Trail of Ajey Nagar</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-grasping-virtual-realitys-revolutionary-gear/"><u>[New] Grasping Virtual Reality's Revolutionary Gear</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-voice-capture-device-analysis/"><u>[Updated] 2024 Approved Voice Capture Device Analysis</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/decoding-the-battle-of-tech-giants-detailed-insights-into-ipad-pro-vs-macbook-pro/"><u>Decoding the Battle of Tech Giants: Detailed Insights Into iPad Pro vs MacBook Pro</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/how-to-conduct-screenshares-in-zoom-for-2024/"><u>How to Conduct Screenshares in Zoom for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-poco-c65-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Poco C65 to Another | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-web-ais-emerging-influence/"><u>Navigating the Web: AI's Emerging Influence</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-reach-videos-that-immediately-amass-views/"><u>Rapid Reach Videos that Immediately Amass Views</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/understanding-the-distinctions-kindle-vs-amazon-fire-tablet/"><u>Understanding the Distinctions: Kindle Vs. Amazon Fire Tablet</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unveiling-the-lg-c9-oled-impeccable-picture-quality-on-a-4k-65-inch-masterpiece-tv-for-aficionados/"><u>Unveiling the LG C9 OLED: Impeccable Picture Quality on a 4K 65-Inch Masterpiece TV for Aficionados</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unveiling-the-potential-of-the-samsung-galaxy-fit-the-ultimate-review-for-fitness-buffs/"><u>Unveiling the Potential of the Samsung Galaxy Fit: The Ultimate Review for Fitness Buffs</u></a></li>
+</ul></div>
+

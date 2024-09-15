@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Insider’s Guide to Batch Deleting Messages on Discord Platform for 2024"
-date: 2024-09-09T01:43:17.323Z
-updated: 2024-09-10T01:43:17.323Z
+date: 2024-09-09T16:45:28.132Z
+updated: 2024-09-14T17:03:46.069Z
 tags:
   - ai video
   - ai discord
@@ -15,12 +15,6 @@ keywords: "Discord Delete Guide,Message Batch Removal,Quick Message Cleanup,Disc
 thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116beb3419cf2a3656ee84dbb0.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Insider’s Guide to Batch Deleting Messages on Discord Platform
 
 # How To Delete Messages On Discord \[2024 Updated\]
@@ -60,18 +54,6 @@ However, this was soon changed because the mass execution directly affected the 
 
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## A cross-platform for making videos anywhere for all creators
 
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
@@ -93,18 +75,6 @@ However, this was soon changed because the mass execution directly affected the 
 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Delete Direct Messages on Discord
 
 If you use Discord on your desktop computer, this section will discuss the steps to follow to delete your direct messages.
@@ -113,12 +83,6 @@ However, keep in mind that Discord does not allow you to delete direct messages.
 
 ![Remove Discord Direct Message Copy](https://images.wondershare.com/filmora/article-images/remove-discord-copy.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can delete the local copy of messages by following the steps below:
 
 1. Open the Discord program on your computer and go to the chat panel of the person whom you direct messaged;
@@ -127,12 +91,6 @@ You can delete the local copy of messages by following the steps below:
 
 ![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
 1. Open the Discord app on your smartphone
@@ -143,11 +101,12 @@ The procedure for deleting DMs from your Discord smartphone application applies 
 6. The message will be deleted
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Delete Channel Messages in Discord?
 
 This method has to be the most effective and easy way to delete a Discord message, and it's a simple, straightforward procedure:
@@ -190,23 +149,18 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 ![delete messages on discord with mee6 bot](https://images.wondershare.com/filmora/article-images/discord-bot-mee6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. You'll be prompted to authorize so that MEE6 bot can access your username, and know what server you’re in.
 2. Pin-point the server you want to add the bot and then set up to connect MEE6 to the Discord server.
 
 ![how to delete discord message with mee6 bot](https://images.wondershare.com/filmora/article-images/select-server-to-add-mee6-bot-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. Click Authorize again and the bot will be added to your Discord server soon;
 2. To enable MEE6 to clear the chat, you should enable the Moderator plugin first. Click the Moderator option under Plugins first, and then click Yes.
 
@@ -219,17 +173,12 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 5: How to Clear All Chats and Delete All Messages In Discord?
 
 In the section above, we talked about deleting messages without using the mouse. That leads us to the possibility of utilizing the 'AutoHotkey' script to automate the process.
@@ -309,52 +258,30 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-chart-topping-content-youtubes-top-5/"><u>[New] 2024 Approved  Chart-Topping Content  YouTube's Top 5</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discover-youtubes-frame-advantage-five-free-tools/"><u>[New] 2024 Approved  Discover YouTube's Frame Advantage - Five Free Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-pro-tips-configuring-stopwatches-in-obs-studio/"><u>[New] Pro Tips  Configuring Stopwatches in OBS Studio</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-10-best-emoji-collections-for-discord-available-at-zero-cost/"><u>[Updated] 2024 Approved  10 Best Emoji Collections for Discord Available at Zero Cost</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-bulk-delete-your-key-to-a-cleaner-more-organized-discord-experience/"><u>[Updated] 2024 Approved  Bulk Delete  Your Key to a Cleaner, More Organized Discord Experience</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-explore-and-learn-about-discord-stickers/"><u>[Updated] 2024 Approved  Explore & Learn About Discord Stickers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-get-insightful-what-is-discord-nitro-benefits-and-purchase-paths/"><u>[Updated] 2024 Approved  Get Insightful  What Is Discord Nitro? Benefits & Purchase Paths</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-add-friends-on-discord/"><u>[Updated] 2024 Approved  How to Add Friends on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-download-discord-videos-for-free-on-desktop-and-mobile/"><u>[Updated] 2024 Approved  How to Download Discord Videos for Free on Desktop & Mobile?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-find-discord-server/"><u>[Updated] 2024 Approved  How to Find Discord Server</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-use-voicemod-on-discord/"><u>[Updated] 2024 Approved  How To Use Voicemod On Discord</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-mobile-snapchat-screen-capture/"><u>[Updated] 2024 Approved  The Ultimate Guide to Mobile Snapchat Screen Capture</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unplugging-the-servers-deleting-discord-on-devices/"><u>[Updated] 2024 Approved  Unplugging the Servers  Deleting Discord on Devices</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-a-whole-new-world-of-animated-emojis-top-7-free-online-destinations/"><u>[Updated] A Whole New World of Animated Emojis  Top 7 FREE Online Destinations</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-advanced-tips-broadcast-your-screen-on-discord/"><u>[Updated] Advanced Tips  Broadcast Your Screen on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-crafting-courteous-responses-in-discord-chat-for-2024/"><u>[Updated] Crafting Courteous Responses in Discord Chat for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-cutting-ties-in-cyberspace-an-exit-strategy-from-discords-for-2024/"><u>[Updated] Cutting Ties in Cyberspace  An Exit Strategy From Discords for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discord-and-gifs-the-ultimate-tutorial-for-seamless-integration/"><u>[Updated] Discord & GIFs  The Ultimate Tutorial for Seamless Integration</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discover-the-pathway-earning-your-place-as-a-validated-disco-partner-for-2024/"><u>[Updated] Discover the Pathway  Earning Your Place as a Validated Disco Partner for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-easy-links-for-seamless-connections-between-spotify-and-discord-for-2024/"><u>[Updated] Easy Links for Seamless Connections Between Spotify & Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-extinguish-your-discord-access/"><u>[Updated] Extinguish Your Discord Access</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-how-to-enhance-your-discord-experience-with-free-animation-emojis-for-2024/"><u>[Updated] How to Enhance Your Discord Experience with FREE Animation Emojis for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-demystifying-disconitros-premium-membership-in-minutes/"><u>[Updated] In 2024, Demystifying DiscoNitro's Premium Membership in Minutes</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-enhance-your-discord-conversations-using-voicemod-effectively/"><u>[Updated] In 2024, Enhance Your Discord Conversations  Using VoiceMod Effectively</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-exploring-advanced-strategies-for-sending-videos-in-discord/"><u>[Updated] In 2024, Exploring Advanced Strategies for Sending Videos in Discord</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-z-fold-5-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy Z Fold 5 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-and-solve-the-gsdll32-dll-not-found-problem/"><u>How To Correctly Address and Solve the GSDLL32 DLL Not Found Problem</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-universal-docking-station-drivers-free-download-for-models-with-120w-and-230w-charging-options/"><u>HP Universal Docking Station Drivers: Free Download for Models with 120W and 230W Charging Options</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-c55-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme C55 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-building-a-brand-the-art-of-creating-attention-grabbing-reels-on-social-media/"><u>In 2024, Building a Brand  The Art of Creating Attention-Grabbing Reels on Social Media</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-the-challenge-of-wsappx-effective-techniques-for-reducing-memory-and-processor-burden/"><u>Overcoming the Challenge of WSAPPX: Effective Techniques for Reducing Memory and Processor Burden</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/resolving-compatibility-lenovo-in-win10/"><u>Resolving Compatibility: Lenovo in Win10</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-instagram-reel-formula-for-unrivaled-fame-for-2024/"><u>The Instagram Reel Formula for Unrivaled Fame for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-voyage-to-trustworthiness-becoming-a-confirmed-disco-partner/"><u>The Voyage to Trustworthiness  Becoming a Confirmed Disco Partner</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/transform-your-discord-experience-with-top-bot-choices-for-2024/"><u>Transform Your Discord Experience with Top Bot Choices for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/transforming-discord-communication-best-audio-modification-plugins-of-2023/"><u>Transforming Discord Communication  Best Audio Modification Plugins of 2023</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unlocking-the-potential-of-discord-for-2024/"><u>Unlocking the Potential of Discord for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-finding-the-best-gaming-keys-at-unbeatable-prices-less-than-100-for-2024/"><u>[New] Finding the Best Gaming Keys at Unbeatable Prices Less than $100 for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-up-your-game-expert-tips-on-producing-compelling-slow-motion-photos-and-videos-for-instagram/"><u>[New] Step Up Your Game Expert Tips on Producing Compelling Slow Motion Photos and Videos for Instagram</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-synchronize-your-calendars-for-smooth-video-calls/"><u>[New] Synchronize Your Calendars for Smooth Video Calls</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-10plus-tools-to-record-your-pc-screen-seamlessly/"><u>[Updated] 2024 Approved Top 10+ Tools to Record Your PC Screen Seamlessly</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-step-by-step-to-high-quality-gaming-on-discord-your-disconitro-journey/"><u>[Updated] In 2024, Step-by-Step to High-Quality Gaming on Discord Your DiscoNitro Journey</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unveiling-discord-video-communication-on-devices/"><u>[Updated] In 2024, Unveiling Discord Video Communication on Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-master-the-art-of-cost-free-discord-video-extraction-for-desktopmobile-for-2024/"><u>[Updated] Master the Art of Cost-Free Discord Video Extraction for Desktop/Mobile for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-mastering-video-sharing-via-discord-channels/"><u>[Updated] Mastering Video Sharing via Discord Channels</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-revolutionize-discord-top-bots-to-boost-interaction-for-2024/"><u>[Updated] Revolutionize Discord Top Bots to Boost Interaction for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-synchronizing-airwaves-for-audience-gain/"><u>[Updated] Synchronizing Airwaves for Audience Gain</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-top-tier-discord-automations-for-2024/"><u>[Updated] Top-Tier Discord Automations for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/comparing-mkv-and-mp4-which-video-codec-wins-for-optimal-quality/"><u>Comparing MKV and MP4 – Which Video Codec Wins for Optimal Quality?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-mix-techniques-for-crossfading-sounds-with-audacity/"><u>In 2024, Professional Mix Techniques for Crossfading Sounds with Audacity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swift-remedies-to-rescue-your-windows-10-photos-app-for-2024/"><u>Swift Remedies to Rescue Your Windows 10 Photos App for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-fix-the-black-screen-problem-during-discord-screenshare/"><u>Troubleshooting Guide: How to Fix the 'Black Screen' Problem During Discord Screenshare</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/what-exactly-is-disconitro-insider-info-for-freepaid-users/"><u>What Exactly Is DiscoNitro? Insider Info for Free/Paid Users</u></a></li>
+</ul></div>
+

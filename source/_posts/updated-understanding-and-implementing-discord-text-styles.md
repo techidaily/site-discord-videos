@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding & Implementing Discord Text Styles"
-date: 2024-09-09T01:43:14.443Z
-updated: 2024-09-10T01:43:14.443Z
+date: 2024-09-13T03:00:19.616Z
+updated: 2024-09-14T23:35:58.010Z
 tags:
   - ai video
   - ai discord
@@ -21,18 +21,6 @@ thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -75,12 +63,6 @@ Filmora Text Video Editor
 
 [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Change Text Style in Discord with Markdown?
 
 As we mentioned previously, Markdown is completely text-based and has a very simple syntax. All you need to do to apply special formatting to your text is to enter a few special characters at the right places, and the appropriate effect (bold, italic…) will appear in the chat. Keep in mind that you can easily combine the formatting styles by using multiple commands at the same time.
@@ -89,12 +71,6 @@ Here is an overview of the most important options for changing text style in Dis
 
 ![Change Text Style in Discord  - Basic](https://images.wondershare.com/filmora/article-images/discord-change-text-style.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### **How to Bold Text in Discord?**
 
 A simple way to use bold text style is to add two asterisks (\*\*) at the beginning and the end of the text that you want to have this effect.
@@ -121,18 +97,6 @@ For this elegant combination, use two underscore dashes (\_\_) followed by one a
 
 ![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
@@ -145,12 +109,6 @@ This combination is achieved by placing two underscore marks (\_\_) and three st
 
 ![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
@@ -158,14 +116,22 @@ You can combine all four style changes as well – just use two tildes (\~\~), t
 ![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
 In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -191,63 +157,11 @@ The creation of a hidden text message that requires direct user action to reveal
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-10-must-haves-to-optimize-and-enrich-your-discord-experience/"><u>[Updated] 10 Must-Haves to Optimize and Enrich Your Discord Experience</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-guide-to-the-best-tools-for-shortening-video-content-online/"><u>[Updated] 2024 Approved  A Guide to the Best Tools for Shortening Video Content Online</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-building-a-stronger-team-integrating-roles-in-discord/"><u>[Updated] 2024 Approved  Building a Stronger Team  Integrating Roles in Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-the-search-a-guide-to-finding-your-ideal-discord-server/"><u>[Updated] 2024 Approved  Mastering the Search  A Guide to Finding Your Ideal Discord Server</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-masterminds-of-memorable-discord-symbols-revealed/"><u>[Updated] 2024 Approved  Masterminds of Memorable Discord Symbols Revealed</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-navigating-discord-server-deletion-desktopmobile/"><u>[Updated] 2024 Approved  Navigating Discord Server Deletion (Desktop/Mobile)</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-navigating-disputes-the-step-by-step-approach-to-reporting-on-discord/"><u>[Updated] 2024 Approved  Navigating Disputes  The Step-by-Step Approach to Reporting on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-pinpointing-perfect-workplace-messengers-is-slack-surpassing-discord/"><u>[Updated] 2024 Approved  Pinpointing Perfect Workplace Messengers  Is Slack Surpassing Discord?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-complete-guide-for-incorporating-funny-and-engaging-gifs-into-your-discord-chats/"><u>[Updated] 2024 Approved  The Complete Guide for Incorporating Funny & Engaging GIFs Into Your Discord Chats</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-top-30-boosting-bots-for-enhanced-discord-servers/"><u>[Updated] 2024 Approved  Top 30 Boosting Bots for Enhanced Discord Servers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-turn-text-into-voice-mastering-discords-speech-features/"><u>[Updated] 2024 Approved  Turn Text Into Voice  Mastering Discord's Speech Features</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unveiling-the-visionaries-behind-disruptive-chat-symbols/"><u>[Updated] 2024 Approved  Unveiling the Visionaries Behind Disruptive Chat Symbols</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-best-free-software-to-save-your-discord-talks-for-2024/"><u>[Updated] Best Free Software to Save Your Discord Talks for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discover-the-pathway-earning-your-place-as-a-validated-disco-partner/"><u>[Updated] Discover the Pathway  Earning Your Place as a Validated Disco Partner</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discovering-elite-emoji-design-tools-on-discord-platform-for-2024/"><u>[Updated] Discovering Elite Emoji Design Tools on Discord Platform for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-embellish-your-discord-conversations-like-a-pro/"><u>[Updated] Embellish Your Discord Conversations Like a Pro</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-expanding-your-circle-discord-friending-101-for-2024/"><u>[Updated] Expanding Your Circle  Discord Friending 101 for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-exploring-the-architects-behind-popular-discord-glyphs/"><u>[Updated] Exploring The Architects Behind Popular Discord Glyphs</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-exploring-the-world-of-visual-identity-in-discord-profiles/"><u>[Updated] Exploring the World of Visual Identity in Discord Profiles</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-free-apps-excelling-at-transcribing-discord-conversations-for-2024/"><u>[Updated] Free Apps Excelling at Transcribing Discord Conversations for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-harmonizing-with-the-best-15-premier-sound-assistants-to-enhance-your-discord-audio/"><u>[Updated] Harmonizing with the Best  15 Premier Sound Assistants to Enhance Your Discord Audio</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-advanced-strategies-for-mass-message-purge-on-discord-networks/"><u>[Updated] In 2024, Advanced Strategies for Mass Message Purge on Discord Networks</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-comprehensive-guide-to-discord-nitro-what-it-is-plus-how-you-can-get-it/"><u>[Updated] In 2024, Comprehensive Guide to Discord Nitro - What It Is + How You Can Get It</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-most-reliable-image-archiving-sites/"><u>[Updated] Most Reliable Image Archiving Sites</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-securing-footage-techniques-for-obscuring-sensitive-info/"><u>2024 Approved  Securing Footage  Techniques for Obscuring Sensitive Info</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-lava-blaze-2-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Lava Blaze 2 Pro FRP</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/an-insightful-journey-through-the-history-of-electric-transportation/"><u>An Insightful Journey Through the History of Electric Transportation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/avchd-mts-converter-for-samsung-galaxy-a34-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD MTS Converter for Samsung Galaxy A34 5G</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elite-content-consummation-for-2024/"><u>Elite Content Consummation for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/get-chatty-with-these-17-streetwise-spanish-terms/"><u>Get Chatty with These 17 Streetwise Spanish Terms</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-se-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone SE</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-best-practices-for-documenting-youtube-live-videos/"><u>In 2024, Best Practices for Documenting Youtube LIVE Videos</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-xiaomi-redmi-a2-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Xiaomi Redmi A2 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/mastering-screen-time-top-6-video-engagement-methods-for-2024/"><u>Mastering Screen Time  Top 6 Video Engagement Methods for 2024</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-oppo-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Oppo</u></a></li>
-<li><a href="https://facebook.techidaily.com/stay-of-execution-on-trump-ban-in-progress/"><u>Stay of Execution on Trump Ban in Progress</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/superior-speedy-windows-image-browser/"><u>Superior Speedy Windows Image Browser</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/transmit-live-camera-feed-using-vlc-media-player-for-2024/"><u>Transmit Live Camera Feed Using VLC Media Player for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unlock-partner-status-a-step-by-step-guide-to-discord-verification-for-2024/"><u>Unlock Partner Status  A Step-by-Step Guide to Discord Verification for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unlock-the-potential-of-your-profile-picture-on-discord/"><u>Unlock the Potential of Your Profile Picture on Discord</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -255,3 +169,17 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-thumbnail-extract-from-youtube-videos-today/"><u>[New] In 2024, Free Thumbnail Extract From YouTube Videos Today</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-mastering-discord-speaking-tts-basics-guide/"><u>[Updated] In 2024, Mastering Discord Speaking TTS Basics Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unlocking-pathways-to-discover-new-discord-communities/"><u>[Updated] Unlocking Pathways to Discover New Discord Communities</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unveiling-all-about-discord-stickers/"><u>[Updated] Unveiling All About Discord Stickers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-what-is-discord-pfp-and-how-to-make-a-stunning-pfp-for-discord/"><u>[Updated] What Is Discord Pfp and How to Make a Stunning Pfp for Discord</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-8-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone 8 3 Ways To Unlock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone XS Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigate-through-fb-safeguarding-processes/"><u>Navigate Through FB Safeguarding Processes</u></a></li>
+</ul></div>
+

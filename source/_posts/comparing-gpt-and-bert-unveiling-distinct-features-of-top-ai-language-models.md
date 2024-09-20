@@ -1,7 +1,7 @@
 ---
 title: "Comparing GPT and BERT: Unveiling Distinct Features of Top AI Language Models"
-date: 2024-09-08T17:57:22.289Z
-updated: 2024-09-15T00:33:26.227Z
+date: 2024-09-17T03:17:46.796Z
+updated: 2024-09-20T07:19:30.496Z
 tags:
   - chatgpt
   - open-ai
@@ -55,15 +55,22 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
@@ -83,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
@@ -104,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
@@ -155,20 +155,20 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-latest-techniques-in-iphoneipad-screenshotting-2023-edition/"><u>[New] 2024 Approved Latest Techniques in iPhone/iPad Screenshotting - 2023 Edition</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-ultimate-combo-using-spotify-in-discord-channels/"><u>[Updated] In 2024, The Ultimate Combo Using Spotify in Discord Channels</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unlocking-elite-status-navigating-the-premium-world-of-disconitro/"><u>[Updated] In 2024, Unlocking Elite Status Navigating the Premium World of DiscoNitro</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-premium-emoji-creation-software-for-discord-users/"><u>[Updated] Premium Emoji Creation Software for Discord Users</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-simplifying-server-management-bulk-delete-messages-with-ease/"><u>[Updated] Simplifying Server Management Bulk Delete Messages with Ease</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-open-source-templates-transform-your-youtube-channel/"><u>2024 Approved Open-Source Templates Transform Your YouTube Channel</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-inspiration-ultimate-iphone-skyline-and-landscapes-guide/"><u>Capturing Inspiration Ultimate iPhone Skyline and Landscapes Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/digital-security-matters-identifying-emerging-dangers-in-tweets-metas-move-towards-enhanced-user-trust-with-verification-and-decoding-the-power-of-chatgpt-n52/"><u>Digital Security Matters: Identifying Emerging Dangers in Tweets, Meta's Move Towards Enhanced User Trust with Verification, and Decoding the Power of ChatGPT-Next Generation AI Elaborated</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-unresponsive-windows-bluetooth-speaker-controls/"><u>Eliminating Unresponsive Windows Bluetooth Speaker Controls</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/expert-tips-for-preventing-continuous-failures-of-thunder-tier-one-on-desktopslaptops/"><u>Expert Tips for Preventing Continuous Failures of Thunder Tier One on Desktops/Laptops</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-easy-steps-for-designing-podcast-rss-structure/"><u>In 2024, Easy Steps for Designing Podcast RSS Structure</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-xs-max-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone XS Max without Apple ID?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-ideapad-u310-drivers-update-easily/"><u>Lenovo Ideapad U310 Drivers Update Easily</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-eroded-footage-with-digital-reconstruction/"><u>Reviving Eroded Footage with Digital Reconstruction</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-solving-d3d11-gpu-issues-on-microsofts-latest-oses/"><u>Swiftly Solving D3D11 GPU Issues on Microsoft's Latest OSes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-best-storytelling-youtube-channels-to-follow-this-year/"><u>[New] The Best Storytelling YouTube Channels to Follow This Year</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-take-your-snapchat-to-new-heights-with-cutting-edge-boomerangs/"><u>[Updated] In 2024, Take Your Snapchat to New Heights with Cutting-Edge Boomerangs</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/44cm44ki44od44ox44kw44os44o844oj44or44o844or44go44gd44gu5osp5zgz44gr44gk44ge44gm5a2m44gz44gf44ge44cn/"><u>「アップグレードルールとその意味について学びたい」</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1-easy-guide-watching-blu-ray-discs-using-vlc-media-player-on-your-windows-pc/"><u>1. Easy Guide: Watching Blu-Ray Discs Using VLC Media Player on Your Windows PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715859832396-2024-approved-navigating-through-top-ps2-games-on-android-devices-a-compre-written-in-english/"><u>2024 Approved Navigating Through Top PS2 Games on Android Devices - A Compre Written in English.</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726026659828-youtube/"><u>完全無料: YouTubeのビデオからオーディオのみダウンロードの簡単な方法</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726030433688-avimp4movmkv/"><u>効率的にAVIをMP4/MOV/MKVに変換する手順：完全な解法</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029559664-youtube/"><u>音声のみでYouTubeコンテンツを聞くための簡単な方法</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029529708-dvd/"><u>DVD編集専用の無料フリーアプリ！美しい動画を作り上げるステップ</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mac-users-master-your-privacy-the-fundamentals-of-selective-clean-up-with-the-standard-version-of-stellar-file-deleter/"><u>Mac Users, Master Your Privacy! The Fundamentals of Selective Clean-Up With the Standard Version of Stellar File Deleter</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-poco-m6-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Poco M6 5G FRP Bypass</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-magic-vs-2-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor Magic Vs 2.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-14-plus-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone 14 Plus Before the Plan Expires</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/windows-1011m4awav/"><u>Windows 10/11向けM4AからWAVへの自由ソフトウェア・サイトリコメンド：変換ガイド</u></a></li>
 </ul></div>
 

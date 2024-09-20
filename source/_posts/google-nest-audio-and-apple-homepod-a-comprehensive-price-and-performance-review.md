@@ -1,7 +1,7 @@
 ---
 title: Google Nest Audio and Apple HomePod - A Comprehensive Price and Performance Review
-date: 2024-09-12T02:25:04.872Z
-updated: 2024-09-14T20:10:25.440Z
+date: 2024-09-15T01:25:36.294Z
+updated: 2024-09-20T11:02:52.391Z
 categories:
   - BestProducts
 description: This Article Describes Google Nest Audio and Apple HomePod - A Comprehensive Price and Performance Review
@@ -69,13 +69,6 @@ Lifewire / Jonno Hill
 
  The ClearStream Eclipse Antenna isn’t the most beautiful piece of hardware to ever grace my living room, but it’s inoffensive enough to not really be an issue. The antenna has a thin, flat, disc shape that is black on one side and white on the other. It is designed to be placed directly onto a flat surface, but you will probably be able to get away with a lot of different orientations depending on how close you are to the signal source.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup: Simple and easy**
 
  The ClearStream Eclipse Antenna has the simplest setup of all the HDTV antennas I’ve tested. There is no mounting hardware, no power adapter, and nothing else to worry about. The antenna comes with a strip of adhesive that can be used to affix it directly to a wall or other preferred surface.
@@ -89,10 +82,10 @@ Lifewire / Jonno Hill
  I’ve tested a lot of similar antennas recently, and the ClearStream Eclipse Antenna had the best results of any unpowered antenna, even beating out a few of the powered ones. From my apartment, I was able to get acquire an average of 65 channels across all my tests. For reference, the worst-performing antenna found just 47, and the best, 76\.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Range: Fair to middling**
@@ -101,18 +94,31 @@ Lifewire / Jonno Hill
 
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/i57THpEHitQ6h-N5c-bgGLEHwJs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_04-6ea1dbbe93374539876c7e76dcebb18e.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Not bad for the performance**
 
  The ClearStream Eclipse Antenna lands at an MSRP of $40, putting it towards the high end of the price spectrum, especially where non-powered antennas are concerned. It did do one of the best jobs of supporting as many channels as possible, so the price is somewhat justified. Then again, every single one of the indoor antennas I’ve tested was able to handle the major network channels clearly and without issue, so a high channel number might not mean more than peace of mind in practical terms.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **ClearStream Eclipse Antenna vs Winegard FL5500A FlatWave Antenna**
 
@@ -151,18 +157,16 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/god-of-war-mastering-combat-skills/"><u>'God of War': Mastering Combat Skills</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-flamegrab-ff-extras/"><u>[New] 2024 Approved Flamegrab FF Extras</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-preserving-your-virtual-sessions-gotomeeting-tips-for-2024/"><u>[New] Preserving Your Virtual Sessions GoToMeeting Tips for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-delete-messages-on-discord/"><u>[Updated] In 2024, How To Delete Messages On Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-step-up-your-text-game-with-free-emojis-from-these-websites/"><u>[Updated] In 2024, Step Up Your Text Game with FREE Emojis From These Websites</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-hunt-for-hit-tunes-and-viral-videos-on-fb/"><u>[Updated] In 2024, The Hunt for Hit Tunes and Viral Videos on FB</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-ultimate-guide-to-cool-and-captivating-disco-tags/"><u>[Updated] In 2024, Ultimate Guide to Cool and Captivating Disco Tags</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-mastering-cross-platform-play-spotifydiscord-tutorial-for-2024/"><u>[Updated] Mastering Cross-Platform Play Spotify/Discord Tutorial for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-mastering-the-art-of-memorable-channel-titles-on-discord/"><u>[Updated] Mastering the Art of Memorable Channel Titles on Discord</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-xs-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone XS</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-blueprint-for-captivating-and-professional-looking-live-video-thumbnails/"><u>In 2024, The Ultimate Blueprint for Captivating and Professional-Looking Live Video Thumbnails</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-honor-100-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Honor 100 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-free-mov-cutting-tools-simplify-your-video-editing-for-2024/"><u>Updated Free MOV Cutting Tools Simplify Your Video Editing for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-how-to-edit-gopro-4k-video/"><u>[New] How to Edit GoPro 4K Video</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1-best-guide-transform-gsm-audio-files-into-mp3-format-at-no-cost/"><u>1. [Best Guide] Transform GSM Audio Files Into MP3 Format at No Cost</u></a></li>
+<li><a href="https://fox-info.techidaily.com/bestowed-guidance-premium-audio-designers-for-iphones/"><u>Bestowed Guidance Premium Audio Designers for iPhones</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028201074-dvdwindows-10/"><u>DVD再生に失敗するWindows 10コンピュータを修正する方法</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-synaptics-touchpad-not-scrolling-issue-in-windows-10/"><u>Fix Synaptics Touchpad Not Scrolling Issue in Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-realme-11x-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Realme 11X 5G PC | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-connectivity-problems-with-your-corsair-hs35-microphone-in-a-windows-environment/"><u>Overcoming Connectivity Problems with Your Corsair HS35 Microphone in a Windows Environment</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issues-of-robocop-rogue-city-pc-version-troubleshooting/"><u>Solving the Issues of RoboCop: Rogue City - PC Version Troubleshooting</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-transforming-mp4-videos-into-compatible-flv-format/"><u>Step-by-Step Guide: Transforming MP4 Videos Into Compatible FLV Format</u></a></li>
+<li><a href="https://windows11.techidaily.com/trends-in-firmware-enhancement-what-every-surface-user-needs-to-know/"><u>Trends in Firmware Enhancement: What Every Surface User Needs to Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/winstorage-revival-guide-with-altwindirstat-insights/"><u>WinStorage Revival Guide with AltWinDirStat Insights</u></a></li>
 </ul></div>
 

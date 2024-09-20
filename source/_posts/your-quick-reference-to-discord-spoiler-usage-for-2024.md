@@ -1,7 +1,7 @@
 ---
 title: "Your Quick Reference to Discord Spoiler Usage for 2024"
-date: 2024-09-10T17:50:26.627Z
-updated: 2024-09-14T18:10:52.635Z
+date: 2024-09-18T10:58:03.897Z
+updated: 2024-09-20T02:40:35.515Z
 tags:
   - ai video
   - ai discord
@@ -79,13 +79,6 @@ Just like texts, even images, videos, and other attachments can be marked as spo
 
 ![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
 * Open Discord on your desktop app or browser.
@@ -99,10 +92,10 @@ Images can be tagged as spoilers before you upload them on servers. To add spoil
 Note that spoilers that contain images, videos, or other multimedia files can be sent only on the desktop app or the browser. Mobile apps do not support spoiler marks for images or other media files.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus: Is it the same to use Spoiler on Mobile devices?
@@ -126,6 +119,13 @@ If you want to display all spoiler content, choose Always to turn off the spoile
 
 ![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -145,18 +145,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-cyberlink-the-pinnacle-of-digital-recording/"><u>[Updated] Cyberlink The Pinnacle of Digital Recording</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigating-message-reactions-with-ease-discord/"><u>[Updated] In 2024, Navigating Message Reactions with Ease (Discord)</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-innovative-messaging-tools-beyond-discord/"><u>[Updated] Innovative Messaging Tools Beyond Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-revolutionize-your-discord-community-with-these-bots/"><u>[Updated] Revolutionize Your Discord Community with These Bots</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-sticker-savvy-on-discord-platform-for-2024/"><u>[Updated] Sticker Savvy on Discord Platform for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-essential-guide-adding-and-editing-discord-roles/"><u>[Updated] The Essential Guide Adding and Editing Discord Roles</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-insiders-move-to-effortless-discord-calls-for-2024/"><u>[Updated] The Insider's Move to Effortless Discord Calls for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-selection-of-budget-friendly-4k-projector-brands/"><u>[Updated] Ultimate Selection of Budget-Friendly 4K Projector Brands</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-inside-the-jaunt-vr-experience/"><u>2024 Approved Inside the Jaunt VR Experience</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/empowering-individuals-via-english-as-a-second-language/"><u>Empowering Individuals via English as a Second Language</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/evaluating-cybernetic-screen-recorder-functionality-for-2024/"><u>Evaluating Cybernetic Screen Recorder Functionality for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/proposed-alterations-streamlining-the-chatgpt-plugin-shop/"><u>Proposed Alterations: Streamlining the ChatGPT Plugin Shop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-monster-hunter-worlds-startup-void-how-to-overcome-total-black-screen-problems/"><u>Troubleshooting Monster Hunter: World's Startup Void - How to Overcome Total Black Screen Problems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-diy-video-meme-guide-boost-your-posts-on-fb-and-instagram/"><u>[New] 2024 Approved DIY Video Meme Guide Boost Your Posts on FB & Instagram</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-how-to-live-stream-to-youtube-with-wirecast/"><u>2024 Approved How to Live Stream to Youtube with Wirecast?</u></a></li>
+<li><a href="https://ai-video.techidaily.com/2024-approved-translate-any-hindi-video-into-english-with-ai/"><u>2024 Approved Translate Any Hindi Video Into English With AI</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/easy-guide-snipping-videos-down-on-your-iphone-with-simple-taps/"><u>Easy Guide: Snipping Videos Down on Your iPhone with Simple Taps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/easy-techniques-for-converting-diverse-videoaudio-files-into-different-formats/"><u>Easy Techniques for Converting Diverse Video/Audio Files Into Different Formats</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/efficient-methods-for-swiftly-transforming-dat-video-into-mkv/"><u>Efficient Methods for Swiftly Transforming DAT Video Into MKV</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/effortless-digital-transformation-with-wonderfox-professional-software-for-apple-devices/"><u>Effortless Digital Transformation with WonderFox: Professional Software for Apple Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/effortless-transformation-guide-to-mp4-to-mov-file-conversion-with-top-tools-and-techniques/"><u>Effortless Transformation: Guide to MP4-to-MOV File Conversion with Top Tools and Techniques</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-functionality-on-your-hp-laptop-with-windows-11-update/"><u>How to Restore Audio Functionality on Your HP Laptop with Windows 11 Update</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-seamlessly-fuse-videos-using-blend-modes/"><u>In 2024, Seamlessly Fuse Videos Using Blend Modes</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-netflix-woes-identifying-outages-and-performance-issues/"><u>Solving Netflix Woes: Identifying Outages and Performance Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723011001011-why-wont-my-game-launch-ensuring-proper-game-file-setup-is-key/"><u>Why Won't My Game Launch? Ensuring Proper Game File Setup Is Key!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ending the Frustration of Game Interruptions: Fixing FFXIV Crashes on PC"
-date: 2024-09-10T02:33:14.511Z
-updated: 2024-09-15T02:56:16.451Z
+date: 2024-09-15T02:00:07.284Z
+updated: 2024-09-20T10:36:33.648Z
 tags:
   - win11
   - win10
@@ -86,29 +86,9 @@ The Ascent
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -128,20 +108,21 @@ The Ascent
 3. In the GENERAL section, enter`**-dx11**` under LAUNCH OPTIONS. By doing that, Steam will run the game with DirectX 11 next time.  
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Run The Ascent with DriectX 11](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-The-Ascent-with-DriectX-11.jpg)
 4. Launch The Ascent and see if this issue persists.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If the game still crashes, try the next fix, below.
 
@@ -197,6 +178,19 @@ If the game still crashes, try the next fix, below.
 
 If this fix didn’t work, try the next fix to perform a clean boot.
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Perform a clean boot
 
  The Ascent may also crash if there is a certain program conflicting with the game. To find out the problematic program that crashes the game, you need to perform a clean boot. Here’s how to do it:
@@ -212,10 +206,10 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
@@ -223,10 +217,10 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your PC and launch The Ascent to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -263,17 +257,19 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-inside-look-at-youtubes-creator-studio-interface/"><u>[New] In 2024, Inside Look at YouTube's Creator Studio Interface</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-pitfall-of-superficial-engagement-on-insta/"><u>[New] In 2024, The Pitfall of Superficial Engagement on Insta</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-lens-legends-cutting-edge-camera-choices-1-10/"><u>[New] Lens Legends Cutting-Edge Camera Choices #1-10</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-proficiently-use-screen-share-in-discord-channels/"><u>[Updated] In 2024, How to Proficiently Use Screen Share in Discord Channels</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-proven-bots-for-superior-server-dynamics/"><u>[Updated] In 2024, Proven Bots for Superior Server Dynamics</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-visionary-video-snatcher-tools-guide/"><u>[Updated] In 2024, Visionary Video Snatcher Tools Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-maximizing-potential-the-art-of-role-implementation-on-discord-for-2024/"><u>[Updated] Maximizing Potential The Art of Role Implementation on Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-navigating-the-universe-of-discord-stickers/"><u>[Updated] Navigating the Universe of Discord Stickers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-rectify-faux-face-display-on-social-network-engagements-for-2024/"><u>[Updated] Rectify Faux Face Display on Social Network Engagements for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-find-x6-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Find X6</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-pathway-from-webp-files-to-jpegs/"><u>In 2024, The Ultimate Pathway From WebP Files to JPEGs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/manuale-step-by-step-tecniche-efficienti-per-il-software-windows-dvd-setup/"><u>Manuale Step-by-Step: Tecniche Efficienti per Il Software Windows DVD Setup</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-discover-everything-in-stardews-hidden-gem-ginger-isle/"><u>2024 Approved Discover Everything in Stardew's Hidden Gem, Ginger Isle</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-fiscal-summary-producing-a-music-video/"><u>2024 Approved Fiscal Summary Producing a Music Video</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamlined-recording-experience-with-macbooks-webcam/"><u>2024 Approved Streamlined Recording Experience with MacBook's Webcam</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-realtek-audio-driver-downloads-compatible-with-windows-11107/"><u>Latest Realtek Audio Driver Downloads Compatible with Windows 11/10/7</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-essence-of-photography-polarrs-edits-revealed-for-2024/"><u>Navigating the Essence of Photography Polarr’s Edits Revealed for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/solving-premiere-pros-mtsm2ts-file-compatibility-issues-a-step-by-step-guide/"><u>Solving Premiere Pro's MTS/M2TS File Compatibility Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-successfully-playing-more-than-one-video-concurrently/"><u>Step-by-Step Guide: Successfully Playing More Than One Video Concurrently</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-instructions-for-efficiently-transferring-and-playing-youtube-clips-directly-on-your-ipad-with-premier-downloader-apps/"><u>Step-by-Step Instructions for Efficiently Transferring and Playing YouTube Clips Directly on Your iPad with Premier Downloader Apps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-tutorial-installing-the-vehicle-employing-4qed-addon-to-optimize-your-viewing-experience-with-movies-and-tv-shows-in-kodi-leia/"><u>Step-by-Step Tutorial: Installing the Vehicle: Employing 4QED Addon to Optimize Your Viewing Experience with Movies & TV Shows in Kodi Leia</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/streamline-your-4k-editing-workflow-on-premiere-pro-tips-to-avoid-performance-issues/"><u>Streamline Your 4K Editing Workflow on Premiere Pro - Tips to Avoid Performance Issues</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-essential-list-top-10-video-editors-to-elevate-reels-for-2024/"><u>The Essential List Top 10 Video Editors to Elevate Reels for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-recommended-methods-for-converting-and-preserving-your-dvd-movie-collection/"><u>Top Recommended Methods for Converting and Preserving Your DVD Movie Collection</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-cutting-edge-cost-free-platforms-for-professional-video-editing/"><u>Unveiling The Cutting-Edge, Cost-Free Platforms for Professional Video Editing</u></a></li>
 </ul></div>
 

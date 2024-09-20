@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Simplifying Server Management  Bulk Delete Messages with Ease\""
-date: 2024-09-10T01:34:14.904Z
-updated: 2024-09-14T17:09:00.055Z
+date: 2024-09-16T20:54:47.831Z
+updated: 2024-09-20T09:01:26.577Z
 tags:
   - ai video
   - ai discord
@@ -100,19 +100,6 @@ The procedure for deleting DMs from your Discord smartphone application applies 
 5. Confirm your decision by tapping 'Delete' once again
 6. The message will be deleted
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to Delete Channel Messages in Discord?
 
 This method has to be the most effective and easy way to delete a Discord message, and it's a simple, straightforward procedure:
@@ -135,13 +122,6 @@ Here is a more detailed breakdown of the sequence:
 
 At first glance, it seems like a long and tedious process, but once you get down to doing it and develop a rhythm, it is an easy task.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Deleting Message with Discord Clear Chat Bot
 
 Please keep in mind that Discord has changed its policy regarding bots, going from discouraging their use to outright flagging them as a violation of its terms.
@@ -162,6 +142,13 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 ![delete messages on discord with mee6 bot](https://images.wondershare.com/filmora/article-images/discord-bot-mee6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. You'll be prompted to authorize so that MEE6 bot can access your username, and know what server you’re in.
 2. Pin-point the server you want to add the bot and then set up to connect MEE6 to the Discord server.
 
@@ -172,18 +159,31 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 ![remove discord message with mee 6](https://images.wondershare.com/filmora/article-images/mee6-moderator-plugin-moderator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
 ![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: How to Clear All Chats and Delete All Messages In Discord?
 
@@ -273,12 +273,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-illuminated-insights-best-practices-for-nighttime-portraiture/"><u>[New] 2024 Approved Illuminated Insights Best Practices for Nighttime Portraiture</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtubers-advanced-toolkit-studio-selection-over-beta-for-2024/"><u>[Updated] YouTuber's Advanced Toolkit Studio Selection Over Beta for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/a-closer-look-at-the-modern-design-and-functionality-of-the-cycwagen-cargo-bike/"><u>A Closer Look at the Modern Design and Functionality of the CycWagen Cargo Bike</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-xiaomi-redmi-k70-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi Redmi K70 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/comprehensive-analysis-of-the-ergodyne-topo-your-guide-to-a-fatigue-free-standing-desk-experience/"><u>Comprehensive Analysis of the Ergodyne Topo: Your Guide to a Fatigue-Free Standing Desk Experience</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-hdr-photography-selecting-superior-models/"><u>In 2024, Unlocking HDR Photography Selecting Superior Models</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-depth-look-at-the-newly-launched-samsung-galaxy-chromebook-2-for-seamless-mobile-workflows/"><u>In-Depth Look at the Newly Launched Samsung Galaxy Chromebook 2 for Seamless Mobile Workflows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-mastering-animated-gifs-creating-from-youtube-videos-online/"><u>[New] 2024 Approved Mastering Animated GIFs Creating From Youtube Videos Online</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ngaging-everyone-quickly-which-platform-triumphs-for-shorter-videos/"><u>[New] Engaging Everyone Quickly Which Platform Triumphs for Shorter Videos?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-demystifying-creator-studio-a-practical-handbook/"><u>[New] In 2024, Demystifying Creator Studio A Practical Handbook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-capture-your-gameplay-essential-webcams-for-twitch-enthusiasts/"><u>2024 Approved Capture Your Gameplay Essential Webcams For Twitch Enthusiasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-elevating-youtube-productions-with-effective-video-lighting/"><u>2024 Approved Elevating YouTube Productions with Effective Video Lighting</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ts-ts/"><u>簡単な TS 動画編集 - クリーンで安全な .ts ファイル操作</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/effective-ways-to-tweak-songs-playback-rate-on-spotify/"><u>Effective Ways to Tweak Songs' Playback Rate on Spotify</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-vivo-y100a-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Vivo Y100A.</u></a></li>
+<li><a href="https://article-files.techidaily.com/innovative-gaming-rig-features-built-in-espresso-barista-complete-coffee-maker-system/"><u>Innovative Gaming Rig Features Built-In Espresso Barista: Complete Coffee Maker System</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-9-video-meeting-recorder-apps-of-2024-a-comprehensive-guide/"><u>Top 9 Video Meeting Recorder Apps of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-rated-windows-11-dvd-ripper-software/"><u>Top-Rated Windows 11 DVD Ripper Software</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/u-nextpcwindows/"><u>U-NEXTビデオのPC上での静止画撮影・保存手順：Windowsプラットフォーム向け</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ultimate-guide-to-free-xvid-file-transformation-into-mp4-format-on-pcs-a-seamless-experience-for-windows-owners/"><u>Ultimate Guide to Free Xvid File Transformation Into MP4 Format on PCs: A Seamless Experience for Windows Owners</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ultimate-guide-effortlessly-removing-audio-from-avi-files/"><u>Ultimate Guide: Effortlessly Removing Audio From AVI Files</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/windows-11-snipping-tool/"><u>Windows 11 Snipping Toolを使った効果的なスクリーンショット撮影テクニック</u></a></li>
 </ul></div>
 

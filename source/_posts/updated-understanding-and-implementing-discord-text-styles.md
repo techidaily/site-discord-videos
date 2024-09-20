@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding & Implementing Discord Text Styles"
-date: 2024-09-13T03:00:19.616Z
-updated: 2024-09-14T23:35:58.010Z
+date: 2024-09-15T04:40:35.406Z
+updated: 2024-09-20T09:57:13.199Z
 tags:
   - ai video
   - ai discord
@@ -116,10 +116,16 @@ You can combine all four style changes as well – just use two tildes (\~\~), t
 ![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
@@ -127,10 +133,10 @@ You can combine all four style changes as well – just use two tildes (\~\~), t
 In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to Change the Text Color in Discord Message?
@@ -172,14 +178,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-thumbnail-extract-from-youtube-videos-today/"><u>[New] In 2024, Free Thumbnail Extract From YouTube Videos Today</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-mastering-discord-speaking-tts-basics-guide/"><u>[Updated] In 2024, Mastering Discord Speaking TTS Basics Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-unlocking-pathways-to-discover-new-discord-communities/"><u>[Updated] Unlocking Pathways to Discover New Discord Communities</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-unveiling-all-about-discord-stickers/"><u>[Updated] Unveiling All About Discord Stickers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-what-is-discord-pfp-and-how-to-make-a-stunning-pfp-for-discord/"><u>[Updated] What Is Discord Pfp and How to Make a Stunning Pfp for Discord</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-8-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone 8 3 Ways To Unlock</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone XS Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigate-through-fb-safeguarding-processes/"><u>Navigate Through FB Safeguarding Processes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-eliminate-your-streaming-darkness-on-youtube/"><u>[Updated] Eliminate Your Streaming Darkness on YouTube</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/44cm5yuv55s744oa44km44oz44ot44o844oj5ywl6zaa77ya57ch5y2y44gq5pa55rov44gn5yuv55s744ks44ov44kh44kk44or44gr5asj5oplusb44gz44kl44od44kk44oz44oi44cn/"><u>「動画ダウンロード入門：簡単な方法で動画をファイルに変換するポイント」</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/clipchamp-youtube/"><u>動画から音声を抽出するClipchampの簡単な方法 - YouTubeビデオ編集のためのチュートリアル</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/bulk-conversion-techniques-turning-wav-files-into-high-quality-alac/"><u>Bulk Conversion Techniques: Turning WAV Files Into High-Quality ALAC</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/comparing-dvd-and-streaming-services-determining-the-superior-choice-for-cinema-enthusiasts/"><u>Comparing DVD and Streaming Services: Determining the Superior Choice for Cinema Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effective-strategies-for-earning-revenue-from-your-online-videos/"><u>Effective Strategies for Earning Revenue From Your Online Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-vegaspro-2019-edition-highlights/"><u>Exploring VegasPro 2019 Edition Highlights</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/harnessing-viral-potential-the-20-best-tiktok-caption-insights/"><u>Harnessing Viral Potential The 20 Best TikTok Caption Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leap-into-the-future-with-strategic-technology-enhancements/"><u>In 2024, Leap Into the Future with Strategic Technology Enhancements</u></a></li>
+<li><a href="https://techtrends.techidaily.com/premium-yet-economical-initiator-packages-for-aspiring-home-cinema-enthusiasts/"><u>Premium Yet Economical Initiator Packages for Aspiring Home Cinema Enthusiasts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726030532953-top-5-premium-no-cost-movie-editing-tools-compatible-with-windows-and-macos-updated-guide/"><u>Top 5 Premium, No-Cost Movie Editing Tools Compatible with Windows & macOS (Updated Guide)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-realme-c55-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Realme C55 Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
 

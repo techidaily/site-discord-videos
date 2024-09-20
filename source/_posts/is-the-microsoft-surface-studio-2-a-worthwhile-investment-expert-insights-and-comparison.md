@@ -1,7 +1,7 @@
 ---
 title: Is the Microsoft Surface Studio 2 a Worthwhile Investment? Expert Insights & Comparison
-date: 2024-09-13T21:17:06.267Z
-updated: 2024-09-15T00:20:26.776Z
+date: 2024-09-16T06:31:42.930Z
+updated: 2024-09-19T23:25:16.930Z
 categories:
   - BestProducts
 description: This Article Describes Is the Microsoft Surface Studio 2 a Worthwhile Investment? Expert Insights & Comparison
@@ -91,16 +91,16 @@ Star Wars: Squadrons is drop-dead gorgeous.
 ![Star Wars: Squadrons](https://www.lifewire.com/thmb/_MN0adYtaTCJ1Qhmsivk-M-DkXo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Star-Wars-Squadrons-3-31074635684244d48b1d792540a477e2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
+<span id="1424528">
 					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
@@ -108,10 +108,10 @@ Star Wars: Squadrons is drop-dead gorgeous.
  In between story missions you are fixed in place in different rooms, where you click on different characters to talk to them. I found these sequences to be very linear and I found that they tended to drag on. I’d certainly have preferred to be able to walk around rather than teleport between locations on the ship. This is probably due to this game being intended to be played in VR where the fixed positioning makes more sense due to the limitations of VR, but the game would've been well served by separate control schemes. This is a minor gripe; if desired you can just skip through these sequences pretty quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Gameplay: Refined and surprisingly deep**
@@ -135,10 +135,10 @@ Star Wars: Squadrons is drop-dead gorgeous.
  There’s also ship customization, which allows you to alter various aspects of your aircraft such as armament, hull, and engines to enhance various attributes, though this usually comes at a cost to other capabilities. For example, you can trade speed for extra agility and vice versa. It requires a deep understanding of the ship you’re customizing so you’ll probably want to wait to touch this till you’ve had plenty of practice in battle. There are also cosmetic customizations, such as paint jobs and ornaments. Both gameplay and cosmetic customizations are purchased with separate types of in-game currency.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Graphics: Attention to detail**
@@ -147,16 +147,16 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
 ![Star Wars: Squadrons](https://www.lifewire.com/thmb/a-_aXPmbq5vlMG21Sutf0cIe4BI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Star-Wars-Squadrons-7-dc3679df974e4da793c52f2fb2831eac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andy Zahn
 
  The game is less attractive in VR, with muddier textures and blurrier skybox, but the trade-off for added immersion is well worth the sacrifice. Actually moving your head to scan around the glass cockpit for enemy fighters and capital ships (or your own wingmates) and then diving in to engage is some of the most fun you can have in VR.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Audio: Authentic Star Wars**
 
@@ -178,6 +178,13 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
 ![Star Wars: Squadrons](https://www.lifewire.com/thmb/oKG6kRHcFEOz3O6bwL5_SyeUiEM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Star-Wars-Squadrons-4-78947bfe57874d45ae8f401482c3ddf6-379a507c078e44d6898e28d20f53aac9.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andy Zahn
 
  The other mode features massive large scale multi-stage fleet battles, which require careful team coordination to advance across the battlefield and destroy the enemies’ flagship. It’s a good idea to save this for after you’ve played through most of the campaign, learned the controls, and have tried your hand at a few multiplayer dogfights.
@@ -185,13 +192,6 @@ Star Wars: Squadrons is drop-dead gorgeous.
 ## **Price: Good value**
 
  With an MSRP of just $40 Star Wars: Squadrons is a surprisingly reasonably priced game that bucks the trend of modern AAA games uniformly releasing for $60 regardless of what content they are able to offer. It’s not the longest game, and there is a limit to end-game multiplayer content, so $40 is pretty much the exact right price for Squadrons. It’s refreshing to see a distinct lack of any extra monetization in the game, with no annoying microtransactions or loot boxes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Star Wars: Squadrons vs. Elite Dangerous**
 
@@ -226,13 +226,20 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-depth-evaluation-obs-as-an-advanced-recorder/"><u>[New] In-Depth Evaluation OBS as an Advanced Recorder</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-android-playground-the-hottest-wildlife-games/"><u>[Updated] 2024 Approved Android Playground The Hottest Wildlife Games</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-navigating-everyday-chats-smart-reacts-and-replies-discord-for-2024/"><u>[Updated] Navigating Everyday Chats Smart Reacts and Replies (Discord) for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-superior-online-forums-and-boards-for-2024/"><u>[Updated] Superior Online Forums and Boards for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-tight-knit-teams-top-chat-platforms-which-rules-the-game-slack-or-discord/"><u>[Updated] Tight-Knit Teams, Top Chat Platforms Which Rules the Game - Slack or Discord?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beating-helldivers-2s-startup-glitch-a-complete-guide-to-restoring-gameplay-from-black-screen-errors/"><u>Beating Helldivers 2'S Startup Glitch: A Complete Guide to Restoring Gameplay From Black Screen Errors</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-vivo-y78t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Vivo Y78t without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/raucous-reels-crafting-7-comedy-storylines-for-social-media-stars-for-2024/"><u>Raucous Reels Crafting 7 Comedy Storylines for Social Media Stars for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-from-hd-to-hyper-hd-the-eizo-monitor-revolution-with-cg318-4k/"><u>[New] From HD to Hyper HD The EIZO Monitor Revolution with CG318-4K</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028416344-5/"><u>「自由にダウンロード可能な優秀な無料ビデオ音量調節ツールベスト5」</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/9/"><u>「最適なフラグメント化ビデオツール：9つの強力無料アプリ推薦」</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tier-strategies-for-flawless-srt-file-integration-on-vero-and-tumblr/"><u>2024 Approved Top-Tier Strategies for Flawless SRT File Integration on Vero & Tumblr</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028872900-pc/"><u>動画の音ズレをPCで簡単に調整する方法：初心者向けガイド</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029646234-mp3/"><u>覚えやすいMP3ファイルに音楽データを変換する方法 - ステップバイステップガイド</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ideal-slide-show-tools-for-iphone-series-10-13-upgrades-for-2024/"><u>Ideal Slide Show Tools For iPhone Series 10-13 Upgrades for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-12-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 12 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-xiaomi-redmi-13c-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Xiaomi Redmi 13C online without jailbreak</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029567888-iphone-mp4/"><u>IPhone MP4ファイルプレイヤー設定：スムーズ再生とトラブルシューティング</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/3show/"><u>おすすめの動画編集ツールランキング：音楽読み込み機能付き最高の3つ探しまSHOW!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/bup-ifo-vobmp4/"><u>ビデオファイル変換入門：BUP, IFO, VOBを簡単にMP4に！初学者も楽しめるテクニック</u></a></li>
 </ul></div>
 

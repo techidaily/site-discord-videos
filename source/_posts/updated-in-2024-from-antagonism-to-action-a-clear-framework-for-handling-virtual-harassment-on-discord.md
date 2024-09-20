@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, From Antagonism to Action  A Clear Framework for Handling Virtual Harassment on Discord\""
-date: 2024-09-12T01:56:35.809Z
-updated: 2024-09-14T20:20:35.854Z
+date: 2024-09-16T17:15:26.758Z
+updated: 2024-09-20T01:12:02.350Z
 tags:
   - ai video
   - ai discord
@@ -145,20 +145,27 @@ If you happen to be a moderator or server owner, you have the authority to kick 
 3. Right-click on their username and then select "Kick"
 4. Click on "Kick" again to confirm your decision
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: FAQs About Discord Reporting
 
 There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Can I Report People on Discord Anonymously?
 
 According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What Happens If I Report Someone on Discord?
 
@@ -178,13 +185,6 @@ If you know someone who is undoubtedly underage, then you can report them to the
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -200,18 +200,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-jest-and-jibe-constructing-parody-videos/"><u>[New] 2024 Approved Jest and Jibe Constructing Parody Videos</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigating-discords-streaming-features-desktopmobile/"><u>[Updated] In 2024, Navigating Discord's Streaming Features (Desktop/Mobile)</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-revolutionize-discord-conversations-with-top-ranked-free-modifiers/"><u>[Updated] In 2024, Revolutionize Discord Conversations with Top-Ranked Free Modifiers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-uncovering-the-depths-of-discord/"><u>[Updated] In 2024, Uncovering the Depths of Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unveiling-the-secrets-how-to-access-high-end-features-with-disconitro/"><u>[Updated] In 2024, Unveiling the Secrets How to Access High-End Features with DiscoNitro</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-network-necessities-how-to-add-friends-on-devices-for-2024/"><u>[Updated] Network Necessities How to Add Friends on Devices for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-revolutionary-social-networking-tools-for-2024/"><u>[Updated] Revolutionary Social Networking Tools for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/excel-boosted-by-ai-discover-these-3-powerful-uses-of-chatgpt/"><u>Excel Boosted by AI: Discover These 3 Powerful Uses of ChatGPT</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Hacks to do pokemon go trainer battles For Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-v-pursefrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor V PurseFRP Lock</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/maximizing-value-a-comprehvew-of-the-budget-friendly-ar-5-by-arcshell-with-impressive-specs/"><u>Maximizing Value: A Comprehvew of the Budget-Friendly AR-5 by ArcShell with Impressive Specs.</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-crafting-your-niche-top-8-courses-for-aspiring-creators/"><u>[New] 2024 Approved Crafting Your Niche Top 8 Courses for Aspiring Creators</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-virtual-evolution-dichotomy-metaverse-and-omniverse-compared/"><u>[New] The Virtual Evolution Dichotomy Metaverse & Omniverse Compared</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-best-hashtags-for-youtube-to-get-your-views-to-6-figures/"><u>[Updated] Best Hashtags for YouTube To Get Your Views to 6 Figures</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-list-of-outstanding-storytelling-youtubers-this-year/"><u>[Updated] The Ultimate List of Outstanding Storytelling YouTubers This Year</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/9/"><u>「最適なフラグメント化ビデオツール：9つの強力無料アプリ推薦」</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-top-6-cheapest-action-cameras-to-buy-under-100/"><u>2024 Approved Top 6 Cheapest Action Cameras to Buy Under $100</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/comprehensive-tutorial-determining-your-videos-bitrate-on-pc-and-mac-systems/"><u>Comprehensive Tutorial: Determining Your Video's Bitrate on PC & Mac Systems</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discover-the-ultimate-list-of-free-music-player-apps-top-12-picks-for-your-audio-needs/"><u>Discover the Ultimate List of FREE Music Player Apps - Top 12 Picks for Your Audio Needs</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/easy-steps-setting-up-dejavu-add-on-in-kodi-versions-19-and-18-for-ultimate-media-streaming/"><u>Easy Steps: Setting Up DejaVu Add-On in Kodi (Versions 19 and 18) for Ultimate Media Streaming</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/experience-enhanced-iphone-video-editing-with-the-newly-released-version-30-of-imovie-factory/"><u>Experience Enhanced iPhone Video Editing with the Newly Released Version 3.0 of iMovie Factory</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-nokia-c300-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Nokia C300? </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/mp3winxvideo-ai/"><u>MP3形式変換ガイド：Winxvideo AIで円熟した技術</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-human-advantage-in-writing-beyond-ai-boundaries/"><u>The Human Advantage in Writing Beyond AI Boundaries</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/bup-ifo-vobmp4/"><u>ビデオファイル変換入門：BUP, IFO, VOBを簡単にMP4に！初学者も楽しめるテクニック</u></a></li>
 </ul></div>
 

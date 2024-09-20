@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Tutorial for Adding Discord Server Roles for 2024"
-date: 2024-09-12T19:00:11.743Z
-updated: 2024-09-14T23:02:56.524Z
+date: 2024-09-14T01:16:19.873Z
+updated: 2024-09-20T10:43:16.322Z
 tags:
   - ai video
   - ai discord
@@ -73,10 +73,10 @@ Manage Nicknames – if enabled, a user can change other’s nicknames.
 Kick Members – a user with this authority can remove members from the server.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Text channel permissions
@@ -138,10 +138,10 @@ Before you can assign roles, you need a server. Once you have created your Disco
 4. When you are done, save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Assign Roles to Members in Discord?
@@ -155,10 +155,10 @@ To be able to assign roles, you should first create them
 1. You will notice that the color changes as per your settings. And this is how you assign roles to a server.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Manage Roles in Discord?
@@ -171,19 +171,6 @@ The quickest and easiest way to manage your bloating server is to let all member
 
 Further, you can easily figure out what roles you have assigned to whom. Due to these colors, the other members can identify moderators, admins, or other roles.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: How to Delete Roles in Discord?
 
 Honestly, removing Discord roles easier than setting them up. There are hardly a few steps that you need to follow for role removal.
@@ -193,6 +180,13 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 3. From the roles window, tap on the role that you wish to delete.
 1. Towards the bottom, you will see the option to delete the role.
 2. Press ok to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: How to Add Roles on Discord Mobile?
 
@@ -211,13 +205,6 @@ Before you can assign roles, you have to create them.
 * Save the changes.
 
 You can repeat this multiple times to create more roles.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. How to Assign Roles in Discord mobile app?
 
@@ -256,6 +243,19 @@ This is likely to happen if the server owner gave you the role of admin, but the
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -271,18 +271,13 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-youtube-title-generator/"><u>[New] Best YouTube Title Generator</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/aily-digital-dynasty-ranking-the-top-10-youtube-videos/"><u>[New] Daily Digital Dynasty Ranking the Top 10 YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-fortnite-cover-art-techniques/"><u>[Updated] 2024 Approved Fast Fortnite Cover Art Techniques</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-free-apps-to-record-and-preserve-your-discord-chats-professionally/"><u>[Updated] In 2024, Free Apps to Record and Preserve Your Discord Chats Professionally</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-legal-implications-of-youtube-video-savings/"><u>[Updated] In 2024, Legal Implications of YouTube Video Savings</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-perfect-your-discord-voices-avoiding-background-noise-with-voicemod/"><u>[Updated] In 2024, Perfect Your Discord Voices Avoiding Background Noise with VoiceMod</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unlocking-the-potential-of-discord/"><u>[Updated] In 2024, Unlocking the Potential of Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-sync-up-soundtracks-connecting-spotify-to-discord-effortlessly-for-2024/"><u>[Updated] Sync Up Soundtracks Connecting Spotify to Discord Effortlessly for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/direct-mp3-to-youtube-3-steps-for-seamless-video-posting-for-2024/"><u>Direct MP3 to YouTube 3 Steps for Seamless Video Posting for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/dissecting-ffmpegs-capabilities-for-pure-sound-formats-for-2024/"><u>Dissecting FFmpeg's Capabilities for Pure Sound Formats for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-7-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 7 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/overcome-cyberpunk-2077-launch-hurdles-update-details-inside/"><u>Overcome Cyberpunk 2077 Launch Hurdles - Update Details Inside</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/understanding-the-causes-of-geforce-experience-closure-errors-expert-tips-and-fixes/"><u>Understanding the Causes of GeForce Experience Closure Errors: Expert Tips & Fixes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029646234-mp3/"><u>覚えやすいMP3ファイルに音楽データを変換する方法 - ステップバイステップガイド</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-14-pro-max-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone 14 Pro Max Online</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-motorola-edge-2023-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Motorola Edge 2023 Phone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-screen-scanning-with-fraps-a-critical-review/"><u>In 2024, Screen Scanning with Fraps A Critical Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-lava-yuva-3-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Lava Yuva 3</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-your-guide-to-cost-free-android-screenshots/"><u>In 2024, Your Guide to Cost-Free Android Screenshots</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029567888-iphone-mp4/"><u>IPhone MP4ファイルプレイヤー設定：スムーズ再生とトラブルシューティング</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/3show/"><u>おすすめの動画編集ツールランキング：音楽読み込み機能付き最高の3つ探しまSHOW!</u></a></li>
 </ul></div>
 

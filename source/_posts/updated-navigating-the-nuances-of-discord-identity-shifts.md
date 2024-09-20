@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating the Nuances of Discord Identity Shifts"
-date: 2024-09-09T02:16:39.344Z
-updated: 2024-09-15T00:47:21.760Z
+date: 2024-09-16T07:13:46.903Z
+updated: 2024-09-19T20:10:03.742Z
 tags:
   - ai video
   - ai discord
@@ -115,32 +115,26 @@ You only have to follow the stepwise guide below to change your status on Discor
 ![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 5: How do you show what game you're playing on Discord?**
 
 Do you know Discord is a hookup outlet where gamers connect? Sound surprising? Yeah, with Discord, you can relate with like-minded gamers using its advanced features and customization options. You can Screen Share, add audio bots, and do lots more for free without hassles. In addition to that, Discord has an automatic detective system that looks at all that's running on your device and mostly recognizes popular verified game, though you can edit unverified games and programs using the steps outlined below.
 
 Sit back and learn how to show off what you're up to in the gaming realm!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **How to Display Game Status on Discord Desktop**
 
@@ -152,14 +146,14 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 ![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
-**Step 3:**Finally, click the Toggle to turn on the Game Status.
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Step 3:**Finally, click the Toggle to turn on the Game Status.
 
 ### **How to Display Game Status on Discord Mobile App**
 
@@ -170,10 +164,10 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 **Step 3:**On the Game Tab, all you've got to do is to toggle the switch to show your current game activity.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **FAQs About Discord Status**
@@ -203,13 +197,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-global-leaderboard-top-subscribers-by-youtube-star/"><u>[New] In 2024, Global Leaderboard Top Subscribers by YouTube Star</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-prime-video-recording-devices-top-10/"><u>[Updated] 2024 Approved The Prime Video Recording Devices Top 10</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-securing-success-navigating-channels-and-encodings-in-discord/"><u>[Updated] In 2024, Securing Success Navigating Channels and Encodings in Discord</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-making-mp3-from-instagram-visual-content/"><u>[Updated] Making MP3 From Instagram Visual Content</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-top-9-discord-banner-makers-and-how-to-make-a-profile-banner-for-2024/"><u>[Updated] Top 9 Discord Banner Makers and How to Make a Profile Banner for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/cutting-edge-accessories-for-virtual-worlds/"><u>Cutting-Edge Accessories for Virtual Worlds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-missing-camera-issue-in-snapchat-a-step-by-step-guide/"><u>How to Resolve the Missing Camera Issue in Snapchat: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/resolved-fixes-for-starcraft-ii-freezing-issues-on-windows-systems/"><u>Resolved: Fixes for StarCraft II Freezing Issues on Windows Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-insta-twist-techniques-for-tailoring-your-photos-on-the-fly/"><u>[New] 2024 Approved Insta-Twist Techniques for Tailoring Your Photos on the Fly</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-earning-potential-in-beauty-blogging/"><u>[New] Earning Potential in Beauty Blogging</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-on-the-spot-screen-savers-facebook-edition/"><u>[Updated] In 2024, On-the-Spot Screen Savers - Facebook Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/windows1011/"><u>「フォト」アプリを使ってWindows10/11でビデオ同士を組み合わせる詳しいガイド</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/acquiring-igtv-media-easily-a-comprehensive-pcmac-guide-for-2024/"><u>Acquiring IGTV Media Easily A Comprehensive PC/Mac Guide for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ensuring-a-smooth-experience-in-halo-infinite-by-resolving-pc-compatibility-issues-and-crashes/"><u>Ensuring a Smooth Experience in Halo Infinite by Resolving PC Compatibility Issues and Crashes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-conquering-the-world-of-instagram-reels-tips-inside/"><u>In 2024, Conquering the World of Instagram Reels – Tips Inside</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-vivo-y56-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Vivo Y56 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-guide-to-crafting-and-sharing-duets-on-tiktok-easily/"><u>The Complete Guide to Crafting and Sharing Duets on TikTok Easily</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ultimate-guide-to-the-4-leading-complimentary-avi-video-conversion-tools-for-pc-and-mac-users/"><u>Ultimate Guide to the 4 Leading Complimentary Avi Video Conversion Tools for PC and Mac Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ultimate-tutorial-mastering-video-cropping-on-your-pc-using-windows-video-editor/"><u>Ultimate Tutorial: Mastering Video Cropping on Your PC Using Windows Video Editor</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/windows-10tv/"><u>Windows 10で再生失敗するときのソニーブラビアTVへの解決策</u></a></li>
 </ul></div>
 

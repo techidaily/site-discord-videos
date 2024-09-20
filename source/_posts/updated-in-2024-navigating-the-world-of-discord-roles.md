@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Navigating the World of Discord Roles"
-date: 2024-09-11T01:12:47.233Z
-updated: 2024-09-14T17:41:14.689Z
+date: 2024-09-15T03:52:09.832Z
+updated: 2024-09-19T19:12:00.464Z
 tags:
   - ai video
   - ai discord
@@ -111,26 +111,26 @@ Priority Speaker – when this permission is turned on for a user, other’s
 this permission allows the user to reduce the volume of other users when this user is speaking so that their words are louder on the channel.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Advanced permissions
 
 Includes the 'Administrator' permission, which by default enables all the permissions to the assigned user.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make and Add Roles in Discord on Computer
 
 The desktop app and Browser resemble the mobile apple a lot. The process of assigning roles and configuring members is more or less the same across devices. First, you need to create roles and define their authority before assigning these roles to some members.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to create roles in Discord?
 
@@ -143,6 +143,13 @@ Before you can assign roles, you need a server. Once you have created your Disco
 2. Here, you can change the title off the roll and even choose the color.
 3. Now comes the time to grant some permissions. These are basically the authority that you gave to every profile.
 4. When you are done, save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Assign Roles to Members in Discord?
 
@@ -164,13 +171,6 @@ The quickest and easiest way to manage your bloating server is to let all member
 
 Further, you can easily figure out what roles you have assigned to whom. Due to these colors, the other members can identify moderators, admins, or other roles.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: How to Delete Roles in Discord?
 
 Honestly, removing Discord roles easier than setting them up. There are hardly a few steps that you need to follow for role removal.
@@ -181,16 +181,16 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 1. Towards the bottom, you will see the option to delete the role.
 2. Press ok to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: How to Add Roles on Discord Mobile?
 
 Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How to create roles in Discord mobile app?
 
@@ -205,6 +205,13 @@ Before you can assign roles, you have to create them.
 * Save the changes.
 
 You can repeat this multiple times to create more roles.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. How to Assign Roles in Discord mobile app?
 
@@ -243,13 +250,6 @@ This is likely to happen if the server owner gave you the role of admin, but the
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -265,21 +265,14 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-tailor-made-video-cuts-macs-top-mp4-slicers-revealed/"><u>[New] In 2024, Tailor-Made Video Cuts Mac's Top MP4 Slicers Revealed</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-youtube-video-screens-without-barriers/"><u>[Updated] 2024 Approved Enhancing YouTube Video Screens Without Barriers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-advanced-tips-for-bordered-instagram-photography/"><u>[Updated] Advanced Tips for Bordered Instagram Photography</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-mastering-privacy-settings-a-guide-to-discretion-in-streaming-for-2024/"><u>[Updated] Mastering Privacy Settings A Guide to Discretion in Streaming for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-saying-goodbye-a-guide-for-ending-your-discord-membership/"><u>[Updated] Saying Goodbye A Guide for Ending Your Discord Membership</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-stickers-for-discord-everything-you-need-to-know-for-2024/"><u>[Updated] Stickers for Discord Everything You Need to Know for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-strategies-for-departing-from-your-discord-clan/"><u>[Updated] Strategies for Departing From Your Discord Clan</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-tackling-tech-challenges-flawless-discord-screen-broadcasts-for-2024/"><u>[Updated] Tackling Tech Challenges Flawless Discord Screen Broadcasts for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-transforming-chat-dynamics-mastering-discords-text-styling-for-2024/"><u>[Updated] Transforming Chat Dynamics Mastering Discord's Text Styling for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-samsung-galaxy-s23plus-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Samsung Galaxy S23+ Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-fodt-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Add Your Digital Signature to a .fodt file Document</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-12-pro-how-to-unlock-a-disabled-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 12 Pro How to Unlock a Disabled Apple iPhone 12 Pro?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-increase-your-fb-popularity-top-ten-seo-best-practices/"><u>In 2024, Increase Your FB Popularity Top Ten SEO Best Practices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/maintain-your-system-update-device-drivers-on-windows-11-efficiently/"><u>Maintain Your System: Update Device Drivers on Windows 11 Efficiently</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-review-why-the-samsung-galaxy-a51-5g-is-a-must-have-for-savvy-shoppers/"><u>Top Review: Why the Samsung Galaxy A51 5G Is a Must-Have for Savvy Shoppers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/understanding-periscope-features-pricing-and-how-to-join/"><u>Understanding Periscope Features, Pricing & How To Join</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-swift-upload-of-sizeable-videos-from-iphone-to-mac-desktop/"><u>[New] 2024 Approved Swift Upload of Sizeable Videos From iPhone to Mac Desktop</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-mastering-3d-luts-complete-guide-for-2024/"><u>[New] Mastering 3D LUTs Complete Guide for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-from-instant-sharing-to-long-term-storage-snapshots-journey/"><u>[Updated] From Instant Sharing to Long-Term Storage Snapshots' Journey</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-perfect-picture-pro-the-best-phones-for-uncompromised-4k-video-quality/"><u>2024 Approved Perfect Picture Pro The Best Phones for Uncompromised 4K Video Quality</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/detailed-insight-into-the-features-of-apples-third-gen-4k-television-device/"><u>Detailed Insight Into the Features of Apple's Third Gen 4K Television Device</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-rated-video-convertors-from-avi-to-mp4-on-windows-10-and-11/"><u>Top Rated Video Convertors From AVI to MP4 on Windows 10 & 11</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/troubleshoot-your-dvd-player-a-comprehensive-guide-to-removing-skips-stops-and-glitches/"><u>Troubleshoot Your DVD Player: A Comprehensive Guide to Removing Skips, Stops, and Glitches</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/troubleshooting-get-dvd-shrink-functional-again-on-modern-windows-systems-10-and-11/"><u>Troubleshooting: Get DVD Shrink Functional Again on Modern Windows Systems (10 & 11)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/tutorial-how-to-stream-movies-and-show-via-usb-on-hisense-smart-tvs/"><u>Tutorial: How to Stream Movies and Show via USB on Hisense Smart TVs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Erase Thousands of Messages in Just a Few Clicks on Discord"
-date: 2024-09-10T00:13:55.297Z
-updated: 2024-09-14T21:02:42.492Z
+date: 2024-09-14T10:04:27.870Z
+updated: 2024-09-20T03:31:40.860Z
 tags:
   - ai video
   - ai discord
@@ -100,19 +100,6 @@ The procedure for deleting DMs from your Discord smartphone application applies 
 5. Confirm your decision by tapping 'Delete' once again
 6. The message will be deleted
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to Delete Channel Messages in Discord?
 
 This method has to be the most effective and easy way to delete a Discord message, and it's a simple, straightforward procedure:
@@ -136,10 +123,10 @@ Here is a more detailed breakdown of the sequence:
 At first glance, it seems like a long and tedious process, but once you get down to doing it and develop a rhythm, it is an easy task.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Deleting Message with Discord Clear Chat Bot
@@ -177,10 +164,10 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 ![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
@@ -258,6 +245,13 @@ If you are an admin or an owner of a server, you can delete other people's messa
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -273,14 +267,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-exploring-the-depths-of-discord-sticker-land/"><u>[Updated] In 2024, Exploring the Depths of Discord Sticker Land</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-mastering-communication-with-discord/"><u>[Updated] In 2024, Mastering Communication with Discord</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-samsung-galaxy-tab-s7-why-its-a-top-choice-in-mid-range-tablets/"><u>Comprehensive Guide to the Samsung Galaxy Tab S7 - Why It's a Top Choice in Mid-Range Tablets</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-the-8-most-engaging-smartphone-game-experiences/"><u>Discover the 8 Most Engaging Smartphone Game Experiences</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/expert-avi-file-changer-how-to-effortlessly-convert-your-avi-videos-into-different-media-formats/"><u>Expert AVI File Changer: How to Effortlessly Convert Your AVI Videos Into Different Media Formats</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/locating-the-dynamics-of-whistling-audio/"><u>Locating the Dynamics of Whistling Audio</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/solving-issues-with-non-responsive-phasmophobia-virtual-reality/"><u>Solving Issues with Non-Responsive Phasmophobia Virtual Reality</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-6-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone 6 from iCloud</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-tier-strategies-for-flawless-srt-file-integration-on-vero-and-tumblr-for-2024/"><u>Top-Tier Strategies for Flawless SRT File Integration on Vero & Tumblr for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-conquer-xbox-gameplay-with-efficient-recording-tools/"><u>2024 Approved Conquer Xbox Gameplay with Efficient Recording Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/7-steps-to-sensational-surprise-revelation-for-2024/"><u>7 Steps to Sensational Surprise Revelation for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/datmp4/"><u>簡単な手順でDATファイルからMP4へのスムーズな変換方法</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discover-the-top-12-video-players-that-can-replace-vlc-effectively/"><u>Discover the Top 12 Video Players That Can Replace VLC Effectively</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/efficient-methods-to-download-videos-from-4shared-using-a-reliable-converter/"><u>Efficient Methods to Download Videos From 4Shared Using a Reliable Converter</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-presentations-10-must-have-slide-show-designs-at-no-cost/"><u>Elevate Presentations 10 Must-Have Slide Show Designs at No Cost</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/exploring-the-distinctions-and-relationships-of-mpeg-4-vs-mp4-in-video-formats/"><u>Exploring the Distinctions & Relationships of MPEG-4 Vs. MP4 in Video Formats</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/guide-successfully-opening-and-viewing-avi-videos-on-windows-11/"><u>Guide: Successfully Opening and Viewing AVI Videos on Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-honor-play-40c-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Honor Play 40C Phones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protecting-apples-icloud-accounts-via-advanced-multi-level-authentication-techniques/"><u>Protecting Apple's iCloud Accounts via Advanced Multi-Level Authentication Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-elevated-cpu-utilization-in-god-of-war-expert-strategies/"><u>Solving Elevated CPU Utilization in God of War: Expert Strategies</u></a></li>
 </ul></div>
 

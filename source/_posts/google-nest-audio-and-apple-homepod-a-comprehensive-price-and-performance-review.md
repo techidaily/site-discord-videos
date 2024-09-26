@@ -1,7 +1,7 @@
 ---
 title: Google Nest Audio and Apple HomePod - A Comprehensive Price and Performance Review
-date: 2024-09-15T01:25:36.294Z
-updated: 2024-09-20T11:02:52.391Z
+date: 2024-09-25T05:57:59.082Z
+updated: 2024-09-26T07:54:41.076Z
 categories:
   - BestProducts
 description: This Article Describes Google Nest Audio and Apple HomePod - A Comprehensive Price and Performance Review
@@ -63,7 +63,27 @@ Lifewire / Jonno Hill
 
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/AbdriPZwiRfd8iHxT9N5E6Ae2hk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_03-d434cf7b4c5f4f73b08c8c220fd0d43e.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Design: Inoffensive but unexceptional**
 
@@ -81,13 +101,6 @@ Lifewire / Jonno Hill
 
  I’ve tested a lot of similar antennas recently, and the ClearStream Eclipse Antenna had the best results of any unpowered antenna, even beating out a few of the powered ones. From my apartment, I was able to get acquire an average of 65 channels across all my tests. For reference, the worst-performing antenna found just 47, and the best, 76\.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Range: Fair to middling**
 
  Antenna’s Direct rates the ClearStream Eclipse Antenna for up to 35 miles of range, although I’ve seen reports of people getting good results from further, or having trouble from much closer. My apartment is well within the supported range, so my sentiments reflect its use in city settings more than suburbs or exurbs.
@@ -95,30 +108,24 @@ Lifewire / Jonno Hill
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/i57THpEHitQ6h-N5c-bgGLEHwJs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_04-6ea1dbbe93374539876c7e76dcebb18e.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Not bad for the performance**
 
  The ClearStream Eclipse Antenna lands at an MSRP of $40, putting it towards the high end of the price spectrum, especially where non-powered antennas are concerned. It did do one of the best jobs of supporting as many channels as possible, so the price is somewhat justified. Then again, every single one of the indoor antennas I’ve tested was able to handle the major network channels clearly and without issue, so a high channel number might not mean more than peace of mind in practical terms.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **ClearStream Eclipse Antenna vs Winegard FL5500A FlatWave Antenna**
 
@@ -155,5 +162,22 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-fix-blurry-facebook-videos-in-smartphones-and-chromebooks/"><u>[New] 2024 Approved Fix Blurry Facebook Videos in Smartphones & Chromebooks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-ultimate-guide-to-youtube-keywords-for-peak-performance/"><u>[New] 2024 Approved The Ultimate Guide to YouTube Keywords for Peak Performance</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-innovative-emoji-design-software-that-transforms-discord/"><u>[New] Innovative Emoji Design Software that Transforms Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-strategies-for-departing-from-your-discord-clan-for-2024/"><u>[New] Strategies for Departing From Your Discord Clan for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-style-tutorial-for-discord-messages/"><u>[New] The Ultimate Style Tutorial for Discord Messages</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ultimate-guide-top-freefire-streams-and-strategies-on-youtube/"><u>[Updated] 2024 Approved Ultimate Guide Top FreeFire Streams & Strategies on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-androids-gratis-screen-capture-utility-for-2024/"><u>[Updated] Android's Gratis Screen Capture Utility for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-htcs-immersive-revolution-a-deep-dive-into-vr-headset-magic/"><u>[Updated] HTC's Immersive Revolution A Deep Dive Into VR Headset Magic</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-rank-8-real-world-video-promoters-for-success/"><u>[Updated] Rank 8 Real-World Video Promoters for Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-beginners-insight-into-av1-encoding/"><u>2024 Approved A Beginner's Insight Into AV1 Encoding</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/catchy-captions-the-ultimate-guide-to-animated-text-on-ig-for-2024/"><u>Catchy Captions The Ultimate Guide to Animated Text on IG for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/innovative-conversational-entities-discord/"><u>Innovative Conversational Entities (Discord)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/optimal-mobile-tech-for-discord-recording-for-2024/"><u>Optimal Mobile Tech for Discord Recording for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/power-up-your-discord-experience-with-the-art-of-adding-gifs/"><u>Power up Your Discord Experience with the Art of Adding GIFs</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/removing-redundant-conversations-a-comprehensive-guide-to-discarding-discord-chats/"><u>Removing Redundant Conversations A Comprehensive Guide to Discarding Discord Chats</u></a></li>
+</ul></div>
 

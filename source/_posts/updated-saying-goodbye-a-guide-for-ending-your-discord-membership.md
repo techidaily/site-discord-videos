@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Saying Goodbye  A Guide for Ending Your Discord Membership\""
-date: 2024-09-09T23:39:20.003Z
-updated: 2024-09-14T17:15:13.777Z
+date: 2024-09-25T09:27:58.374Z
+updated: 2024-09-30T19:14:05.890Z
 tags:
   - ai video
   - ai discord
@@ -56,6 +56,13 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Leave a Discord Server on the Mobile App?
 
 The procedure of leaving the server is more or less the same on the mobile app. The user interface of Discord does not differ much across the devices. To quit a server, follow these steps -
@@ -65,13 +72,40 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 
 ![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
 ![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
 If you have decided to take a break from gaming and Discord, you can consider uninstalling the app temporarily. You can also turn off the notifications in the app settings on your device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus: How to Transfer Discord Server Ownership?
 
@@ -138,12 +172,26 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/utoplay-youtube-on-mobile-no-distractions/"><u>[New] AutoPlay YouTube on Mobile, No Distractions!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fiscal-summary-producing-a-music-video/"><u>[New] Fiscal Summary Producing a Music Video</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-craft-intense-conversations-on-discord-learn-effective-message-pinning/"><u>[New] In 2024, Craft Intense Conversations on Discord Learn Effective Message Pinning</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-nextgen-flawless-frame-processor-windowsmac/"><u>[New] In 2024, NextGen Flawless Frame Processor (Windows/Mac)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-a-step-by-step-approach-to-discord-messaging/"><u>[Updated] 2024 Approved A Step-by-Step Approach to Discord Messaging</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-discovering-expert-seed-selection-for-valheimers/"><u>[Updated] Discovering Expert Seed Selection for Valheimers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-journey-to-certified-status-achieving-discord-partner-authenticity/"><u>[Updated] In 2024, Journey to Certified Status Achieving Discord Partner Authenticity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-zoom-with-precision-using-videoleap-software/"><u>[Updated] Zoom with Precision Using Videoleap Software</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-master-the-art-of-chatting-with-discords-speaking-function/"><u>2024 Approved Master the Art of Chatting with Discord's Speaking Function</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-nokia-g42-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Nokia G42 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-efficiently-utilizing-discord-spoiler-features/"><u>In 2024, Efficiently Utilizing Discord Spoiler Features</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-how-to-remove-a-desktop-discord-server/"><u>In 2024, How to Remove a Desktop Discord Server</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-unlocking-the-potential-of-live-broadcasting-on-discord/"><u>In 2024, Unlocking the Potential of Live Broadcasting on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/launch-a-seamless-live-experience-on-discord-with-these-steps/"><u>Launch a Seamless Live Experience on Discord with These Steps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-complete-blueprint-to-infuse-life-with-emojis-in-your-discord-statuses/"><u>The Complete Blueprint to Infuse Life with Emojis in Your Discord Statuses</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/the-ultimate-guide-to-using-popularereaders-understanding-kindle-kobo-vox-features/"><u>The Ultimate Guide to Using PopulareReaders: Understanding Kindle, Kobo Vox Features</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-reno-8t-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo Reno 8T Screen | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-amds-new-fsr-3-overtake-nvidias-advanced-dlss-tech/"><u>Will AMD's New FSR 3 Overtake NVIDIA’s Advanced DLSS Tech?</u></a></li>
+</ul></div>
 

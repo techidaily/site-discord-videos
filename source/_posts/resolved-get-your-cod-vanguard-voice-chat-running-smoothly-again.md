@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Get Your COD: Vanguard Voice Chat Running Smoothly Again!"
-date: 2024-09-14T01:21:37.905Z
-updated: 2024-09-20T05:50:25.683Z
+date: 2024-09-29T10:54:50.406Z
+updated: 2024-09-30T19:04:30.048Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
  Now run the game again and test to see whether chat is working. If it’s not, move on to Fix 2, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your sound card driver
 
  A missing or outdated sound card driver may also stop chat from working in Fortnite.
@@ -56,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Fortnite patch
 
  The developers of Fortnite release regular game patches to fix bugs. It’s possible that a recent patch has stopped your chat from working, and that a new patch is required to fix it.
@@ -68,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap911.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3.**Turn on** the toggle next to **Auto update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
@@ -85,20 +92,14 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Make sure your microphone is on for Fortnite
 
@@ -107,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
  1\. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Privacy** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
@@ -125,10 +133,10 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
@@ -141,16 +149,16 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Click the **Playback** tab, select the speakers/headphones you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
@@ -159,13 +167,6 @@ iii. Exit Fortnite.
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6\. Click **OK** .
 
@@ -184,6 +185,13 @@ iii. Exit Fortnite.
  2\. Click**Uninstall** to uninstall Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3\. Restart your PC.
 
@@ -212,5 +220,24 @@ iii. Exit Fortnite.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-effortlessly-broadcasting-tiktok-videos-to-facebook/"><u>[New] In 2024, Effortlessly Broadcasting TikTok Videos to Facebook</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-removing-discord-servers-step-by-step/"><u>[New] In 2024, Removing Discord Servers Step-by-Step</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-ultimate-style-tutorial-for-discord-messages/"><u>[New] In 2024, The Ultimate Style Tutorial for Discord Messages</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-connection-discord-networking-tips/"><u>[New] Mastering Connection Discord Networking Tips</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-strategic-message-management-expert-tips-for-discord-pinning/"><u>[New] Strategic Message Management Expert Tips for Discord Pinning</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-insiders-guide-to-identifying-hidden-discord-servers-for-2024/"><u>[New] The Insider's Guide to Identifying Hidden Discord Servers for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-immerse-in-pc-game-moments-capture-perfectly/"><u>[Updated] 2024 Approved Immerse in PC Game Moments - Capture Perfectly</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-make-your-mark-stand-out-with-youtube-studio-editing/"><u>[Updated] In 2024, Make Your Mark Stand Out with YouTube Studio Editing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-taking-control-of-quality-edit-your-published-videos-on-youtube/"><u>2024 Approved Taking Control of Quality Edit Your Published Videos on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-virtual-swordplay-showdown-find-your-match-in-these-games/"><u>2024 Approved Virtual Swordplay Showdown Find Your Match in These Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/breaking-down-the-m4-mac-mini-expected-retail-price-launch-window-and-in-depth-tech-details/"><u>Breaking Down the M4 Mac Mini - Expected Retail Price, Launch Window, and In-Depth Tech Details</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/breakthrough-in-digital-preservation-discover-stellars-revolutionary-image-restoration-application-changing-the-game-globally/"><u>Breakthrough in Digital Preservation: Discover Stellar's Revolutionary Image Restoration Application, Changing the Game Globally</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bridging-cultures-through-loves-languages/"><u>Bridging Cultures Through Love's Languages</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-a2-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi A2</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-navigating-the-end-of-an-online-chapter-in-discord/"><u>In 2024, Navigating the End of an Online Chapter in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/seamless-social-setup-from-desktops-to-phones-for-2024/"><u>Seamless Social Setup From Desktops to Phones for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/spotlight-on-visionary-creators-transforming-chat-visuals-for-2024/"><u>Spotlight on Visionary Creators Transforming Chat Visuals for 2024</u></a></li>
+</ul></div>
 

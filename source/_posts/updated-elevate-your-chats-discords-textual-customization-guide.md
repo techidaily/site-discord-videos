@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Elevate Your Chats  Discord's Textual Customization Guide\""
-date: 2024-09-09T01:43:19.516Z
-updated: 2024-09-10T01:43:19.516Z
+date: 2024-09-25T22:39:40.481Z
+updated: 2024-10-01T05:08:26.335Z
 tags:
   - ai video
   - ai discord
@@ -21,12 +21,6 @@ thumbnail: https://thmb.techidaily.com/919428e7eabfca4b711aa4a4cd51f4e93cb7908e2
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -57,12 +51,6 @@ Tips You May Not Want to Miss!!
 
 ![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Filmora Text Video Editor
 
 #### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -75,6 +63,13 @@ Filmora Text Video Editor
 
 [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Change Text Style in Discord with Markdown?
 
 As we mentioned previously, Markdown is completely text-based and has a very simple syntax. All you need to do to apply special formatting to your text is to enter a few special characters at the right places, and the appropriate effect (bold, italic…) will appear in the chat. Keep in mind that you can easily combine the formatting styles by using multiple commands at the same time.
@@ -83,12 +78,6 @@ Here is an overview of the most important options for changing text style in Dis
 
 ![Change Text Style in Discord  - Basic](https://images.wondershare.com/filmora/article-images/discord-change-text-style.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### **How to Bold Text in Discord?**
 
 A simple way to use bold text style is to add two asterisks (\*\*) at the beginning and the end of the text that you want to have this effect.
@@ -106,11 +95,12 @@ In order to get a strikethrough effect on your text, you will have to type two t
 Underline effect is also available on Discord and equally simple to activate. Just type two underscore dashes (\_\_)at the start and the ending of the text selection to apply it.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Combine Text Formatting Options in Discord?
 
 Once you mastered the basic effects and know the commands without thinking, it’s time to consider more complex text transformations that combine more than one effect. In principle, Markdown lets you do this just as easily, for as long as you know all the right combinations of characters that produce the desired effect. Here are the detailed instructions for some of the most frequently utilized combos:
@@ -122,11 +112,12 @@ For this elegant combination, use two underscore dashes (\_\_) followed by one a
 ![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
@@ -145,12 +136,6 @@ You can combine all four style changes as well – just use two tildes (\~\~), t
 
 ![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
 In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
@@ -180,18 +165,17 @@ The creation of a hidden text message that requires direct user action to reveal
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -199,3 +183,27 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-efficiently-utilizing-discord-spoiler-features/"><u>[New] 2024 Approved Efficiently Utilizing Discord Spoiler Features</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-15-youtube-recording-software-for-gamers/"><u>[New] Top 15 YouTube Recording Software for Gamers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweetvidsoundscape-instant-video-to-sound/"><u>[New] TweetVidSoundscape Instant Video-to-Sound</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unified-webcamscreen-capture-strategies/"><u>[New] Unified Webcam/Screen Capture Strategies</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-guide-to-elevating-your-chat-pin-messages-in-discord/"><u>[Updated] 2024 Approved Guide to Elevating Your Chat Pin Messages in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-cutting-edge-chatbot-allies-discord/"><u>[Updated] Cutting-Edge Chatbot Allies Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-from-basic-to-breathtaking-building-your-signature-discord-profile-photo/"><u>[Updated] In 2024, From Basic to Breathtaking Building Your Signature Discord Profile Photo</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-masterclass-on-minimizing-video-footage-in-youtube/"><u>[Updated] In 2024, Masterclass on Minimizing Video Footage in YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-uncomplicated-blueprint-for-crafting-successful-ads-online/"><u>[Updated] In 2024, Uncomplicated Blueprint for Crafting Successful Ads Online</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-crafting-a-graceful-exit-from-discord-communities/"><u>2024 Approved Crafting a Graceful Exit From Discord Communities</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-streamlining-your-experience-with-discord-spoiler-tag-usage/"><u>2024 Approved Streamlining Your Experience with Discord Spoiler Tag Usage</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1726227721903-aviaac-movavi/"><u>線上無需付費AVI到AAC轉化 - 試試Movavi便利變更器!</u></a></li>
+<li><a href="https://games-able.techidaily.com/custom-gameplay-audiovisual-experience-on-series-x/"><u>Custom Gameplay Audiovisual Experience on Series X</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/efficient-strategies-for-large-scale-tiktok-content-acquisition-for-2024/"><u>Efficient Strategies for Large Scale TikTok Content Acquisition for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/efficiently-managing-discord-spoiler-tags-in-chats-for-2024/"><u>Efficiently Managing Discord Spoiler Tags in Chats for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-infinix-smart-8-hd-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Infinix Smart 8 HD Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/navigating-discord-live-a-users-blueprint-for-2024/"><u>Navigating Discord Live A User's Blueprint for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/uninstall-discord-server-on-all-devices-for-2024/"><u>Uninstall Discord Server on All Devices for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-potential-of-gopros-burst-functionality-for-2024/"><u>Unlocking the Potential of GoPro's Burst Functionality for 2024</u></a></li>
+</ul></div>
+

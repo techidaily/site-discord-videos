@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Tutorial for Adding Discord Server Roles for 2024"
-date: 2024-09-14T01:16:19.873Z
-updated: 2024-09-20T10:43:16.322Z
+date: 2024-09-27T17:06:30.369Z
+updated: 2024-09-30T20:23:21.735Z
 tags:
   - ai video
   - ai discord
@@ -60,6 +60,19 @@ Manage Webhooks – if you have this authority, you can add, modify, and remove 
 
 Read Text Channels & See Voice Channels – a user with this permission can read text channels.
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Membership permissions
 
 Ban Members – a member with permission, can ban members from the server.
@@ -73,10 +86,16 @@ Manage Nicknames – if enabled, a user can change other’s nicknames.
 Kick Members – a user with this authority can remove members from the server.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Text channel permissions
@@ -137,13 +156,6 @@ Before you can assign roles, you need a server. Once you have created your Disco
 3. Now comes the time to grant some permissions. These are basically the authority that you gave to every profile.
 4. When you are done, save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Assign Roles to Members in Discord?
 
 To be able to assign roles, you should first create them
@@ -153,13 +165,6 @@ To be able to assign roles, you should first create them
 3. Here, you will see the list of all the members on your server, tap the Plus sign that is right beside the username.
 4. From the drop-down menu that appears, select a role you want to assign to that member.
 1. You will notice that the color changes as per your settings. And this is how you assign roles to a server.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Manage Roles in Discord?
 
@@ -181,16 +186,16 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 1. Towards the bottom, you will see the option to delete the role.
 2. Press ok to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: How to Add Roles on Discord Mobile?
 
 Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How to create roles in Discord mobile app?
 
@@ -206,6 +211,13 @@ Before you can assign roles, you have to create them.
 
 You can repeat this multiple times to create more roles.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. How to Assign Roles in Discord mobile app?
 
 * Head over to settings and select 'Members.'
@@ -213,6 +225,19 @@ You can repeat this multiple times to create more roles.
 * Tick the boxes beside each member’s name for the roles you are assigning them.
 
 Save the changes, and you are good to go! You can assign multiple roles to a member.
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 6: FAQs about Discord Server Roles
 
@@ -243,19 +268,6 @@ This is likely to happen if the server owner gave you the role of admin, but the
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -269,5 +281,17 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-digital-transformation-techniques-for-vhs-photos-via-pconline/"><u>[New] In 2024, Digital Transformation Techniques for VHS Photos via PC/Online</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-affordable-graphic-creation-free-discord-emblems-online/"><u>[Updated] Affordable Graphic Creation FREE Discord Emblems Online</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-download-discord-videos-free/"><u>[Updated] How to Download Discord Videos FREE?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-become-a-zoom-maestro-host-with-ease/"><u>[Updated] In 2024, Become a Zoom Maestro Host with Ease</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/automate-clean-up-tasks-on-your-mac-using-the-standard-version-of-stellar-file-eraser/"><u>Automate Clean-Up Tasks on Your Mac Using the Standard Version of Stellar File Eraser</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-4k-video-test-hc-wxf991-verdict/"><u>Ultimate 4K Video Test: HC-WXF991 Verdict</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/understanding-the-implications-before-quitting-discord-for-2024/"><u>Understanding the Implications Before Quitting Discord for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-the-role-of-ntuserdat-the-essential-windows-registry-file/"><u>Understanding the Role of NTUSER.DAT: The Essential Windows Registry File</u></a></li>
+</ul></div>
 

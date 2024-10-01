@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Breaking Down Discord’s Report Mechanism for Clarity and Action"
-date: 2024-09-09T01:43:18.637Z
-updated: 2024-09-10T01:43:18.637Z
+date: 2024-09-25T21:14:04.737Z
+updated: 2024-10-01T11:47:43.929Z
 tags:
   - ai video
   - ai discord
@@ -21,18 +21,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -73,23 +61,11 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 
 ![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
 ![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
 
 1. Right-click on their username
@@ -114,11 +90,12 @@ Also, it would help if you gave context regarding your report describing how and
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Report Users on Discord on iPhone And Android
 
 Just like on a desktop, you will first need to enable developer mode.
@@ -146,6 +123,13 @@ Now, you can send this information to the [Trust and Safety team](https://suppor
 1. Paste the two links copied earlier in the "Description Box"
 2. Provide your email address along with the context behind the situation
 3. Click on "Submit"
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Kick People on Discord
 
@@ -176,21 +160,16 @@ If you happen to be a moderator or server owner, you have the authority to kick 
 4. Click on "Kick" again to confirm your decision
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: FAQs About Discord Reporting
 
 There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Can I Report People on Discord Anonymously?
 
 According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
@@ -206,17 +185,12 @@ After conducting their research and deciding upon a punishment, the T&S team wil
 In minor offenses, the T&S team will reach out to the reporter and teach them how to block the user rather than take direct action.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Can You Report Someone on Discord for Being Under 13?
 
 Individuals under the age of 13 are not permitted to use Discord unless they have permission from a parent or guardian. However, it is not very easy to prove that the user is below a certain age.
@@ -231,11 +205,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-experts-take-on-vivacut-full-video-editing-review-24/"><u>[New] 2024 Approved Expert's Take on VivaCut Full Video Editing Review '24</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-slack-vs-discord-debate-optimal-team-collaboration-platforms/"><u>[New] 2024 Approved Slack Vs. Discord Debate Optimal Team Collaboration Platforms</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-quickly-quicken-recognition-with-these-disco-tags-for-2024/"><u>[New] Quickly Quicken Recognition with These Disco Tags for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-discreet-route-to-disengage-from-discord-networks/"><u>[New] The Discreet Route to Disengage From Discord Networks</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-emoji-magic-for-enhanced-discord-statues/"><u>[Updated] In 2024, Emoji Magic for Enhanced Discord Statues</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-initiating-live-channels-your-comprehensive-guide/"><u>[Updated] In 2024, Initiating Live Channels Your Comprehensive Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-step-by-step-how-to-delete-a-discord-server/"><u>[Updated] In 2024, Step-by-Step How to Delete a Discord Server</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-real-time-interaction-best-practices-for-discord-streamers/"><u>[Updated] Real-Time Interaction Best Practices for Discord Streamers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/best-honor-frp-bypass-guide-by-drfone-android/"><u>Best Honor FRP Bypass Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diving-into-tech-with-toms-hardware-in-depth-guides-and-evaluations/"><u>Diving Into Tech with Tom's Hardware - In-Depth Guides & Evaluations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-coding-experience-6-surpreruses-of-chatgpts-language-processor/"><u>Enhance Your Coding Experience: 6 Surpreruses of ChatGPT's Language Processor</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-battery-life-to-final-cut-a-drone-editors-journey/"><u>From Battery Life to Final Cut A Drone Editor's Journey</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-engage-your-audience-in-live-discord-streams-easily/"><u>How to Engage Your Audience in Live Discord Streams Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-insights-switching-from-webp-to-jpg-format/"><u>In 2024, Expert Insights Switching From WebP to JPG Format</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-pre-windows-era-to-modern-windows-11-today/"><u>In 2024, From Pre-Windows Era To Modern Windows 11 Today</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-end-your-struggles-with-choppy-playback-on-davinci-resolve-read-this-guide-to-find-effective-fixes-and-reliable-davinci-resolve-slow-playb/"><u>New 2024 Approved End Your Struggles with Choppy Playback on DaVinci Resolve. Read This Guide to Find Effective Fixes and Reliable DaVinci Resolve Slow Playback Alternatives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/positive-persuasion-techniques-for-listener-loyalty-for-2024/"><u>Positive Persuasion Techniques for Listener Loyalty for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unlocking-animated-visuals-on-discord-without-nitro-subscription-for-2024/"><u>Unlocking Animated Visuals on Discord without Nitro Subscription for 2024</u></a></li>
+</ul></div>
+

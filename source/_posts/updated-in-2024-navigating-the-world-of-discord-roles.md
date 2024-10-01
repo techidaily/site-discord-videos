@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Navigating the World of Discord Roles"
-date: 2024-09-15T03:52:09.832Z
-updated: 2024-09-19T19:12:00.464Z
+date: 2024-09-24T12:21:35.508Z
+updated: 2024-10-01T03:08:08.300Z
 tags:
   - ai video
   - ai discord
@@ -110,27 +110,20 @@ Priority Speaker – when this permission is turned on for a user, other’s
 
 this permission allows the user to reduce the volume of other users when this user is speaking so that their words are louder on the channel.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Advanced permissions
 
 Includes the 'Administrator' permission, which by default enables all the permissions to the assigned user.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Make and Add Roles in Discord on Computer
 
 The desktop app and Browser resemble the mobile apple a lot. The process of assigning roles and configuring members is more or less the same across devices. First, you need to create roles and define their authority before assigning these roles to some members.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to create roles in Discord?
 
@@ -145,10 +138,10 @@ Before you can assign roles, you need a server. Once you have created your Disco
 4. When you are done, save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Assign Roles to Members in Discord?
@@ -186,10 +179,10 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. How to create roles in Discord mobile app?
@@ -207,10 +200,10 @@ Before you can assign roles, you have to create them.
 You can repeat this multiple times to create more roles.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How to Assign Roles in Discord mobile app?
@@ -220,6 +213,13 @@ You can repeat this multiple times to create more roles.
 * Tick the boxes beside each member’s name for the roles you are assigning them.
 
 Save the changes, and you are good to go! You can assign multiple roles to a member.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 6: FAQs about Discord Server Roles
 
@@ -263,5 +263,18 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-complete-guide-to-sharing-your-desktop-on-discord/"><u>[New] In 2024, The Complete Guide to Sharing Your Desktop on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-unveiling-the-best-top-10-for-dating-in-discord/"><u>[New] In 2024, Unveiling the Best Top 10 for Dating in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-masterful-bot-networks-on-discord-for-2024/"><u>[New] Masterful Bot Networks on Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-prime-apps-as-substitutes-for-discord-for-2024/"><u>[New] Prime Apps as Substitutes for Discord for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-automate-playlist-retrieval-from-youtube-directly/"><u>[Updated] Automate Playlist Retrieval From YouTube Directly</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-celebrating-cinemas-most-uplifting-scenes-and-stories/"><u>2024 Approved Celebrating Cinema's Most Uplifting Scenes & Stories</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-essential-techniques-for-crafting-efficient-thumbnails/"><u>2024 Approved Essential Techniques for Crafting Efficient Thumbnails</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-how-to-remove-a-desktop-discord-server/"><u>2024 Approved How to Remove a Desktop Discord Server</u></a></li>
+<li><a href="https://video-capture.techidaily.com/elevate-your-media-conversion-with-premier-alternatives-to-leawo-dvd-ripper/"><u>Elevate Your Media Conversion with Premier Alternatives to Leawo DVD Ripper</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leveraging-fb-media-speeds-up-strategies/"><u>Leveraging FB Media Speeds Up Strategies</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-itel-a60-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Itel A60 Device</u></a></li>
+</ul></div>
 

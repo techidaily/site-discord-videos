@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Network Necessities  How to Add Friends on Devices for 2024\""
-date: 2024-09-10T21:21:52.998Z
-updated: 2024-09-14T22:40:53.948Z
+date: 2024-09-25T09:53:28.966Z
+updated: 2024-10-01T01:15:19.333Z
 tags:
   - ai video
   - ai discord
@@ -46,6 +46,13 @@ If you are using a desktop app or the website, here is how you can add friends -
 
 ![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
 2. Hit the send friend request button to send the friend request.
 
@@ -54,6 +61,13 @@ If you are using a desktop app or the website, here is how you can add friends -
 1. The friend will appear in your friend list once they accept your friend request.
 
 Now you can chat with them personally.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. How to add friends on Discord Server
 
@@ -73,6 +87,13 @@ Similarly, if a person (who’s not on your Friends List) has messaged you direc
 
 To do this, open your chat list by clicking on your profile. Find the person you want to add to the chat list, and right-click on their profile. Tap the ‘Add Friend’ option. This is the fastest way to add friends on Discord without their user tag.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Add friends on Discord on Android and iOS?
 
 The user interface of discord is more or less the same across various devices. The process of adding friends is quite similar to the one we discussed for the computer.
@@ -80,16 +101,10 @@ The user interface of discord is more or less the same across various devices. T
 You cannot use discord over a phone's browser. To use discord on your phone, you have to download the app. It is available on Google Play Store and App Store. Once you have downloaded the app and logged in, here is **how to add people on Discord**.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. How to Add friends directly on Discord Mobile
@@ -122,17 +137,17 @@ Follow these steps to add a friend that you met on the server.
 
 ![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Your friend request will be delivered.
 2. Once they approve, they will be a part of your friend list.
 
 Likewise, you can build a community of your own by creating a new server. You can invite your friends or people that you met while playing games or obsessing over some fandom.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Find Someone and Add Friends on Discord Without Number
 
@@ -148,13 +163,6 @@ In case you have been using discord for a while, you might have realized that th
 1. Ask your friend to turn on the Nearby Scan mode on their phone too.
 
 ![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. When your friend gets detected, they appear on the radar.
 2. Hit the ‘Send’ button to send a Friend Request.
@@ -176,16 +184,16 @@ On Discord channels, it always ‘the more, the merrier.’ And your server can 
 
 ![add friends to Discord Server via invitation links](https://images.wondershare.com/filmora/article-images/add-friends-to-discord-server-via-invitation-link.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. The invitation link typically expires in a day. But you can change this setting to ‘set this link to never expire.
 
 ![set Discord invitation links](https://images.wondershare.com/filmora/article-images/set-discord-invitation-link.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Share this link with your friends over other social media apps to invite them.
 2. Your friends will show up on the member list of your channel when they accept your invite and follow the link.
@@ -212,5 +220,21 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-visual-storytelling-101-mastering-the-art-of-posting-images-on-youtube-for-2024/"><u>[New] Visual Storytelling 101 Mastering the Art of Posting Images on YouTube for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-capturing-the-extreme-the-gopro-hero5-black-vs-hero4-silver-duel/"><u>[Updated] Capturing the Extreme The GoPro Hero5 Black Vs Hero4 Silver Duel</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-delving-into-the-world-of-audio-dissolves-crossfade/"><u>[Updated] In 2024, Delving Into the World of Audio Dissolves (Crossfade)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1-best-guide-transform-gsm-audio-files-into-mp3-format-at-no-cost/"><u>1. [Best Guide] Transform GSM Audio Files Into MP3 Format at No Cost</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-personal-information-safety-understanding-the-risks-involved/"><u>ChatGPT and Personal Information Safety: Understanding the Risks Involved</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/download-wonderfoxs-latest-rip-from-dvd-to-mobile-version-20-now-available/"><u>Download WonderFox's Latest Rip From DVD to Mobile - Version 2.0 Now Available!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-methods-for-blocking-youtube-content-on-ios-devices/"><u>Effective Methods for Blocking YouTube Content on iOS Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-your-icloud-email-security-with-2fa/"><u>Enhancing Your iCloud Email Security with 2FA</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/expert-guide-to-rapidly-access-kickasstorrents-your-ultimate-source-for-movies-music-and-games/"><u>Expert Guide to Rapidly Access KickAssTorrents – Your Ultimate Source for Movies, Music & Games</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mp4-to-dvd-transformation-a-comprehensive-tutorial-for-microsoft-users/"><u>MP4 to DVD Transformation: A Comprehensive Tutorial for Microsoft Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/preventing-disruptions-from-windows-710s-printer-service/"><u>Preventing Disruptions From Windows 7/10'S Printer Service</u></a></li>
+<li><a href="https://fox-access.techidaily.com/slowly-suppressing-audio-loudness-for-2024/"><u>Slowly Suppressing Audio Loudness for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/solving-the-0xc004f011-boot-failure-in-windows-11-a-step-by-step-guide/"><u>Solving the 0xC004F011 Boot Failure in Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-transforming-mp4-videos-into-compatible-flv-format/"><u>Step-by-Step Guide: Transforming MP4 Videos Into Compatible FLV Format</u></a></li>
+</ul></div>
 

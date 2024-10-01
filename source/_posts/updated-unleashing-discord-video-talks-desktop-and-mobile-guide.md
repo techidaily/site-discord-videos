@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unleashing Discord Video Talks - Desktop & Mobile Guide\""
-date: 2024-09-09T16:09:44.934Z
-updated: 2024-09-14T17:13:34.965Z
+date: 2024-09-24T11:39:47.185Z
+updated: 2024-09-30T18:58:09.941Z
 tags:
   - ai video
   - ai discord
@@ -52,6 +52,13 @@ One quick note for the web browser version of Discord – you’ll be asked to g
 
 Once you are happy, just click the close button at the top right of the settings options.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make a Private Video Call on Discord?
 
 Once you’ve got your settings ready, you’re set to make your private Discord video call. If you’re doing it on the web browser or desktop app, you’ll need to first navigate to the inbox you share with the person you want to call. Do this by clicking on the Home button at the top left – you’ll then get a list of all your contacts.
@@ -59,6 +66,13 @@ Once you’ve got your settings ready, you’re set to make your private Discord
 If you’re only calling one person then it’s easy – just click on their name.
 
 ![Discord Video Call with Friends ](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you want to call a private group, you need to click the + button and then create a group DM. Add the names of the users you want to call.
 
@@ -78,6 +92,13 @@ You’ll need to give permissions for the Discord mobile app to use your microph
 
 Once you’ve finished your video call on either desktop or mobile, just hit the red button to end it and switch your camera off again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Make a Server Video Call on Discord?
 
 If you want to make a group video call on a public server, you again need to first navigate to the server. Once you’re there, you’ll need to join the voice channel that you should see on the left side of the screen.
@@ -85,6 +106,13 @@ If you want to make a group video call on a public server, you again need to fir
 Once you’re in the voice channel, click Lounge, Community Hangout or Stream Room, and then switch on your camera by clicking the ‘Video’ button. You’ll find this at the bottom-left of the screen. Again, if you’re on the web browser, you’ll be asked by your browser for permission to use your camera at this stage.
 
 ![Discord Server Video Call  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 And that’s it – the video call is now live and anyone who joins the voice channel will be able to see you, chat to you and switch on their camera to join the video conference as well.
 
@@ -95,13 +123,6 @@ On mobile, it’s slightly different. You’ll still want to head to the server 
 If you prefer, you can still just join as voice, and then at any stage click on your name where you’ll be able to then switch on your camera to turn a voice chat into a video call.
 
 Whenever you want to end the video call, just click on your name again to switch off your camera, or disconnect completely from the voice channel.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQs About Discord Video Chat Call
 
@@ -119,13 +140,6 @@ If instead, it’s a public server where a video call is happening, you just nee
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -139,5 +153,22 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-discover-8-vibrant-online-platforms-offering-no-cost-emojis/"><u>[Updated] 2024 Approved Discover 8 Vibrant Online Platforms Offering No-Cost Emojis</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-premium-dating-groups-in-discord-server-land/"><u>[Updated] 2024 Approved Premium Dating Groups in Discord Server Land</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-spotlight-on-the-innovators-shaping-discords-visual-language/"><u>[Updated] 2024 Approved Spotlight on the Innovators Shaping Discord's Visual Language</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-a-compact-guide-to-using-discord-spoiler-tags-for-2024/"><u>[Updated] A Compact Guide to Using Discord Spoiler Tags for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-dissolving-ties-how-to-break-away-from-discord-servers-for-2024/"><u>[Updated] Dissolving Ties How to Break Away From Discord Servers for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-designing-an-attractive-pfp-for-discord-chat-rooms/"><u>[Updated] In 2024, Designing an Attractive Pfp for Discord Chat Rooms</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-expertly-engineered-font-tools-for-discord-channels/"><u>[Updated] In 2024, Expertly Engineered Font Tools for Discord Channels</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-virtual-escapades-for-android-select-15-exciting-simulations-for-2024/"><u>[Updated] Top Virtual Escapades for Android Select 15 Exciting Simulations for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-dial-in-the-perfect-accessories-for-dynamic-videos/"><u>2024 Approved Dial in the Perfect Accessories for Dynamic Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-the-latest-free-gom-media-player-for-mac-without-compromise/"><u>Download the Latest Free GOM Media Player for Mac Without Compromise</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-tips-on-creating-striking-ae-titles/"><u>Expert Tips on Creating Striking AE Titles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/insight-into-how-luts-transform-your-digital-canvas-for-2024/"><u>Insight Into How LUTs Transform Your Digital Canvas for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/snowrunner-stability-solutions-for-gaming-on-windows-pcs/"><u>SnowRunner Stability Solutions for Gaming on Windows PCs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-a79-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Oppo A79 5G Device</u></a></li>
+</ul></div>
 

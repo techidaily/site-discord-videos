@@ -1,7 +1,7 @@
 ---
 title: "Your Quick Reference to Discord Spoiler Usage for 2024"
-date: 2024-09-18T10:58:03.897Z
-updated: 2024-09-20T02:40:35.515Z
+date: 2024-09-25T19:43:22.887Z
+updated: 2024-10-01T01:43:22.167Z
 tags:
   - ai video
   - ai discord
@@ -69,7 +69,21 @@ This alternate method is quite simple. This was a recent update on Discord that 
 
 ![add spoiler marker on Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-icon.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This method is available only on the Discord desktop app and browser version. For iOS, the steps are similar. The only difference is that you have to select the spoiler mark from the context menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Add Spoiler to Image and Video on Discord?
 
@@ -92,10 +106,10 @@ Images can be tagged as spoilers before you upload them on servers. To add spoil
 Note that spoilers that contain images, videos, or other multimedia files can be sent only on the desktop app or the browser. Mobile apps do not support spoiler marks for images or other media files.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus: Is it the same to use Spoiler on Mobile devices?
@@ -111,6 +125,13 @@ You can even mark embedded links as spoilers with the same process. But this doe
 
 For iOS, you can select and highlight the text that you want to hide. Then, tap open the context menu and click on the ‘Mark as Spoiler’ to hide the text.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bonus: How to turn off the Spoiler tag?
 
 For some reason, you may want to remove the spoiler tag from the spoiler texts. In that case, open the User Settings and tap on Text & Images. Scroll down to the Show Spoiler Content tab and you will see options to control when spoiler content is displayed. You can choose to display on click, on servers I moderate, and always.
@@ -118,13 +139,6 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
 ![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
@@ -143,5 +157,21 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-start-spoken-discord-chats-text-to-speech-steps/"><u>[New] In 2024, Start Spoken Discord Chats Text-To-Speech Steps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-steps-for-a-smooth-departure-in-online-gatherings/"><u>[New] In 2024, Steps for a Smooth Departure in Online Gatherings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-complete-guide-to-upgrading-mp4-with-premium-srt-sound/"><u>[New] The Complete Guide to Upgrading MP4 With Premium SRT Sound</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unlocking-respectful-dialogue-a-strategy-guide-to-reporting-misconduct-in-online-communities-for-2024/"><u>[New] Unlocking Respectful Dialogue A Strategy Guide to Reporting Misconduct in Online Communities for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-adobe-tips-resurrect-the-color-of-faded-iphone-hdr-in-video-editing/"><u>2024 Approved [Professional Adobe Tips] Resurrect the Color of Faded iPhone HDR in Video Editing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-xiaomi-redmi-note-12r-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Xiaomi Redmi Note 12R Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-your-screen-on-pc-free-ways-to-do-it/"><u>Capturing Your Screen on PC Free Ways to Do It</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c32-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C32 Phone FRP Lock</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-actually-less-clever-a-reassurance-from-openai/"><u>Is ChatGPT Actually Less Clever? A Reassurance From OpenAI</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/premium-font-fabrication-tools-for-discord-users/"><u>Premium Font Fabrication Tools for Discord Users</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-enlargement-win11-taskbar-icons-reimagined/"><u>The Art of Enlargement: Win11 Taskbar Icons Reimagined</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-complete-guide-to-transforming-your-discord-avatar-from-ordinary-to-extraordinary-for-2024/"><u>The Complete Guide to Transforming Your Discord Avatar From Ordinary to Extraordinary for 2024</u></a></li>
+</ul></div>
 

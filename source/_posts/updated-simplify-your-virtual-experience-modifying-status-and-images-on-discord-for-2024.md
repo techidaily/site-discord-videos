@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Simplify Your Virtual Experience  Modifying Status & Images on Discord for 2024\""
-date: 2024-09-11T06:00:22.898Z
-updated: 2024-09-14T20:25:45.326Z
+date: 2024-09-27T07:05:45.796Z
+updated: 2024-09-30T17:02:41.203Z
 tags:
   - ai video
   - ai discord
@@ -88,6 +88,13 @@ Step 3: Click the Cross icon to clear custom status.
 
 ![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
 Changing discord status on windows/Mac computers is very simple, and the Discord interface for both Mac and Windows systems is the same. Thus there's no need to use any distinct steps. If you have read the content above, you may already know how to change the status on Discord.
@@ -99,10 +106,10 @@ Changing discord status on windows/Mac computers is very simple, and the Discord
 **Step 3:**Up next, click on the Set status option! This time you'll see four preset statuses to choose excluding the Custom status option. All you've got to do is choose your preferred option to proceed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part 4: How to Change Discord Status on Android, iPhone, or iPad?**
@@ -121,14 +128,14 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 ![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 5: How do you show what game you're playing on Discord?**
 
@@ -136,18 +143,24 @@ Do you know Discord is a hookup outlet where gamers connect? Sound surprising? Y
 
 Sit back and learn how to show off what you're up to in the gaming realm!
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **How to Display Game Status on Discord Desktop**
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
 ![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
@@ -156,10 +169,10 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **How to Display Game Status on Discord Mobile App**
@@ -171,6 +184,13 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 **Step 3:**On the Game Tab, all you've got to do is to toggle the switch to show your current game activity.
 
 ## **FAQs About Discord Status**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **1\. How can you change the Discord status automatically?**
 
@@ -195,5 +215,21 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-quick-start-to-smooth-volume-increase/"><u>[New] Quick Start to Smooth Volume Increase</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ignite-social-media-fanfare-master-these-9-instagram-commandments/"><u>[Updated] Ignite Social Media Fanfare Master These 9 Instagram Commandments</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-cleaner-frames-with-advanced-webcam-tech/"><u>2024 Approved Cleaner Frames with Advanced Webcam Tech</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-unlock-youtube-power-with-insights-from-creator-studio/"><u>2024 Approved Unlock YouTube Power with Insights From Creator Studio</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-depth-review-of-ivona-text-to-speech-by-nextup-technologies/"><u>New In-Depth Review of Ivona Text to Speech by NextUp Technologies</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-admin-restricted-setup-issues-in-windows/"><u>Overcoming Admin-Restricted Setup Issues in Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/photorepair-pro-fixing-images-with-stellar-window-edition/"><u>Photorepair Pro: Fixing Images with Stellar Window Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-uploading-and-sharing-your-facebook-videos-on-youtube-efficiently/"><u>Step-by-Step Guide: Uploading and Sharing Your Facebook Videos on YouTube Efficiently</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/successful-conversion-of-ismv-files-to-mp4-solving-playback-problems/"><u>Successful Conversion of ISMV Files to MP4 - Solving Playback Problems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-rated-dvd-to-mkv-converter-software-of-2024-for-windows-users/"><u>Top Rated DVD to MKV Converter Software of 2024 for Windows Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/troubleshooting-guide-effective-steps-for-repairing-mp4-to-windows-dvd-compatibility-errors/"><u>Troubleshooting Guide: Effective Steps for Repairing MP4-to-Windows DVD Compatibility Errors</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/troubleshooting-tips-for-resolving-could-not-retrieve-directory-information-errors-on-kodi-devices/"><u>Troubleshooting Tips for Resolving 'Could Not Retrieve Directory Information' Errors on Kodi Devices</u></a></li>
+</ul></div>
 

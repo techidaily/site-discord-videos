@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Change Text Style in Discord | 3 Methods"
-date: 2024-09-08T04:49:29.477Z
-updated: 2024-09-14T16:15:31.929Z
+date: 2024-09-28T12:02:33.542Z
+updated: 2024-10-01T13:03:08.685Z
 tags:
   - ai video
   - ai discord
@@ -71,6 +71,19 @@ Here is an overview of the most important options for changing text style in Dis
 
 ![Change Text Style in Discord  - Basic](https://images.wondershare.com/filmora/article-images/discord-change-text-style.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **How to Bold Text in Discord?**
 
 A simple way to use bold text style is to add two asterisks (\*\*) at the beginning and the end of the text that you want to have this effect.
@@ -97,6 +110,13 @@ For this elegant combination, use two underscore dashes (\_\_) followed by one a
 
 ![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
@@ -109,18 +129,18 @@ This combination is achieved by placing two underscore marks (\_\_) and three st
 
 ![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
 ![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
@@ -133,6 +153,13 @@ It’s not possible to alter the default text color from the native user interfa
 To change the text color, you should create a simple, three-line block. In the top line, you need to put three backtick characters (”’) along with a code phrase corresponding to the text color you would like to use. In the second line, you should type your entire text normally, while the bottom line should include three more backticks. You can create new lines by pressing the Shift and Enter keys at the same time.
 
 Here is a detailed video tutorial for creating customized text in a range of different colors with all the relevant code phrases.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs About Discord Text Formatting
 
@@ -150,19 +177,6 @@ The creation of a hidden text message that requires direct user action to reveal
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -176,5 +190,21 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-science-and-art-of-engaging-youtube-audiences/"><u>[New] 2024 Approved The Science and Art of Engaging YouTube Audiences</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-the-whole-picture-not-just-slices-of-it/"><u>[New] Capturing the Whole Picture, Not Just Slices of It</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-from-idea-to-reality-examining-mycams-video-recorder-performance/"><u>[New] From Idea to Reality Examining MyCam’s Video Recorder Performance</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-making-the-most-of-your-phones-camera-in-video-production-for-2024/"><u>[Updated] Making the Most of Your Phone's Camera in Video Production for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/avi-to-mov-windows/"><u>「AVI to MOVフリーソフトウェアガイド - Windowsユーザ向け完全対応の移行方法」</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/44cm44k344o844og44os44k544gr5yuv55s744ks44oe44o844k444gz44klic0g5yq55p6c55qe44gq44og44kv44ol44od44kv44go44kz44oe44cn/"><u>「シームレスに動画をマージする - 効果的なテクニックとコツ」</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/apple-musicmp3/"><u>Apple MusicからMP3へのシームレスな曲変換ガイド</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/batch-transform-ogg-audio-to-mp3-for-windows-users-a-comprehensive-tutorial/"><u>Batch Transform OGG Audio to MP3 for Windows Users: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/best-free-downloads-top-7-online-platforms-for-your-favorite-tv-shows/"><u>Best Free Downloads: Top 7 Online Platforms for Your Favorite TV Shows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-rockstar-game-services-are-unavailable-on-pc/"><u>Fix Rockstar Game Services Are Unavailable on PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y100t-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y100t to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-bridge-for-friendly-initiatives/"><u>Language Bridge for Friendly Initiatives</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978086858-secure-your-system-with-amds-official-gpio-driver-now-available/"><u>Secure Your System with AMD's Official GPIO Driver - Now Available</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-poco-x6-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Poco X6 without Them Knowing | Dr.fone</u></a></li>
+</ul></div>
 

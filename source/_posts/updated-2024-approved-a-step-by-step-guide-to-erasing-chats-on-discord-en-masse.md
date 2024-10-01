@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  A Step-by-Step Guide to Erasing Chats on Discord En Masse\""
-date: 2024-09-09T01:43:18.658Z
-updated: 2024-09-10T01:43:18.658Z
+date: 2024-09-25T17:48:35.658Z
+updated: 2024-10-01T12:11:03.299Z
 tags:
   - ai video
   - ai discord
@@ -15,24 +15,12 @@ keywords: "Discarding Discord Messages,Mass Delete Discord Chat,Clearing Multipl
 thumbnail: https://thmb.techidaily.com/0e76410444c7c01d9e8ad4e31c08df5ce8b625bff84337aa8bb982a08609d9e6.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## A Step-by-Step Guide to Erasing Chats on Discord En Masse
 
 # How To Delete Messages On Discord \[2024 Updated\]
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -53,18 +41,6 @@ If you're looking to mass-delete your messages from a server or channel on Disco
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Understanding Discord Message Types
 
 In Discord, you will see two types of messages: Direct Messages and Channel Messages in servers. Here are the differences between the two:
@@ -82,12 +58,6 @@ However, this was soon changed because the mass execution directly affected the 
 
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Why your video editing isn't good enough? How about some creative inspo?
 
 * 100 Million+ Users
@@ -106,17 +76,19 @@ However, this was soon changed because the mass execution directly affected the 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Delete Direct Messages on Discord
 
 If you use Discord on your desktop computer, this section will discuss the steps to follow to delete your direct messages.
@@ -133,6 +105,13 @@ You can delete the local copy of messages by following the steps below:
 
 ![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
 1. Open the Discord app on your smartphone
@@ -142,12 +121,6 @@ The procedure for deleting DMs from your Discord smartphone application applies 
 5. Confirm your decision by tapping 'Delete' once again
 6. The message will be deleted
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Delete Channel Messages in Discord?
 
 This method has to be the most effective and easy way to delete a Discord message, and it's a simple, straightforward procedure:
@@ -190,6 +163,19 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 ![delete messages on discord with mee6 bot](https://images.wondershare.com/filmora/article-images/discord-bot-mee6.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. You'll be prompted to authorize so that MEE6 bot can access your username, and know what server you’re in.
 2. Pin-point the server you want to add the bot and then set up to connect MEE6 to the Discord server.
 
@@ -200,28 +186,17 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 ![remove discord message with mee 6](https://images.wondershare.com/filmora/article-images/mee6-moderator-plugin-moderator.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
 ![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
 ## Part 5: How to Clear All Chats and Delete All Messages In Discord?
@@ -281,12 +256,6 @@ Ideally, you'll want the following things from your AutoHotkey script:
 * [Best Discord Emoji Makers](https://tools.techidaily.com/wondershare/filmora/download/)
 * [10+ Best Free Discord Voice Changers](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQs About Deleting Discord Messages
 
 #### 1\. Can I Recover A Deleted Message on Discord?
@@ -309,11 +278,30 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-discord-streaming-essentials-a-comprehensive-beginners-tutorial/"><u>[New] 2024 Approved Discord Streaming Essentials A Comprehensive Beginner's Tutorial</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unmasking-silence-how-to-speak-up-and-document-toxicity-in-virtual-communities-like-discord/"><u>[New] 2024 Approved Unmasking Silence How to Speak Up and Document Toxicity in Virtual Communities Like Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-disconnect-wisely-guidelines-for-exiting-discords/"><u>[New] Disconnect Wisely Guidelines for Exiting Discords</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-masterful-discord-ux-with-these-top-10-essentials/"><u>[New] Masterful Discord UX with These Top 10 Essentials</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-troubleshooting-stop-sequential-frame-skips-in-live-streaming/"><u>[New] Troubleshooting Stop Sequential Frame Skips in Live Streaming</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unlock-partner-status-a-step-by-step-guide-to-discord-verification/"><u>[Updated] 2024 Approved Unlock Partner Status A Step-by-Step Guide to Discord Verification</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-classic-crimson-codec/"><u>[Updated] In 2024, Classic Crimson Codec</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unlocking-your-potential-with-ez-grabber-software/"><u>[Updated] In 2024, Unlocking Your Potential with EZ Grabber Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-speeding-up-periscope-live-streams-explained/"><u>[Updated] Speeding Up Periscope Live Streams Explained</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-xcover-6-pro-tactical-edition-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy XCover 6 Pro Tactical Edition Phones with/without a PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-make-a-video-call-in-whatsapp-web-in-laptop-for-2024/"><u>How to Make a Video Call in WhatsApp Web in Laptop for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-pro-level-strategies-for-stunningly-pinning-messages-in-discord/"><u>In 2024, Pro-Level Strategies for Stunningly Pinning Messages in Discord</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-real-time-capture-simplified-a-deep-dive-into-vimeo-record/"><u>In 2024, Real-Time Capture Simplified A Deep Dive Into Vimeo Record</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/pro-tips-for-efficient-message-reactions-on-discord/"><u>Pro Tips for Efficient Message Reactions on Discord</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/recharge-or-restart-fixing-a-laptopdesktop-with-no-sign-of-power/"><u>Recharge or Restart: Fixing a Laptop/Desktop with No Sign of Power</u></a></li>
+</ul></div>
+

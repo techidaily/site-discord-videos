@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating Discord's Video Chat Features on Gadgets for 2024"
-date: 2024-09-16T00:58:47.482Z
-updated: 2024-09-19T17:23:41.018Z
+date: 2024-09-27T05:14:48.859Z
+updated: 2024-09-30T22:19:29.379Z
 tags:
   - ai video
   - ai discord
@@ -52,6 +52,13 @@ One quick note for the web browser version of Discord – you’ll be asked to g
 
 Once you are happy, just click the close button at the top right of the settings options.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make a Private Video Call on Discord?
 
 Once you’ve got your settings ready, you’re set to make your private Discord video call. If you’re doing it on the web browser or desktop app, you’ll need to first navigate to the inbox you share with the person you want to call. Do this by clicking on the Home button at the top left – you’ll then get a list of all your contacts.
@@ -60,15 +67,36 @@ If you’re only calling one person then it’s easy – just click on their nam
 
 ![Discord Video Call with Friends ](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want to call a private group, you need to click the + button and then create a group DM. Add the names of the users you want to call.
 
 ![Discord Video Call with group ](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once you’re in the direct message window of the person or group you want to call, you need to look at the buttons at the top right of the screen. The second icon that looks like a video camera is the one you’re looking for. Click that and you’ll start a video call.
 
 You’ll see yourself on screen at this point, but you’ll need to wait until the other person or group members have joined the call for the chat to properly begin.
 
 ![Discord Video Call interface](https://images.wondershare.com/filmora/article-images/discord-video-call-desktop-interface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The process of making video call on Discord mobile is essentially identical. You just need to open the direct message group and click on the video call icon, which is still at the top right of your screen.
 
@@ -96,13 +124,6 @@ If you prefer, you can still just join as voice, and then at any stage click on 
 
 Whenever you want to end the video call, just click on your name again to switch off your camera, or disconnect completely from the voice channel.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs About Discord Video Chat Call
 
 #### 1\. How Many People Can Join in the Discord Group Video Call?
@@ -119,13 +140,6 @@ If instead, it’s a public server where a video call is happening, you just nee
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -139,5 +153,18 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-revolutionize-notes-with-mematic-software/"><u>[New] In 2024, Revolutionize Notes with Mematic Software</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-innovative-conversational-entities-discord/"><u>[New] Innovative Conversational Entities (Discord)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-complete-guide-to-successful-youtube-eluding-these-8-common-slips-for-2024/"><u>[New] The Complete Guide to Successful YouTube Eluding These 8 Common Slips for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-vibey-vistas-your-guide-to-the-10-most-trending-discothemes/"><u>[New] Vibey Vistas Your Guide to the 10 Most Trending DiscoThemes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-top-10-cost-free-discord-audio-transformers/"><u>[Updated] 2024 Approved Top 10 Cost-Free Discord Audio Transformers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-exploring-the-depths-of-discord-sticker-land-for-2024/"><u>[Updated] Exploring the Depths of Discord Sticker Land for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-chromebook-flip-c302ca-unveiled-amazing-performance-at-an-outstanding-low-price-point/"><u>Asus Chromebook Flip C302CA Unveiled: Amazing Performance at an Outstanding Low Price Point.</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-innovative-5-websites-eclipsing-twitter/"><u>In 2024, Innovative 5 Websites Eclipsing Twitter</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-the-ultimate-route-from-obs-broadcast-to-fb-channels/"><u>In 2024, The Ultimate Route From OBS Broadcast to FB Channels</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leverage-trending-instagram-hashtags-for-better-reach-and-followers/"><u>Leverage Trending Instagram Hashtags for Better Reach and Followers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/sync-up-soundtracks-connecting-spotify-to-discord-effortlessly/"><u>Sync Up Soundtracks Connecting Spotify to Discord Effortlessly</u></a></li>
+</ul></div>
 

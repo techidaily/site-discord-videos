@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Uncover the Power of Discord's Spoiler System"
-date: 2024-09-09T20:56:53.043Z
-updated: 2024-09-14T17:55:39.668Z
+date: 2024-09-27T12:20:07.419Z
+updated: 2024-10-01T05:54:46.654Z
 tags:
   - ai video
   - ai discord
@@ -40,6 +40,13 @@ Thankfully, Discord came out with the perfect solution. Now, if you are sharing 
 
 And now we come to the point - **how to do spoilers on Discord**? Well, there are two ways to do it. You can run through both of them and choose whichever suits you the best. All the methods are simple to follow. Note that some are available only on the desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Adding Spoiler Text Via Tag on Discord
 
 We will begin with the tag method. All you have to do is add the spoiler tag on Discord. Here is a quick rundown of the steps –
@@ -51,6 +58,13 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
 ![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
@@ -71,13 +85,6 @@ This alternate method is quite simple. This was a recent update on Discord that 
 
 This method is available only on the Discord desktop app and browser version. For iOS, the steps are similar. The only difference is that you have to select the spoiler mark from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Add Spoiler to Image and Video on Discord?
 
 There are many scenarios where a **Discord spoiler** can come in handy. As you might be aware that Discord is quite popular and its cross-platform flexibility make it a favorite among gamers. You can connect to your friends over multiple devices with a single account.
@@ -85,6 +92,19 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
 ![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -111,13 +131,6 @@ You can even mark embedded links as spoilers with the same process. But this doe
 
 For iOS, you can select and highlight the text that you want to hide. Then, tap open the context menu and click on the ‘Mark as Spoiler’ to hide the text.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bonus: How to turn off the Spoiler tag?
 
 For some reason, you may want to remove the spoiler tag from the spoiler texts. In that case, open the User Settings and tap on Text & Images. Scroll down to the Show Spoiler Content tab and you will see options to control when spoiler content is displayed. You can choose to display on click, on servers I moderate, and always.
@@ -129,6 +142,13 @@ If you want to display all spoiler content, choose Always to turn off the spoile
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -143,5 +163,22 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-showmores-edge-a-closer-look-at-exceptional-screen-recording/"><u>[New] 2024 Approved ShowMore's Edge A Closer Look at Exceptional Screen Recording</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-from-live-to-video-key-techniques-in-gaming-recordings/"><u>[New] From Live to Video Key Techniques in Gaming Recordings</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ts-ts/"><u>簡単な TS 動画編集 - クリーンで安全な .ts ファイル操作</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-recommendations-leading-iphone-gps-navigation-tools-top-5/"><u>Expert Recommendations: Leading iPhone GPS Navigation Tools (Top 5)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-assessing-igtv-content-performance-levels/"><u>In 2024, Assessing IGTV Content Performance Levels</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-watching-movies-from-a-usb-flash-drive-on-your-jvc-television/"><u>Step-by-Step Guide: Watching Movies From a USB Flash Drive on Your JVC Television</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-blueprint-for-gathering-free-pictorial-video-files/"><u>The Blueprint for Gathering Free Pictorial Video Files</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-5-virtual-drive-tools-for-booting-isoimg-files-in-windows/"><u>Top 5 Virtual Drive Tools for Booting ISO/IMG Files in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-effective-gpt-3-prompt-ideas-for-minimizing-online-interruptions/"><u>Top 8 Effective GPT-3 Prompt Ideas for Minimizing Online Interruptions</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-9-video-meeting-recorder-apps-of-2024-a-comprehensive-guide/"><u>Top 9 Video Meeting Recorder Apps of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-rated-windows-11-dvd-ripper-software/"><u>Top-Rated Windows 11 DVD Ripper Software</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/transformar-mp4-en-mp3-sin-costo-guias-actualizadas-para-obtener-el-mejor-sonido/"><u>Transformar MP4 en MP3 Sin Costo: Guías Actualizadas Para Obtener El Mejor Sonido</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/u-nextpcwindows/"><u>U-NEXTビデオのPC上での静止画撮影・保存手順：Windowsプラットフォーム向け</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ultimate-guide-effortlessly-removing-audio-from-avi-files/"><u>Ultimate Guide: Effortlessly Removing Audio From AVI Files</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-s-finest-the-ultimate-list-of-2d-animation-software-free-paid-and-everything-in-between/"><u>Updated 2024 Approved S Finest The Ultimate List of 2D Animation Software Free, Paid, and Everything In Between</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Essential Guide  Adding and Editing Discord Roles\""
-date: 2024-09-08T18:50:43.513Z
-updated: 2024-09-14T16:21:53.870Z
+date: 2024-09-29T05:54:57.653Z
+updated: 2024-09-30T19:44:58.097Z
 tags:
   - ai video
   - ai discord
@@ -42,6 +42,13 @@ So, let us learn the art of delegation on Discord! This guide will help you with
 
 To give you a heads-up, there are around 29 permissions that you can adjust over a Discord server. More specifically, there are 7 voice permissions, 9 permissions related to texts, and about 13 permissions dealing with the server.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. General server permission
 
 Administrator – this is the highest permission that you can grant to a user. Think twice before giving this authority to anyone.
@@ -60,6 +67,13 @@ Manage Webhooks – if you have this authority, you can add, modify, and remove 
 
 Read Text Channels & See Voice Channels – a user with this permission can read text channels.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Membership permissions
 
 Ban Members – a member with permission, can ban members from the server.
@@ -71,19 +85,6 @@ Change Nickname – you can change your nickname anytime if this permission is e
 Manage Nicknames – if enabled, a user can change other’s nicknames.
 
 Kick Members – a user with this authority can remove members from the server.
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Text channel permissions
 
@@ -104,6 +105,13 @@ Mention Everyone – you can send push notifications on the channel if this perm
 Use External Emojis – if enabled, users can send emojis from other servers.
 
 Add Reactions – with this; users can add new reactions to a text.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Voice channel permissions
 
@@ -127,23 +135,9 @@ this permission allows the user to reduce the volume of other users when this us
 
 Includes the 'Administrator' permission, which by default enables all the permissions to the assigned user.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Make and Add Roles in Discord on Computer
 
 The desktop app and Browser resemble the mobile apple a lot. The process of assigning roles and configuring members is more or less the same across devices. First, you need to create roles and define their authority before assigning these roles to some members.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to create roles in Discord?
 
@@ -187,13 +181,6 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 1. Towards the bottom, you will see the option to delete the role.
 2. Press ok to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: How to Add Roles on Discord Mobile?
 
 Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
@@ -212,13 +199,6 @@ Before you can assign roles, you have to create them.
 
 You can repeat this multiple times to create more roles.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. How to Assign Roles in Discord mobile app?
 
 * Head over to settings and select 'Members.'
@@ -226,6 +206,19 @@ You can repeat this multiple times to create more roles.
 * Tick the boxes beside each member’s name for the roles you are assigning them.
 
 Save the changes, and you are good to go! You can assign multiple roles to a member.
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 6: FAQs about Discord Server Roles
 
@@ -256,6 +249,13 @@ This is likely to happen if the server owner gave you the role of admin, but the
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -269,5 +269,19 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-channel-identity-reimagined-best-name-generators-listed/"><u>[New] In 2024, Channel Identity Reimagined Best Name Generators Listed</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-erasing-chats-on-discord-en-masse/"><u>[Updated] 2024 Approved A Step-by-Step Guide to Erasing Chats on Discord En Masse</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-breaking-down-discords-report-mechanism-for-clarity-and-action/"><u>[Updated] Breaking Down Discord’s Report Mechanism for Clarity and Action</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-from-vision-to-viewers-step-by-step-guide-to-live-tv-screens-on-windows-pcs/"><u>[Updated] From Vision to Viewers Step-by-Step Guide to Live TV Screens on Windows PCs</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-elevating-your-online-identity-with-custom-discord-pictures/"><u>[Updated] In 2024, Elevating Your Online Identity with Custom Discord Pictures</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mac-high-quality-video-and-audible-recording/"><u>[Updated] Mac High-Quality Video & Audible Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-shooting-the-best-sports-moments-iphone-burst-mode/"><u>2024 Approved Shooting the Best Sports Moments IPhone Burst Mode</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/cover-video-essentials-for-facebook-professionals-for-2024/"><u>Cover Video Essentials for Facebook Professionals for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-sound-blaster-audigy-fx-drivers-here-free-download/"><u>Get Your Sound Blaster Audigy FX Drivers Here - Free Download</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/starters-manual-to-mastering-screen-clarity/"><u>Starter's Manual to Mastering Screen Clarity</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-tier-designers-making-magic-in-discord-emojis-for-2024/"><u>Top-Tier Designers Making Magic in Discord Emojis for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-audio-on-win-1110-troubleshooting-success/"><u>Windows Audio on WIN 11/10: Troubleshooting Success</u></a></li>
+</ul></div>
 

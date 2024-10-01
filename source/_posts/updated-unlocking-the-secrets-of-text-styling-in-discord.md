@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking the Secrets of Text Styling in Discord"
-date: 2024-09-14T16:56:41.851Z
-updated: 2024-09-20T04:00:44.954Z
+date: 2024-09-27T21:56:10.283Z
+updated: 2024-10-01T03:24:24.649Z
 tags:
   - ai video
   - ai discord
@@ -63,6 +63,13 @@ Filmora Text Video Editor
 
 [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Change Text Style in Discord with Markdown?
 
 As we mentioned previously, Markdown is completely text-based and has a very simple syntax. All you need to do to apply special formatting to your text is to enter a few special characters at the right places, and the appropriate effect (bold, italic…) will appear in the chat. Keep in mind that you can easily combine the formatting styles by using multiple commands at the same time.
@@ -87,6 +94,13 @@ In order to get a strikethrough effect on your text, you will have to type two t
 
 Underline effect is also available on Discord and equally simple to activate. Just type two underscore dashes (\_\_)at the start and the ending of the text selection to apply it.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Combine Text Formatting Options in Discord?
 
 Once you mastered the basic effects and know the commands without thinking, it’s time to consider more complex text transformations that combine more than one effect. In principle, Markdown lets you do this just as easily, for as long as you know all the right combinations of characters that produce the desired effect. Here are the detailed instructions for some of the most frequently utilized combos:
@@ -96,6 +110,13 @@ Once you mastered the basic effects and know the commands without thinking, it�
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
 ![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Underlined and Bolded text
 
@@ -116,10 +137,10 @@ You can combine all four style changes as well – just use two tildes (\~\~), t
 ![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
@@ -150,13 +171,6 @@ The creation of a hidden text message that requires direct user action to reveal
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -170,5 +184,21 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-how-to-make-discord-video-calls-on-desktop-and-mobile/"><u>[New] How to Make Discord Video Calls on Desktop and Mobile</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-dissolving-ties-how-to-break-away-from-discord-servers/"><u>[New] In 2024, Dissolving Ties How to Break Away From Discord Servers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-optimal-audio-bots-guide-unleashing-peak-performance-in-discord/"><u>[New] Optimal Audio Bots Guide Unleashing Peak Performance in Discord</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-quick-steps-to-capture-ios-audio-files-for-2024/"><u>[New] Quick Steps to Capture iOS Audio Files for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-quick-react-guide-efficiently-answering-discord-messages-for-2024/"><u>[New] Quick-React Guide Efficiently Answering Discord Messages for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-list-of-discord-bots-to-amplify-your-server/"><u>[New] The Ultimate List of Discord Bots to Amplify Your Server</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-breakdown-of-steps-perfecting-idevice-video-features-on-youtube/"><u>[Updated] In 2024, Breakdown of Steps Perfecting iDevice Video Features on YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/flawless-playtime-ahead-mastering-the-art-of-troubleshooting-multiversus-crashes-with-these-8-strategies/"><u>Flawless Playtime Ahead: Mastering the Art of Troubleshooting MultiVersus Crashes with These 8 Strategies</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oppo-find-x6-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Oppo Find X6</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-extravaganza-exclusive-tv-offerings-perfect-for-ages-55plus-dont-miss-out-on-these-spectacular-savings/"><u>Labor Day Extravaganza: Exclusive TV Offerings Perfect for Ages 55+ – Don't Miss Out on These Spectacular Savings!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/premiere-screenshot-and-recording-tools-for-discord-gamers-for-2024/"><u>Premiere Screenshot & Recording Tools for Discord Gamers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/selecting-sacred-sounds-a-step-by-step-guide-for-2024/"><u>Selecting Sacred Sounds A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sharpen-your-videoleap-videos-from-afar/"><u>Sharpen Your Videoleap Videos From Afar</u></a></li>
+</ul></div>
 

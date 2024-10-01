@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for StarCraft II Freezing Issues on Windows Systems"
-date: 2024-09-12T05:12:21.238Z
-updated: 2024-09-14T20:49:21.961Z
+date: 2024-09-28T11:26:07.266Z
+updated: 2024-09-30T20:07:08.609Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 4. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
 
@@ -62,7 +69,28 @@ The outdated or broken graphics driver often crashes the game.
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
@@ -74,13 +102,6 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -90,25 +111,19 @@ The outdated or broken graphics driver often crashes the game.
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
@@ -153,5 +168,20 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-the-art-of-crafting-captivating-discord-pfps-for-2024/"><u>[New] Mastering the Art of Crafting Captivating Discord Pfps for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-enhance-film-scenes-with-soundtracks-in-premiere-pro/"><u>[Updated] 2024 Approved Enhance Film Scenes With Soundtracks in Premiere Pro</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-essential-know-how-for-getting-started-on-discord-live/"><u>[Updated] 2024 Approved Essential Know-How for Getting Started on Discord Live</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-surviving-snapstreaks-essential-strategies-for-longevity/"><u>[Updated] In 2024, Surviving Snapstreaks Essential Strategies for Longevity</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-the-intricacies-of-discord-roles-integration/"><u>[Updated] Navigating the Intricacies of Discord Roles Integration</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-revolutionary-discothemes-a-top-10-showcase/"><u>[Updated] Revolutionary DiscoThemes - A Top 10 Showcase</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-beginners-path-to-becoming-a-discord-live-stream-guru/"><u>[Updated] The Beginner's Path to Becoming a Discord Live Stream Guru</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleashing-time-management-mastery-with-zero-cost-clocks/"><u>[Updated] Unleashing Time Management Mastery with Zero Cost Clocks</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-top-techniques-for-professional-voice-capture/"><u>2024 Approved Top Techniques for Professional Voice Capture</u></a></li>
+<li><a href="https://win11.techidaily.com/check-if-your-pc-meets-windows-11-criteria/"><u>Check If Your PC Meets Windows 11 Criteria</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/masterclass-in-dealing-with-msvcr110-dll-file-missing-problems-a-professionals-roadmap/"><u>Masterclass in Dealing with MSVCR110 DLL File Missing Problems - A Professional's Roadmap</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-windows-program-functionality-with-ease/"><u>Restoring Windows Program Functionality with Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-hardware-guides-and-reviews/"><u>Tom's Tech Hub: Comprehensive Hardware Guides and Reviews</u></a></li>
+</ul></div>
 

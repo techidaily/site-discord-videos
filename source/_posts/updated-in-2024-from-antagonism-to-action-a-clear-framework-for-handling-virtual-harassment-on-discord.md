@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, From Antagonism to Action  A Clear Framework for Handling Virtual Harassment on Discord\""
-date: 2024-09-16T17:15:26.758Z
-updated: 2024-09-20T01:12:02.350Z
+date: 2024-09-24T10:46:25.995Z
+updated: 2024-10-01T09:04:01.650Z
 tags:
   - ai video
   - ai discord
@@ -98,6 +98,13 @@ Just like on a desktop, you will first need to enable developer mode.
 
 ![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
 Like before, you will now need to obtain the User ID; the process may be slightly different depending on the phone you are using. In general, the steps would be:
@@ -145,26 +152,26 @@ If you happen to be a moderator or server owner, you have the authority to kick 
 3. Right-click on their username and then select "Kick"
 4. Click on "Kick" again to confirm your decision
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: FAQs About Discord Reporting
 
 There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Can I Report People on Discord Anonymously?
 
 According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What Happens If I Report Someone on Discord?
@@ -176,6 +183,19 @@ Usually, this process takes a long time as the team evaluates whether the proble
 After conducting their research and deciding upon a punishment, the T&S team will contact the offender via email to inform them about their misconduct and the relevant consequences.
 
 In minor offenses, the T&S team will reach out to the reporter and teach them how to block the user rather than take direct action.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Can You Report Someone on Discord for Being Under 13?
 
@@ -198,5 +218,26 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-uniting-two-giants-transmitting-facebook-vids-on-whatsapp-for-2024/"><u>[New] Uniting Two Giants Transmitting Facebook Vids on WhatsApp for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-best-video-editor-for-vimeo/"><u>[Updated] 2024 Approved Best Video Editor for Vimeo</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-the-search-a-guide-to-finding-your-ideal-discord-server/"><u>[Updated] 2024 Approved Mastering the Search A Guide to Finding Your Ideal Discord Server</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-navigating-disputes-the-step-by-step-approach-to-reporting-on-discord/"><u>[Updated] 2024 Approved Navigating Disputes The Step-by-Step Approach to Reporting on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-complete-guide-for-incorporating-funny-and-engaging-gifs-into-your-discord-chats/"><u>[Updated] 2024 Approved The Complete Guide for Incorporating Funny & Engaging GIFs Into Your Discord Chats</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-a-comprehensive-guide-to-profile-picture-perfection-on-discord/"><u>[Updated] A Comprehensive Guide to Profile Picture Perfection on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-expanding-your-circle-discord-friending-101-for-2024/"><u>[Updated] Expanding Your Circle Discord Friending 101 for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-exploring-the-architects-behind-popular-discord-glyphs/"><u>[Updated] Exploring The Architects Behind Popular Discord Glyphs</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-exploring-the-world-of-visual-identity-in-discord-profiles/"><u>[Updated] Exploring the World of Visual Identity in Discord Profiles</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-harmonizing-with-the-best-15-premier-sound-assistants-to-enhance-your-discord-audio/"><u>[Updated] Harmonizing with the Best 15 Premier Sound Assistants to Enhance Your Discord Audio</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-advanced-strategies-for-mass-message-purge-on-discord-networks/"><u>[Updated] In 2024, Advanced Strategies for Mass Message Purge on Discord Networks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-realme-c67-4g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Realme C67 4G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/instant-remedies-addressing-the-crashed-graphics-driver-problem-in-valorant-playtime/"><u>Instant Remedies: Addressing the ‘Crashed Graphics Driver’ Problem in Valorant Playtime</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-pro-grade-video-stabilization-in-fcpx-a-step-by-step-guide-for-2024/"><u>New Pro-Grade Video Stabilization in FCPX A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-assassins-creed-valhalla-release-hitches-now-resolved/"><u>Troubleshooting: Assassin's Creed Valhalla Release Hitches Now Resolved</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/uncovering-the-features-of-the-xp-pen-artist-16-pro-the-ultimate-digital-sketchers-companion/"><u>Uncovering the Features of the XP-Pen Artist 16 Pro – The Ultimate Digital Sketcher’s Companion</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-spark-go-2024s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Tecno Spark Go (2024)s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-voice-to-word-made-easy-discovering-the-best-free-android-and-ios-transcription-tools/"><u>Updated Voice to Word Made Easy Discovering the Best Free Android and iOS Transcription Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-realme-c67-4g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme C67 4G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How To Delete Messages On Discord"
-date: 2024-09-12T17:56:53.271Z
-updated: 2024-09-15T02:57:07.891Z
+date: 2024-09-30T07:51:57.026Z
+updated: 2024-10-01T08:52:02.356Z
 tags:
   - ai video
   - ai discord
@@ -58,6 +58,13 @@ However, this was soon changed because the mass execution directly affected the 
 
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Why your video editing isn't good enough? How about some creative inspo?
 
 * 100 Million+ Users
@@ -74,6 +81,13 @@ However, this was soon changed because the mass execution directly affected the 
  \* Secure Download
 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Delete Direct Messages on Discord
 
@@ -100,6 +114,13 @@ The procedure for deleting DMs from your Discord smartphone application applies 
 5. Confirm your decision by tapping 'Delete' once again
 6. The message will be deleted
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Delete Channel Messages in Discord?
 
 This method has to be the most effective and easy way to delete a Discord message, and it's a simple, straightforward procedure:
@@ -122,13 +143,6 @@ Here is a more detailed breakdown of the sequence:
 
 At first glance, it seems like a long and tedious process, but once you get down to doing it and develop a rhythm, it is an easy task.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Deleting Message with Discord Clear Chat Bot
 
 Please keep in mind that Discord has changed its policy regarding bots, going from discouraging their use to outright flagging them as a violation of its terms.
@@ -149,13 +163,6 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 ![delete messages on discord with mee6 bot](https://images.wondershare.com/filmora/article-images/discord-bot-mee6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. You'll be prompted to authorize so that MEE6 bot can access your username, and know what server you’re in.
 2. Pin-point the server you want to add the bot and then set up to connect MEE6 to the Discord server.
 
@@ -171,10 +178,16 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 ![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
@@ -252,6 +265,13 @@ If you are an admin or an owner of a server, you can delete other people's messa
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -265,5 +285,19 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-from-setting-up-to-broadcasting-a-discoguide-for-2024/"><u>[New] From Setting Up to Broadcasting A DiscoGuide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-free-green-screens-for-cinematic-artists/"><u>[New] In 2024, Free Green Screens for Cinematic Artists</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-reviving-camera-victory-over-obs-glitches/"><u>[New] Reviving Camera Victory Over OBS Glitches</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-blissful-onboarding-guide-for-new-users/"><u>[Updated] 2024 Approved Blissful Onboarding Guide for New Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-essential-steps-for-starting-a-channel-on-discord/"><u>[Updated] 2024 Approved Essential Steps for Starting a Channel on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-break-free-from-discord-support/"><u>[Updated] Break Free From Discord Support</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-appreciative-adjacencies-templates-for-any-spend-plan/"><u>In 2024, Appreciative Adjacencies Templates for Any Spend Plan</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-navigating-the-intricacies-of-discord-roles-integration/"><u>In 2024, Navigating the Intricacies of Discord Roles Integration</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/launching-a-successful-stream-on-discord-essential-steps-revealed-for-2024/"><u>Launching a Successful Stream on Discord Essential Steps Revealed for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-fixing-insufficient-system-resources-error-to-fulfill-your-request/"><u>Solved: Fixing 'Insufficient System Resources' Error to Fulfill Your Request</u></a></li>
+</ul></div>
 

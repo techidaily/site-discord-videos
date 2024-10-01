@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Easy Steps for Altering Your Display Name in Discord"
-date: 2024-09-15T00:55:48.449Z
-updated: 2024-09-20T05:08:10.088Z
+date: 2024-09-23T22:48:45.850Z
+updated: 2024-09-30T18:09:30.679Z
 tags:
   - ai video
   - ai discord
@@ -78,6 +78,13 @@ Yeah!! Now your status has been changed to custom!
 
 ![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
 Step 1: Once again, click on the profile icon and select Set status.
@@ -87,6 +94,13 @@ Step 2: Select the Set a custom status option.
 Step 3: Click the Cross icon to clear custom status.
 
 ![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -116,19 +130,6 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 5: How do you show what game you're playing on Discord?**
 
 Do you know Discord is a hookup outlet where gamers connect? Sound surprising? Yeah, with Discord, you can relate with like-minded gamers using its advanced features and customization options. You can Screen Share, add audio bots, and do lots more for free without hassles. In addition to that, Discord has an automatic detective system that looks at all that's running on your device and mostly recognizes popular verified game, though you can edit unverified games and programs using the steps outlined below.
@@ -141,9 +142,23 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 ![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
 ![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
@@ -155,13 +170,6 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 3:**On the Game Tab, all you've got to do is to toggle the switch to show your current game activity.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **FAQs About Discord Status**
 
 ### **1\. How can you change the Discord status automatically?**
@@ -169,10 +177,10 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 A concise answer to this question is, Discord status cannot be changed automatically, but you can set a time limit that you want a custom text to display on your status. However, the game activity status option can be updated automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2\. How can you tell if someone with their status set to offline is online, on Discord?**
@@ -182,10 +190,10 @@ Detecting whether someone is online when their Discord status is set to invisibl
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -201,5 +209,24 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-tailored-for-tech-savvy-audiences-unveil-the-youtuber-who-resonates-with-you-through-six-quizzes/"><u>[New] 2024 Approved Tailored for Tech-Savvy Audiences Unveil the YouTuber Who Resonates with You Through Six Quizzes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-propel-your-instagram-content-techniques-for-higher-interaction-for-2024/"><u>[New] Propel Your Instagram Content Techniques for Higher Interaction for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-optimize-discord-a-compendium-of-top-bots/"><u>[Updated] 2024 Approved Optimize Discord A Compendium of Top Bots</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-simplified-discord-integration-for-pc-and-phones/"><u>[Updated] 2024 Approved Simplified Discord Integration for PC & Phones</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-streamlined-approach-to-role-assignments-on-discord-servers/"><u>[Updated] 2024 Approved Streamlined Approach to Role Assignments on Discord Servers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unlocking-the-full-potential-of-discord-avatars/"><u>[Updated] 2024 Approved Unlocking the Full Potential of Discord Avatars</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-advanced-conversational-machines-discord-for-2024/"><u>[Updated] Advanced Conversational Machines (Discord) for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-cutting-edge-font-creators-for-discord-on-the-go-for-2024/"><u>[Updated] Cutting-Edge Font Creators for Discord on the Go for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-discoemote-studio-crafting-the-ultimate-emojis/"><u>[Updated] In 2024, DiscoEmote Studio - Crafting the Ultimate Emojis</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-discords-ultimate-romance-hubs/"><u>[Updated] In 2024, Discord's Ultimate Romance Hubs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-live-stream-perfection-an-experts-take-on-webcams/"><u>[Updated] In 2024, Live Stream Perfection An Expert's Take on WebCams</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-game-footage-secrets-of-the-skilled-videographer/"><u>[Updated] In-Game Footage Secrets of the Skilled Videographer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/54sh5paz44gn5qw944gx44ka5a2q5l6b5zcr44gr5pig55s7ic0g5a625pep44gr5zac44gz44go5ocd44ge5ye644ks5akx44ke44gb44kl5oml6lu944gq44ki44kv44k744k55pa55rov/"><u>無料で楽しむ子供向け映画 - 家族に喜びと思い出を増やせる手軽なアクセス方法</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-nokia-xr21-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Nokia XR21 Phone Now with These Tips</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-this-article-let-me-share-with-you-how-to-start-a-vlog-ideas-and-any-tips-for-you-to-start-your-own-vlogging-channel/"><u>New In This Article Let Me Share with You How to Start a Vlog? Ideas and Any Tips for You to Start Your Own Vlogging Channel</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/online-mp4-mpeg-movavi/"><u>Online MP4-MPEG 제공을 무료로 전환하는 방법 - Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-5-most-memorable-world-cup-goals-an-ultimate-ranking-of-historic-moments/"><u>Top 5 Most Memorable World Cup Goals: An Ultimate Ranking of Historic Moments</u></a></li>
+</ul></div>
 

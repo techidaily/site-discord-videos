@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating the Nuances of Discord Identity Shifts"
-date: 2024-09-16T07:13:46.903Z
-updated: 2024-09-19T20:10:03.742Z
+date: 2024-09-25T10:30:31.331Z
+updated: 2024-10-01T07:37:00.924Z
 tags:
   - ai video
   - ai discord
@@ -72,11 +72,25 @@ Step 1: Click on the profile icon located at the bottom left corner of the pane,
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Type in any text message of your choice, and you can also add an emoji if you wish. Afterward, select how long you want the new custom message to display on your status from the drop-down list (Clear tomorrow, Clear in 4 hours, Clear in 1 hour, Clear in 30 minutes, Don't clear) and click Save to finalize the operation.
 
 Yeah!! Now your status has been changed to custom!
 
 ![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -87,6 +101,13 @@ Step 2: Select the Set a custom status option.
 Step 3: Click the Cross icon to clear custom status.
 
 ![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
@@ -115,10 +136,10 @@ You only have to follow the stepwise guide below to change your status on Discor
 ![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
@@ -128,13 +149,6 @@ You only have to follow the stepwise guide below to change your status on Discor
 Do you know Discord is a hookup outlet where gamers connect? Sound surprising? Yeah, with Discord, you can relate with like-minded gamers using its advanced features and customization options. You can Screen Share, add audio bots, and do lots more for free without hassles. In addition to that, Discord has an automatic detective system that looks at all that's running on your device and mostly recognizes popular verified game, though you can edit unverified games and programs using the steps outlined below.
 
 Sit back and learn how to show off what you're up to in the gaming realm!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **How to Display Game Status on Discord Desktop**
 
@@ -147,13 +161,20 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 ![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **How to Display Game Status on Discord Mobile App**
 
@@ -162,13 +183,6 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 **Step 2:** On the new page, scroll down and select the Game Activity option to proceed.
 
 **Step 3:**On the Game Tab, all you've got to do is to toggle the switch to show your current game activity.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **FAQs About Discord Status**
 
@@ -195,5 +209,26 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-confronting-cyberbullying-a-practical-handbook-to-raise-alarm-and-seek-help-on-discord/"><u>[New] In 2024, Confronting Cyberbullying A Practical Handbook to Raise Alarm and Seek Help on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-complete-manual-for-personalizing-discord-avatars/"><u>[New] In 2024, The Complete Manual for Personalizing Discord Avatars</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-innovative-discord-symbol-creator-your-free-download-portal-for-2024/"><u>[New] Innovative Discord Symbol Creator Your FREE Download Portal for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-streamlining-communication-essentials-of-discords-video-sharing-feature-for-2024/"><u>[New] Streamlining Communication Essentials of Discord's Video Sharing Feature for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unlocking-the-secrets-of-text-styling-in-discord/"><u>[New] Unlocking the Secrets of Text Styling in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unveiling-the-ideal-team-collaboration-software-a-slack-vs-discord-assessment-for-2024/"><u>[New] Unveiling the Ideal Team Collaboration Software A Slack Vs. Discord Assessment for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715783495539-updated-how-to-fix-obs-studio-drop-frames-issue/"><u>[Updated] How To Fix OBS Studio Drop Frames Issue</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-time-efficient-ways-to-wipe-out-ssgnature-backdrops/"><u>[Updated] Time-Efficient Ways to Wipe Out Ssgnature Backdrops</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-professional-gamcapture-tools-and-tactics-for-quality-content/"><u>2024 Approved Professional GamCapture Tools and Tactics for Quality Content</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-redmi-note-12-proplus-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-value-computers-a-comprehensive-acer-aspire-e-tine-review/"><u>Best Value Computers: A Comprehensive Acer Aspire E Tine Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-productivity-with-terminal-as-favorite-app/"><u>Boost Productivity with Terminal as Favorite App</u></a></li>
+<li><a href="https://games-able.techidaily.com/epic-game-retro-experience-for-modern-devices/"><u>Epic Game Retro Experience for Modern Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/from-capture-to-share-the-art-of-live-360-broadcasting-on-fb/"><u>From Capture to Share The Art of Live 360 Broadcasting on FB</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-how-to-use-and-curate-the-best-gifs-in-discord-chats/"><u>Step-by-Step How to Use and Curate the Best GIFs in Discord Chats</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/talk-the-walk-engaging-others-on-discord-desktopmobile-for-2024/"><u>Talk the Walk Engaging Others on Discord Desktop/Mobile for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-art-of-video-transmission-within-discords-realm-for-2024/"><u>The Art of Video Transmission Within Discord's Realm for 2024</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/ultimate-distance-education-toolkit-top-resources-and-tech-for-remote-learners/"><u>Ultimate Distance Education Toolkit: Top Resources & Tech for Remote Learners</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-slug-lines-an-essential-guide-for-2024/"><u>Understanding Slug Lines An Essential Guide for 2024</u></a></li>
+</ul></div>
 

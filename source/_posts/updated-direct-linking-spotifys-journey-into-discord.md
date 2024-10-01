@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Direct Linking  Spotify's Journey Into Discord\""
-date: 2024-09-09T01:43:19.342Z
-updated: 2024-09-10T01:43:19.342Z
+date: 2024-09-29T01:27:44.248Z
+updated: 2024-10-01T00:00:46.940Z
 tags:
   - ai video
   - ai discord
@@ -37,12 +37,6 @@ So, if you’re wondering how to connect Spotify to Discord, here’s your answe
 * [Part 2: Connect Spotify To Discord With Bot](#part2)
 * [Part 3: Connect Spotify To Discord Mobile App](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Link Spotify To Discord on Windows PC/Mac Directly
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -62,12 +56,6 @@ It will also display a badge on your Discord profile, which shows your Spotify u
 
 ![Connect  Spotify to  Discord and set as status](https://images.wondershare.com/filmora/article-images/set-spotify-as-status-on-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 By default, whenever you’ll play some music on Spotify using the same PC/Mac you are signed in to your Discord account, the status will suddenly change into “listening to Spotify.”
 
 Users can see what tracks you are playing by simply clicking your name. Not just that, but they can also play the same tracks on their Mac or PC and even “listen along.”
@@ -76,18 +64,6 @@ This facility will let your friends tune into and listen to the same thing you�
 
 Lastly, you can also click this plus (+) sign near to chat box and choose the option ‘Invite to listen to Spotify.’ This will send users links, allowing them to join you via the “listen along” feature.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Connect Spotify To Discord With Bot
 
 The bot is a mini-program, which requires to be installed on your main program. So, in this scenario, let’s take the “Groovy” bot and install it on your Discord server to connect Spotify to Discord.
@@ -105,36 +81,26 @@ Here’s how you can connect Spotify to Discord with a bot:
 
 ![Add Groovy bot to Discord Server](https://images.wondershare.com/filmora/article-images/add-groovy-music-bot-to-music-select-server.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Click Authorize to grant the Groovy the Administrator permission on the selected server and pass through the “I am human” box
 
 ![Add Groovy bot to Discord Server and Authorize](https://images.wondershare.com/filmora/article-images/authorize-groovy-music-bot-to-discord-server.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. The Groovy bot will be instantly installed on the chosen Discord server. Now you can use the bot to play tracks or any other type of music you want by simply typing Play and the song name
 2. If you want to import your complete Spotify tracks into the Discord server, you can do it effortlessly: open your playlist in your Spotify app and click >Share>Copy Playlist Link and then paste copied URL into the chat after -play command.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Connect Spotify To Discord Mobile App
 
@@ -153,11 +119,12 @@ Here’s how you can connect Spotify to Discord on your mobile app:
 3. Though you won’t be able to invite other users to “listen along” on the mobile app, however, users on Windows PC/Mac can click your status and also “listen along”
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bonus: How to Listen Along With Friends on Discord?
 
 Listen, chat, party and game all at the same time with Discord. You can also listen along with users and turn the chatroom into a lively party.
@@ -189,18 +156,17 @@ Yes, you can disconnect Spotify from Discord. Here’s how:
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -208,3 +174,23 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-high-definition-capturing-for-switch-gamers/"><u>[New] 2024 Approved High Definition Capturing for Switch Gamers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discord-streaming-essentials-a-comprehensive-beginners-tutorial-for-2024/"><u>[New] Discord Streaming Essentials A Comprehensive Beginner's Tutorial for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-elevating-visuals-by-attaching-youtube-music-tracks/"><u>[New] Elevating Visuals by Attaching YouTube Music Tracks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-sustaining-a-dynamic-facebook-experience/"><u>[New] In 2024, Sustaining a Dynamic Facebook Experience</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-unplugging-the-servers-deleting-discord-on-devices/"><u>[New] In 2024, Unplugging the Servers Deleting Discord on Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-boost-your-visibility-fast-instagram-likes-and-vids/"><u>[Updated] 2024 Approved Boost Your Visibility Fast Instagram Likes & Vids</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-narrative-strategies-top-channels-dual-success-formula/"><u>[Updated] 2024 Approved Top Narrative Strategies, Top Channels Dual Success Formula</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-pro-tips-for-efficient-message-reactions-on-discord/"><u>[Updated] In 2024, Pro Tips for Efficient Message Reactions on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-mastering-discord-live-a-step-by-step-playbook/"><u>[Updated] Mastering Discord Live A Step-by-Step Playbook</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-boosting-status-appeal-integrating-emojis-into-discord/"><u>2024 Approved Boosting Status Appeal Integrating Emojis Into Discord</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-navigating-video-submission-from-pcmobile-devices-to-youtube-shorts/"><u>2024 Approved Navigating Video Submission From PC/Mobile Devices to YouTube Shorts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/engage-viewers-immediitsly-the-art-of-screensharing-on-facebook-livestreams/"><u>Engage Viewers Immediitsly The Art of Screensharing on Facebook Livestreams</u></a></li>
+<li><a href="https://article-tips.techidaily.com/enhancing-memory-retention-organized-photo-albums-and-icloud-coordination-for-2024/"><u>Enhancing Memory Retention Organized Photo Albums and iCloud Coordination for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-assessment-the-linksys-ea8300-and-its-ability-to-distribute-data-among-various-electronics/"><u>Expert Assessment: The Linksys EA8300 and Its Ability to Distribute Data Among Various Electronics</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/streamline-your-life-quick-tips-to-beginning-on-discord-broadcasts/"><u>Streamline Your Life Quick Tips to Beginning on Discord Broadcasts</u></a></li>
+</ul></div>
+

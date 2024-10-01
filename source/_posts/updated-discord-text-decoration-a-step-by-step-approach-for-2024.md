@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Discord Text Decoration  A Step-by-Step Approach for 2024\""
-date: 2024-09-09T01:43:18.736Z
-updated: 2024-09-10T01:43:18.736Z
+date: 2024-09-27T04:00:10.082Z
+updated: 2024-09-30T21:23:34.070Z
 tags:
   - ai video
   - ai discord
@@ -15,12 +15,6 @@ keywords: "Discord Emojis Tips,Text Styling in Discord,Discord Text Customizatio
 thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3f3f6a2e608d839212aa9eeb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discord Text Decoration: A Step-by-Step Approach
 
 # How to Change Text Style in Discord | 3 Methods
@@ -57,12 +51,6 @@ Tips You May Not Want to Miss!!
 
 ![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Filmora Text Video Editor
 
 #### [Add & Change Text Style in Video](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -75,12 +63,6 @@ Filmora Text Video Editor
 
 [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Change Text Style in Discord with Markdown?
 
 As we mentioned previously, Markdown is completely text-based and has a very simple syntax. All you need to do to apply special formatting to your text is to enter a few special characters at the right places, and the appropriate effect (bold, italic…) will appear in the chat. Keep in mind that you can easily combine the formatting styles by using multiple commands at the same time.
@@ -105,6 +87,13 @@ In order to get a strikethrough effect on your text, you will have to type two t
 
 Underline effect is also available on Discord and equally simple to activate. Just type two underscore dashes (\_\_)at the start and the ending of the text selection to apply it.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Combine Text Formatting Options in Discord?
 
 Once you mastered the basic effects and know the commands without thinking, it’s time to consider more complex text transformations that combine more than one effect. In principle, Markdown lets you do this just as easily, for as long as you know all the right combinations of characters that produce the desired effect. Here are the detailed instructions for some of the most frequently utilized combos:
@@ -116,11 +105,12 @@ For this elegant combination, use two underscore dashes (\_\_) followed by one a
 ![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
@@ -128,11 +118,12 @@ Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both 
 ![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
@@ -145,12 +136,6 @@ You can combine all four style changes as well – just use two tildes (\~\~), t
 
 ![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
 In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
@@ -180,18 +165,17 @@ The creation of a hidden text message that requires direct user action to reveal
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -199,3 +183,21 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-penning-podcasts-to-perfection-a-compreomed-writers-guide/"><u>[New] Penning Podcasts to Perfection A Compreomed Writer’s Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-quick-win-strategies-for-replying-on-discord-platforms-for-2024/"><u>[New] Quick-Win Strategies for Replying on Discord Platforms for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-learn-quickly-updating-your-discord-avatar-status/"><u>[Updated] 2024 Approved Learn Quickly Updating Your Discord Avatar Status</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-elevate-your-streams-step-by-step-discord-tips/"><u>[Updated] Elevate Your Streams Step-by-Step Discord Tips</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-steps-for-a-smooth-departure-in-online-gatherings/"><u>[Updated] In 2024, Steps for a Smooth Departure in Online Gatherings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-action-camera-showdown-unmatched-seventh-lineup-wetproof/"><u>2024 Approved Action Camera Showdown Unmatched Seventh Lineup Wetproof</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/youtube-to-webm-tools-a-compreenasive-review-and-ranking/"><u>Best YouTube-to-WebM Tools A Compreenasive Review & Ranking</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-delving-into-magix-photo-organizer/"><u>In 2024, Delving Into MAGIX Photo Organizer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-s18e-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo S18e Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-canoscan-lide-120-printer-drivers-free-download-guide/"><u>Latest CanoScan LiDE 120 Printer Drivers - Free Download Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/mline-animated-subscribe-buttons-in-filmora-for-youtube-success-for-2024/"><u>Streamline Animated Subscribe Buttons in Filmora for YouTube Success for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-infinix-note-30-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Infinix Note 30 Phones</u></a></li>
+</ul></div>
+

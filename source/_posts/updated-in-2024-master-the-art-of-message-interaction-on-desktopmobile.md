@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Master the Art of Message Interaction on Desktop/Mobile"
-date: 2024-09-07T22:45:08.886Z
-updated: 2024-09-14T21:26:50.547Z
+date: 2024-09-27T05:24:14.440Z
+updated: 2024-10-01T04:29:08.760Z
 tags:
   - ai video
   - ai discord
@@ -62,6 +62,13 @@ This technique works for both the browser and the desktop applications; use it w
 
 ![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Reply to a Certain Message on Discord Mobile
 
 Replying on the mobile app is similar to Desktop. Here's how to do it:
@@ -71,6 +78,13 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 3. Choose the "Reply" option
 
 ![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
 2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
@@ -93,6 +107,19 @@ Here's an example of how you can implement this feature in your server. In this 
 
 ![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
 ![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
@@ -112,36 +139,23 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 
 ![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
 
 1. Click on the emoji, and it would increase the total number of responses by 1
 2. Hovering over the emoji will also let you know the names of the people who reacted to the message
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: How to Quote Messages on Discord?
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
 
 ![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
 
@@ -153,10 +167,10 @@ On the other hand, multi-line quoting is when you need to quote a paragraph or b
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -172,5 +186,20 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/updated-inside-the-world-of-discord-nitro-highlights-and-acquisition-strategies-for-2024/"><u>[Updated] Inside the World of Discord Nitro Highlights and Acquisition Strategies for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-selecting-the-ideal-team-communication-tool-a-slack-vs-discord-evaluation-for-2024/"><u>[Updated] Selecting the Ideal Team Communication Tool A Slack Vs. Discord Evaluation for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-simplify-your-virtual-experience-modifying-status-and-images-on-discord-for-2024/"><u>[Updated] Simplify Your Virtual Experience Modifying Status & Images on Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-voyage-to-trustworthiness-becoming-a-confirmed-disco-partner/"><u>[Updated] The Voyage to Trustworthiness Becoming a Confirmed Disco Partner</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unveiling-secrets-for-superior-user-imagery-on-discord-for-2024/"><u>[Updated] Unveiling Secrets for Superior User Imagery on Discord for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-showdown-claude-and-gpt-for-household-assistance/"><u>AI Showdown: Claude & GPT for Household Assistance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enshrouded-pc-crash-fixed-a-comprehensive-guide/"><u>Enshrouded PC Crash Fixed: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-solving-icue-hardware-recognition-issues/"><u>Expert Tips for Solving ICUE Hardware Recognition Issues</u></a></li>
+<li><a href="https://article-helps.techidaily.com/feathered-flamenco-flyers/"><u>Feathered Flamenco Flyers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-apple-iphone-13-pro-max-look-no-further-drfone-by-drfone-virtual-ios/"><u>In 2024, Looking For A Location Changer On Apple iPhone 13 Pro Max? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/logo-design-101-tips-to-make-your-podcast-stand-out-for-2024/"><u>Logo Design 101 Tips to Make Your Podcast Stand Out for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-apex-legends-game-crashes-and-engine-issues/"><u>Troubleshooting Guide: Fixing Apex Legends Game Crashes and Engine Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windows-and-mac-top-10-best-free-online-video-kickstarters-with-ai-features/"><u>Windows & Mac: Top 10 Best Free Online Video Kickstarters with AI Features</u></a></li>
+</ul></div>
 

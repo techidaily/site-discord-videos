@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastery in Messaging  Perfecting Video Posting on Discord\""
-date: 2024-09-14T07:15:27.325Z
-updated: 2024-09-20T03:05:19.569Z
+date: 2024-09-27T22:16:37.847Z
+updated: 2024-09-30T18:08:00.554Z
 tags:
   - ai video
   - ai discord
@@ -54,6 +54,13 @@ It’s worth noting that, while Discord will play most video formats, it can’t
 
 Also, there’s a strict file limit of 8MB. This isn’t huge at all – while there’s no definitive file size for video (as it depends on file type, resolution, compression, etc) it’s unlikely to be more than 60 seconds of footage, and could just be a few seconds. If the video you want to upload is more than 8MB, carry on reading below to find out how.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Send Videos on Discord Mobile
 
 The process to send video on Discord Mobile is pretty similar both with iOS and Android, but with just a few minor tweaks.
@@ -65,6 +72,13 @@ This will open your phone’s gallery, but it’ll only be searching for photos.
 Click this and it’ll give you the option to directly upload a video from your phone’s Downloads folder. To send a video that’s stored elsewhere, click on the Expand arrow at the top left of the menu. This will send you to your phone’s file navigation system where you can find the video you want.
 
 Once you’ve selected the video, just hit the blue Send icon to send your video to the chat. Again you can add a message as a caption, but this time it’ll just be in the normal message box rather than a dedicated comment box before you hit upload.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Send Long Videos on Discord That Are More Than 8MB
 
@@ -84,6 +98,13 @@ This will open the Instant Cutter window where you can click Open File to add yo
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For more detail, check out [this post](https://tools.techidaily.com/wondershare/filmora/download/) for a step-by-step guide on the different ways you can trim a video in Filmora.
 
 You can also try to compress your video size, which may let you keep the whole video at the expense of some of the quality. Again, using Filmora, this is easy. But also again, there are different ways to go about it.
@@ -101,16 +122,10 @@ So, if you want to upload massive files, you’ll need to decide whether to choo
 The only drawback to this option is that it stops other users from being able to download the video directly, and you may need to look at a file sharing alternative such as Dropbox if you want to send the actual file.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs About Uploading Videos to Discord
@@ -127,13 +142,6 @@ If you find a video on Discord that you want to share on a different server or i
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -147,5 +155,20 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-decoding-the-best-workplace-messaging-tool-slack-or-discord/"><u>[New] Decoding the Best Workplace Messaging Tool Slack or Discord?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-exit-the-guide-to-disconnecting-from-a-discord-community-for-2024/"><u>[New] Navigating Exit The Guide to Disconnecting From a Discord Community for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-revolutionize-discord-conversations-with-top-ranked-free-modifiers-for-2024/"><u>[New] Revolutionize Discord Conversations with Top-Ranked Free Modifiers for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-best-10-discord-plugins-for-elevated-user-interaction/"><u>[New] The Best 10 Discord Plugins for Elevated User Interaction</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unveiling-discord-video-communication-on-devices/"><u>[New] Unveiling Discord Video Communication on Devices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-superior-picks-top-rated-webcam-grips/"><u>[Updated] 2024 Approved Superior Picks Top-Rated Webcam Grips</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-pc-hiccups-insider-tips-to-prevent-the-king-of-fighters-xv-crashes/"><u>Overcoming PC Hiccups - Insider Tips to Prevent 'The King of Fighters XV' Crashes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-fix-xbox-game-download-failures-on-pc/"><u>Steps to Fix Xbox Game Download Failures on PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-connecting-your-laptop-to-a-television-using-an-hdmi-cable-step-by-step-instructions-with-images/"><u>Ultimate Guide: Connecting Your Laptop to a Television Using an HDMI Cable - Step-by-Step Instructions with Images</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Insider’s Guide to Batch Deleting Messages on Discord Platform for 2024"
-date: 2024-09-09T16:45:28.132Z
-updated: 2024-09-14T17:03:46.069Z
+date: 2024-09-24T03:46:07.678Z
+updated: 2024-10-01T11:10:01.880Z
 tags:
   - ai video
   - ai discord
@@ -75,6 +75,13 @@ However, this was soon changed because the mass execution directly affected the 
 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Delete Direct Messages on Discord
 
 If you use Discord on your desktop computer, this section will discuss the steps to follow to delete your direct messages.
@@ -82,6 +89,13 @@ If you use Discord on your desktop computer, this section will discuss the steps
 However, keep in mind that Discord does not allow you to delete direct messages. If you don't want to show messages from a particular friend, you can remove the chat copy, and it will disappear from the messages temporarily, although it will still be visible in the recipient's chats. And if the friend contacts you again, the messages will show.
 
 ![Remove Discord Direct Message Copy](https://images.wondershare.com/filmora/article-images/remove-discord-copy.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can delete the local copy of messages by following the steps below:
 
@@ -99,13 +113,6 @@ The procedure for deleting DMs from your Discord smartphone application applies 
 4. Tap 'Delete' on that list
 5. Confirm your decision by tapping 'Delete' once again
 6. The message will be deleted
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Delete Channel Messages in Discord?
 
@@ -149,22 +156,29 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 ![delete messages on discord with mee6 bot](https://images.wondershare.com/filmora/article-images/discord-bot-mee6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. You'll be prompted to authorize so that MEE6 bot can access your username, and know what server you’re in.
 2. Pin-point the server you want to add the bot and then set up to connect MEE6 to the Discord server.
 
 ![how to delete discord message with mee6 bot](https://images.wondershare.com/filmora/article-images/select-server-to-add-mee6-bot-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Click Authorize again and the bot will be added to your Discord server soon;
 2. To enable MEE6 to clear the chat, you should enable the Moderator plugin first. Click the Moderator option under Plugins first, and then click Yes.
 
 ![remove discord message with mee 6](https://images.wondershare.com/filmora/article-images/mee6-moderator-plugin-moderator.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
@@ -173,10 +187,10 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 5: How to Clear All Chats and Delete All Messages In Discord?
@@ -265,5 +279,18 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-securely-connect-a-step-by-step-guide-to-discord-calls/"><u>[New] Securely Connect A Step-by-Step Guide to Discord Calls</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-windows-11-discover-new-apps-and-games-now-for-2024/"><u>[New] Windows 11 Discover New Apps & Games Now for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-optimizing-discord-stream-quality-with-these-key-steps/"><u>[Updated] 2024 Approved Optimizing Discord Stream Quality with These Key Steps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-best-spaces-on-discord-to-date-and-meet-love-for-2024/"><u>[Updated] Best Spaces on Discord to Date and Meet Love for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-efficient-tactics-for-exploring-and-joining-desired-discords/"><u>[Updated] In 2024, Efficient Tactics for Exploring and Joining Desired Discords</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-atheros-network-device-drivers-seamlessly-on-windows-system/"><u>How To Install Atheros Network Device Drivers Seamlessly on Windows System</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/navigate-discords-streaming-landscape-a-comprehensive-tutorial/"><u>Navigate Discord's Streaming Landscape A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-linux-how-to-decide-between-fedora-and-ubuntu-for-optimal-performance/"><u>Navigating the World of Linux: How to Decide Between Fedora and Ubuntu for Optimal Performance</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-paper-queue-freeze-on-windows-oses-10-11-and-7/"><u>Overcoming Paper Queue Freeze on Windows OSes (10, 11 & 7)</u></a></li>
+<li><a href="https://win-able.techidaily.com/screen-capture-issues-resolved-why-your-obs-is-now-recording-flawlessly/"><u>Screen Capture Issues Resolved: Why Your OBS Is Now Recording Flawlessly</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-final-cut-pros-greatest-hits-10-notable-films-you-need-to-see-for-2024/"><u>Updated Final Cut Pros Greatest Hits 10 Notable Films You Need to See for 2024</u></a></li>
+</ul></div>
 

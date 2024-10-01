@@ -1,7 +1,7 @@
 ---
 title: 2024'S Ultimate Fixes for When Voicemod Won't Launch or Work Properly
-date: 2024-09-08T03:34:33.660Z
-updated: 2024-09-14T23:20:08.867Z
+date: 2024-09-29T20:26:47.264Z
+updated: 2024-10-01T10:31:15.974Z
 tags:
   - win11
   - win10
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/3835b5c9324135a25937f991ea8300cd53ce37fdc
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Fortnite patch
@@ -79,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/3835b5c9324135a25937f991ea8300cd53ce37fdc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4\. Restart the Epic Games Launcher.
 
  5\. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
@@ -86,19 +93,6 @@ thumbnail: https://thmb.techidaily.com/3835b5c9324135a25937f991ea8300cd53ce37fdc
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Make sure your microphone is on for Fortnite
 
@@ -108,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/3835b5c9324135a25937f991ea8300cd53ce37fdc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
@@ -122,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/3835b5c9324135a25937f991ea8300cd53ce37fdc
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Check your audio settings
@@ -138,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/3835b5c9324135a25937f991ea8300cd53ce37fdc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
@@ -154,6 +134,13 @@ iii. Exit Fortnite.
  2\. On your desktop,**right-click** **the speaker icon** at the bottom-right corner, and then select**Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3\. Click the **Playback** tab, select the speakers/headphones you’re using and click **Set Default** .
 
@@ -173,6 +160,19 @@ iii. Exit Fortnite.
 
  Join a squad to check ifchat is now working . If not, try the fix below.
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Fortnite
 
  If none of the above fixes resolves your chat problem, try reinstalling Fortnite. Here is how to do it:
@@ -181,9 +181,29 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap940.png)
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2\. Click**Uninstall** to uninstall Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3\. Restart your PC.
 
@@ -212,5 +232,26 @@ iii. Exit Fortnite.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-organizing-video-content-with-vimeo-chapters/"><u>[New] 2024 Approved Organizing Video Content with Vimeo Chapters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-guide-to-time-lapses-with-iphone/"><u>[New] The Ultimate Guide to Time-Lapses with iPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-boost-music-production-with-our-leading-free-beat-detection-software/"><u>[Updated] 2024 Approved Boost Music Production with Our Leading Free Beat Detection Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-high-fidelity-graphics-on-4k-an-in-depth-look-at-proart-monitors/"><u>[Updated] High-Fidelity Graphics on 4K An In-Depth Look at ProArt Monitors</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028906676-4/"><u>「最高のビデオ・オーディオキャンセルウェブサイト4選 - ご活用いただきたい！」</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/10-with-these-easy-techniques/"><u>10 with These Easy Techniques!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-online-stream-setup-the-vlc-methodology/"><u>2024 Approved Optimal Online Stream Setup The VLC Methodology</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726027705279-windows4/"><u>無料で使えるWindows対応動画スピンオフツールベスト4選択法</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028753077-5/"><u>最高の無料音声ファイル編集ソフトウェアとアプリ - トップ5推薦</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-serene-power-with-the-best-aio-a-comprehensive-look-at-hytes-thicc-q6-similar-problem/"><u>Experience Serene Power with the Best AIO - A Comprehensive Look at Hyte's THICC Q6 # Similar Problem</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expertly-chosen-top-ten-cine-cameras-for-everyone/"><u>Expertly Chosen Top Ten Cine-Cameras for Everyone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-beyond-the-lens-innovative-ideas-for-youtube-video-creation/"><u>In 2024, Beyond the Lens Innovative Ideas for YouTube Video Creation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-itel-a60-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Itel A60 Face Lock?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-realme-gt-3-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Realme GT 3? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-butler-flawless-high-quality-dvd-copying-guide/"><u>The Butler - Flawless High-Quality DVD Copying Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-pick-how-to-optimize-video-quality-with-superior-bitrate-adjustment-tools/"><u>Top Pick: How to Optimize Video Quality with Superior Bitrate Adjustment Tools</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/troubleshooting-guide-capturing-sound-during-powerpoint-sessions-for-both-window-and-macos-users/"><u>Troubleshooting Guide: Capturing Sound During PowerPoint Sessions for Both Window and macOS Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ultimate-mp4-transformation-tool-top-rated-software-for-hd-and-sd-video-conversion/"><u>Ultimate MP4 Transformation Tool: Top Rated Software for HD and SD Video Conversion</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028169069-wonderfox-dvd/"><u>WonderFox DVDリッパープロのセットアップ完了!お使いいただきありがとうございます。</u></a></li>
+</ul></div>
 

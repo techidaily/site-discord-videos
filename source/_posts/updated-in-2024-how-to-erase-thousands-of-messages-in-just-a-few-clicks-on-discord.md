@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Erase Thousands of Messages in Just a Few Clicks on Discord"
-date: 2024-09-14T10:04:27.870Z
-updated: 2024-09-20T03:31:40.860Z
+date: 2024-09-25T18:51:10.107Z
+updated: 2024-09-30T17:58:21.488Z
 tags:
   - ai video
   - ai discord
@@ -54,6 +54,13 @@ However, this was soon changed because the mass execution directly affected the 
 
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A cross-platform for making videos anywhere for all creators
 
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
@@ -82,6 +89,13 @@ If you use Discord on your desktop computer, this section will discuss the steps
 However, keep in mind that Discord does not allow you to delete direct messages. If you don't want to show messages from a particular friend, you can remove the chat copy, and it will disappear from the messages temporarily, although it will still be visible in the recipient's chats. And if the friend contacts you again, the messages will show.
 
 ![Remove Discord Direct Message Copy](https://images.wondershare.com/filmora/article-images/remove-discord-copy.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can delete the local copy of messages by following the steps below:
 
@@ -123,10 +137,10 @@ Here is a more detailed breakdown of the sequence:
 At first glance, it seems like a long and tedious process, but once you get down to doing it and develop a rhythm, it is an easy task.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Deleting Message with Discord Clear Chat Bot
@@ -164,10 +178,10 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 ![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
@@ -229,6 +243,13 @@ Ideally, you'll want the following things from your AutoHotkey script:
 * [Best Discord Emoji Makers](https://tools.techidaily.com/wondershare/filmora/download/)
 * [10+ Best Free Discord Voice Changers](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs About Deleting Discord Messages
 
 #### 1\. Can I Recover A Deleted Message on Discord?
@@ -245,13 +266,6 @@ If you are an admin or an owner of a server, you can delete other people's messa
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -265,5 +279,21 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-decoding-cloud-service-price-structures/"><u>[New] Decoding Cloud Service Price Structures</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-masterminds-of-memorable-discord-symbols-revealed/"><u>[New] Masterminds of Memorable Discord Symbols Revealed</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-tips-for-perfecting-the-art-of-making-memorable-discord-avatars/"><u>[New] Tips for Perfecting the Art of Making Memorable Discord Avatars</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-top-tier-discord-automations-for-2024/"><u>[New] Top-Tier Discord Automations for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unlocking-the-power-of-discord-spoiler-labels-for-2024/"><u>[New] Unlocking the Power of Discord Spoiler Labels for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unravel-the-art-of-using-gifs-on-discord-a-comprehensive-guide-for-2024/"><u>[New] Unravel the Art of Using GIFs on Discord - A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unraveling-the-creators-who-elevate-digital-expressions-for-2024/"><u>[New] Unraveling the Creators Who Elevate Digital Expressions for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-creative-capture-of-sims-4-sagas-innovative-ways-to-record-your-journey/"><u>[Updated] Creative Capture of Sims 4 Sagas Innovative Ways to Record Your Journey</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-essential-top-10-photo-keeping-websites-never-a-missed-shot/"><u>[Updated] Essential Top 10 Photo-Keeping Websites, Never a Missed Shot</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-8-cameras-transforming-online-broadcasting/"><u>2024 Approved Innovative 8 Cameras Transforming Online Broadcasting</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-navigating-the-world-of-digital-sound-capture-a-deep-dive/"><u>2024 Approved Navigating the World of Digital Sound Capture A Deep Dive</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/diving-deep-into-gopro-variants-comprehensive-guide-for-2024/"><u>Diving Deep Into Gopro Variants Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-free-gaming-experience-correcting-call-of-duty-warzones-disc-read-mistakes-with-50-31/"><u>Error-Free Gaming Experience - Correcting Call of Duty Warzone's Disc Read Mistakes with [5.0, 3.1]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-immersive-worlds-identifying-key-variations-among-ar-vr-mr-and-xr/"><u>Exploring Immersive Worlds: Identifying Key Variations Among AR, VR, MR & XR</u></a></li>
+</ul></div>
 

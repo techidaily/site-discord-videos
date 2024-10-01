@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Make Your Discord Conversation Stand Out with Style"
-date: 2024-09-11T04:13:20.754Z
-updated: 2024-09-15T04:24:37.896Z
+date: 2024-09-28T03:52:40.702Z
+updated: 2024-09-30T22:09:02.299Z
 tags:
   - ai video
   - ai discord
@@ -63,6 +63,13 @@ Filmora Text Video Editor
 
 [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Change Text Style in Discord with Markdown?
 
 As we mentioned previously, Markdown is completely text-based and has a very simple syntax. All you need to do to apply special formatting to your text is to enter a few special characters at the right places, and the appropriate effect (bold, italic…) will appear in the chat. Keep in mind that you can easily combine the formatting styles by using multiple commands at the same time.
@@ -86,6 +93,13 @@ In order to get a strikethrough effect on your text, you will have to type two t
 #### **How to Make Discord Underline Text?**
 
 Underline effect is also available on Discord and equally simple to activate. Just type two underscore dashes (\_\_)at the start and the ending of the text selection to apply it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Combine Text Formatting Options in Discord?
 
@@ -116,10 +130,10 @@ You can combine all four style changes as well – just use two tildes (\~\~), t
 ![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
@@ -135,16 +149,10 @@ To change the text color, you should create a simple, three-line block. In the t
 Here is a detailed video tutorial for creating customized text in a range of different colors with all the relevant code phrases.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs About Discord Text Formatting
@@ -176,5 +184,22 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/dvanced-presentation-techniques-youtube-in-slides/"><u>[New] Advanced Presentation Techniques YouTube in Slides</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-comprehensive-guide-to-10-best-meme-patterns-for-2024/"><u>[Updated] The Comprehensive Guide to #10 Best Meme Patterns for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adding-apple-music-a-guide-to-enhanced-videos-for-2024/"><u>Adding Apple Music A Guide to Enhanced Videos for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/chat-chiselwork-shaping-styles-with-typography-tweaks/"><u>Chat Chiselwork: Shaping Styles with Typography Tweaks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-zero-cost-open-dns-services-available/"><u>Discover the Best Zero-Cost Open DNS Services Available</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/go-digital-with-p90x-or-insanity-converting-your-fitness-dvd-collection-to-portable-files/"><u>Go Digital with P90X or Insanity: Converting Your Fitness DVD Collection to Portable Files</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/h264-avi/"><u>H264への変換 - AVIファイルを品質維持してどうやって変更するか</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-convert-dvd-sounds-into-mp3-files-efficiently-with-the-finest-video-converters-available/"><u>How To Convert DVD Sounds Into MP3 Files Efficiently With The Finest Video Converters Available</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-download-music-videos-effortlessly/"><u>How To Download Music Videos Effortlessly</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-efficiently-switch-from-m4v-to-avi-video-formats-expert-tips-for-both-online-and-offline-conversion/"><u>How To Efficiently Switch From M4V To AVI Video Formats: Expert Tips for Both Online & Offline Conversion</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-enjoy-anime-remotely-as-a-group-best-online-viewing-options/"><u>How to Enjoy Anime Remotely as a Group: Best Online Viewing Options</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-6-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 6 In Different Conditionsin</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/is-compatibility-with-webm-format-supported-by-windows-media-player/"><u>Is Compatibility with WebM Format Supported by Windows Media Player?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavi-download-livre-do-converter-3g2-and-3gp-aulas-simplificadas-e-interface-intuitiva/"><u>Movavi: Download Livre Do Converter 3G2 & 3GP - Aulas Simplificadas E Interface Intuitiva!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-gopro-studio-replacement-best-video-editors-for-action-camera-footage/"><u>Updated 2024 Approved GoPro Studio Replacement Best Video Editors for Action Camera Footage</u></a></li>
+</ul></div>
 

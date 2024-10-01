@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Simplifying Server Management  Bulk Delete Messages with Ease\""
-date: 2024-09-16T20:54:47.831Z
-updated: 2024-09-20T09:01:26.577Z
+date: 2024-09-27T04:29:32.006Z
+updated: 2024-09-30T21:48:51.298Z
 tags:
   - ai video
   - ai discord
@@ -122,6 +122,13 @@ Here is a more detailed breakdown of the sequence:
 
 At first glance, it seems like a long and tedious process, but once you get down to doing it and develop a rhythm, it is an easy task.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Deleting Message with Discord Clear Chat Bot
 
 Please keep in mind that Discord has changed its policy regarding bots, going from discouraging their use to outright flagging them as a violation of its terms.
@@ -143,10 +150,10 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 ![delete messages on discord with mee6 bot](https://images.wondershare.com/filmora/article-images/discord-bot-mee6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. You'll be prompted to authorize so that MEE6 bot can access your username, and know what server you’re in.
@@ -160,29 +167,30 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 ![remove discord message with mee 6](https://images.wondershare.com/filmora/article-images/mee6-moderator-plugin-moderator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
 ![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 5: How to Clear All Chats and Delete All Messages In Discord?
@@ -271,5 +279,20 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-unlink-discord-from-pcmobile/"><u>[New] In 2024, Unlink Discord From PC/Mobile</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-leading-discord-glyphs-innovators-shaping-chat-culture/"><u>[New] Leading Discord Glyphs Innovators Shaping Chat Culture</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-reliable-methods-to-elevate-your-youtube-presence-without-breaking-trust/"><u>[New] Reliable Methods to Elevate Your YouTube Presence Without Breaking Trust</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-android-resource-guide-to-download-videos-from-youtube-for-2024/"><u>[New] The Ultimate Android Resource Guide to Download Videos From YouTube for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-transforming-the-sound-landscape-the-finest-discobot-applications-you-must-use-for-2024/"><u>[New] Transforming the Sound Landscape The Finest DiscoBot Applications You Must Use for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-exclusive-list-of-leading-free-video-editing-programs/"><u>[Updated] In 2024, Exclusive List of Leading Free Video Editing Programs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-optimize-your-creativity-with-these-10-chromebook-stores/"><u>2024 Approved Optimize Your Creativity with These 10 Chromebook Stores</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-essential-view-total-to-secure-income/"><u>2024 Approved YouTube's Essential View Total to Secure Income</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/are-you-struggling-with-blizzard-battlenet-understanding-the-difference-between-server-downtime-and-personal-connection-issues/"><u>Are You Struggling with Blizzard Battle.net? Understanding the Difference Between Server Downtime and Personal Connection Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-top-mts-video-editing-software-a-comprehensive-review/"><u>In 2024, The Top MTS Video Editing Software A Comprehensive Review</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/precision-and-perfection-leading-discord-emoji-makers-of-today/"><u>Precision and Perfection Leading Discord Emoji Makers of Today</u></a></li>
+</ul></div>
 

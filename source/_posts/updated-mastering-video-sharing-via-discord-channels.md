@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Video Sharing via Discord Channels"
-date: 2024-09-14T02:06:55.020Z
-updated: 2024-09-15T01:51:25.267Z
+date: 2024-09-29T10:17:21.931Z
+updated: 2024-10-01T12:48:17.961Z
 tags:
   - ai video
   - ai discord
@@ -66,6 +66,13 @@ Click this and it’ll give you the option to directly upload a video from your 
 
 Once you’ve selected the video, just hit the blue Send icon to send your video to the chat. Again you can add a message as a caption, but this time it’ll just be in the normal message box rather than a dedicated comment box before you hit upload.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Send Long Videos on Discord That Are More Than 8MB
 
 So as we’ve said above, there is a file size limit when you’re using a free Discord account of just 8MB, which isn’t much at all. There are a few ways around this, so take your pick from the one that sounds best for you.
@@ -84,6 +91,13 @@ This will open the Instant Cutter window where you can click Open File to add yo
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For more detail, check out [this post](https://tools.techidaily.com/wondershare/filmora/download/) for a step-by-step guide on the different ways you can trim a video in Filmora.
 
 You can also try to compress your video size, which may let you keep the whole video at the expense of some of the quality. Again, using Filmora, this is easy. But also again, there are different ways to go about it.
@@ -101,16 +115,10 @@ So, if you want to upload massive files, you’ll need to decide whether to choo
 The only drawback to this option is that it stops other users from being able to download the video directly, and you may need to look at a file sharing alternative such as Dropbox if you want to send the actual file.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs About Uploading Videos to Discord
@@ -128,10 +136,10 @@ If you find a video on Discord that you want to share on a different server or i
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -147,5 +155,20 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-convenient-iphone-method-for-live-screen-capture-for-2024/"><u>[New] Convenient iPhone Method for Live Screen Capture for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-master-lightrooms-artistic-control-creating-and-merging-hdr-images/"><u>[New] In 2024, Master Lightroom's Artistic Control Creating & Merging HDR Images</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-seamless-blend-linking-spotify-and-discord-directly/"><u>[Updated] In 2024, Seamless Blend Linking Spotify & Discord Directly</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-inside-out-what-does-discord-nitro-offer-plus-how-to-get-it-for-2024/"><u>[Updated] Inside Out What Does Discord Nitro Offer? + How to Get It for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-tutorial-for-making-eye-catching-pfps-on-discord-for-2024/"><u>[Updated] The Ultimate Tutorial for Making Eye-Catching Pfps on Discord for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unlocking-the-potential-of-consoles-with-pc-gaming-tech/"><u>[Updated] Unlocking the Potential of Consoles with PC Gaming Tech</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-your-complete-guide-to-discords-premium-subscription-disconitro/"><u>[Updated] Your Complete Guide to Discord's Premium Subscription, DiscoNitro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-brevity-in-action-shortening-youtube-video-content/"><u>In 2024, Brevity in Action Shortening YouTube Video Content</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tapping-into-time-potential-with-chatgpts-top-4-methods/"><u>Tapping Into Time Potential with ChatGPT's Top 4 Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo X Fold 2? | Dr.fone</u></a></li>
+</ul></div>
 

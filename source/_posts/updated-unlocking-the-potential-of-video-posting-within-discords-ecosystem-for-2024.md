@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking the Potential of Video Posting Within Discord's Ecosystem for 2024"
-date: 2024-09-17T16:16:45.083Z
-updated: 2024-09-19T23:49:44.137Z
+date: 2024-09-30T12:41:19.071Z
+updated: 2024-10-01T13:32:42.888Z
 tags:
   - ai video
   - ai discord
@@ -54,6 +54,13 @@ It’s worth noting that, while Discord will play most video formats, it can’t
 
 Also, there’s a strict file limit of 8MB. This isn’t huge at all – while there’s no definitive file size for video (as it depends on file type, resolution, compression, etc) it’s unlikely to be more than 60 seconds of footage, and could just be a few seconds. If the video you want to upload is more than 8MB, carry on reading below to find out how.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Send Videos on Discord Mobile
 
 The process to send video on Discord Mobile is pretty similar both with iOS and Android, but with just a few minor tweaks.
@@ -65,6 +72,19 @@ This will open your phone’s gallery, but it’ll only be searching for photos.
 Click this and it’ll give you the option to directly upload a video from your phone’s Downloads folder. To send a video that’s stored elsewhere, click on the Expand arrow at the top left of the menu. This will send you to your phone’s file navigation system where you can find the video you want.
 
 Once you’ve selected the video, just hit the blue Send icon to send your video to the chat. Again you can add a message as a caption, but this time it’ll just be in the normal message box rather than a dedicated comment box before you hit upload.
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Send Long Videos on Discord That Are More Than 8MB
 
@@ -84,6 +104,13 @@ This will open the Instant Cutter window where you can click Open File to add yo
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For more detail, check out [this post](https://tools.techidaily.com/wondershare/filmora/download/) for a step-by-step guide on the different ways you can trim a video in Filmora.
 
 You can also try to compress your video size, which may let you keep the whole video at the expense of some of the quality. Again, using Filmora, this is easy. But also again, there are different ways to go about it.
@@ -100,19 +127,6 @@ So, if you want to upload massive files, you’ll need to decide whether to choo
 
 The only drawback to this option is that it stops other users from being able to download the video directly, and you may need to look at a file sharing alternative such as Dropbox if you want to send the actual file.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs About Uploading Videos to Discord
 
 #### Which Kind of Video Formats Can I Upload to Discord?
@@ -128,10 +142,10 @@ If you find a video on Discord that you want to share on a different server or i
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -147,5 +161,21 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-complete-pathway-to-success-with-your-first-facebook-live/"><u>[New] 2024 Approved The Complete Pathway to Success with Your First Facebook Live</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-ultimate-guide-to-free-voice-alteration-tools-for-discord-2023-edition/"><u>[New] In 2024, Ultimate Guide to Free Voice Alteration Tools for Discord - 2023 Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-optimize-discord-a-compendium-of-top-bots-for-2024/"><u>[New] Optimize Discord A Compendium of Top Bots for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-transforming-conversations-with-discords-powerful-graphics-library/"><u>[New] Transforming Conversations with Discord's Powerful Graphics Library</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtubes-music-magic-best-free-tools-for-wav-conversion/"><u>[New] YouTube's Music Magic Best Free Tools for WAV Conversion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-switch-to-the-future-capture-cards-guide/"><u>[Updated] In 2024, Switch to the Future Capture Cards Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-eliminate-your-discord-servers-desktop-and-android-tips/"><u>2024 Approved Eliminate Your Discord Servers Desktop & Android Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/vating-audiencvith-effective-thumbnail-sizes-for-2024/"><u>Captivating Audiencvith Effective Thumbnail Sizes for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-immortal-stability-fixes-and-optimizations-avoiding-crashes-in-your-2024-adventure/"><u>Diablo Immortal Stability Fixes and Optimizations: Avoiding Crashes in Your 2024 Adventure</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-key-aspects-of-web-based-storytelling/"><u>In 2024, Key Aspects of Web-Based Storytelling</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/live-radio-transmissions-recorded-with-ease-an-experts-guide-for-2024/"><u>Live Radio Transmissions Recorded with Ease An Expert's Guide for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/superior-compre-points-to-free-high-quality-icons-for-2024/"><u>Superior, Compre Points to Free High-Quality Icons for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-role-of-ussd-in-mobile-communications-decoding-unstructured-supplementary-service-data/"><u>The Role of USSD in Mobile Communications: Decoding Unstructured Supplementary Service Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-excel-3-features-not-possible-with-ai-like-chatgpt/"><u>Unleashing Excel: 3 Features Not Possible with AI Like ChatGPT</u></a></li>
+</ul></div>
 

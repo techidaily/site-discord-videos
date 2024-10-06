@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Comprehensive Tutorial  Mastering Bulk Deletion of Discord Messages\""
-date: 2024-07-29T01:11:01.761Z
-updated: 2024-07-30T01:11:01.761Z
+date: 2024-10-04T18:54:52.161Z
+updated: 2024-10-06T19:58:20.163Z
 tags:
   - ai video
   - ai discord
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
 # How To Delete Messages On Discord \[2024 Updated\]
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -44,9 +41,6 @@ If you're looking to mass-delete your messages from a server or channel on Disco
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## Part 1: Understanding Discord Message Types
 
 In Discord, you will see two types of messages: Direct Messages and Channel Messages in servers. Here are the differences between the two:
@@ -62,9 +56,6 @@ However, this was soon changed because the mass execution directly affected the 
 
 ## A cross-platform for making videos anywhere for all creators
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
 
  Why your video editing isn't good enough? How about some creative inspo?
@@ -98,10 +89,14 @@ You can delete the local copy of messages by following the steps below:
 2. Tap on the 'Message' option on the left side, and then select the 'Direct Message' option on the top left side;
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -113,8 +108,12 @@ The procedure for deleting DMs from your Discord smartphone application applies 
 6. The message will be deleted
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Delete Channel Messages in Discord?
 
 This method has to be the most effective and easy way to delete a Discord message, and it's a simple, straightforward procedure:
@@ -157,6 +156,19 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 ![delete messages on discord with mee6 bot](https://images.wondershare.com/filmora/article-images/discord-bot-mee6.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. You'll be prompted to authorize so that MEE6 bot can access your username, and know what server you’re in.
 2. Pin-point the server you want to add the bot and then set up to connect MEE6 to the Discord server.
 
@@ -165,23 +177,21 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 1. Click Authorize again and the bot will be added to your Discord server soon;
 2. To enable MEE6 to clear the chat, you should enable the Moderator plugin first. Click the Moderator option under Plugins first, and then click Yes.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove discord message with mee 6](https://images.wondershare.com/filmora/article-images/mee6-moderator-plugin-moderator.jpg)
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How to Clear All Chats and Delete All Messages In Discord?
 
 In the section above, we talked about deleting messages without using the mouse. That leads us to the possibility of utilizing the 'AutoHotkey' script to automate the process.
@@ -240,8 +250,18 @@ Ideally, you'll want the following things from your AutoHotkey script:
 * [10+ Best Free Discord Voice Changers](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## FAQs About Deleting Discord Messages
 
 #### 1\. Can I Recover A Deleted Message on Discord?
@@ -264,11 +284,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-step-by-step-process-for-crafting-a-unique-discord-avatar-pcmobile/"><u>[New] 2024 Approved Step-by-Step Process for Crafting a Unique Discord Avatar (PC/Mobile)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-cut-through-background-noise-in-discord-conversations-using-voicemod/"><u>[New] Cut Through Background Noise in Discord Conversations Using VoiceMod</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-beaming-login-logout-directions/"><u>[New] In 2024, Beaming Login / Logout Directions</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-stepwise-methodology-for-launching-a-discord-channel/"><u>[New] In 2024, Stepwise Methodology for Launching a Discord Channel</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-screen-showdown-top-6-hdmi-21-monitors-reviewed/"><u>[New] The Ultimate Screen Showdown Top 6 HDMI 2.1 Monitors Reviewed</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-discord-broadcasting-the-essential-checklist-for-successful-streaming/"><u>[Updated] 2024 Approved Discord Broadcasting The Essential Checklist for Successful Streaming</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-elevate-your-streams-step-by-step-discord-tips/"><u>[Updated] 2024 Approved Elevate Your Streams Step-by-Step Discord Tips</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-pinnacle-of-emoji-creation-for-discord-channels-for-2024/"><u>[Updated] The Pinnacle of Emoji Creation for Discord Channels for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1725287964339-blu-ray/"><u>Blu-Rayのコツと味方になる技術：綿密にまとめた使い方、保存、操作ガイド</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/converta-i-tuoi-file-mka-in-formato-wav-senza-costi-con-il-converter-on-line-movavi-rapido-and-facile-da-usare/"><u>Converta I Tuoi File MKA in Formato WAV Senza Costi Con Il Converter On-Line Movavi - Rapido & Facile Da Usare!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-bavarder-integration-in-linux/"><u>Effortless Bavarder Integration in Linux</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-identifying-hard-drive-vs-solid-state-drive-on-windows/"><u>Expert Tips for Identifying Hard Drive vs Solid State Drive on Windows</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-enhancing-mobile-and-desktop-streaming-experience-on-discord/"><u>In 2024, Enhancing Mobile & Desktop Streaming Experience on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-leaving-with-honor-a-disconnect-guide-for-servers/"><u>In 2024, Leaving with Honor A Disconnect Guide for Servers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-asus-proart-pa32ucxr-mini-led-unparalleled-color-fidelity-for-professionals/"><u>In-Depth Analysis of Asus ProArt PA32UCXR Mini LED - Unparalleled Color Fidelity for Professionals</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/personalizing-your-discord-presence-easily-incorporate-unique-emojis-pcmobile-for-2024/"><u>Personalizing Your Discord Presence Easily Incorporate Unique Emojis (PC/Mobile) for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-poco-m6-pro-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Poco M6 Pro 4G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transformar-video-mp4-en-webm-sin-gastos-utilizando-el-sitio-de-movavi/"><u>Transformar Video MP4 en WebM Sin Gastos Utilizando El Sitio De Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uniting-digital-and-physical-worlds-for-2024/"><u>Uniting Digital and Physical Worlds for 2024</u></a></li>
+</ul></div>
+

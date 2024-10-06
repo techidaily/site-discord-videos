@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Discord Etiquette 101  Responding with Confidence for 2024\""
-date: 2024-09-09T01:43:20.624Z
-updated: 2024-09-10T01:43:20.624Z
+date: 2024-10-01T20:27:34.292Z
+updated: 2024-10-06T16:05:12.803Z
 tags:
   - ai video
   - ai discord
@@ -21,18 +21,6 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -57,12 +45,6 @@ In this article, we will cover the following parts on how to reply to messages o
 * [Part 4: Replying to Messages with Reactions on Discord](#part4)
 * [Part 5: Quoting Messages on Discord?](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Reply to a Specific Message on Discord on Desktop
 
 This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
@@ -71,12 +53,6 @@ This technique works for both the browser and the desktop applications; use it w
 
 ![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Hover your cursor on the comment as you see icons on the right of the message
 2. Now click on the arrow icon
 3. Alternatively, you might have to click on the ellipsis icon (…) if you are replying to a comment by yourself
@@ -87,11 +63,12 @@ This technique works for both the browser and the desktop applications; use it w
 ![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Reply to a Certain Message on Discord Mobile
 
 Replying on the mobile app is similar to Desktop. Here's how to do it:
@@ -102,23 +79,24 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 
 ![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
 2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
 
 After pressing the send button, you should now be able to see your message in the channel.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Set Auto Reply on Discord
 
 It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
@@ -136,11 +114,12 @@ Here's an example of how you can implement this feature in your server. In this 
 ![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
 ![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
@@ -160,12 +139,6 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 
 ![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
 
 1. Click on the emoji, and it would increase the total number of responses by 1
@@ -177,6 +150,13 @@ Quoting messages in Discord is very simple. All you need to do is type > before 
 
 ![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
 
 1. Add > after every line. However, this can become annoying
@@ -184,27 +164,20 @@ On the other hand, multi-line quoting is when you need to quote a paragraph or b
 
 ![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -212,3 +185,27 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-economics-of-entertainment-pewdiepies-profit/"><u>[New] The Economics of Entertainment PewDiePie's Profit</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-screenmaster-2023-your-guide-to-window-capturing-for-2024/"><u>[Updated] ScreenMaster 2023 Your Guide to Window Capturing for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/44cm5yuv55s744oa44km44oz44ot44o844oj5ywl6zaa77ya57ch5y2y44gq5pa55rov44gn5yuv55s744ks44ov44kh44kk44or44gr5asj5oplusb44gz44kl44od44kk44oz44oi44cn/"><u>「動画ダウンロード入門：簡単な方法で動画をファイルに変換するポイント」</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-deep-dive-into-the-fundamentals-of-youtube-shorts/"><u>2024 Approved A Deep Dive Into The Fundamentals of YouTube Shorts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-metamorphose-into-the-metaverse-an-easy-avatar-guide/"><u>2024 Approved Metamorphose Into the Metaverse An Easy Avatar Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-vivo-s18-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Vivo S18 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/clipchamp-youtube/"><u>動画から音声を抽出するClipchampの簡単な方法 - YouTubeビデオ編集のためのチュートリアル</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/bulk-conversion-techniques-turning-wav-files-into-high-quality-alac/"><u>Bulk Conversion Techniques: Turning WAV Files Into High-Quality ALAC</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/comparing-dvd-and-streaming-services-determining-the-superior-choice-for-cinema-enthusiasts/"><u>Comparing DVD and Streaming Services: Determining the Superior Choice for Cinema Enthusiasts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/complete-instructions-for-implementing-the-arctic-horizon-theme-on-your-kodi-platform/"><u>Complete Instructions for Implementing the Arctic Horizon Theme on Your Kodi Platform</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029161061-dvd/"><u>DVD再生に問題が発生した時、カーナビで有効な修正方法</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-note-50-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-top-5-best-tools-to-convert-text-to-audio-online-for-free/"><u>In 2024, Top 5 Best Tools to Convert Text to Audio Online for Free</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029502302-mkv/"><u>MKVビデオの字幕を取り外し方法</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029809936-pc/"><u>PCでのミーティング音声だけ録音方法</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726030532953-top-5-premium-no-cost-movie-editing-tools-compatible-with-windows-and-macos-updated-guide/"><u>Top 5 Premium, No-Cost Movie Editing Tools Compatible with Windows & macOS (Updated Guide)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-7-enhancements-to-elevate-your-apple-carplay-experience/"><u>Top 7 Enhancements to Elevate Your Apple CarPlay Experience</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-high-definition-videos-best-editing-software-2023/"><u>Unleash High-Definition Videos Best Editing Software 2023</u></a></li>
+</ul></div>
+

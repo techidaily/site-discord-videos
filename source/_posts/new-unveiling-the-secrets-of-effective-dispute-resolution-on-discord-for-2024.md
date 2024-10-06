@@ -1,7 +1,7 @@
 ---
 title: "[New] Unveiling the Secrets of Effective Dispute Resolution on Discord for 2024"
-date: 2024-07-29T01:08:44.066Z
-updated: 2024-07-30T01:08:44.066Z
+date: 2024-10-01T19:58:11.429Z
+updated: 2024-10-06T19:25:39.640Z
 tags:
   - ai video
   - ai discord
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 
 # How to Report Someone on Discord
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -62,17 +59,11 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
@@ -94,9 +85,6 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
@@ -108,10 +96,14 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -131,6 +123,13 @@ Now, you can send this information to the [Trust and Safety team](https://suppor
 1. Paste the two links copied earlier in the "Description Box"
 2. Provide your email address along with the context behind the situation
 3. Click on "Submit"
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Kick People on Discord
 
@@ -164,18 +163,17 @@ If you happen to be a moderator or server owner, you have the authority to kick 
 
 There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Can I Report People on Discord Anonymously?
 
 According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What Happens If I Report Someone on Discord?
 
 After you report someone on Discord, the T&S team goes through the evidence to justify or negate your claims.
@@ -185,6 +183,13 @@ Usually, this process takes a long time as the team evaluates whether the proble
 After conducting their research and deciding upon a punishment, the T&S team will contact the offender via email to inform them about their misconduct and the relevant consequences.
 
 In minor offenses, the T&S team will reach out to the reporter and teach them how to block the user rather than take direct action.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Can You Report Someone on Discord for Being Under 13?
 
@@ -200,12 +205,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-elevate-online-engagement-unlocking-the-potential-of-voicemod-on-discord/"><u>[New] 2024 Approved Elevate Online Engagement Unlocking the Potential of VoiceMod on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-mastering-privacy-settings-a-guide-to-discretion-in-streaming/"><u>[New] 2024 Approved Mastering Privacy Settings A Guide to Discretion in Streaming</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-mastering-the-art-of-addressing-conflict-a-guide-to-effective-reporting-methods-on-discord/"><u>[New] 2024 Approved Mastering the Art of Addressing Conflict A Guide to Effective Reporting Methods on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-navigate-discords-streaming-landscape-a-comprehensive-tutorial/"><u>[New] 2024 Approved Navigate Discord's Streaming Landscape A Comprehensive Tutorial</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-excellent-ai-bots-for-social-spheres/"><u>[New] Excellent AI Bots for Social Spheres</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-farewell-to-friends-how-to-leave-a-discord-server/"><u>[New] Farewell to Friends How to Leave a Discord Server</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-filmmaking-bliss-top-10-aspects-of-filmora-editing-for-2024/"><u>[Updated] Filmmaking Bliss Top 10 Aspects of Filmora Editing for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-peeling-back-sharex-critical-analysis-and-alternatives/"><u>[Updated] In 2024, Peeling Back ShareX Critical Analysis & Alternatives</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/abbyy-ocr-software-development-kit-advanced-automatic-document-scanning-and-interpretation/"><u>Abbyy OCR Software Development Kit: Advanced Automatic Document Scanning & Interpretation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/duratune-muffler-pro-ear-review/"><u>DuraTune Muffler Pro-Ear Review</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-get-your-iphone-volume-keys-working-again-a-guide-to-7-proven-techniques/"><u>How to Get Your iPhone Volume Keys Working Again: A Guide to 7 Proven Techniques</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y200e-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y200e 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-nubia-red-magic-9-proplus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Nubia Red Magic 9 Pro+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-simple-steps-to-sever-desktop-and-mobile-connection-to-discord/"><u>In 2024, Simple Steps to Sever Desktop & Mobile Connection to Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-uncover-the-secrets-changing-your-profile-display-in-discord/"><u>In 2024, Uncover the Secrets Changing Your Profile Display in Discord</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/steady-shots-how-to-avoid-lens-cloudiness/"><u>Steady Shots How to Avoid Lens Cloudiness</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-guide-to-crafting-your-own-emoji-statuses-for-2024/"><u>The Ultimate Guide to Crafting Your Own Emoji Statuses for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/throughput-your-videos-8-top-android-apps-for-2024/"><u>Throughput Your Videos 8 Top Android Apps for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-5-electric-vehicles-with-exceptional-driving-distances/"><u>Top 5 Electric Vehicles with Exceptional Driving Distances</u></a></li>
+</ul></div>
 

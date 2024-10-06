@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Navigating Disputes  The Step-by-Step Approach to Reporting on Discord\""
-date: 2024-07-29T01:10:15.906Z
-updated: 2024-07-30T01:10:15.906Z
+date: 2024-10-01T18:25:21.909Z
+updated: 2024-10-06T17:52:06.043Z
 tags:
   - ai video
   - ai discord
@@ -19,14 +19,6 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 
 # How to Report Someone on Discord
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -93,16 +85,17 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Report Users on Discord on iPhone And Android
 
 Just like on a desktop, you will first need to enable developer mode.
@@ -111,6 +104,13 @@ Just like on a desktop, you will first need to enable developer mode.
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
 ![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -159,9 +159,6 @@ If you happen to be a moderator or server owner, you have the authority to kick 
 3. Right-click on their username and then select "Kick"
 4. Click on "Kick" again to confirm your decision
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: FAQs About Discord Reporting
 
 There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
@@ -171,8 +168,12 @@ There is no need to Google responses to "How do you report someone on Discord," 
 According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### What Happens If I Report Someone on Discord?
 
 After you report someone on Discord, the T&S team goes through the evidence to justify or negate your claims.
@@ -189,10 +190,14 @@ Individuals under the age of 13 are not permitted to use Discord unless they hav
 
 If you know someone who is undoubtedly underage, then you can report them to the Trust & Safety team by filling out their form and adding evidence to back your claim.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -200,11 +205,24 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-deleting-a-discord-server-desktop-and-mobile-guide/"><u>[New] In 2024, Deleting a Discord Server Desktop & Mobile Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-the-power-of-emojis-for-yt-feedback/"><u>[New] Unlock the Power of Emojis for YT Feedback</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-tackling-toxicity-head-on-the-definitive-guide-to-reporting-users-on-discord/"><u>[Updated] 2024 Approved Tackling Toxicity Head-On The Definitive Guide to Reporting Users on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-unite-in-style-the-bestdiscords-batch-of-top-10-themes/"><u>2024 Approved Unite in Style The BestDiscord's Batch of Top 10 Themes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficiently-powering-down-the-latest-iphones-iphone-15-pro-and-pro-max-tips/"><u>Efficiently Powering Down the Latest iPhones: IPhone 15 Pro and Pro Max Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-magicard-rio-pro-driver-software-for-windows-users-windows-10817/"><u>Latest Magicard Rio Pro Driver Software for Windows Users (Windows 10/8.1/7)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/navigating-discords-video-chat-features-on-gadgets-for-2024/"><u>Navigating Discord's Video Chat Features on Gadgets for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/newbie-vlogger-tips-simple-video-concepts/"><u>Newbie Vlogger Tips Simple Video Concepts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simple-guide-to-amd-ryzen-driver-downloads-and-updates-secure-your-system/"><u>Simple Guide to AMD Ryzen Driver Downloads and Updates: Secure Your System</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-barnes-and-noble-nook-glowlight-plus-an-innovative-e-reader-with-unparalleled-display-size/"><u>The Ultimate Guide to Barnes & Noble Nook GlowLight Plus - An Innovative E-Reader with Unparalleled Display Size.</u></a></li>
+</ul></div>
+

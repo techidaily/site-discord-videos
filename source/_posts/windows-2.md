@@ -1,7 +1,7 @@
 ---
 title: "Windows スクリーン録画の手引き:優雅な2つの方法"
-date: 2024-09-26T01:52:44.539Z
-updated: 2024-09-30T23:21:58.955Z
+date: 2024-09-29T16:28:50.575Z
+updated: 2024-10-06T16:21:37.491Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b2613fefed65baa25cc0a615d2.jpeg
@@ -60,6 +60,13 @@ WonderFox Free HD Video Converter Factory offers a simple and free way to conver
 
 [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/dl/tips/hdfree.html?from=convert-wma-to-mp3.html-PC-Small-Banner) [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/free-hd-video-converter/mobile-checking.html?from=convert-wma-to-mp3.html-Mobile-Small-Banner) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Add WMA Files into the Converter
 
 Launch **Free HD Video Converter Factory** after downloading and installing it on your PC. Enter the “**Converter**” module and click on the “**\+ Add Files**” button to import WMA files to the converter. You can also drag the source files and drop them into the blank space.
@@ -67,13 +74,20 @@ Launch **Free HD Video Converter Factory** after downloading and installing it o
 ![Audio Converter WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-1.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Audio Converter WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-1-mobi.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Select MP3 as the Output Format
 
@@ -84,6 +98,13 @@ Tips: You can also click on the “**Parameter settings**” button to [change t
 
 ![Windows Media Audio to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-2-mobi.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3: Convert WMA Files to MP3 Now
 
 Go back to the main interface, and click the triangle button to specify an output path. Finally, click “**Run**” to start the conversion.
@@ -91,13 +112,6 @@ Go back to the main interface, and click the triangle button to specify an outpu
 **Tips and Options**: The editing toolbar below the imported audio file also enables you to cut and [split audio files](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/). The merge function is on the top menu bar.
 
 ![WMA File to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-3.webp) 
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![WMA File to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-3-mobi.webp) 
 
@@ -114,13 +128,20 @@ Step 3: Click on “**Import Settings**” from the “**Files (General)**” ta
 ![Convert WMA to MP3 Mac](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-4.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Convert WMA to MP3 Mac](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-4-mobi.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Find the files you want to convert in the library. Or you can add the local files to the library by selecting “**File**” > “**Add File**”.  
 Step 4: Select the WMA file, click the “**File**” menu and select “**Convert**” > “**Create MP3 Version**”. Then your WMA files can be converted to MP3.
@@ -137,19 +158,6 @@ Another desktop WMA to MP3 free converter is VLC. VLC is an open-source media pl
 
 ![VLC Convert WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-6-mobi.webp) 
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 1: Open VLC media player, go to “**Media**” > “**Convert/Save**” in the menu bar, you can also directly press the shortcut key “**Ctrl+R**”.  
 Step 2: Hit the “**\+ Add**” button to import the WMA files and press the “**Convert/Save**” button below.  
 Step 3: Navigate to the Profile part and select “**Audio-MP3**” from the drop-down list.  
@@ -160,6 +168,13 @@ Step 4: Click on “**Browse**” to specify an output file and hit the “**Sta
 Don’t want to download any software and want an [online converter](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) to help with the conversion more conveniently? ZamZar is such an online WMA to MP3 converter. Not only audio files, but also documents, images, videos, and other formats can be converted. It allows you to import WMA files from the computer, URL, Box, Dropbox, etc., and convert them to MP3 and other popular audio formats. The only drawback of ZamZar is that its free version only allows you to convert files of less than 50 MB.
 
 ![ZamZar WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-7.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![ZamZar WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-7-mobi.webp) 
 
@@ -176,13 +191,6 @@ If the size of your WMA files exceeds the maximum file size of ZamZar, you can a
 
 ![Convert WMA to MP3 Online Free](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-8.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Convert WMA to MP3 Online Free](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-8-mobi.webp) 
 
 The conversion steps are quite easy. Just follow the simple tutorial below:
@@ -194,10 +202,16 @@ Step 4: Hit on “**Convert**” button to start the conversion.
 Then you can download the converted MP3 files.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## At last...
@@ -215,13 +229,6 @@ WMA and MP3 are two audio file formats. WMA (Windows Media Audio) was developed 
 If you want to convert files without any limitations, then WonderFox Free HD Video Converter Factory Pro can be the best free WMA to MP3 converter for you.
 
 If you hope to convert files online, CloudConvert offers you a 1 GB file limitation and 25 conversions per day, which can be the best choice for you.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q3\. Does converting WMA to MP3 lose quality?
 
@@ -246,13 +253,6 @@ WonderFox HD Video Converter Factory Pro
 * Edit videos like cutting, cropping, rotating, compressing, merging…
 [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/dl/tips/hdpro.html?from=convert-wma-to-mp3.html-PC-Recommend) [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/hd-video-converter/mobile-checking.html?from=convert-wma-to-mp3.html-Mobile-Recommend) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png "Back to Top")](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 <ins class="adsbygoogle"
@@ -270,20 +270,16 @@ WonderFox HD Video Converter Factory Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-uniting-worlds-adding-friends-via-discord/"><u>[New] 2024 Approved Uniting Worlds Adding Friends via Discord</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-turn-any-surface-into-a-broadcasting-space-with-vlcs-webcam-feature/"><u>[New] In 2024, Turn Any Surface Into a Broadcasting Space with VLC’s Webcam Feature</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-navigating-everyday-chats-smart-reacts-and-replies-discord-for-2024/"><u>[New] Navigating Everyday Chats Smart Reacts and Replies (Discord) for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-pinpointing-your-perfect-match-a-discord-server-hunt-guide-for-2024/"><u>[New] Pinpointing Your Perfect Match A Discord Server Hunt Guide for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-effective-methods-unlinking-from-your-discord-servers/"><u>[Updated] 2024 Approved Effective Methods Unlinking From Your Discord Servers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-launch-a-seamless-live-experience-on-discord-with-these-steps/"><u>[Updated] 2024 Approved Launch a Seamless Live Experience on Discord with These Steps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fixing-skewed-views-in-internet-based-videos/"><u>2024 Approved Fixing Skewed Views in Internet-Based Videos</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-premier-robotic-companions-online/"><u>2024 Approved Premier Robotic Companions Online</u></a></li>
-<li><a href="https://extra-information.techidaily.com/accessing-the-ultimate-10-lists-of-vector-pics-sites/"><u>Accessing the Ultimate 10 Lists of Vector Pics Sites</u></a></li>
-<li><a href="https://discover-able.techidaily.com/easy-methods-for-converting-dvd-media-to-save-on-an-ssd/"><u>Easy Methods for Converting DVD Media to Save on an SSD</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-get-the-best-linux-features-with-windows-apps/"><u>How to Get the Best Linux Features With Windows Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-accessing-whatsapp-from-macos/"><u>Step-by-Step Instructions: Accessing WhatsApp From macOS</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-status-of-wolcen-release-an-in-depth-look-at-why-its-not-yet-available/"><u>The Status of Wolcen Release: An In-Depth Look at Why It's Not Yet Available</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-ultimate-guide-to-integrating-emojis-with-discord-statuses-for-2024/"><u>The Ultimate Guide to Integrating Emojis with Discord Statuses for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-stop-your-pc-from-frequent-new-world-crashes/"><u>Troubleshooting Guide - How to Stop Your PC From Frequent 'New World' Crashes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-innovative-emoji-design-software-that-transforms-discord/"><u>[Updated] In 2024, Innovative Emoji Design Software that Transforms Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-savor-a-selection-of-free-flashy-emojis-from-online-sites/"><u>[Updated] In 2024, Savor a Selection of Free, Flashy Emojis From Online Sites</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-easy-steps-for-altering-your-display-name-in-discord/"><u>[Updated] In 2024, The Easy Steps for Altering Your Display Name in Discord</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unlocking-sierra-icloud-drive-integrations-and-usage/"><u>[Updated] In 2024, Unlocking Sierra iCloud Drive Integrations & Usage</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-newbies-navigation-to-net-worth-on-periscope/"><u>[Updated] Newbie's Navigation to Net Worth on Periscope</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-superior-sound-servers-pioneering-bots-to-elevate-your-discord-jamming-for-2024/"><u>[Updated] Superior Sound Servers Pioneering Bots to Elevate Your Discord Jamming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-reset-counter-after-failed-logins-on-windows-1011/"><u>Adjusting Reset Counter After Failed Logins on Windows 10/11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/dividedlens-testimonial/"><u>DividedLens Testimonial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-when-your-pcs-framerate-drops-by-two-frames-per-second/"><u>How to Fix When Your PC's Framerate Drops by Two Frames per Second</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-multimedia-with-pip-in-apple-browsers-for-2024/"><u>Streamline Multimedia with PIP in Apple Browsers for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/which-voip-service-is-right-discord-vs-skype-analyzed-for-2024/"><u>Which VoIP Service Is Right? Discord VS Skype Analyzed for 2024</u></a></li>
 </ul></div>
 

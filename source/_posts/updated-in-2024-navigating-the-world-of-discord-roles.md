@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Navigating the World of Discord Roles"
-date: 2024-09-24T12:21:35.508Z
-updated: 2024-10-01T03:08:08.300Z
+date: 2024-10-04T17:01:25.450Z
+updated: 2024-10-06T17:24:23.088Z
 tags:
   - ai video
   - ai discord
@@ -60,6 +60,13 @@ Manage Webhooks – if you have this authority, you can add, modify, and remove 
 
 Read Text Channels & See Voice Channels – a user with this permission can read text channels.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Membership permissions
 
 Ban Members – a member with permission, can ban members from the server.
@@ -114,16 +121,16 @@ this permission allows the user to reduce the volume of other users when this us
 
 Includes the 'Administrator' permission, which by default enables all the permissions to the assigned user.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make and Add Roles in Discord on Computer
 
 The desktop app and Browser resemble the mobile apple a lot. The process of assigning roles and configuring members is more or less the same across devices. First, you need to create roles and define their authority before assigning these roles to some members.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to create roles in Discord?
 
@@ -136,13 +143,6 @@ Before you can assign roles, you need a server. Once you have created your Disco
 2. Here, you can change the title off the roll and even choose the color.
 3. Now comes the time to grant some permissions. These are basically the authority that you gave to every profile.
 4. When you are done, save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Assign Roles to Members in Discord?
 
@@ -179,10 +179,10 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. How to create roles in Discord mobile app?
@@ -200,10 +200,16 @@ Before you can assign roles, you have to create them.
 You can repeat this multiple times to create more roles.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How to Assign Roles in Discord mobile app?
@@ -213,13 +219,6 @@ You can repeat this multiple times to create more roles.
 * Tick the boxes beside each member’s name for the roles you are assigning them.
 
 Save the changes, and you are good to go! You can assign multiple roles to a member.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 6: FAQs about Discord Server Roles
 
@@ -250,6 +249,13 @@ This is likely to happen if the server owner gave you the role of admin, but the
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -265,16 +271,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-complete-guide-to-sharing-your-desktop-on-discord/"><u>[New] In 2024, The Complete Guide to Sharing Your Desktop on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-unveiling-the-best-top-10-for-dating-in-discord/"><u>[New] In 2024, Unveiling the Best Top 10 for Dating in Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-masterful-bot-networks-on-discord-for-2024/"><u>[New] Masterful Bot Networks on Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-prime-apps-as-substitutes-for-discord-for-2024/"><u>[New] Prime Apps as Substitutes for Discord for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-automate-playlist-retrieval-from-youtube-directly/"><u>[Updated] Automate Playlist Retrieval From YouTube Directly</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-celebrating-cinemas-most-uplifting-scenes-and-stories/"><u>2024 Approved Celebrating Cinema's Most Uplifting Scenes & Stories</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-essential-techniques-for-crafting-efficient-thumbnails/"><u>2024 Approved Essential Techniques for Crafting Efficient Thumbnails</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-how-to-remove-a-desktop-discord-server/"><u>2024 Approved How to Remove a Desktop Discord Server</u></a></li>
-<li><a href="https://video-capture.techidaily.com/elevate-your-media-conversion-with-premier-alternatives-to-leawo-dvd-ripper/"><u>Elevate Your Media Conversion with Premier Alternatives to Leawo DVD Ripper</u></a></li>
-<li><a href="https://extra-information.techidaily.com/leveraging-fb-media-speeds-up-strategies/"><u>Leveraging FB Media Speeds Up Strategies</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-itel-a60-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Itel A60 Device</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-beginners-pathway-to-effective-discostreaming-for-2024/"><u>[New] Beginner's Pathway to Effective DiscoStreaming for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discords-premier-love-and-fun-sites-for-2024/"><u>[New] Discord's Premier Love and Fun Sites for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-streamlining-the-process-of-removing-a-discord-server/"><u>[New] In 2024, Streamlining the Process of Removing a Discord Server</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-setting-up-and-managing-discord-channels-step-by-step-guide-for-2024/"><u>[New] Setting Up and Managing Discord Channels Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unleash-the-power-modify-your-presence-on-discord/"><u>[Updated] In 2024, Unleash the Power Modify Your Presence on Discord</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-rpg-legacy-meets-innovation-written-by-time/"><u>[Updated] RPG Legacy Meets Innovation' Written by Time</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-streamline-discord-the-ultimate-list-of-10-key-plugins-for-2024/"><u>[Updated] Streamline Discord The Ultimate List of 10 Key Plugins for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-narrative-nexus-cutting-edge-storytelling-channels-of-the-year/"><u>2024 Approved Narrative Nexus Cutting-Edge Storytelling Channels of the Year</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-vivo-v27-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo V27 Pro Lock Screen Password</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-amplify-your-status-music-in-whatsapp/"><u>In 2024, Amplify Your Status Music in WhatsApp</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-easily-unlock-poco-screen-by-drfone-android/"><u>In 2024, How To Easily Unlock Poco Screen?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-bard-googles-game-changing-opponent-to-gpt/"><u>Introducing Bard, Google's Game-Changing Opponent to GPT</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-the-top-6-alternatives-to-twitch-for-your-streaming-needs/"><u>New The Top 6 Alternatives to Twitch for Your Streaming Needs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
 </ul></div>
 

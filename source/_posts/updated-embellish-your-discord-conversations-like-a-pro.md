@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Embellish Your Discord Conversations Like a Pro"
-date: 2024-07-29T01:10:23.643Z
-updated: 2024-07-30T01:10:23.643Z
+date: 2024-09-29T18:22:17.956Z
+updated: 2024-10-06T18:29:35.441Z
 tags:
   - ai video
   - ai discord
@@ -49,9 +49,6 @@ This approach is very practical and easy to learn, so long-time users of Discord
 
 Tips You May Not Want to Miss!!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 Filmora Text Video Editor
@@ -66,9 +63,6 @@ Filmora Text Video Editor
 
 [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Change Text Style in Discord with Markdown?
 
 As we mentioned previously, Markdown is completely text-based and has a very simple syntax. All you need to do to apply special formatting to your text is to enter a few special characters at the right places, and the appropriate effect (bold, italic…) will appear in the chat. Keep in mind that you can easily combine the formatting styles by using multiple commands at the same time.
@@ -101,18 +95,12 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 #### Underlined, Italicized, and Bolded text
@@ -121,25 +109,30 @@ This combination is achieved by placing two underscore marks (\_\_) and three st
 
 ![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
 In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: How to Change the Text Color in Discord Message?
 
 It’s not possible to alter the default text color from the native user interface in Discord. However, there is a simple solution to this problem that involves the highlight.is scrip mentioned earlier in the article. This Javascript-based library can transform the normal text into a code block consisting of three lines, where the middle line would be your selection of text in an alternative color. This is a neat workaround that’s very simple to activate using the same kind of text-based commands described above.
@@ -147,6 +140,13 @@ It’s not possible to alter the default text color from the native user interfa
 To change the text color, you should create a simple, three-line block. In the top line, you need to put three backtick characters (”’) along with a code phrase corresponding to the text color you would like to use. In the second line, you should type your entire text normally, while the bottom line should include three more backticks. You can create new lines by pressing the Shift and Enter keys at the same time.
 
 Here is a detailed video tutorial for creating customized text in a range of different colors with all the relevant code phrases.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs About Discord Text Formatting
 
@@ -164,13 +164,18 @@ The creation of a hidden text message that requires direct user action to reveal
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -178,3 +183,23 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-discovering-friends-the-cross-platform-guide/"><u>[New] 2024 Approved Discovering Friends The Cross-Platform Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-the-key-to-authenticity-on-discord-a-verification-roadmap/"><u>[New] 2024 Approved The Key to Authenticity on Discord A Verification Roadmap</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discord-etiquette-101-responding-with-confidence/"><u>[New] Discord Etiquette 101 Responding with Confidence</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-discover-the-power-of-dual-screen-viewing-a-complete-guide-for-netflix-users-for-2024/"><u>[New] Discover the Power of Dual-Screen Viewing - A Complete Guide for Netflix Users for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-exclusive-online-cam-dance-duels/"><u>[New] Exclusive Online Cam Dance Duels</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamlining-your-overwatch-sessions-recording-for-2024/"><u>[New] Streamlining Your Overwatch Sessions Recording for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-action-packed-snapshots-the-bold-polaroid-xs-100i-review/"><u>[Updated] Action-Packed Snapshots The Bold Polaroid XS 100I Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-key-equipment-decisions-for-youtubers-on-a-budget-for-2024/"><u>[Updated] Key Equipment Decisions for YouTubers on a Budget for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-tips-for-removing-discord-servers-on-pcs-and-phones/"><u>[Updated] Tips for Removing Discord Servers on PCs & Phones</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-a-pocket-guide-for-channel-setup-and-management-on-discord/"><u>2024 Approved A Pocket Guide for Channel Setup and Management on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-logical-path-to-exit-a-discord-platform/"><u>2024 Approved The Logical Path to Exit a Discord Platform</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/descargue-gratis-para-mejorar-la-calidad-del-video-4k8k-con-hevc-h265/"><u>Descargue Gratis Para Mejorar La Calidad Del Video 4K/8K Con HEVC (H.265)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-videos-and-music-files-from-iphone-13-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Photos, Videos & Music Files from iPhone 13 | Stellar</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/no-cost-game-video-editing-top-software-recommendations/"><u>No-Cost Game Video Editing Top Software Recommendations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-the-buffering-timeout-message-on-disneyplus-causes-and-solutions/"><u>Understanding the 'Buffering Timeout' Message on Disney+: Causes & Solutions</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Automate Clean-Up Tasks on Your Mac Using the Standard Version of Stellar File Eraser
-date: 2024-07-29T01:10:10.829Z
-updated: 2024-07-30T01:10:10.829Z
+date: 2024-09-29T20:25:40.674Z
+updated: 2024-10-06T16:12:13.287Z
 categories:
   - repair-tools
 description: This Article Describes Automate Clean-Up Tasks on Your Mac Using the Standard Version of Stellar File Eraser
@@ -25,9 +25,6 @@ Stellar File Eraser
          * [3.5.1. Resolving Activation Errors](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.6. Updating the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.7. Contact Information](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![arow](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4\. Working with the Software  
   * [4.1. Erase Files and Folders](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [arow 4.2. Erase Traces](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4.2\. Erase Traces ](https://www.stellarinfo.com/help/stellar-file-eraser-5-mac-standard-en-erase-traces.html)  
@@ -44,9 +41,6 @@ Stellar File Eraser
 * [5. Frequently Asked Questions (FAQs)](https://www.stellarinfo.com/help/stellar-file-eraser-5-mac-standard-en-frequently-asked-questions-faqs.html)
 * [6. About Stellar](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![toogle](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/toogle.png)
 
 [Stellar File Eraser](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4. Working with the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4.4. Schedule Erasure](https://tools.techidaily.com/stellardata-recovery/buy-now/) /**4.4.2\. Schedule Erasure for Erasing Files and Folders**
@@ -61,9 +55,6 @@ Stellar File Eraser
 2. Select **Schedule Erasure** from **Select Option** displayed on the left pane of the screen.
 3. Select **Erase Files & Folders** tab from the right pane of the screen as displayed below:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Erase-File.png)
 
 1. Choose the frequency period for running the eraser process from the options provided in the **Run** drop-down menu:
@@ -72,27 +63,18 @@ Stellar File Eraser
 * Select **Weekly** to run scheduler every week.
 * Select **Monthly** to run scheduler every month.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Frequency.png)
 
 1. Select the specific time from **Time** option for the eraser process.
 2. Click **Browse**  under **Choose items**  section**.**  Select the desired file or folder and click **Open** .
 3. The list of selected files and folders will appear. Use **Browse** button to add as many files or folders as you want.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/File-List.png)
 
 1. Check/Uncheck against the respective file or folder that you want to erase.
 1. Click **OK**  to schedule.
 2. A message "**Task scheduled successfully** " appears. Click **OK**  to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Task-Scheduled.png)
 
 _**Note:**  Ensure that application is closed before the scheduled eraser task._
@@ -107,8 +89,6 @@ _**Note:**  Ensure that application is closed before the scheduled eraser task._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +96,33 @@ _**Note:**  Ensure that application is closed before the scheduled eraser task._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-easy-steps-for-clearing-out-desktop-discords/"><u>[New] 2024 Approved Easy Steps for Clearing Out Desktop Discords</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-quick-recap-essential-use-of-discord-spoiler-labels/"><u>[New] 2024 Approved Quick Recap Essential Use of Discord Spoiler Labels</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-face-fluidity-adding-dynamic-blur-to-photos-via-picsart/"><u>[New] Face Fluidity Adding Dynamic Blur to Photos via Picsart</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-understanding-the-implications-before-quitting-discord/"><u>[New] Understanding the Implications Before Quitting Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-essential-skills-for-effective-discord-message-pinning/"><u>[Updated] 2024 Approved Essential Skills for Effective Discord Message Pinning</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-tailoring-eye-catching-instagram-highlight-summaries/"><u>[Updated] 2024 Approved Tailoring Eye-Catching Instagram Highlight Summaries</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-a-comprehensive-guide-to-changing-avatars-and-statuses-on-discord-for-2024/"><u>[Updated] A Comprehensive Guide to Changing Avatars & Statuses on Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-enabling-cross-platform-play-a-step-by-step-guide-for-2024/"><u>[Updated] Enabling Cross-Platform Play A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-image-enhancement-101-text-addition-for-pc-and-mac-users-for-2024/"><u>[Updated] Image Enhancement 101 Text Addition for PC and Mac Users for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-crafting-courteous-responses-in-discord-chat/"><u>2024 Approved Crafting Courteous Responses in Discord Chat</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-from-startup-to-shutdown-steam-on-discord-devices/"><u>2024 Approved From Startup to Shutdown Steam on Discord Devices</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-12-pro-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone 12 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/echo-dot-gen-3-showcase-how-this-small-device-packs-all-the-punch-of-full-size-alexa-units/"><u>Echo Dot (Gen 3) Showcase: How This Small Device Packs All the Punch of Full-Size Alexa Units</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-low-memory-alerts-while-using-roblox-in-ios/"><u>Eliminating Low-Memory Alerts While Using Roblox in iOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavitiffbmp/"><u>Movaviで簡単に無料でTIFFとBMP画像を変換:ステップバイステップガイド</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-filmmaker-fascination-filmoras-essential-traits-for-2024/"><u>Navigating Filmmaker Fascination Filmora's Essential Traits for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ering-youtube-visibility-through-strategic-thumbnails-for-2024/"><u>Pioneering YouTube Visibility Through Strategic Thumbnails for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/real-time-interaction-best-practices-for-discord-streamers-for-2024/"><u>Real-Time Interaction Best Practices for Discord Streamers for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/0-histology-streams-for-academics/"><u>Top 10 Histology Streams for Academics</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

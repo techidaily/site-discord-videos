@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Elevate Group Video Sessions with Discord's Share Functionality\""
-date: 2024-07-29T01:10:58.388Z
-updated: 2024-07-30T01:10:58.388Z
+date: 2024-10-03T17:18:59.322Z
+updated: 2024-10-06T16:56:27.678Z
 tags:
   - ai video
   - ai discord
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
 # How to Share Screen on Discord?
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -40,19 +37,12 @@ You don’t just have to chat via text – Discord makes it easy to have voice c
 * [Part 4: How to Change Settings While Screen Sharing on Discord?](#part4)
 * [Discord Screen Sharing FAQs](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Settings for Screen Sharing on Discord
 
 Before you get started with actually sharing your screen on Discord, you’ll want to make sure that you’ve got everything set up correctly.
 
 Open up User Settings by clicking on the cog in the bottom left next to your username.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![How to Share Screen on Discord](https://images.wondershare.com/filmora/article-images/discord-user-interface.jpg)
 
 Here you’ll find a handy option called ‘Voice & Video’. Use this to make sure that your audio settings are working correctly – both your microphone for communicating with the person you’re sharing your screen with, and your output so that you can hear them clearly too.
@@ -69,6 +59,13 @@ Now, when you go to share your screen (which I’ll cover off below), you’ll b
 
 Here you can set the quality of the image you’ll be sharing. 480p and 720p (HD) are available by default along with 15fps and 30fps. If you want 1080p or to use the Source option, or 60fps, you’ll need to pay for a Discord Nitro account, which is an upgraded tier of membership that starts at $49.99 for the year or $4.99 per month.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Screen Share on a Discord Voice Channel Server?
 
 Once your settings are ready, you’re good to go. You can currently share your screen using the online Discord browser or on the Discord app. You can’t screen share on mobile. Screen sharing works on Windows, Mac and Linux but you can **only share audio on Windows 10.**
@@ -77,14 +74,18 @@ With that out of the way, here’s how to screen share on Discord on the desktop
 
 Firstly, you’ll need to be in a voice channel server. This means that you’ll need to be on a server that either you’ve set up or joined with friends, and active in the voice chat. You’ll start in a text channel by default, so make sure to join a voice channel. Once you’re here, you’ll be able to start chatting to anyone else in the voice channel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Invite People on Discord](https://images.wondershare.com/filmora/article-images/discord-invite-peope-voice-channel.jpg)
 
 Once you’ve joined, you’ll see a new option at the bottom left of the screen to share your screen. Click this button and you’ll be presented with the option to start sharing your screen – you can choose which application you want to share specifically, or your whole screen.
 
 ![Choose Screen Sharing Window on Discord](https://images.wondershare.com/filmora/article-images/discord-choose-screen-sharing-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once you’ve chosen your screen to share, you can set the settings as mentioned above.
 
@@ -93,15 +94,16 @@ It’s important to note that, if you’re sharing your screen via online Discor
 ![Screen Sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-choose-screen-sharing-window-web.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Share Screen on a Discord Direct Message?
 
 If you want to share your screen on Discord in a private direct message, the steps are slightly different. Firstly, there’s no automatic voice channel to join, so you’ll need to begin a video call. To do this, click on the video call button at the top right of your screen when you’re in your DM folder with the person you want to share your screen with.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Satrt Video Call on Discord](https://images.wondershare.com/filmora/article-images/start-video-call-direct-screen-sharing.jpg)
 
 Then, you simply need to click the share screen button which will appear on your main call controls in the middle of the screen. Once done, you can share you screen in the same way as you would in a voice channel.
@@ -118,16 +120,17 @@ Firstly, when you’re sharing your screen, you’ll see a little pop-up window 
 
 From here, you’ll get the stream settings menu where you can change the frame rate and resolution, or switch to a different window or application if you want to share something else.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Screen Sharing Quality Changing on Discord](https://images.wondershare.com/filmora/article-images/discord-change-stream-quality-screen-sharing.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This is really useful if you want to work on different applications or projects at the same time, while lowering the resolution or frame rate can really help out if your stream is lagging. If the people you’re screen sharing with are finding that your stream is stuttering or your audio and video keep cutting out, try lowering the resolution and frame rate to make it more manageable.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discord Screen Sharing FAQs
 
 #### 1\. How Can I Share Screen on Discord Mobile?
@@ -166,11 +169,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-enhancing-community-management-with-discord-roles/"><u>[New] 2024 Approved Enhancing Community Management with Discord Roles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-hidden-pathway-to-logging-in-depth-whatsapp-chats/"><u>[New] 2024 Approved The Hidden Pathway to Logging In-Depth WhatsApp Chats</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-conveying-content-via-discord-optimizing-video-sharing/"><u>[New] Conveying Content via Discord Optimizing Video Sharing</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-make-your-discord-conversation-stand-out-with-pins-for-2024/"><u>[New] Make Your Discord Conversation Stand Out with Pins for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-streamlining-content-delivery-on-discord-platform-for-2024/"><u>[New] Streamlining Content Delivery on Discord Platform for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-enhancing-your-video-with-professional-voice-overs/"><u>[Updated] 2024 Approved Enhancing Your Video with Professional Voice Overs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elite-applications-facilitating-video-discussions/"><u>[Updated] Elite Applications Facilitating Video Discussions</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unlocking-seamless-discord-conversations-on-tablets-and-phones/"><u>[Updated] In 2024, Unlocking Seamless Discord Conversations on Tablets & Phones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tailored-titles-for-crafted-merged-and-oriented-videos-android/"><u>[Updated] Tailored Titles for Crafted, Merged & Oriented Videos (Android)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-quick-and-easy-path-to-popularity-with-these-handles/"><u>[Updated] The Quick & Easy Path to Popularity with These Handles</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-ultimate-checklist-for-broadcasting-on-discord/"><u>2024 Approved The Ultimate Checklist for Broadcasting on Discord</u></a></li>
+<li><a href="https://blog-min.techidaily.com/flvmp33/"><u>FLVからMP3への変換手順：3つの効果的な方法</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-card-discovery-issue/"><u>Graphics Card Discovery Issue</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-take-control-of-your-discord-community-with-roles/"><u>How to Take Control of Your Discord Community with Roles</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/illuminate-focus-leading-lines-in-iphone-composition/"><u>Illuminate Focus Leading Lines in iPhone Composition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-strategies-for-discord-video-streamers-for-2024/"><u>Step-By-Step Strategies for Discord Video Streamers for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-definitive-guide-to-the-amazonbasics-7-port-superspeed-usb-hub-review/"><u>The Definitive Guide to the AmazonBasics 7-Port SuperSpeed USB Hub Review</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/l-vocabulary-complimentary-youtube-art-tools-for-2024/"><u>Visual Vocabulary Complimentary YouTube Art Tools for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Styling Conversations on Discord with Flair & Ease for 2024"
-date: 2024-07-29T01:08:48.085Z
-updated: 2024-07-30T01:08:48.085Z
+date: 2024-10-03T20:54:39.337Z
+updated: 2024-10-06T17:34:12.500Z
 tags:
   - ai video
   - ai discord
@@ -39,9 +39,6 @@ Let’s start with the software module that makes it all possible.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Part 1: How Does Discord Text Engine Work?
 
 Beneath the surface, Discord runs on a powerful engine called Markdown, which regulates how text is displayed on the pages visible to users. It’s an application of markup language that completely depends on textual symbols as commands, making it quite simple for users who are not skilled at advanced programming to alter the look of the text.
@@ -72,9 +69,6 @@ As we mentioned previously, Markdown is completely text-based and has a very sim
 
 Here is an overview of the most important options for changing text style in Discord, and you can preview the text style in real time before sending to friends:
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Change Text Style in Discord  - Basic](https://images.wondershare.com/filmora/article-images/discord-change-text-style.jpg)
 
 #### **How to Bold Text in Discord?**
@@ -107,36 +101,45 @@ For this elegant combination, use two underscore dashes (\_\_) followed by one a
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Discord Underlined and Bolded text](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
 In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character (\`) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive (\`) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Part 4: How to Change the Text Color in Discord Message?
 
 It’s not possible to alter the default text color from the native user interface in Discord. However, there is a simple solution to this problem that involves the highlight.is scrip mentioned earlier in the article. This Javascript-based library can transform the normal text into a code block consisting of three lines, where the middle line would be your selection of text in an alternative color. This is a neat workaround that’s very simple to activate using the same kind of text-based commands described above.
@@ -146,8 +149,18 @@ To change the text color, you should create a simple, three-line block. In the t
 Here is a detailed video tutorial for creating customized text in a range of different colors with all the relevant code phrases.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## FAQs About Discord Text Formatting
 
 #### 1\. What is the default Discord font?
@@ -170,12 +183,28 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-a-comprehensive-look-at-dispatching-media-on-discord-platform/"><u>[New] 2024 Approved A Comprehensive Look at Dispatching Media on Discord Platform</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-navigating-backward-image-hunt-on-the-worlds-largest-social-site-for-2024/"><u>[New] Navigating Backward Image Hunt on the World's Largest Social Site for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-the-in-app-interface-for-smooth-streaming/"><u>[New] Navigating the In-App Interface for Smooth Streaming</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-essence-of-youtubes-new-shorts-investment-scheme/"><u>[New] The Essence of YouTube's New Shorts Investment Scheme</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-charting-your-course-to-certification-a-guide-to-verified-partnership/"><u>[Updated] In 2024, Charting Your Course to Certification A Guide to Verified Partnership</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-disable-desktop-discords/"><u>[Updated] In 2024, The Ultimate Guide to Disable Desktop Discords</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-top-editing-suites-recommendations-for-windows-videographers/"><u>[Updated] In 2024, Top Editing Suites Recommendations for Windows Videographers</u></a></li>
+<li><a href="https://facebook.techidaily.com/dissecting-facebooks-whitelisting-strategy/"><u>Dissecting Facebook's Whitelisting Strategy</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/enhancing-discord-communication-addition-of-emoji-based-statues-for-2024/"><u>Enhancing Discord Communication Addition of Emoji-Based Statues for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-basics-of-digital-imagery-sizes/"><u>In 2024, Unveiling the Basics of Digital Imagery Sizes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-video-capturing-warriors-choosing-between-obs-and-fraps/"><u>In 2024, Video Capturing Warriors Choosing Between OBS and Fraps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-masked-image-softening-tricks/"><u>Mastering Masked Image Softening Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-smartphone-vr-gadgets-uncovered/"><u>Top 10 Smartphone VR Gadgets Uncovered</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/uncovering-if-vlogger-critiques-are-paid/"><u>Uncovering If Vlogger Critiques Are Paid</u></a></li>
+</ul></div>
 

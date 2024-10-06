@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Extinguish Your Discord Access"
-date: 2024-09-09T01:43:22.089Z
-updated: 2024-09-10T01:43:22.089Z
+date: 2024-10-02T20:35:08.447Z
+updated: 2024-10-06T18:32:10.075Z
 tags:
   - ai video
   - ai discord
@@ -15,18 +15,6 @@ keywords: "End Discord Ban,Block Discord,Stop Discord,Halt Discord Access,Discon
 thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533edda16b2785562f97192408.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Extinguish Your Discord Access
 
 # How to Delete Discord Account \[Step-by-Step\]
@@ -54,12 +42,6 @@ However, if, for any reason, you want to delete or disable your account for good
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How To Delete A Discord Account Permanently?
 
 Are you done with a game, scared about your data, or just bored with the app? No problem! If you want to learn how to delete your discord account, look no further.
@@ -78,12 +60,6 @@ Without further ado, here are some easy to follow steps to delete a Discord acco
 
 ![How to Delete Discord Account - Go to My Account](https://images.wondershare.com/filmora/article-images/find-discord-my-account.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
 
 ![Delete Discord Account Permantely - Account Options](https://images.wondershare.com/filmora/article-images/discord-delete-account-option.jpg)
@@ -125,17 +101,12 @@ After this, you’ll be asked one more time to click the “delete server” but
 Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Delete Discord Account From iPhone And Android?
 
 Yes, you can delete the discord account from iPhone and Android. And if you’re wondering how to delete a Discord account, Here’s a quick way to do it:
@@ -146,17 +117,12 @@ Yes, you can delete the discord account from iPhone and Android. And if you’re
 4. Below the “Account Management” option, choose “Delete Account” and put your password and 2FA (if you have set it up)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How To Disable Discord Account On Desktop Computer?
 
 Deleting the account means you won’t be able to use it further, whereas disabling the account normally means you’re taking a little break.
@@ -172,16 +138,24 @@ Here’s how you can disable a Discord account on a desktop computer:
 ![How to disable discord account](https://images.wondershare.com/filmora/article-images/disable-discord-account.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. Click the “Disable Account” option, and it will be disabled.
 
 #### **What’s The Difference Between Disabling And Deleting A Discord Account?**
 
 Disabling the account means you can recover it anytime you want, unlike deleting the account where you only have a 14-day restoration window. Additionally, when the account is disabled, you won’t receive notifications, but you will still get “friend requests.”
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How To Disable Discord Account On Mobile?
 
@@ -219,11 +193,31 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-concluding-an-online-journey-in-a-discord-server/"><u>[New] 2024 Approved Concluding an Online Journey in a Discord Server</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-leading-drones-for-superior-gopro-camera-integration/"><u>[New] 2024 Approved Leading Drones for Superior GoPro Camera Integration</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-non-gta-worlds-a-list-of-comparable-mega-hits/"><u>[New] In 2024, Non-GTA Worlds A List of Comparable Mega-Hits</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-the-certification-journey-becoming-a-verified-disco-member/"><u>[New] Mastering the Certification Journey Becoming a Verified Disco Member</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-gentle-art-of-stepping-back-from-discords/"><u>[Updated] 2024 Approved The Gentle Art of Stepping Back From Discords</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unveiling-the-pathway-to-discord-affiliation-a-verification-manual/"><u>[Updated] 2024 Approved Unveiling the Pathway to Discord Affiliation A Verification Manual</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-avoiding-common-pitfalls-in-discord-video-broadcasts/"><u>[Updated] In 2024, Avoiding Common Pitfalls in Discord Video Broadcasts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-streamline-your-sound-game-expert-guide-for-using-voicemod-in-discord/"><u>[Updated] In 2024, Streamline Your Sound Game Expert Guide for Using VoiceMod in Discord</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-splitcam-analysis-where-does-it-rank-among-recorders/"><u>[Updated] SplitCam Analysis Where Does It Rank Among Recorders?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-how-to-pick-a-perfect-virtual-reality-device-evaluating-portability-mobile-versus-connected-experience/"><u>2024 Approved How to Pick a Perfect Virtual Reality Device Evaluating Portability (Mobile) Versus Connected Experience</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-mastering-the-art-of-emoji-inclusion-in-discord-user-statements/"><u>2024 Approved Mastering the Art of Emoji Inclusion in Discord User Statements</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-lava-blaze-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Lava Blaze Pro 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-harmonizing-content-with-youtubes-ideal-video-shapes/"><u>In 2024, Harmonizing Content with YouTube's Ideal Video Shapes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-wiping-your-discord-servers-from-pc-and-android-devices/"><u>In 2024, Wiping Your Discord Servers From PC and Android Devices</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-update-6-best-voice-changers-you-cant-miss/"><u>New Update 6 Best Voice Changers You Cant Miss</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-open-source-revolution-in-ai-conversations-meet-huggingchat-a-budget-friendly-option-like-chatgpt/"><u>The Open Source Revolution in AI Conversations: Meet HuggingChat, a Budget-Friendly Option Like ChatGPT</u></a></li>
+</ul></div>
+

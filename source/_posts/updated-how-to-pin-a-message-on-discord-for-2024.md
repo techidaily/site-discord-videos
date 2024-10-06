@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Pin A Message on Discord for 2024"
-date: 2024-07-29T01:10:53.304Z
-updated: 2024-07-30T01:10:53.304Z
+date: 2024-10-01T19:10:15.058Z
+updated: 2024-10-06T18:14:49.179Z
 tags:
   - ai video
   - ai discord
@@ -37,9 +37,6 @@ It acts like a sticky note for Discord, making sure valuable information such as
 
 Today, we will go over how to pin a message on Discord for your desktop app on PC and Mac, as well as on your iPhone and Android mobile devices.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Pin A Message on Discord Desktop?
 
 If you want to learn how to pin messages on Discord desktop, follow these steps:
@@ -47,9 +44,6 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 1. Hover over any message which you wish to pin.
 2. On the right-hand side of it, there will be a button that would read as More; click it and you will see a screen like below
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
 1. Now, click on the "Pin Message" option
@@ -63,9 +57,6 @@ But make sure you don't pin everything that might seem important at a glance —
 
 Also, don't pin messages that are just important for you. In larger channels, prioritize pinning messages that will benefit most participants.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Pin Messages on Discord Mobile App?
 
 Pinning messages in the mobile app is very similar to how it is done on the desktop application. Do it by:
@@ -76,20 +67,21 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 
 ![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Part 3: How to View Pinned Messages on Discord
 
 Accessing pinned messages is just as easy as pinning them. To access a pinned message on the app's desktop version:
 
 1. Click on the pin icon appearing on the top right-hand side of your screen
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![view Pinned message on Discord](https://images.wondershare.com/filmora/article-images/view-pinned-message.jpg)
 
 1. Doing this will present you with a drop-down list of pinned messages. Now, you can tap on the "Jump" button next to the "x" (cross) icon to go directly to the pinned message
@@ -107,6 +99,13 @@ View your pins on the mobile version of Discord by:
 1. Now you will be in the pinned messages window
 2. You can jump to a specific pinned message by clicking on it, allowing you to access any content or links in the message
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5: Limit on Pinned Messages
 
 You can only pin 50 messages in the pin box in Discord, meaning if you want to pin new messages, you will have to delete older ones to make space.
@@ -114,6 +113,13 @@ You can only pin 50 messages in the pin box in Discord, meaning if you want to p
 This may feel like a disadvantage. However, it makes perfect sense. Pinning messages is only for important information that must be used in the future.
 
 Removing this limit and giving people free rein on the number of messages they can pin will eventually lead to too many pinned messages, defeating the feature's purpose.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 6: How to Delete Pinned Messages on Discord?
 
@@ -148,10 +154,14 @@ However, the feature is pretty intuitive and straightforward once you get the ha
 
 The usefulness of pinning makes it very important for both old and new users as you can relay important information without having to go through tons of old messages.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -159,11 +169,27 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-from-basic-to-breathtaking-building-your-signature-discord-profile-photo/"><u>[Updated] In 2024, From Basic to Breathtaking Building Your Signature Discord Profile Photo</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-picture-in-picture-unveiled-your-guide-to-firefoxs-pip-for-2024/"><u>[Updated] Picture-in-Picture Unveiled Your Guide to Firefox’s PIP for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-crafting-a-graceful-exit-from-discord-communities/"><u>2024 Approved Crafting a Graceful Exit From Discord Communities</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-streamlining-your-experience-with-discord-spoiler-tag-usage/"><u>2024 Approved Streamlining Your Experience with Discord Spoiler Tag Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-windows-tasks-with-top-5-car-drivers/"><u>Accelerate Windows Tasks with Top 5 Car Drivers</u></a></li>
+<li><a href="https://solve-news.techidaily.com/convert-wmv-a-html-libre-de-coste-guia-detallada-con-movavi/"><u>Convert WMV a HTML Libre De Coste: Guía Detallada Con Movavi</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/efficiently-managing-discord-spoiler-tags-in-chats-for-2024/"><u>Efficiently Managing Discord Spoiler Tags in Chats for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-resolve-dying-lights-fps-lag-during-action-packed-shooter-sequences/"><u>Expert Tips to Resolve Dying Light's FPS Lag During Action-Packed Shooter Sequences</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/navigating-discord-live-a-users-blueprint-for-2024/"><u>Navigating Discord Live A User's Blueprint for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/refining-photos-the-step-by-step-guide-to-clean-edges-on-photopea-for-2024/"><u>Refining Photos The Step-by-Step Guide to Clean Edges on Photopea for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-data-workflow-6-uses-of-chatgpt-in-analytics/"><u>Transform Your Data Workflow: 6 Uses of ChatGPT in Analytics</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ultimate-guide-to-downloading-youtube-on-ios-for-2024/"><u>Your Ultimate Guide to Downloading YouTube on iOS for 2024</u></a></li>
+</ul></div>
+

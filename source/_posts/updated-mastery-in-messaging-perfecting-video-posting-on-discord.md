@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastery in Messaging  Perfecting Video Posting on Discord\""
-date: 2024-09-27T22:16:37.847Z
-updated: 2024-09-30T18:08:00.554Z
+date: 2024-10-01T17:50:02.242Z
+updated: 2024-10-06T19:01:25.082Z
 tags:
   - ai video
   - ai discord
@@ -55,10 +55,10 @@ It’s worth noting that, while Discord will play most video formats, it can’t
 Also, there’s a strict file limit of 8MB. This isn’t huge at all – while there’s no definitive file size for video (as it depends on file type, resolution, compression, etc) it’s unlikely to be more than 60 seconds of footage, and could just be a few seconds. If the video you want to upload is more than 8MB, carry on reading below to find out how.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Send Videos on Discord Mobile
@@ -74,10 +74,10 @@ Click this and it’ll give you the option to directly upload a video from your 
 Once you’ve selected the video, just hit the blue Send icon to send your video to the chat. Again you can add a message as a caption, but this time it’ll just be in the normal message box rather than a dedicated comment box before you hit upload.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Send Long Videos on Discord That Are More Than 8MB
@@ -99,10 +99,10 @@ This will open the Instant Cutter window where you can click Open File to add yo
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 For more detail, check out [this post](https://tools.techidaily.com/wondershare/filmora/download/) for a step-by-step guide on the different ways you can trim a video in Filmora.
@@ -122,10 +122,16 @@ So, if you want to upload massive files, you’ll need to decide whether to choo
 The only drawback to this option is that it stops other users from being able to download the video directly, and you may need to look at a file sharing alternative such as Dropbox if you want to send the actual file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs About Uploading Videos to Discord
@@ -157,18 +163,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-decoding-the-best-workplace-messaging-tool-slack-or-discord/"><u>[New] Decoding the Best Workplace Messaging Tool Slack or Discord?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-navigating-exit-the-guide-to-disconnecting-from-a-discord-community-for-2024/"><u>[New] Navigating Exit The Guide to Disconnecting From a Discord Community for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-revolutionize-discord-conversations-with-top-ranked-free-modifiers-for-2024/"><u>[New] Revolutionize Discord Conversations with Top-Ranked Free Modifiers for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-the-best-10-discord-plugins-for-elevated-user-interaction/"><u>[New] The Best 10 Discord Plugins for Elevated User Interaction</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-unveiling-discord-video-communication-on-devices/"><u>[New] Unveiling Discord Video Communication on Devices</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-superior-picks-top-rated-webcam-grips/"><u>[Updated] 2024 Approved Superior Picks Top-Rated Webcam Grips</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-pc-hiccups-insider-tips-to-prevent-the-king-of-fighters-xv-crashes/"><u>Overcoming PC Hiccups - Insider Tips to Prevent 'The King of Fighters XV' Crashes</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-fix-xbox-game-download-failures-on-pc/"><u>Steps to Fix Xbox Game Download Failures on PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-connecting-your-laptop-to-a-television-using-an-hdmi-cable-step-by-step-instructions-with-images/"><u>Ultimate Guide: Connecting Your Laptop to a Television Using an HDMI Cable - Step-by-Step Instructions with Images</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-2-ways-to-loop-a-youtube-video-on-tv/"><u>[New] 2024 Approved 2 Ways to Loop a YouTube Video On TV</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-excellent-unrestricted-pubg-visual-sequences/"><u>[New] Excellent Unrestricted PUBG Visual Sequences</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-exploring-alternative-pathways-for-free-anime-emoji-integration-in-discord/"><u>[New] Exploring Alternative Pathways for Free Anime Emoji Integration in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-unleash-your-creativity-designing-stunning-pfps-on-discord/"><u>[New] In 2024, Unleash Your Creativity Designing Stunning Pfps on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-leaving-with-honor-a-disconnect-guide-for-servers-for-2024/"><u>[New] Leaving with Honor A Disconnect Guide for Servers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-conquering-the-complexities-of-360-video-post-production-in-premiere/"><u>[Updated] Conquering the Complexities of 360° Video Post-Production in Premiere</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discovering-discords-role-system-a-beginners-guide-for-2024/"><u>[Updated] Discovering Discord's Role System A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-efficiently-speaking-out-a-blueprint-for-reporting-incidents-in-digital-communities-for-2024/"><u>[Updated] Efficiently Speaking Out A Blueprint for Reporting Incidents in Digital Communities for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-tailoring-your-discord-avatar-with-unique-emojis-pcmobile/"><u>2024 Approved Tailoring Your Discord Avatar with Unique Emojis (PC/Mobile)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-fixing-crashes-in-cult-of-the-lamb-on-your-personal-computer/"><u>Expert Tips for Fixing Crashes in Cult of the Lamb on Your Personal Computer</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/from-basic-snaps-to-spectacular-shots-snapchats-edits-for-everyone-for-2024/"><u>From Basic Snaps to Spectacular Shots Snapchat's Edits for Everyone for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/weatherproof-sunbrites-robust-55-inch-4k-outdoor-smart-tv-with-immersive-hd-clarity/"><u>Weatherproof SunBrite's Robust 55-Inch 4K Outdoor Smart TV with Immersive HD Clarity</u></a></li>
 </ul></div>
 

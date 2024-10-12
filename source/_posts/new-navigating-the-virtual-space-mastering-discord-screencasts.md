@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating the Virtual Space  Mastering Discord Screencasts\""
-date: 2024-07-29T01:06:08.947Z
-updated: 2024-07-30T01:06:08.947Z
+date: 2024-10-09T20:41:14.196Z
+updated: 2024-10-12T02:50:02.965Z
 tags:
   - ai video
   - ai discord
@@ -47,9 +47,6 @@ Open up User Settings by clicking on the cog in the bottom left next to your use
 
 Here you’ll find a handy option called ‘Voice & Video’. Use this to make sure that your audio settings are working correctly – both your microphone for communicating with the person you’re sharing your screen with, and your output so that you can hear them clearly too.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![Share Screen on Discord](https://images.wondershare.com/filmora/article-images/discord-voice-video-settings.jpg)
 
 You can also update your video settings here, if you want to also be on camera while you share your screen. Adjust your webcam options and run a test if you want to see how it’s looking.
@@ -62,9 +59,6 @@ Now, when you go to share your screen (which I’ll cover off below), you’ll b
 
 Here you can set the quality of the image you’ll be sharing. 480p and 720p (HD) are available by default along with 15fps and 30fps. If you want 1080p or to use the Source option, or 60fps, you’ll need to pay for a Discord Nitro account, which is an upgraded tier of membership that starts at $49.99 for the year or $4.99 per month.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Screen Share on a Discord Voice Channel Server?
 
 Once your settings are ready, you’re good to go. You can currently share your screen using the online Discord browser or on the Discord app. You can’t screen share on mobile. Screen sharing works on Windows, Mac and Linux but you can **only share audio on Windows 10.**
@@ -73,23 +67,31 @@ With that out of the way, here’s how to screen share on Discord on the desktop
 
 Firstly, you’ll need to be in a voice channel server. This means that you’ll need to be on a server that either you’ve set up or joined with friends, and active in the voice chat. You’ll start in a text channel by default, so make sure to join a voice channel. Once you’re here, you’ll be able to start chatting to anyone else in the voice channel.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![Invite People on Discord](https://images.wondershare.com/filmora/article-images/discord-invite-peope-voice-channel.jpg)
 
 Once you’ve joined, you’ll see a new option at the bottom left of the screen to share your screen. Click this button and you’ll be presented with the option to start sharing your screen – you can choose which application you want to share specifically, or your whole screen.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Choose Screen Sharing Window on Discord](https://images.wondershare.com/filmora/article-images/discord-choose-screen-sharing-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once you’ve chosen your screen to share, you can set the settings as mentioned above.
 
 It’s important to note that, if you’re sharing your screen via online Discord in your web browser, you won’t get these same customization options. When you click on share screen, you’ll just get the chance to choose which window you want to share, and it’ll look slightly different. Once done, you’ll be sharing – you can’t change your resolution or frame rate on the online browser. If that’s an issue, you might want to download the app – it is free to use and is often faster.
 
 ![Screen Sharing Settings on Discord](https://images.wondershare.com/filmora/article-images/discord-choose-screen-sharing-window-web.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Share Screen on a Discord Direct Message?
 
@@ -107,23 +109,28 @@ Once you’ve started a screen share on Discord, you don’t need to stop and st
 
 Firstly, when you’re sharing your screen, you’ll see a little pop-up window of your screen on Discord. Hover over this and you’ll see a cog with Stream Settings highlighted. Click on this cog.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![Discord Stream Settings](https://images.wondershare.com/filmora/article-images/discord-stream-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 From here, you’ll get the stream settings menu where you can change the frame rate and resolution, or switch to a different window or application if you want to share something else.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Screen Sharing Quality Changing on Discord](https://images.wondershare.com/filmora/article-images/discord-change-stream-quality-screen-sharing.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This is really useful if you want to work on different applications or projects at the same time, while lowering the resolution or frame rate can really help out if your stream is lagging. If the people you’re screen sharing with are finding that your stream is stuttering or your audio and video keep cutting out, try lowering the resolution and frame rate to make it more manageable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Discord Screen Sharing FAQs
 
 #### 1\. How Can I Share Screen on Discord Mobile?
@@ -154,9 +161,6 @@ If you want to improve your discord screen share quality because it is lagging, 
 
 If you want to improve the video and frame rate of your screen sharing because you want it to look better, you’ll need to upgrade to Discord Nitro, which starts at $49.99 per year or $4.99 per month.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -165,12 +169,27 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-a-step-by-step-breakdown-creating-your-best-yt-shorts/"><u>[New] 2024 Approved A Step-by-Step Breakdown Creating Your Best YT Shorts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-key-tips-for-locating-your-preferred-discord-server-for-2024/"><u>[New] Key Tips for Locating Your Preferred Discord Server for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-message-mastery-for-discord-users-desktopmobile-for-2024/"><u>[New] Message Mastery for Discord Users (Desktop/Mobile) for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-streamlining-office-communication-which-favors-teams-more-slack-or-discord-for-2024/"><u>[New] Streamlining Office Communication Which Favors Teams More, Slack or Discord for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-rotated-video-conundrum-in-instagrams-feed/"><u>[New] The Rotated Video Conundrum in Instagram's Feed</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-resource-for-adding-dynamic-gifs-to-discord-conversations/"><u>[New] The Ultimate Resource for Adding Dynamic GIFs to Discord Conversations</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-captivating-copy-creator-pro/"><u>In 2024, Captivating Copy Creator Pro</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-erase-discord-server-settings-desktopsmartphones/"><u>In 2024, Erase Discord Server Settings (Desktop/Smartphones)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-gpt-plus-a-worthy-investment-for-you/"><u>Is GPT Plus a Worthy Investment for You?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-spark-10c-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Spark 10C Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/travel-for-video-views-youtube-upside-down-guide/"><u>Time Travel for Video Views YouTube Upside-Down Guide</u></a></li>
+</ul></div>
 

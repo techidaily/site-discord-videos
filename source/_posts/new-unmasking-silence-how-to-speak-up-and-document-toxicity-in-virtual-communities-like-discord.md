@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unmasking Silence  How to Speak Up and Document Toxicity in Virtual Communities Like Discord\""
-date: 2024-07-29T01:08:29.031Z
-updated: 2024-07-30T01:08:29.031Z
+date: 2024-10-10T20:33:22.289Z
+updated: 2024-10-12T04:54:44.457Z
 tags:
   - ai video
   - ai discord
@@ -50,9 +50,6 @@ Reporting helps make healthier communities and allows you to avoid conflicts and
 
 Today we will look into how to report someone on Discord using desktop and mobile devices. Moreover, we will look at other ways to deal with indecent behavior, such as kicking people or banning them.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to Report Users on Discord Desktop
 
 Before you can report a person to Discord's Trust and Safety team, you will need to enable Discord's developer mode.
@@ -93,8 +90,12 @@ Also, it would help if you gave context regarding your report describing how and
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Report Users on Discord on iPhone And Android
 
 Just like on a desktop, you will first need to enable developer mode.
@@ -102,9 +103,6 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
@@ -125,6 +123,13 @@ Now, you can send this information to the [Trust and Safety team](https://suppor
 1. Paste the two links copied earlier in the "Description Box"
 2. Provide your email address along with the context behind the situation
 3. Click on "Submit"
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Kick People on Discord
 
@@ -154,20 +159,27 @@ If you happen to be a moderator or server owner, you have the authority to kick 
 3. Right-click on their username and then select "Kick"
 4. Click on "Kick" again to confirm your decision
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: FAQs About Discord Reporting
 
 There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Can I Report People on Discord Anonymously?
 
 According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### What Happens If I Report Someone on Discord?
 
 After you report someone on Discord, the T&S team goes through the evidence to justify or negate your claims.
@@ -178,15 +190,25 @@ After conducting their research and deciding upon a punishment, the T&S team wil
 
 In minor offenses, the T&S team will reach out to the reporter and teach them how to block the user rather than take direct action.
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Can You Report Someone on Discord for Being Under 13?
 
 Individuals under the age of 13 are not permitted to use Discord unless they have permission from a parent or guardian. However, it is not very easy to prove that the user is below a certain age.
 
 If you know someone who is undoubtedly underage, then you can report them to the Trust & Safety team by filling out their form and adding evidence to back your claim.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -195,12 +217,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-5-low-cost-drones-maximum-performance-on-a-shoestring/"><u>[New] 2024 Approved 5 Low-Cost Drones Maximum Performance on a Shoestring</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-synergizing-visual-cues-with-the-right-musical-choices/"><u>[New] 2024 Approved Synergizing Visual Cues with the Right Musical Choices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/levate-your-edits-with-these-top-5-tools-no-youtube-for-2024/"><u>[New] Elevate Your Edits with These Top 5 Tools (No Youtube) for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-no-more-interrupted-instagram-videos-heres-how/"><u>[New] No More Interrupted Instagram Videos - Here's How</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-delete-and-disconnect-discord-pcmobile-for-2024/"><u>[Updated] Delete and Disconnect Discord (PC/Mobile) for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-7-pulse-pounding-workouts-that-gain-traction-on-social-media/"><u>[Updated] In 2024, 7 Pulse-Pounding Workouts That Gain Traction on Social Media</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-creating-revenue-streams-on-snapchat/"><u>[Updated] In 2024, Creating Revenue Streams on Snapchat</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-discord-broadcasting-the-essential-checklist-for-successful-streaming/"><u>[Updated] In 2024, Discord Broadcasting The Essential Checklist for Successful Streaming</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-guide-to-setting-up-and-managing-discord-channels-for-beginners/"><u>[Updated] In 2024, Guide to Setting Up and Managing Discord Channels for Beginners</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unravel-the-art-of-using-gifs-on-discord-a-comprehensive-guide/"><u>[Updated] In 2024, Unravel the Art of Using GIFs on Discord - A Comprehensive Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-a-step-by-step-approach-to-discord-messaging/"><u>2024 Approved A Step-by-Step Approach to Discord Messaging</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-discord-broadcasting-the-essential-checklist-for-successful-streaming/"><u>2024 Approved Discord Broadcasting The Essential Checklist for Successful Streaming</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-supercharge-discord-fun-the-ultimate-list-of-top-plugins/"><u>2024 Approved Supercharge Discord Fun The Ultimate List of Top Plugins</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-honor-x50iplus-by-drfone-android/"><u>How to Show Wi-Fi Password on Honor X50i+</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-transforming-conversations-with-discords-powerful-graphics-library/"><u>In 2024, Transforming Conversations with Discord's Powerful Graphics Library</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-xs-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-to-obtain-your-intel-ac-7260-drivers-with-ease/"><u>Step-by-Step Tutorial to Obtain Your Intel AC 7260 Drivers with Ease!</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-restore-playback-from-black-screen/"><u>Steps to Restore Playback From Black Screen</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/wiping-your-discord-servers-from-pc-and-android-devices/"><u>Wiping Your Discord Servers From PC and Android Devices</u></a></li>
+</ul></div>
 

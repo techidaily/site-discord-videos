@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Transforming Chat Dynamics  Mastering Discord's Text Styling for 2024\""
-date: 2024-07-29T01:08:13.294Z
-updated: 2024-07-30T01:08:13.294Z
+date: 2024-10-09T21:48:53.975Z
+updated: 2024-10-12T12:45:40.415Z
 tags:
   - ai video
   - ai discord
@@ -69,9 +69,6 @@ As we mentioned previously, Markdown is completely text-based and has a very sim
 
 Here is an overview of the most important options for changing text style in Discord, and you can preview the text style in real time before sending to friends:
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![Change Text Style in Discord  - Basic](https://images.wondershare.com/filmora/article-images/discord-change-text-style.jpg)
 
 #### **How to Bold Text in Discord?**
@@ -91,9 +88,18 @@ In order to get a strikethrough effect on your text, you will have to type two t
 Underline effect is also available on Discord and equally simple to activate. Just type two underscore dashes (\_\_)at the start and the ending of the text selection to apply it.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Combine Text Formatting Options in Discord?
 
 Once you mastered the basic effects and know the commands without thinking, it’s time to consider more complex text transformations that combine more than one effect. In principle, Markdown lets you do this just as easily, for as long as you know all the right combinations of characters that produce the desired effect. Here are the detailed instructions for some of the most frequently utilized combos:
@@ -102,9 +108,6 @@ Once you mastered the basic effects and know the commands without thinking, it�
 
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Discord Underlined and Italicized text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 #### Underlined and Bolded text
@@ -117,19 +120,26 @@ Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both 
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Discord Underlined &  Italicized Bolded  text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 #### Bolded, Italicized, underlined, and crossed out text
 
 You can combine all four style changes as well – just use two tildes (\~\~), two underscores (\_\_) and three asterisks (\*\*\*) on either side of your text.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Discord Underlined &  Italicized Bolded crossed out text](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
@@ -144,8 +154,12 @@ To change the text color, you should create a simple, three-line block. In the t
 Here is a detailed video tutorial for creating customized text in a range of different colors with all the relevant code phrases.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## FAQs About Discord Text Formatting
 
 #### 1\. What is the default Discord font?
@@ -160,10 +174,14 @@ It’s not possible to change the font directly from the Discord app, but this l
 
 The creation of a hidden text message that requires direct user action to reveal is possible in Discord and requires a so-called spoiler tag. If you precede your message with the text /spoiler or type two slash bars (//) at either side, it will be hidden from other users except for those who decide to view it and indicate their desire by clicking or tapping on it. Messages of this kind appear highlighted with gray background in the message stream on a Discord chat.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -171,12 +189,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-celebrating-the-best-emoji-generation-software-for-discord/"><u>[New] 2024 Approved Celebrating the Best Emoji Generation Software for Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-disconnect-and-delete-discord-accounts-devices/"><u>[New] Disconnect and Delete Discord Accounts (Devices)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-fast-track-to-fandom-top-30-engaging-nicknames-for-discord/"><u>[New] Fast Track to Fandom Top 30 Engaging Nicknames for Discord</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-get-more-followers-on-igtv-5-ways-for-2024/"><u>[New] How to Get More Followers on IGTV [5 Ways] for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-awesome-atmosphere-discotheme-essentials-by-betterdiscord/"><u>[New] In 2024, Awesome Atmosphere DiscoTheme Essentials by BetterDiscord</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-small-companys-guide-to-the-safest-online-chat-services/"><u>[New] In 2024, Small Company's Guide to the Safest Online Chat Services</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-discord-message-pinning-essentials/"><u>[New] Mastering Discord Message Pinning Essentials</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-step-in-the-journey-to-mastering-discord-text-styles-for-2024/"><u>[New] Step-In The Journey to Mastering Discord Text Styles for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-free-youtube-end-screen-templates/"><u>[Updated] In 2024, Free YouTube End Screen Templates</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-screen-recording-simplified-review-insights/"><u>[Updated] Screen Recording Simplified Review Insights</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-setting-up-and-managing-discord-channels-step-by-step-guide-for-2024/"><u>[Updated] Setting Up and Managing Discord Channels Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/androids-gaming-revolution-experience-the-power-of-kinemaster-app/"><u>Android's Gaming Revolution Experience the Power of KineMaster App</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-asus-realtek-audiophile-driver-at-no-cost/"><u>Download ASUS Realtek Audiophile Driver at No Cost</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-pin-a-message-on-discord-for-2024/"><u>How to Pin A Message on Discord for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-deep-dive-into-apples-m1-processor-power/"><u>In 2024, A Deep Dive Into Apple's M1 Processor Power</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-kratoss-gameplay-glitch/"><u>Resolved: Kratos's Gameplay Glitch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-tutorial-sending-emojis-from-your-iphone/"><u>The Complete Tutorial: Sending Emojis From Your iPhone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-servers-for-romance-discord-edition/"><u>Top Servers for Romance Discord Edition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-iphone-photo-potential-discover-these-amazing-8-camera-roll-optimization-techniques/"><u>Unlocking iPhone Photo Potential: Discover These Amazing 8 Camera Roll Optimization Techniques</u></a></li>
+</ul></div>
 

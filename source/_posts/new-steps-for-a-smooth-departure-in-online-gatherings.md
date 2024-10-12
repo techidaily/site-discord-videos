@@ -1,7 +1,7 @@
 ---
 title: "[New] Steps for a Smooth Departure in Online Gatherings"
-date: 2024-07-29T01:07:38.878Z
-updated: 2024-07-30T01:07:38.878Z
+date: 2024-10-11T08:11:34.403Z
+updated: 2024-10-12T11:05:27.104Z
 tags:
   - ai video
   - ai discord
@@ -19,9 +19,6 @@ thumbnail: https://www.lifewire.com/thmb/6fzTu-E9_IJ8bYlrPxcbcoxehmg=/400x300/fi
 
 # How to Leave A Discord Server
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -44,9 +41,6 @@ A few things to note before you leave a server –
 * The person you hand over your server to can do whatever they want with it.
 * You can join the server you left again if you change your mind.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to Leave a Discord Server on Computer?
 
 Several peoples and hardcore gamers use Discord over a PC. And you can wave goodbye to the channel in a matter of few seconds. The procedure is the same for Mac and Windows.
@@ -54,19 +48,20 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Leave a Discord Server on the Mobile App?
 
@@ -77,6 +72,13 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 
 ![Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
 ![Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
@@ -86,8 +88,18 @@ After confirmation, you will not be a part of the server anymore. The process is
 If you have decided to take a break from gaming and Discord, you can consider uninstalling the app temporarily. You can also turn off the notifications in the app settings on your device.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bonus: How to Transfer Discord Server Ownership?
 
 How to leave your own Discord server? If your server has many members in it, it is wiser to transfer the ownership rather than shutting the server completely or abandoning it to fate. Especially if the users are active, then you can handover the ownership to a trustworthy person.
@@ -138,10 +150,14 @@ No, none of the texts that you sent on the server get deleted. Every text remain
 
 This was a guide on ‘**how to leave a Discord server’** that provided a detailed how-to on leaving servers and transferring servers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -149,12 +165,29 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-take-control-of-discord-dialogues-advanced-techniques-for-pins/"><u>[New] 2024 Approved Take Control of Discord Dialogues Advanced Techniques for Pins</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discovering-the-basics-of-discords-spoiler-tags-for-2024/"><u>[New] Discovering the Basics of Discord's Spoiler Tags for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-easy-steps-to-setting-up-a-professional-discord-stream-for-2024/"><u>[New] Easy Steps to Setting Up a Professional Discord Stream for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-insta-flip-fundamentals-rotating-videos-for-maximum-engagement-and-reach-for-2024/"><u>[New] Insta-Flip Fundamentals Rotating Videos for Maximum Engagement and Reach for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-perfecting-the-art-of-transmitting-videos-via-discords-channels/"><u>[Updated] 2024 Approved Perfecting the Art of Transmitting Videos via Discord's Channels</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-sprout-screencapture-transform-your-pc-footage-game/"><u>[Updated] Sprout ScreenCapture Transform Your PC Footage Game</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-video-issues-a-walkthrough-of-safemode-and-graphics-driver-removal-for-windows-8-users/"><u>How to Fix Video Issues? A Walkthrough of Safemode & Graphics Driver Removal for Windows 8 Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-from-silence-to-significance-replying-in-discord-chats/"><u>In 2024, From Silence to Significance Replying in Discord Chats</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-s23plus-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy S23+ FRP Without Computer</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mastering-discord-gifs-the-ultimate-communication-tool-for-teams-for-2024/"><u>Mastering Discord GIFs The Ultimate Communication Tool for Teams for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-apc-back-ups-be6-00m1-high-performance-power-continuity-and-usb-charging-capabilities-included/"><u>Review of APC Back-UPS BE6 00M1: High-Performance Power Continuity and USB Charging Capabilities Included</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/social-media-symphony-coordinating-video-sharing/"><u>Social Media Symphony Coordinating Video Sharing</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-adjusting-discord-presence-for-2024/"><u>Step-by-Step Guide Adjusting Discord Presence for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-xs-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone XS Max Making It Possible</u></a></li>
+</ul></div>
 

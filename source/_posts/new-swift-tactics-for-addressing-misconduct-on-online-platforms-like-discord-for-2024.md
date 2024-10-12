@@ -1,7 +1,7 @@
 ---
 title: "[New] Swift Tactics for Addressing Misconduct on Online Platforms Like Discord for 2024"
-date: 2024-07-29T01:07:27.986Z
-updated: 2024-07-30T01:07:27.986Z
+date: 2024-10-09T22:14:19.825Z
+updated: 2024-10-12T09:36:00.269Z
 tags:
   - ai video
   - ai discord
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 # How to Report Someone on Discord
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -62,9 +59,6 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
@@ -91,9 +85,6 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
@@ -105,9 +96,6 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
@@ -158,20 +146,34 @@ If you happen to be a moderator or server owner, you have the authority to kick 
 4. Click on "Kick" again to confirm your decision
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: FAQs About Discord Reporting
 
 There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Can I Report People on Discord Anonymously?
 
 According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### What Happens If I Report Someone on Discord?
 
 After you report someone on Discord, the T&S team goes through the evidence to justify or negate your claims.
@@ -190,13 +192,18 @@ If you know someone who is undoubtedly underage, then you can report them to the
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -204,4 +211,27 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-a-comprehensive-guide-to-infusing-fun-with-emojis-in-discords-status-field/"><u>[New] A Comprehensive Guide to Infusing Fun with Emojis in Discord's Status Field</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/voiding-storage-woes-removing-youtube-media/"><u>[New] Avoiding Storage Woes Removing YouTube Media</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-elevate-your-streams-step-by-step-discord-tips/"><u>[New] In 2024, Elevate Your Streams Step-by-Step Discord Tips</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-emoji-magic-for-enhanced-discord-statues/"><u>[New] In 2024, Emoji Magic for Enhanced Discord Statues</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-humor-hub-essential-apps-for-meme-makers/"><u>[New] In 2024, Humor Hub Essential Apps for Meme Makers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-initiating-live-channels-your-comprehensive-guide/"><u>[New] In 2024, Initiating Live Channels Your Comprehensive Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-mastering-the-art-of-leaving-a-discord-server/"><u>[New] In 2024, Mastering the Art of Leaving a Discord Server</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-transform-your-discord-experience-learn-message-pinning/"><u>[New] In 2024, Transform Your Discord Experience Learn Message Pinning</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-sharpening-screen-views-for-improved-virtual-interactions-for-2024/"><u>[New] Sharpening Screen Views for Improved Virtual Interactions for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-androids-best-top-8-gratuitous-capture-tools/"><u>[Updated] 2024 Approved Android's Best Top 8 Gratuitous Capture Tools</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-simplified-discord-integration-for-pc-and-phones/"><u>[Updated] In 2024, Simplified Discord Integration for PC & Phones</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/5aplusplus5yem5rov77ya44kv44ot44o844ol44oz44kw6kmm6kgm5lit44cb44oh44kj44k544ox44os44kk44gm5a6m5ywo6bus5lia6imy5yyw44gz44kl44oi44op44ow44or/"><u>対処法：クローニング試行中、ディスプレイが完全黒一色化するトラブル</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-apples-refusal-to-accept-your-card-discover-these-6-effective-methods/"><u>Bypassing Apple's Refusal to Accept Your Card: Discover These 6 Effective Methods</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-reply-message-on-discord-desktop-and-mobile-app/"><u>How to Reply Message on Discord Desktop and Mobile App</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-distinguished-bot-allies-on-chat-platforms/"><u>In 2024, Distinguished Bot Allies on Chat Platforms</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-exploring-top-tier-no-cost-webm-video-streamers-for-browsers/"><u>In 2024, Exploring Top-Tier, No-Cost WebM Video Streamers for Browsers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-tiktok-videos-with-strategic-zoom-use-for-2024/"><u>Professional TikTok Videos with Strategic Zoom Use for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-latin-grasp-best-digital-language-schools/"><u>Quick Latin Grasp: Best Digital Language Schools</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-14-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Pro Data From iCloud | Dr.fone</u></a></li>
+</ul></div>
 

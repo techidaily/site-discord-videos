@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Exit  The Guide to Disconnecting From a Discord Community for 2024\""
-date: 2024-07-29T01:05:43.071Z
-updated: 2024-07-30T01:05:43.071Z
+date: 2024-10-11T06:57:17.088Z
+updated: 2024-10-11T21:06:53.735Z
 tags:
   - ai video
   - ai discord
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 
 # How to Leave A Discord Server
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -45,9 +41,6 @@ A few things to note before you leave a server –
 * The person you hand over your server to can do whatever they want with it.
 * You can join the server you left again if you change your mind.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## Part 1: How to Leave a Discord Server on Computer?
 
 Several peoples and hardcore gamers use Discord over a PC. And you can wave goodbye to the channel in a matter of few seconds. The procedure is the same for Mac and Windows.
@@ -55,23 +48,21 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Leave a Discord Server on the Mobile App?
 
 The procedure of leaving the server is more or less the same on the mobile app. The user interface of Discord does not differ much across the devices. To quit a server, follow these steps -
@@ -79,18 +70,35 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
 ![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
 If you have decided to take a break from gaming and Discord, you can consider uninstalling the app temporarily. You can also turn off the notifications in the app settings on your device.
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus: How to Transfer Discord Server Ownership?
 
@@ -144,13 +152,18 @@ This was a guide on ‘**how to leave a Discord server’** that provided a deta
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -158,4 +171,27 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-comparing-streaming-tools-the-verdict-on-xsplit-and-obs/"><u>[New] Comparing Streaming Tools The Verdict on XSplit & OBS</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discovering-clearer-communication-a-guide-to-discords-text-to-speech-for-2024/"><u>[New] Discovering Clearer Communication A Guide to Discord's Text-to-Speech for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-discords-profile-pics-a-guide-to-sizzling-pfps/"><u>[New] Mastering Discord's Profile Pics A Guide to Sizzling Pfps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-permanently-unplug-discord-services-for-2024/"><u>[New] Permanently Unplug Discord Services for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-swift-tactics-for-addressing-misconduct-on-online-platforms-like-discord-for-2024/"><u>[New] Swift Tactics for Addressing Misconduct on Online Platforms Like Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-guide-to-interacting-in-discord-dms-for-2024/"><u>[New] The Ultimate Guide to Interacting in Discord DMs for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-top-tier-designers-making-magic-in-discord-emojis-for-2024/"><u>[New] Top-Tier Designers Making Magic in Discord Emojis for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-ultimate-bot-experiences-on-discord-for-2024/"><u>[New] Ultimate Bot Experiences on Discord for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-infinix-gt-10-pro-frp-bypass-by-drfone-android/"><u>About Infinix GT 10 Pro FRP Bypass</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-aerial-adventures-with-the-holy-stone-hs17n-predator-mini-rc-drone-our-thorough-review/"><u>Affordable Aerial Adventures with the Holy Stone HS17n Predator Mini RC Drone – Our Thorough Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-the-gaming-experience-four-upgrades-for-xbox-points/"><u>Elevating the Gaming Experience: Four Upgrades for Xbox Points</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/essential-know-how-for-getting-started-on-discord-live-for-2024/"><u>Essential Know-How for Getting Started on Discord Live for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-f15-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy F15 5G Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro with a Mask On</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-ps3-classics-on-your-pc-with-top-tools/"><u>In 2024, Mastering PS3 Classics on Your PC with Top Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-ultimate-companion-for-high-fps-filming-yi-hero/"><u>In 2024, The Ultimate Companion for High FPS Filming Yi Hero</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/prime-list-best-free-video-transcript-harvesters/"><u>Prime List Best Free Video Transcript Harvesters</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/quick-win-strategies-for-replying-on-discord-platforms-for-2024/"><u>Quick-Win Strategies for Replying on Discord Platforms for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick-React Guide  Efficiently Answering Discord Messages for 2024\""
-date: 2024-07-29T01:07:26.360Z
-updated: 2024-07-30T01:07:26.360Z
+date: 2024-10-10T19:58:07.670Z
+updated: 2024-10-12T12:15:36.216Z
 tags:
   - ai video
   - ai discord
@@ -45,18 +45,12 @@ In this article, we will cover the following parts on how to reply to messages o
 * [Part 4: Replying to Messages with Reactions on Discord](#part4)
 * [Part 5: Quoting Messages on Discord?](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Part 1: How to Reply to a Specific Message on Discord on Desktop
 
 This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
 
 1. Locate the message you wish to reply to
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
 
 1. Hover your cursor on the comment as you see icons on the right of the message
@@ -68,6 +62,13 @@ This technique works for both the browser and the desktop applications; use it w
 
 ![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Reply to a Certain Message on Discord Mobile
 
 Replying on the mobile app is similar to Desktop. Here's how to do it:
@@ -76,10 +77,14 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 2. Hold down on the comment until a list of options appears on the screen
 3. Choose the "Reply" option
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
 2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
@@ -94,9 +99,6 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![auto reply  message on Discord](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
@@ -105,6 +107,13 @@ Here's an example of how you can implement this feature in your server. In this 
 
 ![set up permission for bots](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
 ![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
@@ -112,8 +121,12 @@ Here's an example of how you can implement this feature in your server. In this 
 After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: How to Reply to Messages with Reactions on Discord
 
 Discord allows you to react to posts with emojis. To respond with an emoji:
@@ -121,44 +134,28 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 1. Hover your mouse cursor over the message you wish to react to
 2. Click the smiley face titled "Add reaction" on the message's far-right
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![add reactions to message replying on Discord](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
 
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
 
 ![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
 
 1. Click on the emoji, and it would increase the total number of responses by 1
 2. Hovering over the emoji will also let you know the names of the people who reacted to the message
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## Part 5: How to Quote Messages on Discord?
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![quote message on Discord](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
@@ -176,12 +173,31 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-setting-up-and-managing-discord-channels-step-by-step-guide/"><u>[New] 2024 Approved Setting Up and Managing Discord Channels Step-by-Step Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-streamlining-role-assignment-in-discord-channels/"><u>[New] 2024 Approved Streamlining Role Assignment in Discord Channels</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-hashtag-hacks-the-top-25-tactics-to-elevate-your-instagram-profile/"><u>[New] Hashtag Hacks The Top 25 Tactics to Elevate Your Instagram Profile</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unlock-advanced-features-in-discords-live-broadcast-for-2024/"><u>[New] Unlock Advanced Features in Discord's Live Broadcast for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unveiling-efficient-techniques-in-screencastify-recording/"><u>[New] Unveiling Efficient Techniques in Screencastify Recording</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-steps-for-a-smooth-departure-in-online-gatherings/"><u>[Updated] 2024 Approved Steps for a Smooth Departure in Online Gatherings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-discover-budget-friendly-superior-asmr-mics/"><u>[Updated] Discover Budget-Friendly, Superior ASMR Mics</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-farewell-to-friends-how-to-leave-a-discord-server-for-2024/"><u>[Updated] Farewell to Friends How to Leave a Discord Server for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-stepping-stones-from-youtube-ads-to-monetary-success/"><u>[Updated] Stepping Stones From YouTube Ads to Monetary Success</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-10-best-inspirational-movies-that-will-make-you-feel-motivated/"><u>2024 Approved 10 Best Inspirational Movies That Will Make You Feel Motivated</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-essential-guide-easy-to-install-vrecorder/"><u>2024 Approved Essential Guide Easy-to-Install VRecorder</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/fixing-problematic-youtube-shorts-thumbnails-display-for-2024/"><u>Fixing Problematic YouTube Shorts Thumbnails Display for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/from-setting-up-to-broadcasting-a-discoguide-for-2024/"><u>From Setting Up to Broadcasting A DiscoGuide for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-top-tier-discord-automations/"><u>In 2024, Top-Tier Discord Automations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/supreme-script-craftsmanship-on-the-big-screen/"><u>Supreme Script Craftsmanship on the Big Screen</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-compreran-guide-sending-videos-through-discords-lens-for-2024/"><u>The Compreran Guide Sending Videos Through Discord's Lens for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/uygulanan-ticareti-baskanliginin-nakliye-veya-iade-eylemleri/"><u>Uygulanan Ticareti Başkanlığının Nakliye Veya Iade Eylemleri</u></a></li>
+</ul></div>
 

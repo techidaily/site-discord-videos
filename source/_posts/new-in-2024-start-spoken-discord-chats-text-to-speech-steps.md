@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Start Spoken Discord Chats  Text-To-Speech Steps\""
-date: 2024-07-29T01:05:52.344Z
-updated: 2024-07-30T01:05:52.344Z
+date: 2024-10-09T23:44:53.021Z
+updated: 2024-10-12T12:36:25.200Z
 tags:
   - ai video
   - ai discord
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 # How to Use Discord Text-To-Speech?
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -48,17 +45,18 @@ Before you can deploy TTS in your chats, you need to change the settings of your
 
 To test whether you successfully activated Text-to-Speech, open any chats on your personal server and try typing out a message, followed immediately by the tag /tts. If everything is working correctly, your message should appear on the screen in the text form, accompanied by its voice rendering delivered by an automated module. The timing of the two should be perfectly synchronized so that you hear the message and see the text at exactly the same instance. Otherwise, go back to settings and make sure you activated the TTS option properly or restart your Discord app.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Part 2: How to Set Up Text-To-Speech Notifications on Discord?
 
 Another practical possibility that can improve your Discord experience is to set up TTS notifications and be immediately informed whenever a fresh message arrives. This can also be done after you change the app parameters from the ‘Settings’ menu. After you see all options, choose ‘App Settings’ and search for the section named ‘Notifications’. By scrolling down, you will reach the item ‘Text-to-Speech notifications’ and after clicking on it you will be given a choice between three options.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![Discord Text to Speech Notification Settings](https://images.wondershare.com/filmora/article-images/discord-text-to-speech-notification-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The first option **For all channels** is to enable notifications on all channels on Discord; choosing it will result in a robotic voice reading all messages from all chats, regardless of whether they have a /tts tag. This option can be useful when you want to maximize your accessibility and receive important information instantly.
 
@@ -78,9 +76,6 @@ Your TTS message will be reproduced in a voice format by a Discord bot to all pa
 
 You can also decide to prevent any messages from being played to you in a voice format and receive them as text only. This option is available even if you are not the administrator of the chat server and simply want to customize your own experience. To do this, you need to open the Discord app and enter the Settings menu, before selecting the Text & Images section from App Settings. After this, you need to find the Text-to-Speech sub-menu and open it to find the Allow Playback feature. If you disable this feature, you will effectively mute all incoming TTS messages across all Discord servers you are active on.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable  Discord Text to Speech Settings](https://images.wondershare.com/filmora/article-images/disable-text-to-speech-tts-discord-settings.jpg)
 
 Please keep in mind that deactivating the aforementioned feature won’t block TTS messages from reaching you, but you will see them as text only. On the other hand, you can’t use the /tts tag to send your own Text-to-Speech while the playback setting is disabled. Nothing is preventing you from turning it back on when you want to have a TTS capacity on Discord again.
@@ -89,23 +84,31 @@ Please keep in mind that deactivating the aforementioned feature won’t block T
 
 One of the reasons why Discord is so popular is that it allows extensive customization through user-made Bots or modules that automatically perform a certain task. There are several great Bots that can be used for Text-to-Speech, so you might consider utilizing one of them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. [Text to Speech (TTS)](https://top.gg/bot/527867442748194847)
 
 With many languages supported and a wide range of cool commands, this bot could be the best choice for people who use TTS just for fun.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### 2\. [KD Bot](https://top.gg/bot/414925323197612032)
 
 A very popular option for Text-to-Speech on Discord that lets you choose from more than 100 voices and supports upwards of 100 languages, making it a powerful translation tool.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. [Fergun](https://discord.bots.gg/bots/680507783359365121)
 
 This multi-language tool responds to more than 100 different commands, so it can be used for a wide variety of purposes with stunning effectiveness.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Frequently asked questions about TTS on Discord
 
@@ -117,10 +120,14 @@ Unfortunately, you can’t. Discord works quite well as a text messaging app on 
 
 If you are unable to send or receive TTS messages on Discord, you need to change your settings. Please see Part 1 of this article for detailed instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -128,12 +135,30 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-convert-youtubes-audios-to-mp3-safely-step-by-step-guide/"><u>[New] 2024 Approved How To Convert YouTube's Audios to MP3 Safely - Step-by-Step Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-mastery-in-messaging-perfecting-video-posting-on-discord/"><u>[New] 2024 Approved Mastery in Messaging Perfecting Video Posting on Discord</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-quintessential-filters-to-perfect-ocean-shoots/"><u>[New] In 2024, Quintessential Filters to Perfect Ocean Shoots</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-step-by-step-guide-to-pinning-in-discord-dialogues/"><u>[New] In 2024, Step-by-Step Guide to Pinning in Discord Dialogues</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-unlock-your-potential-designing-captivating-discord-photos/"><u>[New] In 2024, Unlock Your Potential Designing Captivating Discord Photos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-premium-free-service-craft-your-own-discord-emblem-for-2024/"><u>[New] Premium Free Service Craft Your Own Discord Emblem for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-step-by-step-guide-for-adding-and-curating-dynamic-graphics-gifs-in-your-discord-chats-for-2024/"><u>[New] The Ultimate Step-by-Step Guide for Adding and Curating Dynamic Graphics (GIFs) in Your Discord Chats for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unleashing-creativity-making-discords-profile-pictures-pop-for-2024/"><u>[New] Unleashing Creativity Making Discord's Profile Pictures Pop for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-discover-the-ultimate-blend-of-mind-body-and-spirit-in-yoga-for-2024/"><u>[Updated] Discover the Ultimate Blend of Mind, Body, and Spirit in Yoga for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-optimize-video-views-with-these-top-5-link-shrinkers/"><u>[Updated] Optimize Video Views with These Top 5 Link Shrinkers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-professional-hdr-magic-in-adobes-photoshop/"><u>[Updated] Unveiling Professional HDR Magic in Adobe's Photoshop</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x100-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo X100 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/masterclass-in-free-videochats-and-collaborative-screensharing/"><u>Masterclass in FREE Videochats & Collaborative Screensharing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-zte-nubia-z60-ultra-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from ZTE Nubia Z60 Ultra.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723005215563-resolve-league-of-legends-crashes-swiftly-a-step-by-step-guide/"><u>Resolve League of Legends Crashes Swiftly: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/slack-vs-discord-debate-optimal-team-collaboration-platforms/"><u>Slack Vs. Discord Debate Optimal Team Collaboration Platforms</u></a></li>
+</ul></div>
 

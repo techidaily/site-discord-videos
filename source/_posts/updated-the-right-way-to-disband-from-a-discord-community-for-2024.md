@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Right Way to Disband From a Discord Community for 2024"
-date: 2024-07-29T01:01:55.959Z
-updated: 2024-07-30T01:01:55.959Z
+date: 2024-10-15T08:05:44.367Z
+updated: 2024-10-17T16:20:28.204Z
 tags:
   - ai video
   - ai discord
@@ -41,125 +41,6 @@ A few things to note before you leave a server –
 * The person you hand over your server to can do whatever they want with it.
 * You can join the server you left again if you change your mind.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 1: How to Leave a Discord Server on Computer?
-
-Several peoples and hardcore gamers use Discord over a PC. And you can wave goodbye to the channel in a matter of few seconds. The procedure is the same for Mac and Windows.
-
-1. Open Discord on your computer (the desktop app or on the browser).
-2. Tap on the server name that appears towards the top left.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
-
-1. Right at the bottom of the list, click on the option leave server
-
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
-
-After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
-## Part 2: How to Leave a Discord Server on the Mobile App?
-
-The procedure of leaving the server is more or less the same on the mobile app. The user interface of Discord does not differ much across the devices. To quit a server, follow these steps -
-
-1. Click open the Discord app on your mobile.
-2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
-
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
-
-1. From the menu that opens, scroll towards the bottom and click on the leave server option.
-
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
-
-After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
-
-If you have decided to take a break from gaming and Discord, you can consider uninstalling the app temporarily. You can also turn off the notifications in the app settings on your device.
-
-## Bonus: How to Transfer Discord Server Ownership?
-
-How to leave your own Discord server? If your server has many members in it, it is wiser to transfer the ownership rather than shutting the server completely or abandoning it to fate. Especially if the users are active, then you can handover the ownership to a trustworthy person.
-
-Here is how you can do it -
-
-**For desktop**
-
-The process is quite simple and only takes a few minutes.
-
-1. Open the Discord app or log in using the browser.
-2. Click on the server that you want to leave.
-3. With right-click, open up the floating menu.
-4. From that list, select server settings and then choose members.
-5. Select the user that You Want To handover your server to. Tap those 3 dots and tap on ‘transfer ownership.’
-6. Confirm your choice and then click on transfer ownership.
-7. The chosen member will become the new owner of the server.
-
-**On mobile**
-
-The transfer procedure is quite similar to the desktop version. However, it has a few extra steps.
-
-1. Open your Discord App on your phone.
-2. Select the server that you want to give away.
-3. Tap those 3 dots to open up the menu. Under user management, tap on ‘members.'
-4. Select the member that will be the new owner of your server. Tap the 3 dots that appear next to the name of that user.
-5. A confirmation box will appear.
-6. Check off the box to confirm your choice.
-
-Your server is now successfully transferred to the selected member. And the new owner can decide what to do with the server.
-
-FAQs About Leaving A Discord Server
-
-1. How can I leave a Discord server without anyone knowing?
-
-Frankly speaking, there is no magic to help conceal your disappearance from a server. There is no way to hide your departure. However, you can take a few measures to make it less noticeable.
-
-* Lay low for a few hours or days. This won’t work if you are the loudest member on the server. But still, it’s worth a shot.
-* Try changing your avatar, profile picture, and nickname. This can throw people off the track or confuse them for a while.
-* Control yourself and try not to tell anyone that you are leaving.
-* And now it’s time for the discreet farewell!
-
-You might still get some texts on personal asking about your exit. This is not a surefire way of making your exit a secret. However, hundreds of members along with bots will make your disappearance less apparent. Another solution would be to create a new user ID and leave the old one inactive.
-
-1. Does leaving a Discord server delete your messages?
-
-No, none of the texts that you sent on the server get deleted. Every text remains, even after you leave. The only way you can delete your texts if you delete them all one by one, or someone with sufficient permissions deletes them. If you get banned, then the member who banned you decides whether to keep your messages on the server or remove them. In this case, your texts can be removed if the member deletes them.
-
-This was a guide on ‘**how to leave a Discord server’** that provided a detailed how-to on leaving servers and transferring servers.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Discord is all fun and games if you are a part of a lively server that has a cool community. You can obsess about some game, comic, or song with hundreds of other people without the fear of being called geeky.
-
-However, sometimes you might disagree with other members, which can lead you to hunt for some other server. Other times, the server might be inactive, or you may not mix well with the crowd. Or maybe, you landed there by mistake. So, **how do you leave a Discord server**?
-
-Whatever your reason, here is a detailed guide on how to leave a server on Discord!
-
-A few things to note before you leave a server –
-
-* After you exit from a server, you will no longer be able to send any texts on it.
-* You will not receive any notifications from the server.
-* Your username will no longer appear in the member list of the server.
-* Whatever role you had in the server will be disabled.
-* If you own a server, you will have to transfer the ownership to another member before you quit.
-* The person you hand over your server to can do whatever they want with it.
-* You can join the server you left again if you change your mind.
-
 ## Part 1: How to Leave a Discord Server on Computer?
 
 Several peoples and hardcore gamers use Discord over a PC. And you can wave goodbye to the channel in a matter of few seconds. The procedure is the same for Mac and Windows.
@@ -171,147 +52,17 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 
 1. Right at the bottom of the list, click on the option leave server
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 2: How to Leave a Discord Server on the Mobile App?
-
-The procedure of leaving the server is more or less the same on the mobile app. The user interface of Discord does not differ much across the devices. To quit a server, follow these steps -
-
-1. Click open the Discord app on your mobile.
-2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
-
-1. From the menu that opens, scroll towards the bottom and click on the leave server option.
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
-
-After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
-
-If you have decided to take a break from gaming and Discord, you can consider uninstalling the app temporarily. You can also turn off the notifications in the app settings on your device.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
-## Bonus: How to Transfer Discord Server Ownership?
-
-How to leave your own Discord server? If your server has many members in it, it is wiser to transfer the ownership rather than shutting the server completely or abandoning it to fate. Especially if the users are active, then you can handover the ownership to a trustworthy person.
-
-Here is how you can do it -
-
-**For desktop**
-
-The process is quite simple and only takes a few minutes.
-
-1. Open the Discord app or log in using the browser.
-2. Click on the server that you want to leave.
-3. With right-click, open up the floating menu.
-4. From that list, select server settings and then choose members.
-5. Select the user that You Want To handover your server to. Tap those 3 dots and tap on ‘transfer ownership.’
-6. Confirm your choice and then click on transfer ownership.
-7. The chosen member will become the new owner of the server.
-
-**On mobile**
-
-The transfer procedure is quite similar to the desktop version. However, it has a few extra steps.
-
-1. Open your Discord App on your phone.
-2. Select the server that you want to give away.
-3. Tap those 3 dots to open up the menu. Under user management, tap on ‘members.'
-4. Select the member that will be the new owner of your server. Tap the 3 dots that appear next to the name of that user.
-5. A confirmation box will appear.
-6. Check off the box to confirm your choice.
-
-Your server is now successfully transferred to the selected member. And the new owner can decide what to do with the server.
-
-FAQs About Leaving A Discord Server
-
-1. How can I leave a Discord server without anyone knowing?
-
-Frankly speaking, there is no magic to help conceal your disappearance from a server. There is no way to hide your departure. However, you can take a few measures to make it less noticeable.
-
-* Lay low for a few hours or days. This won’t work if you are the loudest member on the server. But still, it’s worth a shot.
-* Try changing your avatar, profile picture, and nickname. This can throw people off the track or confuse them for a while.
-* Control yourself and try not to tell anyone that you are leaving.
-* And now it’s time for the discreet farewell!
-
-You might still get some texts on personal asking about your exit. This is not a surefire way of making your exit a secret. However, hundreds of members along with bots will make your disappearance less apparent. Another solution would be to create a new user ID and leave the old one inactive.
-
-1. Does leaving a Discord server delete your messages?
-
-No, none of the texts that you sent on the server get deleted. Every text remains, even after you leave. The only way you can delete your texts if you delete them all one by one, or someone with sufficient permissions deletes them. If you get banned, then the member who banned you decides whether to keep your messages on the server or remove them. In this case, your texts can be removed if the member deletes them.
-
-This was a guide on ‘**how to leave a Discord server’** that provided a detailed how-to on leaving servers and transferring servers.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Discord is all fun and games if you are a part of a lively server that has a cool community. You can obsess about some game, comic, or song with hundreds of other people without the fear of being called geeky.
-
-However, sometimes you might disagree with other members, which can lead you to hunt for some other server. Other times, the server might be inactive, or you may not mix well with the crowd. Or maybe, you landed there by mistake. So, **how do you leave a Discord server**?
-
-Whatever your reason, here is a detailed guide on how to leave a server on Discord!
-
-A few things to note before you leave a server –
-
-* After you exit from a server, you will no longer be able to send any texts on it.
-* You will not receive any notifications from the server.
-* Your username will no longer appear in the member list of the server.
-* Whatever role you had in the server will be disabled.
-* If you own a server, you will have to transfer the ownership to another member before you quit.
-* The person you hand over your server to can do whatever they want with it.
-* You can join the server you left again if you change your mind.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 1: How to Leave a Discord Server on Computer?
-
-Several peoples and hardcore gamers use Discord over a PC. And you can wave goodbye to the channel in a matter of few seconds. The procedure is the same for Mac and Windows.
-
-1. Open Discord on your computer (the desktop app or on the browser).
-2. Tap on the server name that appears towards the top left.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
-
-1. Right at the bottom of the list, click on the option leave server
-
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
-
-After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Leave a Discord Server on the Mobile App?
 
 The procedure of leaving the server is more or less the same on the mobile app. The user interface of Discord does not differ much across the devices. To quit a server, follow these steps -
@@ -319,9 +70,6 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
@@ -333,8 +81,12 @@ After confirmation, you will not be a part of the server anymore. The process is
 If you have decided to take a break from gaming and Discord, you can consider uninstalling the app temporarily. You can also turn off the notifications in the app settings on your device.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bonus: How to Transfer Discord Server Ownership?
 
 How to leave your own Discord server? If your server has many members in it, it is wiser to transfer the ownership rather than shutting the server completely or abandoning it to fate. Especially if the users are active, then you can handover the ownership to a trustworthy person.
@@ -439,9 +191,6 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
@@ -498,9 +247,274 @@ No, none of the texts that you sent on the server get deleted. Every text remain
 
 This was a guide on ‘**how to leave a Discord server’** that provided a detailed how-to on leaving servers and transferring servers.
 
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Discord is all fun and games if you are a part of a lively server that has a cool community. You can obsess about some game, comic, or song with hundreds of other people without the fear of being called geeky.
+
+However, sometimes you might disagree with other members, which can lead you to hunt for some other server. Other times, the server might be inactive, or you may not mix well with the crowd. Or maybe, you landed there by mistake. So, **how do you leave a Discord server**?
+
+Whatever your reason, here is a detailed guide on how to leave a server on Discord!
+
+A few things to note before you leave a server –
+
+* After you exit from a server, you will no longer be able to send any texts on it.
+* You will not receive any notifications from the server.
+* Your username will no longer appear in the member list of the server.
+* Whatever role you had in the server will be disabled.
+* If you own a server, you will have to transfer the ownership to another member before you quit.
+* The person you hand over your server to can do whatever they want with it.
+* You can join the server you left again if you change your mind.
+
+## Part 1: How to Leave a Discord Server on Computer?
+
+Several peoples and hardcore gamers use Discord over a PC. And you can wave goodbye to the channel in a matter of few seconds. The procedure is the same for Mac and Windows.
+
+1. Open Discord on your computer (the desktop app or on the browser).
+2. Tap on the server name that appears towards the top left.
+
+![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+
+1. Right at the bottom of the list, click on the option leave server
+
+![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+
+After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Part 2: How to Leave a Discord Server on the Mobile App?
+
+The procedure of leaving the server is more or less the same on the mobile app. The user interface of Discord does not differ much across the devices. To quit a server, follow these steps -
+
+1. Click open the Discord app on your mobile.
+2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
+
+![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+
+1. From the menu that opens, scroll towards the bottom and click on the leave server option.
+
+![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
+
+If you have decided to take a break from gaming and Discord, you can consider uninstalling the app temporarily. You can also turn off the notifications in the app settings on your device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Bonus: How to Transfer Discord Server Ownership?
+
+How to leave your own Discord server? If your server has many members in it, it is wiser to transfer the ownership rather than shutting the server completely or abandoning it to fate. Especially if the users are active, then you can handover the ownership to a trustworthy person.
+
+Here is how you can do it -
+
+**For desktop**
+
+The process is quite simple and only takes a few minutes.
+
+1. Open the Discord app or log in using the browser.
+2. Click on the server that you want to leave.
+3. With right-click, open up the floating menu.
+4. From that list, select server settings and then choose members.
+5. Select the user that You Want To handover your server to. Tap those 3 dots and tap on ‘transfer ownership.’
+6. Confirm your choice and then click on transfer ownership.
+7. The chosen member will become the new owner of the server.
+
+**On mobile**
+
+The transfer procedure is quite similar to the desktop version. However, it has a few extra steps.
+
+1. Open your Discord App on your phone.
+2. Select the server that you want to give away.
+3. Tap those 3 dots to open up the menu. Under user management, tap on ‘members.'
+4. Select the member that will be the new owner of your server. Tap the 3 dots that appear next to the name of that user.
+5. A confirmation box will appear.
+6. Check off the box to confirm your choice.
+
+Your server is now successfully transferred to the selected member. And the new owner can decide what to do with the server.
+
+FAQs About Leaving A Discord Server
+
+1. How can I leave a Discord server without anyone knowing?
+
+Frankly speaking, there is no magic to help conceal your disappearance from a server. There is no way to hide your departure. However, you can take a few measures to make it less noticeable.
+
+* Lay low for a few hours or days. This won’t work if you are the loudest member on the server. But still, it’s worth a shot.
+* Try changing your avatar, profile picture, and nickname. This can throw people off the track or confuse them for a while.
+* Control yourself and try not to tell anyone that you are leaving.
+* And now it’s time for the discreet farewell!
+
+You might still get some texts on personal asking about your exit. This is not a surefire way of making your exit a secret. However, hundreds of members along with bots will make your disappearance less apparent. Another solution would be to create a new user ID and leave the old one inactive.
+
+1. Does leaving a Discord server delete your messages?
+
+No, none of the texts that you sent on the server get deleted. Every text remains, even after you leave. The only way you can delete your texts if you delete them all one by one, or someone with sufficient permissions deletes them. If you get banned, then the member who banned you decides whether to keep your messages on the server or remove them. In this case, your texts can be removed if the member deletes them.
+
+This was a guide on ‘**how to leave a Discord server’** that provided a detailed how-to on leaving servers and transferring servers.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Discord is all fun and games if you are a part of a lively server that has a cool community. You can obsess about some game, comic, or song with hundreds of other people without the fear of being called geeky.
+
+However, sometimes you might disagree with other members, which can lead you to hunt for some other server. Other times, the server might be inactive, or you may not mix well with the crowd. Or maybe, you landed there by mistake. So, **how do you leave a Discord server**?
+
+Whatever your reason, here is a detailed guide on how to leave a server on Discord!
+
+A few things to note before you leave a server –
+
+* After you exit from a server, you will no longer be able to send any texts on it.
+* You will not receive any notifications from the server.
+* Your username will no longer appear in the member list of the server.
+* Whatever role you had in the server will be disabled.
+* If you own a server, you will have to transfer the ownership to another member before you quit.
+* The person you hand over your server to can do whatever they want with it.
+* You can join the server you left again if you change your mind.
+
+## Part 1: How to Leave a Discord Server on Computer?
+
+Several peoples and hardcore gamers use Discord over a PC. And you can wave goodbye to the channel in a matter of few seconds. The procedure is the same for Mac and Windows.
+
+1. Open Discord on your computer (the desktop app or on the browser).
+2. Tap on the server name that appears towards the top left.
+
+![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+1. Right at the bottom of the list, click on the option leave server
+
+![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+
+After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 2: How to Leave a Discord Server on the Mobile App?
+
+The procedure of leaving the server is more or less the same on the mobile app. The user interface of Discord does not differ much across the devices. To quit a server, follow these steps -
+
+1. Click open the Discord app on your mobile.
+2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
+
+![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+1. From the menu that opens, scroll towards the bottom and click on the leave server option.
+
+![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+
+After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
+
+If you have decided to take a break from gaming and Discord, you can consider uninstalling the app temporarily. You can also turn off the notifications in the app settings on your device.
+
+## Bonus: How to Transfer Discord Server Ownership?
+
+How to leave your own Discord server? If your server has many members in it, it is wiser to transfer the ownership rather than shutting the server completely or abandoning it to fate. Especially if the users are active, then you can handover the ownership to a trustworthy person.
+
+Here is how you can do it -
+
+**For desktop**
+
+The process is quite simple and only takes a few minutes.
+
+1. Open the Discord app or log in using the browser.
+2. Click on the server that you want to leave.
+3. With right-click, open up the floating menu.
+4. From that list, select server settings and then choose members.
+5. Select the user that You Want To handover your server to. Tap those 3 dots and tap on ‘transfer ownership.’
+6. Confirm your choice and then click on transfer ownership.
+7. The chosen member will become the new owner of the server.
+
+**On mobile**
+
+The transfer procedure is quite similar to the desktop version. However, it has a few extra steps.
+
+1. Open your Discord App on your phone.
+2. Select the server that you want to give away.
+3. Tap those 3 dots to open up the menu. Under user management, tap on ‘members.'
+4. Select the member that will be the new owner of your server. Tap the 3 dots that appear next to the name of that user.
+5. A confirmation box will appear.
+6. Check off the box to confirm your choice.
+
+Your server is now successfully transferred to the selected member. And the new owner can decide what to do with the server.
+
+FAQs About Leaving A Discord Server
+
+1. How can I leave a Discord server without anyone knowing?
+
+Frankly speaking, there is no magic to help conceal your disappearance from a server. There is no way to hide your departure. However, you can take a few measures to make it less noticeable.
+
+* Lay low for a few hours or days. This won’t work if you are the loudest member on the server. But still, it’s worth a shot.
+* Try changing your avatar, profile picture, and nickname. This can throw people off the track or confuse them for a while.
+* Control yourself and try not to tell anyone that you are leaving.
+* And now it’s time for the discreet farewell!
+
+You might still get some texts on personal asking about your exit. This is not a surefire way of making your exit a secret. However, hundreds of members along with bots will make your disappearance less apparent. Another solution would be to create a new user ID and leave the old one inactive.
+
+1. Does leaving a Discord server delete your messages?
+
+No, none of the texts that you sent on the server get deleted. Every text remains, even after you leave. The only way you can delete your texts if you delete them all one by one, or someone with sufficient permissions deletes them. If you get banned, then the member who banned you decides whether to keep your messages on the server or remove them. In this case, your texts can be removed if the member deletes them.
+
+This was a guide on ‘**how to leave a Discord server’** that provided a detailed how-to on leaving servers and transferring servers.
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -520,8 +534,6 @@ Follow @Richard Bennett
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -530,8 +542,21 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-bestdiscords-ultimate-guide-to-popular-themes/"><u>[New] 2024 Approved BestDiscord's Ultimate Guide to Popular Themes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-film-at-a-leisurely-pace-with-your-iphone/"><u>[New] Film at a Leisurely Pace with Your iPhone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-cutting-edge-tools-for-igtv-content-creation-and-editing/"><u>[New] In 2024, Cutting-Edge Tools for IGTV Content Creation and Editing</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-steps-for-a-smooth-departure-in-online-gatherings/"><u>[New] In 2024, Steps for a Smooth Departure in Online Gatherings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-seamless-connections-spotify-to-youtube-music-conversion/"><u>[Updated] 2024 Approved Creating Seamless Connections Spotify to YouTube Music Conversion</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-fixing-full-screen-failure-in-obs/"><u>[Updated] 2024 Approved Fixing Full Screen Failure in Obs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-illumination-strategies-for-filming/"><u>[Updated] In 2024, Essential Illumination Strategies for Filming</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-screen-spectrum-your-gateway-to-gameplay/"><u>2024 Approved Screen Spectrum Your Gateway to Gameplay</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-real-time-display-updates-for-win-11-task-tracker/"><u>Improve Real-Time Display Updates for Win 11 Task Tracker</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-key-strategies-for-efficient-screenshare-experience-with-discord/"><u>In 2024, Key Strategies for Efficient Screenshare Experience with Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-unveiling-methods-to-easily-find-lesser-known-discord-servers/"><u>In 2024, Unveiling Methods to Easily Find Lesser-Known Discord Servers</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-file-management-engage-checkboxes-in-win11-files/"><u>Perfecting File Management: Engage Checkboxes in Win11 Files</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/securing-your-digital-footprint-when-leaving-discord-for-2024/"><u>Securing Your Digital Footprint When Leaving Discord for 2024</u></a></li>
+</ul></div>
 

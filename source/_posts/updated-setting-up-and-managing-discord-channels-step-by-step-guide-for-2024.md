@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Setting Up and Managing Discord Channels  Step-by-Step Guide for 2024\""
-date: 2024-07-29T00:59:20.717Z
-updated: 2024-07-30T00:59:20.717Z
+date: 2024-10-11T01:56:33.482Z
+updated: 2024-10-18T10:53:50.449Z
 tags:
   - ai video
   - ai discord
@@ -37,17 +37,10 @@ For your assistance, this article will instantly address how to live **stream on
 
 Discord provides excellent flexibility to users by providing high-quality audio services with no background noise. Even if your friends are in different parts of the world, you can chat with them smoothly. You can create private and public servers in Discord to communicate with people having similar interests.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![discord interface](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-1.jpg)
 
 Along with using Discord Voice and Text chat features, you can live stream your gameplays. The live streaming on Discord won't be a public show, as it will only be confined to your selected server. Through this, you can ask your friends for assistance while playing games. Moreover, Discord is also capable of capturing other screens. Hence, it’s a great platform for professionals, game lovers, and other individuals to communicate efficiently.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Prerequisites for Stream on Discord
 
 Many social media platforms put restrictions on users for live streaming. Some platforms require you to have a specific number of followers in order to conduct live streaming. However, in Discord, you don’t have to worry about such restrictions. By creating a server and channel on Discord, you can easily go for live streaming. Check the below prerequisites for performing a **live stream on Discord**:
@@ -56,9 +49,6 @@ Many social media platforms put restrictions on users for live streaming. Some p
 
 Step1 Open your Discord and hit the “Plus” icon given on the left side. It will open a small menu where you can select a template to start or create your own server.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the server template](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-2.jpg)
 
 Step2 If you want to create your server, click "Create My Own." Now select the type of server you want to create. Once done, create the server name and click the "Create" button.
@@ -71,9 +61,23 @@ Step1 To create a Discord channel, open any of your servers from the left side. 
 
 ![tap on the plus icon](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 You can either create a “Text” channel or a “Voice” channel. After choosing the channel type, create a channel name. You can also enable the “Private Channel” option to create a private channel. Once done, click on the “Create Channel” button.
 
 ![adjust the channel settings](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Stream Videos on Discord
 
@@ -81,17 +85,18 @@ Once you have created a server and channel, you can begin your live streaming. D
 
 Step1 Open Discord and navigate to your desired server. Now proceed to your voice channel and click on the “Share Your Screen” button given below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on share icon](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-6.jpg)
 
 Step2 Select the screen you want to stream in the "Applications" tab. From the new menu, you can adjust the stream quality, such as resolution and frame rate. After adjusting the live streaming settings, click on the "Go Live" button.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press the go live button](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to Stream your Webcam on Discord
 
@@ -99,17 +104,10 @@ Do you want to give a tutorial session through your webcam? Through live webcam 
 
 Step1 Once you have opened a server on Discord, go to your Voice channel. From there, tap on the “Camera” icon above your username.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![choose the webcam option](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-8.jpg)
 
 Step2 It will open a new screen through which you can start an activity or share your screen. Moreover, you can also invite others to join your webcam streaming. Once done with your activities, click on the “Red” button to disconnect.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![webcam live streaming activated](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-9.jpg)
 
 ## Part 5: How to Change the Shared Screen on Discord
@@ -118,9 +116,6 @@ Do you want to change a shared screen on Discord? If you want to open a presenta
 
 Step1 If you are live streaming your shared screen, you can instantly change windows on Discord. For this, click on the “Gear” icon on your live streaming screen to open settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on gear icon](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-10.jpg)
 
 Step2 From the settings menu, click on "Change Windows." Now select the screen that you want to change. After choosing the required screen, hit on the "Go Live" button.
@@ -133,9 +128,6 @@ Discord has the same operating systems on Android and iOS devices. That’s why 
 
 Step1 Open Discord on your mobile and select the desired server. Now choose the voice channel through which you want to **live stream Discord**.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access your voice channel](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-12.jpg)
 
 Step2 Now tap "Join Voice" to initiate live streaming. Here, you can turn on your camera and share the screen. You can also mute your voice from the given options. Once done with live streaming, tap on the “Red” button.
@@ -144,9 +136,6 @@ Step2 Now tap "Join Voice" to initiate live streaming. Here, you can turn on you
 
 ## Part 7: FAQs about the live stream on Discord
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. How many people can watch my Discord live simultaneously?
 
 During the pandemic, up to 50 people were able to join live streaming on Discord. Normally, 25 people can watch live streaming on Discord simultaneously.
@@ -199,33 +188,18 @@ Step1 Open your Discord and hit the “Plus” icon given on the left side. It w
 
 Step2 If you want to create your server, click "Create My Own." Now select the type of server you want to create. Once done, create the server name and click the "Create" button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![choose the type of server](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Create your Discord Channel
 
 Step1 To create a Discord channel, open any of your servers from the left side. Now tap on the "Plus" icon adjacent to "Voice Channels."
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on the plus icon](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-4.jpg)
 
 Step2 You can either create a “Text” channel or a “Voice” channel. After choosing the channel type, create a channel name. You can also enable the “Private Channel” option to create a private channel. Once done, click on the “Create Channel” button.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adjust the channel settings](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to Stream Videos on Discord
 
 Once you have created a server and channel, you can begin your live streaming. Discord provides you with an option through which you can stream your videos instantly. To know the process, check the below steps:
@@ -236,30 +210,25 @@ Step1 Open Discord and navigate to your desired server. Now proceed to your voic
 
 Step2 Select the screen you want to stream in the "Applications" tab. From the new menu, you can adjust the stream quality, such as resolution and frame rate. After adjusting the live streaming settings, click on the "Go Live" button.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press the go live button](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to Stream your Webcam on Discord
 
 Do you want to give a tutorial session through your webcam? Through live webcam streaming, you can demonstrate a particular product while giving facial expressions. Using Discord, you can stream your webcam with a single click.
 
 Step1 Once you have opened a server on Discord, go to your Voice channel. From there, tap on the “Camera” icon above your username.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![choose the webcam option](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 It will open a new screen through which you can start an activity or share your screen. Moreover, you can also invite others to join your webcam streaming. Once done with your activities, click on the “Red” button to disconnect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![webcam live streaming activated](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-9.jpg)
 
 ## Part 5: How to Change the Shared Screen on Discord
@@ -272,14 +241,8 @@ Step1 If you are live streaming your shared screen, you can instantly change win
 
 Step2 From the settings menu, click on "Change Windows." Now select the screen that you want to change. After choosing the required screen, hit on the "Go Live" button.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select change windows option](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6: How to Stream Discord on my Mobile Phone?
 
 Discord has the same operating systems on Android and iOS devices. That’s why the steps to **stream on** **Discord** on both these devices are the same.
@@ -290,21 +253,10 @@ Step1 Open Discord on your mobile and select the desired server. Now choose the 
 
 Step2 Now tap "Join Voice" to initiate live streaming. Here, you can turn on your camera and share the screen. You can also mute your voice from the given options. Once done with live streaming, tap on the “Red” button.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![access your voice channel](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Part 7: FAQs about the live stream on Discord
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### 1\. How many people can watch my Discord live simultaneously?
 
 During the pandemic, up to 50 people were able to join live streaming on Discord. Normally, 25 people can watch live streaming on Discord simultaneously.
@@ -325,14 +277,8 @@ To save and edit your live stream sessions, we will highly recommend you the scr
 
 Using this screen recorder, you can capture your desired area during live streaming. Once you capture your live-streaming session, you can edit it on this platform. Using the editing tool of Filmora, you can cut, crop, resize, and modify your screen recording efficiently.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora screen recorder settings](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Have you ever **streamed on Discord** before? Discord is a great communication platform that provides advanced features. With its vast flexibility, you can create private servers and channels. This article can guide you to learn how to **go live on Discord**. We have also suggested Wondershare Filmora, which can help you to screen record and edit your live streaming sessions on Discord.
@@ -357,9 +303,6 @@ Have you ever **streamed on Discord** before? Discord is a great communication p
 
 # How to Delete Discord Server?
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -396,16 +339,10 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Once you select the server, there will be an options list under the server's name
 3. Click the "server setting" button from the menu (This will be the second option on the list)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
 
 1. At the end of the sidebar, you will find the option "delete the server on the left side." Click it
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![ Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
 
 **Image**: _The image shows the screen that pops up after clicking "Server settings," here, the delete button can be seen in red._
@@ -414,10 +351,14 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Confirm by entering the server's name and authentication code; this is only required when two-factor authentication is enabled
 3. Click on "delete server" to confirm
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Image:** _As mentioned, you must be sure you want to permanently lose a server and all of its content before deleting it; this prompt serves the same purpose_
 
@@ -450,9 +391,6 @@ It is nothing but a formality; choosing to ignore it or answer it will not affec
 
 You can choose from pre-decided answers as well, and to give you an example, one of the options is: "I couldn't get people to join."
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How Do I Delete A Discord Server Without Ownership?
 
 Previously you could delete your Discord server using a BOT. Anyone who had permission to use the command/action within BOT could also delete the server. However, now only the server owner and the Discord trust and safety team can delete a server.
@@ -499,9 +437,6 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Once you select the server, there will be an options list under the server's name
 3. Click the "server setting" button from the menu (This will be the second option on the list)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![ Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
 
 1. At the end of the sidebar, you will find the option "delete the server on the left side." Click it
@@ -514,113 +449,6 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Confirm by entering the server's name and authentication code; this is only required when two-factor authentication is enabled
 3. Click on "delete server" to confirm
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![ Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
-
-**Image:** _As mentioned, you must be sure you want to permanently lose a server and all of its content before deleting it; this prompt serves the same purpose_
-
-You can also transfer your server's ownership to another individual if you do not want to delete it. To do this:
-
-1. Open server settings and then select "Members" in the left sidebar
-2. A list of every server member will open, hover over the person's name that you want to transfer ownership to, and then click the three dots appearing on the right
-
-transfer-ownership-on-discord-server.jpg
-
-1. Select "Transfer Ownership" and then confirm the transfer.
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![confirm discord server ownership transfer](https://images.wondershare.com/filmora/article-images/confirm-transfer-ownership.jpg)
-
-## How to Delete A Server On Discord Via The Mobile App?
-
-Suppose you do not want to go through the hassle of logging on to the desktop app. In that case, you have the option of deleting your Discord server via the mobile app quickly.
-
-Here are some easy to follow steps on **how to delete Discord server** using the mobile app:
-
-1. Open the Discord app on your Android device or iPhone and then tap the hamburger settings icon on the top-left
-2. Search for the server you wish to delete, and then long-press the icon of the server you chose
-3. A mini option bar will pop up; here, you must click on "More Options" and then the server options will slide up on your screen; click on "Settings" to continue.
-4. This will take you to the control panel; here, click on the three-dotted settings on the top right
-5. Now you will be provided only one option: "Delete (server name)." Click on it
-
-At this point, in the **how to delete server on Discord** process, Discord will ask you why you chose to delete the server as part of their customer experience surveys.
-
-It is nothing but a formality; choosing to ignore it or answer it will not affect the process's outcome.
-
-You can choose from pre-decided answers as well, and to give you an example, one of the options is: "I couldn't get people to join."
-
-### How Do I Delete A Discord Server Without Ownership?
-
-Previously you could delete your Discord server using a BOT. Anyone who had permission to use the command/action within BOT could also delete the server. However, now only the server owner and the Discord trust and safety team can delete a server.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Discord servers are made and designed to help gamers – and now work colleagues – communicate and coordinate via private rooms.
-
-As a communication app, it offers permanent servers for people who are working on the same project, playing the same game, or even if they're part of the same family!
-
-However, you may have to someday delete a server you own.
-
-Today we will discuss **how to delete Discord server** or deleting the Discord server of someone who has passed away:
-
-## Part 1: How to Delete Discord Server Permanently on A Desktop?
-
-If you're familiar with Discord, you will know that there will come a time that you no longer need a server: it may be because you've resigned from your workplace or stopped playing a game.
-
-If you are looking into **how to delete your Discord server**, you came to the right place. Even though Discord makes communication easier, you may need a break from around-the-clock connectivity for various reasons.
-
-Discord works on desktop platforms and smartphones, with a blend of a VoIP chat system, a chat lobby, and a message board in a single app. Therefore, you can attempt to delete a server off on any device that you may have Discord downloaded and active on.
-
-Most server owners choose to delete their Discord server when too many extra, strange, or ill-meaning visitors are visiting.
-
-Servers are more like chat rooms inside the application. Deleting them is a relatively simple process – as you will learn from our **how to delete server on Discord** tips – however, their retrieval is impossible.
-
-Once the server has been removed, you can not "undo the process" or recreate it. Therefore, be absolutely sure and proceed with caution.
-
-It is also advised to skim through any essential files that you might have on the server. Back them up before letting it go forever.
-
-And lastly, ensure that this is what you intend on doing because deleting a Discord server is permanent. Here are the simple steps to follow on **how to delete a server on Discord**:
-
-1. Open the Discord desktop app and click on the server you want to delete
-2. Once you select the server, there will be an options list under the server's name
-3. Click the "server setting" button from the menu (This will be the second option on the list)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
-![ Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
-
-1. At the end of the sidebar, you will find the option "delete the server on the left side." Click it
-
-![ Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
-
-**Image**: _The image shows the screen that pops up after clicking "Server settings," here, the delete button can be seen in red._
-
-1. After clicking, a pop-up window will appear, asking for confirmation
-2. Confirm by entering the server's name and authentication code; this is only required when two-factor authentication is enabled
-3. Click on "delete server" to confirm
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
 
 **Image:** _As mentioned, you must be sure you want to permanently lose a server and all of its content before deleting it; this prompt serves the same purpose_
@@ -700,23 +528,18 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Once you select the server, there will be an options list under the server's name
 3. Click the "server setting" button from the menu (This will be the second option on the list)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
 
 1. At the end of the sidebar, you will find the option "delete the server on the left side." Click it
 
 ![ Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Image**: _The image shows the screen that pops up after clicking "Server settings," here, the delete button can be seen in red._
 
@@ -724,10 +547,14 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Confirm by entering the server's name and authentication code; this is only required when two-factor authentication is enabled
 3. Click on "delete server" to confirm
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![ Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Image:** _As mentioned, you must be sure you want to permanently lose a server and all of its content before deleting it; this prompt serves the same purpose_
 
@@ -740,10 +567,6 @@ transfer-ownership-on-discord-server.jpg
 
 1. Select "Transfer Ownership" and then confirm the transfer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![confirm discord server ownership transfer](https://images.wondershare.com/filmora/article-images/confirm-transfer-ownership.jpg)
 
 ## How to Delete A Server On Discord Via The Mobile App?
@@ -764,9 +587,104 @@ It is nothing but a formality; choosing to ignore it or answer it will not affec
 
 You can choose from pre-decided answers as well, and to give you an example, one of the options is: "I couldn't get people to join."
 
+### How Do I Delete A Discord Server Without Ownership?
+
+Previously you could delete your Discord server using a BOT. Anyone who had permission to use the command/action within BOT could also delete the server. However, now only the server owner and the Discord trust and safety team can delete a server.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Discord servers are made and designed to help gamers – and now work colleagues – communicate and coordinate via private rooms.
+
+As a communication app, it offers permanent servers for people who are working on the same project, playing the same game, or even if they're part of the same family!
+
+However, you may have to someday delete a server you own.
+
+Today we will discuss **how to delete Discord server** or deleting the Discord server of someone who has passed away:
+
+## Part 1: How to Delete Discord Server Permanently on A Desktop?
+
+If you're familiar with Discord, you will know that there will come a time that you no longer need a server: it may be because you've resigned from your workplace or stopped playing a game.
+
+If you are looking into **how to delete your Discord server**, you came to the right place. Even though Discord makes communication easier, you may need a break from around-the-clock connectivity for various reasons.
+
+Discord works on desktop platforms and smartphones, with a blend of a VoIP chat system, a chat lobby, and a message board in a single app. Therefore, you can attempt to delete a server off on any device that you may have Discord downloaded and active on.
+
+Most server owners choose to delete their Discord server when too many extra, strange, or ill-meaning visitors are visiting.
+
+Servers are more like chat rooms inside the application. Deleting them is a relatively simple process – as you will learn from our **how to delete server on Discord** tips – however, their retrieval is impossible.
+
+Once the server has been removed, you can not "undo the process" or recreate it. Therefore, be absolutely sure and proceed with caution.
+
+It is also advised to skim through any essential files that you might have on the server. Back them up before letting it go forever.
+
+And lastly, ensure that this is what you intend on doing because deleting a Discord server is permanent. Here are the simple steps to follow on **how to delete a server on Discord**:
+
+1. Open the Discord desktop app and click on the server you want to delete
+2. Once you select the server, there will be an options list under the server's name
+3. Click the "server setting" button from the menu (This will be the second option on the list)
+
+![ Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
+
+1. At the end of the sidebar, you will find the option "delete the server on the left side." Click it
+
+![ Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
+
+**Image**: _The image shows the screen that pops up after clicking "Server settings," here, the delete button can be seen in red._
+
+1. After clicking, a pop-up window will appear, asking for confirmation
+2. Confirm by entering the server's name and authentication code; this is only required when two-factor authentication is enabled
+3. Click on "delete server" to confirm
+
+![ Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
+
+**Image:** _As mentioned, you must be sure you want to permanently lose a server and all of its content before deleting it; this prompt serves the same purpose_
+
+You can also transfer your server's ownership to another individual if you do not want to delete it. To do this:
+
+1. Open server settings and then select "Members" in the left sidebar
+2. A list of every server member will open, hover over the person's name that you want to transfer ownership to, and then click the three dots appearing on the right
+
+transfer-ownership-on-discord-server.jpg
+
+1. Select "Transfer Ownership" and then confirm the transfer.
+
+![confirm discord server ownership transfer](https://images.wondershare.com/filmora/article-images/confirm-transfer-ownership.jpg)
+
+## How to Delete A Server On Discord Via The Mobile App?
+
+Suppose you do not want to go through the hassle of logging on to the desktop app. In that case, you have the option of deleting your Discord server via the mobile app quickly.
+
+Here are some easy to follow steps on **how to delete Discord server** using the mobile app:
+
+1. Open the Discord app on your Android device or iPhone and then tap the hamburger settings icon on the top-left
+2. Search for the server you wish to delete, and then long-press the icon of the server you chose
+3. A mini option bar will pop up; here, you must click on "More Options" and then the server options will slide up on your screen; click on "Settings" to continue.
+4. This will take you to the control panel; here, click on the three-dotted settings on the top right
+5. Now you will be provided only one option: "Delete (server name)." Click on it
+
+At this point, in the **how to delete server on Discord** process, Discord will ask you why you chose to delete the server as part of their customer experience surveys.
+
+It is nothing but a formality; choosing to ignore it or answer it will not affect the process's outcome.
+
+You can choose from pre-decided answers as well, and to give you an example, one of the options is: "I couldn't get people to join."
+
 ### How Do I Delete A Discord Server Without Ownership?
 
 Previously you could delete your Discord server using a BOT. Anyone who had permission to use the command/action within BOT could also delete the server. However, now only the server owner and the Discord trust and safety team can delete a server.
@@ -792,8 +710,21 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-how-to-delete-discord-server/"><u>[New] How to Delete Discord Server?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-20-racing-games-for-bicyclists/"><u>[New] In 2024, Top 20 Racing Games for Bicyclists</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-premium-automated-communicators-discord-for-2024/"><u>[New] Premium Automated Communicators Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unplugging-the-servers-deleting-discord-on-devices-for-2024/"><u>[New] Unplugging the Servers Deleting Discord on Devices for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-ultimate-discord-call-blueprint-for-pcstablets/"><u>2024 Approved The Ultimate Discord Call Blueprint for PCs/Tablets</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-asus-rog-phone-8-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Asus ROG Phone 8 FRP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-trust-4k-video-downloader-for-hd-content-conversion/"><u>Can You Trust 4K Video Downloader for HD Content Conversion?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-started-with-openais-newest-offering-the-personalized-gpt-hub-secure-your-spot-today/"><u>Get Started with OpenAI's Newest Offering: The Personalized GPT Hub - Secure Your Spot Today</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-flavor-of-fun-explore-the-10-top-themes-at-betterdiscord/"><u>In 2024, Flavor of Fun Explore the 10 Top Themes at BetterDiscord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-streamlining-the-process-of-removing-a-discord-server/"><u>In 2024, Streamlining the Process of Removing a Discord Server</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-zero-30-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Zero 30 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-xiaomi-redmi-13c-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Xiaomi Redmi 13C 5G Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-samsungs-image-editing-software-insights-for-2024/"><u>Unveiling Samsung's Image Editing Software Insights for 2024</u></a></li>
+</ul></div>
 

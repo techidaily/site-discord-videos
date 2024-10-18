@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Erase Thousands of Messages in Just a Few Clicks on Discord"
-date: 2024-10-05T18:11:11.873Z
-updated: 2024-10-06T19:15:16.164Z
+date: 2024-10-16T23:32:02.187Z
+updated: 2024-10-18T00:42:17.967Z
 tags:
   - ai video
   - ai discord
@@ -58,13 +58,6 @@ However, this was soon changed because the mass execution directly affected the 
 
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Why your video editing isn't good enough? How about some creative inspo?
 
 * 100 Million+ Users
@@ -82,6 +75,13 @@ However, this was soon changed because the mass execution directly affected the 
 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Delete Direct Messages on Discord
 
 If you use Discord on your desktop computer, this section will discuss the steps to follow to delete your direct messages.
@@ -98,13 +98,6 @@ You can delete the local copy of messages by following the steps below:
 
 ![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
 1. Open the Discord app on your smartphone
@@ -113,6 +106,13 @@ The procedure for deleting DMs from your Discord smartphone application applies 
 4. Tap 'Delete' on that list
 5. Confirm your decision by tapping 'Delete' once again
 6. The message will be deleted
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Delete Channel Messages in Discord?
 
@@ -135,13 +135,6 @@ Here is a more detailed breakdown of the sequence:
 8. Your message will be deleted
 
 At first glance, it seems like a long and tedious process, but once you get down to doing it and develop a rhythm, it is an easy task.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Deleting Message with Discord Clear Chat Bot
 
@@ -168,6 +161,13 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 ![how to delete discord message with mee6 bot](https://images.wondershare.com/filmora/article-images/select-server-to-add-mee6-bot-discord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Click Authorize again and the bot will be added to your Discord server soon;
 2. To enable MEE6 to clear the chat, you should enable the Moderator plugin first. Click the Moderator option under Plugins first, and then click Yes.
 
@@ -178,19 +178,19 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 ![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 5: How to Clear All Chats and Delete All Messages In Discord?
@@ -281,19 +281,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unlock-the-potential-of-your-facebook-lives/"><u>[New] 2024 Approved Unlock the Potential of Your Facebook Lives</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-elevating-your-presence-a-guide-to-discord-broadcasts/"><u>[New] In 2024, Elevating Your Presence A Guide to Discord Broadcasts</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-navigating-discord-live-a-users-blueprint-for-2024/"><u>[New] Navigating Discord Live A User's Blueprint for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-7-creative-video-concepts-to-boost-your-fitness-channel/"><u>[Updated] 7 Creative Video Concepts to Boost Your Fitness Channel</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-discover-the-hottest-channel-names-for-recognition/"><u>[Updated] In 2024, Discover the Hottest Channel Names for Recognition</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-from-anonymity-to-authority-the-essential-pathway-for-raising-issues-on-digital-platforms-like-discord/"><u>[Updated] In 2024, From Anonymity to Authority The Essential Pathway for Raising Issues on Digital Platforms Like Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-navigating-discord-live-a-users-blueprint/"><u>[Updated] Navigating Discord Live A User's Blueprint</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amazfit-helio-ring-specs-release-timeline-and-price-breakdown-explained/"><u>Amazfit Helio Ring Specs, Release Timeline, and Price Breakdown Explained</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/generative-ai-risks-on-the-rise-discover-the-8-key-causes-of-increasing-security-challenges/"><u>Generative AI Risks on the Rise: Discover the 8 Key Causes of Increasing Security Challenges</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-xiaomi-redmi-a2-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Xiaomi Redmi A2 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme GT 5? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/italian-dialogues-for-the-discerning-tourist/"><u>Italian Dialogues for the Discerning Tourist</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-route-from-obs-broadcast-to-fb-channels/"><u>The Ultimate Route From OBS Broadcast to FB Channels</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unleash-the-power-of-expression-emojis-in-your-discord-statues-for-2024/"><u>Unleash the Power of Expression Emojis in Your Discord Statues for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-identifying-the-ideal-team-chat-app-slack-or-discord-revealed/"><u>[Updated] 2024 Approved Identifying the Ideal Team Chat App Slack or Discord Revealed</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-customizing-your-discord-avatar/"><u>[Updated] 2024 Approved The Ultimate Guide to Customizing Your Discord Avatar</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-troubleshooting-a-non-functional-obs-capture-device/"><u>[Updated] 2024 Approved Troubleshooting a Non-Functional OBS Capture Device</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-8-free-emoji-websites-to-download-discord-animated-emojis/"><u>[Updated] 8 FREE Emoji Websites to Download Discord Animated Emojis</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-examining-workplace-messaging-platforms-is-team-efficiency-favored-by-slack-over-discord-for-2024/"><u>[Updated] Examining Workplace Messaging Platforms Is Team Efficiency Favored by Slack over Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-pin-a-message-on-discord-for-2024/"><u>[Updated] How to Pin A Message on Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-best-on-the-go-discord-video-recorder-apps/"><u>[Updated] In 2024, Best On-the-Go Discord Video Recorder Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-aerial-cinematography-drone-editing-insights/"><u>[Updated] The Art of Aerial Cinematography Drone Editing Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-honor-90-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Honor 90</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-spark-10-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Spark 10 5G Device</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oneplus-11-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on OnePlus 11 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-troubleshooting-enable-and-watch-mp4-files-on-an-lg-smart-tv/"><u>Step-by-Step Troubleshooting: Enable and Watch MP4 Files on an LG Smart TV</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-2023-guide-to-enhancing-audio-on-discord-top-plugins-reviewed/"><u>The Ultimate 2023 Guide to Enhancing Audio on Discord - Top Plugins Reviewed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-tactics-for-time-strapped-youtubers/"><u>Trimming Tactics for Time-Strapped YouTubers</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ultimate-guide-upgrading-your-videos-from-standard-to-crystal-clear-hd4k-on-pc-and-mac/"><u>Ultimate Guide: Upgrading Your Videos From Standard to Crystal-Clear HD/4K on PC & Mac</u></a></li>
 </ul></div>
 

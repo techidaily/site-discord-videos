@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Resolving 'Could Not Retrieve Directory Information' Errors on Kodi Devices
-date: 2024-10-07T16:34:58.028Z
-updated: 2024-10-11T17:51:38.229Z
+date: 2024-10-10T23:34:43.052Z
+updated: 2024-10-18T02:39:12.671Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/428d79f8e22b19bf05f42dd0977639aed1e84dacf346522fdfb1811e179afc16.jpg
@@ -29,18 +29,18 @@ In this article, you’ll learn different video converters to convert MPEG video
 
 MPEG is an alliance of working groups that set standards for media compression. A file with the .mpeg or .mpg extension is generally compressed by MPEG-1 or MPEG-2\. Although MP4 is part of the MPEG-4 video system, it uses more advanced video codecs like H264/H265/MPEG4 that deliver higher compression efficiency than MPEG-1 and MPEG-2\. MP4 files are smaller than MPEG and compatible with more devices and software. After converting MPEG to MP4, you can watch the converted videos on most of your players without any limit.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Handy MPEG to MP4 Converter
 
 WonderFox HD Video Converter Factory Pro helps you convert from MPEG to MP4, AVI, WMV, MOV, MKV, and other formats & devices. It also enables you to extract audio from MPEG videos simply. Try it now!
 
 [Free Download Compatible with Windows 11/10/8.1/8/7/... 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [Free Download Compatible with Windows 11/10/8.1/8/7/... 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Convert MPEG to MP4 Easily on Windows 10/11?
 
@@ -60,6 +60,13 @@ Open the MPEG to MP4 converter on your computer. Then choose **Converter** to en
 
 ![Load MPEG Files](https://www.videoconverterfactory.com/tips/imgs-self/converting-mpeg-to-mp4/converting-mpeg-to-mp4-1.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2\. Choose MP4
 
 Click on the format image to select the output format. In the profile list, go ahead to **MP4** under the **Video** category.
@@ -68,6 +75,13 @@ _Optional. Under the format image lies a **Parameter settings** section, where y
 
 ![Output Settings](https://www.videoconverterfactory.com/tips/imgs-self/converting-mpeg-to-mp4/converting-mpeg-to-mp4-2.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3\. Convert MPEG to MP4
 
 Click the inverted triangle button at the bottom to define an output path. Then press Run to start converting MPEG to MP4 immediately.
@@ -75,20 +89,13 @@ Click the inverted triangle button at the bottom to define an output path. Then 
 ![Convert MPEG to MP4 Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/converting-mpeg-to-mp4/converting-mpeg-to-mp4-3.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hot search: [Compress MPG/MPEG Video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) | [Reduce MP4 File Size](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) | [Top 5 Batch Video Converters](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best Video Converter for PC
 
@@ -97,10 +104,16 @@ WonderFox HD Video Converter Factory Pro can perform the conversion between vari
 [Free Download Compatible with Windows 11/10/8.1/8/7/... 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [Free Download Compatible with Windows 11/10/8.1/8/7/... 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Convert MPEG to MP4 on Mac with VLC?
@@ -116,26 +129,6 @@ VLC is a multimedia player that can not only play audio/video smoothly but also 
 4\. Click **Browse** to set a destination file > press **Start**.
 
 ![VLC MPEG to MP4 Converter](https://www.videoconverterfactory.com/tips/imgs-self/converting-mpeg-to-mp4/converting-mpeg-to-mp4-4.webp) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Change MPEG to MP4 Online?
 
@@ -154,10 +147,10 @@ video-converter is a reliable [online video conversion](https://tools.techidaily
 ![MPEG to MP4 Online Free](https://www.videoconverterfactory.com/tips/imgs-self/converting-mpeg-to-mp4/converting-mpeg-to-mp4-5.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Convert MPEG Video to MP4 on Mobile?
@@ -171,10 +164,10 @@ If you just want to convert your MPEG videos to MP4 on your mobile phone directl
 ![MPEG to MP4 on Android](https://www.videoconverterfactory.com/tips/imgs-self/converting-mpeg-to-mp4/converting-mpeg-to-mp4-6.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. The Video Converter for iPhone
@@ -182,6 +175,13 @@ If you just want to convert your MPEG videos to MP4 on your mobile phone directl
 [**The Video Converter**](https://apps.apple.com/us/app/the-video-converter/id893347665) is a good option for you to convert MPEG to MP4 on iPhone and iPad. With the wide format supports, you can convert from dozens of video and audio formats and it supports many popular output formats. After the conversion, you can immediately AirDrop your files to your Mac or other Apple devices.
 
 ![MPEG to MP4 on iPhone](https://www.videoconverterfactory.com/tips/imgs-self/converting-mpeg-to-mp4/converting-mpeg-to-mp4-7.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## At Last…
 
@@ -208,22 +208,22 @@ That’s all for how to convert from MPEG to MP4 on Windows, Mac, online, Androi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-how-to-turn-off-a-discord-server-device-wise/"><u>[New] 2024 Approved How to Turn Off a Discord Server Device-Wise</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-step-by-step-manual-altering-your-users-status-in-discord/"><u>[New] 2024 Approved Step-by-Step Manual Altering Your User's Status in Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unlocking-the-power-of-discord-spoiler-labels/"><u>[New] 2024 Approved Unlocking the Power of Discord Spoiler Labels</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-mastering-multitasking-running-conversations-and-screenshots-for-2024/"><u>[New] Mastering Multitasking Running Conversations & Screenshots for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-streamline-your-podcasts-effective-editing-tips-for-garageband-users-for-2024/"><u>[New] Streamline Your Podcasts Effective Editing Tips for GarageBand Users for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-collection-of-sandbox-game-picks-for-2024/"><u>[New] The Ultimate Collection of Sandbox Game Picks for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-enhance-your-chat-with-direct-spotify-streaming-in-discord/"><u>[Updated] In 2024, Enhance Your Chat with Direct Spotify Streaming in Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-the-delicate-process-of-unjoining-discords/"><u>2024 Approved The Delicate Process of Unjoining Discords</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/activate-your-free-macx-mediatrans-license-register-now-with-easy-to-find-serial-key/"><u>Activate Your Free MacX MediaTrans License: Register Now with Easy-to-Find Serial Key</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/become-a-pro-at-live-streaming-on-discord-with-our-simple-steps-for-2024/"><u>Become a Pro at Live Streaming on Discord with Our Simple Steps for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-s24-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy S24?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-ai-conversations-what-sets-claude-pro-apart-from-chatgpt-plus/"><u>Decoding AI Conversations: What Sets Claude Pro Apart From ChatGPT Plus?</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/expert-review-of-the-jabra-evolve2-75-communication-setup-ideal-for-hybrid-workspaces-with-advanced-anc-and-all-day-talking-capacity-tech-insights-by-zdnet.129/"><u>Expert Review of the Jabra Evolve2 75 Communication Setup – Ideal for Hybrid Workspaces with Advanced ANC and All-Day Talking Capacity | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-humor-hacks-a-compendium-of-top-meme-makers/"><u>In 2024, Humor Hacks A Compendium of Top Meme Makers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-mastering-attention-grabbers-top-30-discord-titles/"><u>In 2024, Mastering Attention-Grabbers Top 30 Discord Titles</u></a></li>
-<li><a href="https://discover-help.techidaily.com/verbesserung-der-videobearbeitungsqualitat-auf-windows-und-mac-von-hd-bis-zu-4k/"><u>Verbesserung Der Videobearbeitungsqualität Auf Windows Und Mac - Von HD Bis Zu 4K</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-theme-wizards-at-work-bestdiscords-top-picks/"><u>[New] 2024 Approved Theme Wizards at Work BestDiscord’s Top Picks</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-top-10-discord-dating-communities-unveiled/"><u>[New] In 2024, Top 10 Discord Dating Communities Unveiled</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-audio-capture-from-facetime-chats-for-2024/"><u>[New] Mastering Audio Capture From FaceTime Chats for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-pixizs-tools-for-photo-video-craftsmanship/"><u>[New] Navigating Pixiz's Tools for Photo-Video Craftsmanship</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-discord-broadcasting-step-by-step-techniques-for-seamless-sessions/"><u>[Updated] 2024 Approved Discord Broadcasting Step-by-Step Techniques for Seamless Sessions</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discords-top-10-where-to-date-and-love/"><u>[Updated] Discord's Top 10 Where to Date and Love</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-discord-spoiler-tag-all-you-need-to-know/"><u>[Updated] In 2024, Discord Spoiler Tag All You Need to Know</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-immediate-notoriety-coolest-channel-nicknames-uncovered/"><u>[Updated] In 2024, Immediate Notoriety Coolest Channel Nicknames Uncovered</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-10-excellent-web-based-screen-capture-solutions/"><u>2024 Approved 10 Excellent Web-Based Screen Capture Solutions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-monetizing-mastery-comparing-streaming-giants-strategies/"><u>2024 Approved Monetizing Mastery Comparing Streaming Giants' Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimize-collaborative-sessions-zooming-in-on-google-meet-participants/"><u>2024 Approved Optimize Collaborative Sessions Zooming in on Google Meet Participants</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-drones-that-enhance-your-gopro-cinematic-experience-for-2024/"><u>Best Drones That Enhance Your GoPro Cinematic Experience for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-level-up-your-playtime-examining-kinemaster-on-android/"><u>In 2024, Level Up Your Playtime Examining KineMaster on Android</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/integrating-unique-emojis-to-your-discord-profile/"><u>Integrating Unique Emojis to Your Discord Profile</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/magnesium-26-11-011/"><u>Magnesium-26: 11% = 0.11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastering-the-steps-to-shut-down-your-linkdnug-account/"><u>Mastering the Steps to Shut Down Your LinkDnug Account</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/quick-win-strategies-for-replying-on-discord-platforms/"><u>Quick-Win Strategies for Replying on Discord Platforms</u></a></li>
 </ul></div>
 

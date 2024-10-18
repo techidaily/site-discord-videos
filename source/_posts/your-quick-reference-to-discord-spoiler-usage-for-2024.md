@@ -1,7 +1,7 @@
 ---
 title: "Your Quick Reference to Discord Spoiler Usage for 2024"
-date: 2024-10-02T17:10:46.303Z
-updated: 2024-10-06T18:37:51.245Z
+date: 2024-10-15T08:41:13.408Z
+updated: 2024-10-17T22:24:53.205Z
 tags:
   - ai video
   - ai discord
@@ -40,13 +40,6 @@ Thankfully, Discord came out with the perfect solution. Now, if you are sharing 
 
 And now we come to the point - **how to do spoilers on Discord**? Well, there are two ways to do it. You can run through both of them and choose whichever suits you the best. All the methods are simple to follow. Note that some are available only on the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Adding Spoiler Text Via Tag on Discord
 
 We will begin with the tag method. All you have to do is add the spoiler tag on Discord. Here is a quick rundown of the steps –
@@ -58,6 +51,19 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
 ![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
@@ -77,19 +83,26 @@ This alternate method is quite simple. This was a recent update on Discord that 
 ![add spoiler marker on Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-icon.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This method is available only on the Discord desktop app and browser version. For iOS, the steps are similar. The only difference is that you have to select the spoiler mark from the context menu.
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Add Spoiler to Image and Video on Discord?
 
@@ -98,13 +111,6 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
 ![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -131,6 +137,13 @@ You can even mark embedded links as spoilers with the same process. But this doe
 
 For iOS, you can select and highlight the text that you want to hide. Then, tap open the context menu and click on the ‘Mark as Spoiler’ to hide the text.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bonus: How to turn off the Spoiler tag?
 
 For some reason, you may want to remove the spoiler tag from the spoiler texts. In that case, open the User Settings and tap on Text & Images. Scroll down to the Show Spoiler Content tab and you will see options to control when spoiler content is displayed. You can choose to display on click, on servers I moderate, and always.
@@ -138,13 +151,6 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
 ![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
@@ -165,19 +171,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ffmpeg-audio-review-can-ffmpeg-extract-audio-in-original-format/"><u>[New] 2024 Approved FFmpeg Audio Review Can FFmpeg Extract Audio in Original Format</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-discord-broadcasting-the-essential-checklist-for-successful-streaming/"><u>[Updated] 2024 Approved Discord Broadcasting The Essential Checklist for Successful Streaming</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-craftsmanship-at-fingertips-discovering-apples-8-excellent-drawing-apps/"><u>[Updated] Craftsmanship at Fingertips Discovering Apple's 8 Excellent Drawing Apps</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-pinnacle-of-emoji-creation-for-discord-channels-for-2024/"><u>[Updated] The Pinnacle of Emoji Creation for Discord Channels for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-s18e-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo S18e? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-cod-black-ops-cold-war-wont-start-or-run-on-your-computer/"><u>Fix Cod: Black Ops Cold War Won't Start or Run on Your Computer</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-enhancing-mobile-and-desktop-streaming-experience-on-discord/"><u>In 2024, Enhancing Mobile & Desktop Streaming Experience on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-leaving-with-honor-a-disconnect-guide-for-servers/"><u>In 2024, Leaving with Honor A Disconnect Guide for Servers</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-microsoft-flight-simulator-2020s-updates-stuck-dilemma-expert-advice-inside/"><u>Overcome Microsoft Flight Simulator 2020'S Updates Stuck Dilemma - Expert Advice Inside</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/personalizing-your-discord-presence-easily-incorporate-unique-emojis-pcmobile-for-2024/"><u>Personalizing Your Discord Presence Easily Incorporate Unique Emojis (PC/Mobile) for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-htc-u23-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your HTC U23 Pro</u></a></li>
-<li><a href="https://win-web.techidaily.com/steven-ballmer-previously-at-the-helm-of-microsoft-discusses-his-courageous-traits-or-lack-thereof-the-verge/"><u>Steven Ballmer, Previously at the Helm of Microsoft, Discusses His Courageous Traits or Lack Thereof | The Verge</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/unleash-creativity-with-these-5-windows-11-record-methods/"><u>Unleash Creativity with These 5 Windows 11 Record Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expertly-curated-5-best-android-screen-capture-options/"><u>[New] In 2024, Expertly Curated 5 Best Android Screen Capture Options</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-discords-ultimate-romance-hubs/"><u>[Updated] 2024 Approved Discord's Ultimate Romance Hubs</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-efficiently-remove-discord-server-from-pc-and-mobile/"><u>[Updated] 2024 Approved Efficiently Remove Discord Server From PC & Mobile</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-navigating-voice-modding-on-discord-desktop-and-mobile-edition/"><u>[Updated] 2024 Approved Navigating Voice Modding on Discord Desktop & Mobile Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-top-tier-desktop-applications-for-discord-snaps/"><u>[Updated] 2024 Approved Top-Tier Desktop Applications for Discord Snaps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-adventure-in-the-world-of-emojis-top-8-sites-offering-freebies/"><u>[Updated] Adventure in the World of Emojis Top 8 Sites Offering Freebies</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-becoming-a-trusted-voice-on-discord-the-verification-blueprint-for-2024/"><u>[Updated] Becoming a Trusted Voice on Discord The Verification Blueprint for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-from-conflict-to-resolution-an-in-depth-tutorial-on-reporting-users-on-discord-for-2024/"><u>[Updated] From Conflict to Resolution An In-Depth Tutorial on Reporting Users on Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-evaluating-team-communication-tools-does-slack-outshine-discords-benefits/"><u>[Updated] In 2024, Evaluating Team Communication Tools Does Slack Outshine Discord's Benefits?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/become-a-pro-at-sims-4-video-sessions-for-2024/"><u>Become a Pro at Sims 4 Video Sessions for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhance-relationships-using-social-polls-on-whatsapp/"><u>Enhance Relationships Using Social Polls on WhatsApp</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/e-meet-broadcast-simplified-youtube-steps/"><u>Google Meet Broadcast Simplified YouTube Steps</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-reviewing-multiple-cameras-are-there-upgrades/"><u>In 2024, Reviewing Multiple Cameras Are There Upgrades?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixing-no-available-camera-error-on-snapchat/"><u>Resolved: Fixing 'No Available Camera' Error on Snapchat</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-tool-for-4k-video-conversion-download-mp4-files-effortlessly-for-2024/"><u>Top Tool for 4K Video Conversion Download MP4 Files Effortlessly for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winxvideo-ai-4/"><u>Winxvideo AIを使った完全な動画・写真向上ガイド - 専門家が説明する4ページ目</u></a></li>
 </ul></div>
 

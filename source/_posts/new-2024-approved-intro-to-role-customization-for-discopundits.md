@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Intro to Role Customization for DiscoPundits\""
-date: 2024-07-29T00:55:59.992Z
-updated: 2024-07-30T00:55:59.992Z
+date: 2024-10-16T21:42:36.068Z
+updated: 2024-10-23T22:36:05.414Z
 tags:
   - ai video
   - ai discord
@@ -38,9 +38,6 @@ So, let us learn the art of delegation on Discord! This guide will help you with
 * [Part 5: How to Add Roles on Discord Mobile?](#part5)
 * [Part 6: Adding Roles to Discord FAQs](#part6)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Discord Server Permissions You Can Set Up
 
 To give you a heads-up, there are around 29 permissions that you can adjust over a Discord server. More specifically, there are 7 voice permissions, 9 permissions related to texts, and about 13 permissions dealing with the server.
@@ -75,9 +72,6 @@ Manage Nicknames – if enabled, a user can change other’s nicknames.
 
 Kick Members – a user with this authority can remove members from the server.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Text channel permissions
 
 Send Messages – with this; users can send texts on chats.
@@ -98,9 +92,6 @@ Use External Emojis – if enabled, users can send emojis from other servers.
 
 Add Reactions – with this; users can add new reactions to a text.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Voice channel permissions
 
 Connect – enables users to connect themselves over the voice channel.
@@ -123,17 +114,10 @@ this permission allows the user to reduce the volume of other users when this us
 
 Includes the 'Administrator' permission, which by default enables all the permissions to the assigned user.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Part 2: How to Make and Add Roles in Discord on Computer
 
 The desktop app and Browser resemble the mobile apple a lot. The process of assigning roles and configuring members is more or less the same across devices. First, you need to create roles and define their authority before assigning these roles to some members.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to create roles in Discord?
 
 Before you can assign roles, you need a server. Once you have created your Discord server, start crafting the structure.
@@ -147,231 +131,12 @@ Before you can assign roles, you need a server. Once you have created your Disco
 4. When you are done, save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### How to Assign Roles to Members in Discord?
-
-To be able to assign roles, you should first create them
-
-1. Once again, hit that right button on your server and go to server settings.
-2. From the menu that appears to the left, ‘choose members’ under user management.
-3. Here, you will see the list of all the members on your server, tap the Plus sign that is right beside the username.
-4. From the drop-down menu that appears, select a role you want to assign to that member.
-1. You will notice that the color changes as per your settings. And this is how you assign roles to a server.
-
-## Part 3: How to Manage Roles in Discord?
-
-After you learn **how to make roles in Discord**, you might want to manage them.
-
-If you have got the hang of creating roles, then managing them is no different. Whenever the server gets crowded, you can create more roles or modify the existing ones. A smaller server can run smoothly with just an admin and an ‘everyone’ role.
-
-The quickest and easiest way to manage your bloating server is to let all members be ‘everyone’ and adjust permissions accordingly. So, whenever members enter your server, they will automatically be assigned the common role.
-
-Further, you can easily figure out what roles you have assigned to whom. Due to these colors, the other members can identify moderators, admins, or other roles.
-
-## Part 4: How to Delete Roles in Discord?
-
-Honestly, removing Discord roles easier than setting them up. There are hardly a few steps that you need to follow for role removal.
-
-1. place the cursor on the server, and hit the right-click.
-2. From the list, choose server settings. Then click on roles.
-3. From the roles window, tap on the role that you wish to delete.
-1. Towards the bottom, you will see the option to delete the role.
-2. Press ok to confirm.
-
-## Part 5: How to Add Roles on Discord Mobile?
-
-Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
-
-### 1\. How to create roles in Discord mobile app?
-
-Before you can assign roles, you have to create them.
-
-* Open your server.
-* Tap on the arrow beside the server’s title. A drop-down menu will appear. Select ‘server settings’ from that.
-* Tap on 'Roles.' A common role, 'everyone' is assigned to all the members who have basic permissions enabled for everyone.
-* Tap the plus sign and add a role.
-* Give the role a color and describe it in a few words.
-* Go through the permissions and enable the ones that fit the role.
-* Save the changes.
-
-You can repeat this multiple times to create more roles.
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### 2\. How to Assign Roles in Discord mobile app?
-
-* Head over to settings and select 'Members.'
-* Select the members you want to assign roles to.
-* Tick the boxes beside each member’s name for the roles you are assigning them.
-
-Save the changes, and you are good to go! You can assign multiple roles to a member.
-
-## Part 6: FAQs about Discord Server Roles
-
-Just some obvious things you might wonder about.
-
-1. How to make someone admin on Discord?
-
-Making someone admin is the same as assigning other roles. Open your server and go to server settings.
-
-* From there, select ‘roles’ from the left pane.
-* Create a new role.
-* Name the role ‘admin’ or an equivalent title.
-* Adjust the setting related to sorting out role members with other members.
-* Go to general permissions and tick the ‘Administrator’ option.
-* Hit the ‘save changes’ button at the bottom.
-* Now it's time to assign the role to someone. Right-click on the user that you want to assign the role.
-* Choose 'roles' from the drop-down list and select 'Admin.'
-
-And now your server has an admin!
-
-1. How can I assign roles to new users in Discord automatically?
-
-By default, every member gets the role of ‘everyone’ on the server. However, you can customize this and add the MEE6 bot for automatic role allocation.
-
-1. Why can’t I manage the server even I am an admin on the server?
-
-This is likely to happen if the server owner gave you the role of admin, but the permissions are disabled. You can ask the owner to enable the permissions for your user ID.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Having a Discord server for you and your friends is a fun experience. And for gamers, Discord is a necessity. You can customize it with bots, connect real-time over voice channels, and even add rooms for chat forums.
-
-Obviously, creating and managing a Discord server can get difficult. Especially when the server gets crammed with members, it is no longer a one-person show. You need help with monitoring and moderation. And let’s face it – you cannot watch your server round the clock.
-
-So, let us learn the art of delegation on Discord! This guide will help you with – **How to add roles** **in Discord** and how to assign them to members. This includes creating roles, deleting them, and granting appropriate permissions.
-
-* [Part 1: Discord Server Permissions Introduction](#part1)
-* [Part 2: How to Make and Add Roles in Discord on Computer](#part2)
-* [Part 3: How to Manage Roles in Discord?](#part3)
-* [Part 4: How to Delete Roles in Discord?](#part4)
-* [Part 5: How to Add Roles on Discord Mobile?](#part5)
-* [Part 6: Adding Roles to Discord FAQs](#part6)
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-## Part 1: Discord Server Permissions You Can Set Up
 
-To give you a heads-up, there are around 29 permissions that you can adjust over a Discord server. More specifically, there are 7 voice permissions, 9 permissions related to texts, and about 13 permissions dealing with the server.
-
-### 1\. General server permission
-
-Administrator – this is the highest permission that you can grant to a user. Think twice before giving this authority to anyone.
-
-View Audit Log – with this permission, a user can read the server’s audits.
-
-Manage Server – this permission enables a user to change the server’s name or shift it to another region.
-
-Manage Roles – a user with this authority can make new roles or modify the roles without this permission.
-
-Manage Channels – with this; a user can make, edit, or remove channels on a server.
-
-Manage emojis – users with this authority can manage emotes.
-
-Manage Webhooks – if you have this authority, you can add, modify, and remove webhooks.
-
-Read Text Channels & See Voice Channels – a user with this permission can read text channels.
-
-### 2\. Membership permissions
-
-Ban Members – a member with permission, can ban members from the server.
-
-Create Instant Invite – users with this permission can invite people to the server.
-
-Change Nickname – you can change your nickname anytime if this permission is enabled.
-
-Manage Nicknames – if enabled, a user can change other’s nicknames.
-
-Kick Members – a user with this authority can remove members from the server.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-### 3\. Text channel permissions
-
-Send Messages – with this; users can send texts on chats.
-
-Send TTS Messages – this enables users to send text-to-speech texts.
-
-Manage Messages – with this; a user can remove or pin texts of other users.
-
-Embed Links – enables users to embed hyperlinks in texts.
-
-Attach Files – with this; users can attach files in the texts.
-
-Read Message History – enables users to access earlier texts.
-
-Mention Everyone – you can send push notifications on the channel if this permission is enabled.
-
-Use External Emojis – if enabled, users can send emojis from other servers.
-
-Add Reactions – with this; users can add new reactions to a text.
-
-### 4\. Voice channel permissions
-
-Connect – enables users to connect themselves over the voice channel.
-
-Speak – users can talk over the voice channel.
-
-Mute Members – turn off other user’s speech.
-
-Deafen Members – turn off hearing on the channel for a user.
-
-Move Members – enables a user to shift members from one channel to a different channel.
-
-Use Voice Activity – a member can talk without using Push-to-Talk, with this permission.
-
-Priority Speaker – when this permission is turned on for a user, other’s
-
-this permission allows the user to reduce the volume of other users when this user is speaking so that their words are louder on the channel.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
-### 5\. Advanced permissions
-
-Includes the 'Administrator' permission, which by default enables all the permissions to the assigned user.
-
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 2: How to Make and Add Roles in Discord on Computer
-
-The desktop app and Browser resemble the mobile apple a lot. The process of assigning roles and configuring members is more or less the same across devices. First, you need to create roles and define their authority before assigning these roles to some members.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
-### How to create roles in Discord?
-
-Before you can assign roles, you need a server. Once you have created your Discord server, start crafting the structure.
-
-1. Open your server and right-click on it.
-2. From the menu that appears, tap server settings.
-3. Name the role suitably. It should be descriptive of the authority.
-1. Tap on the plus sign that appears on the top right of the page.
-2. Here, you can change the title off the roll and even choose the color.
-3. Now comes the time to grant some permissions. These are basically the authority that you gave to every profile.
-4. When you are done, save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Assign Roles to Members in Discord?
 
 To be able to assign roles, you should first create them
@@ -382,10 +147,6 @@ To be able to assign roles, you should first create them
 4. From the drop-down menu that appears, select a role you want to assign to that member.
 1. You will notice that the color changes as per your settings. And this is how you assign roles to a server.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to Manage Roles in Discord?
 
 After you learn **how to make roles in Discord**, you might want to manage them.
@@ -406,41 +167,38 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 1. Towards the bottom, you will see the option to delete the role.
 2. Press ok to confirm.
 
-## Part 5: How to Add Roles on Discord Mobile?
-
-Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
-
-### 1\. How to create roles in Discord mobile app?
-
-Before you can assign roles, you have to create them.
-
-* Open your server.
-* Tap on the arrow beside the server’s title. A drop-down menu will appear. Select ‘server settings’ from that.
-* Tap on 'Roles.' A common role, 'everyone' is assigned to all the members who have basic permissions enabled for everyone.
-* Tap the plus sign and add a role.
-* Give the role a color and describe it in a few words.
-* Go through the permissions and enable the ones that fit the role.
-* Save the changes.
-
-You can repeat this multiple times to create more roles.
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Part 5: How to Add Roles on Discord Mobile?
+
+Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 1\. How to create roles in Discord mobile app?
+
+Before you can assign roles, you have to create them.
+
+* Open your server.
+* Tap on the arrow beside the server’s title. A drop-down menu will appear. Select ‘server settings’ from that.
+* Tap on 'Roles.' A common role, 'everyone' is assigned to all the members who have basic permissions enabled for everyone.
+* Tap the plus sign and add a role.
+* Give the role a color and describe it in a few words.
+* Go through the permissions and enable the ones that fit the role.
+* Save the changes.
+
+You can repeat this multiple times to create more roles.
+
 ### 2\. How to Assign Roles in Discord mobile app?
 
 * Head over to settings and select 'Members.'
@@ -449,9 +207,6 @@ Key features:
 
 Save the changes, and you are good to go! You can assign multiple roles to a member.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 6: FAQs about Discord Server Roles
 
 Just some obvious things you might wonder about.
@@ -504,16 +259,224 @@ So, let us learn the art of delegation on Discord! This guide will help you with
 * [Part 5: How to Add Roles on Discord Mobile?](#part5)
 * [Part 6: Adding Roles to Discord FAQs](#part6)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Discord Server Permissions You Can Set Up
 
 To give you a heads-up, there are around 29 permissions that you can adjust over a Discord server. More specifically, there are 7 voice permissions, 9 permissions related to texts, and about 13 permissions dealing with the server.
 
+### 1\. General server permission
+
+Administrator – this is the highest permission that you can grant to a user. Think twice before giving this authority to anyone.
+
+View Audit Log – with this permission, a user can read the server’s audits.
+
+Manage Server – this permission enables a user to change the server’s name or shift it to another region.
+
+Manage Roles – a user with this authority can make new roles or modify the roles without this permission.
+
+Manage Channels – with this; a user can make, edit, or remove channels on a server.
+
+Manage emojis – users with this authority can manage emotes.
+
+Manage Webhooks – if you have this authority, you can add, modify, and remove webhooks.
+
+Read Text Channels & See Voice Channels – a user with this permission can read text channels.
+
+### 2\. Membership permissions
+
+Ban Members – a member with permission, can ban members from the server.
+
+Create Instant Invite – users with this permission can invite people to the server.
+
+Change Nickname – you can change your nickname anytime if this permission is enabled.
+
+Manage Nicknames – if enabled, a user can change other’s nicknames.
+
+Kick Members – a user with this authority can remove members from the server.
+
+### 3\. Text channel permissions
+
+Send Messages – with this; users can send texts on chats.
+
+Send TTS Messages – this enables users to send text-to-speech texts.
+
+Manage Messages – with this; a user can remove or pin texts of other users.
+
+Embed Links – enables users to embed hyperlinks in texts.
+
+Attach Files – with this; users can attach files in the texts.
+
+Read Message History – enables users to access earlier texts.
+
+Mention Everyone – you can send push notifications on the channel if this permission is enabled.
+
+Use External Emojis – if enabled, users can send emojis from other servers.
+
+Add Reactions – with this; users can add new reactions to a text.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### 4\. Voice channel permissions
+
+Connect – enables users to connect themselves over the voice channel.
+
+Speak – users can talk over the voice channel.
+
+Mute Members – turn off other user’s speech.
+
+Deafen Members – turn off hearing on the channel for a user.
+
+Move Members – enables a user to shift members from one channel to a different channel.
+
+Use Voice Activity – a member can talk without using Push-to-Talk, with this permission.
+
+Priority Speaker – when this permission is turned on for a user, other’s
+
+this permission allows the user to reduce the volume of other users when this user is speaking so that their words are louder on the channel.
+
+### 5\. Advanced permissions
+
+Includes the 'Administrator' permission, which by default enables all the permissions to the assigned user.
+
+## Part 2: How to Make and Add Roles in Discord on Computer
+
+The desktop app and Browser resemble the mobile apple a lot. The process of assigning roles and configuring members is more or less the same across devices. First, you need to create roles and define their authority before assigning these roles to some members.
+
+### How to create roles in Discord?
+
+Before you can assign roles, you need a server. Once you have created your Discord server, start crafting the structure.
+
+1. Open your server and right-click on it.
+2. From the menu that appears, tap server settings.
+3. Name the role suitably. It should be descriptive of the authority.
+1. Tap on the plus sign that appears on the top right of the page.
+2. Here, you can change the title off the roll and even choose the color.
+3. Now comes the time to grant some permissions. These are basically the authority that you gave to every profile.
+4. When you are done, save the changes.
+
+### How to Assign Roles to Members in Discord?
+
+To be able to assign roles, you should first create them
+
+1. Once again, hit that right button on your server and go to server settings.
+2. From the menu that appears to the left, ‘choose members’ under user management.
+3. Here, you will see the list of all the members on your server, tap the Plus sign that is right beside the username.
+4. From the drop-down menu that appears, select a role you want to assign to that member.
+1. You will notice that the color changes as per your settings. And this is how you assign roles to a server.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 3: How to Manage Roles in Discord?
+
+After you learn **how to make roles in Discord**, you might want to manage them.
+
+If you have got the hang of creating roles, then managing them is no different. Whenever the server gets crowded, you can create more roles or modify the existing ones. A smaller server can run smoothly with just an admin and an ‘everyone’ role.
+
+The quickest and easiest way to manage your bloating server is to let all members be ‘everyone’ and adjust permissions accordingly. So, whenever members enter your server, they will automatically be assigned the common role.
+
+Further, you can easily figure out what roles you have assigned to whom. Due to these colors, the other members can identify moderators, admins, or other roles.
+
+## Part 4: How to Delete Roles in Discord?
+
+Honestly, removing Discord roles easier than setting them up. There are hardly a few steps that you need to follow for role removal.
+
+1. place the cursor on the server, and hit the right-click.
+2. From the list, choose server settings. Then click on roles.
+3. From the roles window, tap on the role that you wish to delete.
+1. Towards the bottom, you will see the option to delete the role.
+2. Press ok to confirm.
+
+## Part 5: How to Add Roles on Discord Mobile?
+
+Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
+
+### 1\. How to create roles in Discord mobile app?
+
+Before you can assign roles, you have to create them.
+
+* Open your server.
+* Tap on the arrow beside the server’s title. A drop-down menu will appear. Select ‘server settings’ from that.
+* Tap on 'Roles.' A common role, 'everyone' is assigned to all the members who have basic permissions enabled for everyone.
+* Tap the plus sign and add a role.
+* Give the role a color and describe it in a few words.
+* Go through the permissions and enable the ones that fit the role.
+* Save the changes.
+
+You can repeat this multiple times to create more roles.
+
+### 2\. How to Assign Roles in Discord mobile app?
+
+* Head over to settings and select 'Members.'
+* Select the members you want to assign roles to.
+* Tick the boxes beside each member’s name for the roles you are assigning them.
+
+Save the changes, and you are good to go! You can assign multiple roles to a member.
+
+## Part 6: FAQs about Discord Server Roles
+
+Just some obvious things you might wonder about.
+
+1. How to make someone admin on Discord?
+
+Making someone admin is the same as assigning other roles. Open your server and go to server settings.
+
+* From there, select ‘roles’ from the left pane.
+* Create a new role.
+* Name the role ‘admin’ or an equivalent title.
+* Adjust the setting related to sorting out role members with other members.
+* Go to general permissions and tick the ‘Administrator’ option.
+* Hit the ‘save changes’ button at the bottom.
+* Now it's time to assign the role to someone. Right-click on the user that you want to assign the role.
+* Choose 'roles' from the drop-down list and select 'Admin.'
+
+And now your server has an admin!
+
+1. How can I assign roles to new users in Discord automatically?
+
+By default, every member gets the role of ‘everyone’ on the server. However, you can customize this and add the MEE6 bot for automatic role allocation.
+
+1. Why can’t I manage the server even I am an admin on the server?
+
+This is likely to happen if the server owner gave you the role of admin, but the permissions are disabled. You can ask the owner to enable the permissions for your user ID.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Having a Discord server for you and your friends is a fun experience. And for gamers, Discord is a necessity. You can customize it with bots, connect real-time over voice channels, and even add rooms for chat forums.
+
+Obviously, creating and managing a Discord server can get difficult. Especially when the server gets crammed with members, it is no longer a one-person show. You need help with monitoring and moderation. And let’s face it – you cannot watch your server round the clock.
+
+So, let us learn the art of delegation on Discord! This guide will help you with – **How to add roles** **in Discord** and how to assign them to members. This includes creating roles, deleting them, and granting appropriate permissions.
+
+* [Part 1: Discord Server Permissions Introduction](#part1)
+* [Part 2: How to Make and Add Roles in Discord on Computer](#part2)
+* [Part 3: How to Manage Roles in Discord?](#part3)
+* [Part 4: How to Delete Roles in Discord?](#part4)
+* [Part 5: How to Add Roles on Discord Mobile?](#part5)
+* [Part 6: Adding Roles to Discord FAQs](#part6)
+
+## Part 1: Discord Server Permissions You Can Set Up
+
+To give you a heads-up, there are around 29 permissions that you can adjust over a Discord server. More specifically, there are 7 voice permissions, 9 permissions related to texts, and about 13 permissions dealing with the server.
+
 ### 1\. General server permission
 
 Administrator – this is the highest permission that you can grant to a user. Think twice before giving this authority to anyone.
@@ -586,9 +549,6 @@ this permission allows the user to reduce the volume of other users when this us
 
 Includes the 'Administrator' permission, which by default enables all the permissions to the assigned user.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Make and Add Roles in Discord on Computer
 
 The desktop app and Browser resemble the mobile apple a lot. The process of assigning roles and configuring members is more or less the same across devices. First, you need to create roles and define their authority before assigning these roles to some members.
@@ -605,9 +565,6 @@ Before you can assign roles, you need a server. Once you have created your Disco
 3. Now comes the time to grant some permissions. These are basically the authority that you gave to every profile.
 4. When you are done, save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Assign Roles to Members in Discord?
 
 To be able to assign roles, you should first create them
@@ -628,15 +585,6 @@ The quickest and easiest way to manage your bloating server is to let all member
 
 Further, you can easily figure out what roles you have assigned to whom. Due to these colors, the other members can identify moderators, admins, or other roles.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Part 4: How to Delete Roles in Discord?
 
 Honestly, removing Discord roles easier than setting them up. There are hardly a few steps that you need to follow for role removal.
@@ -673,9 +621,6 @@ You can repeat this multiple times to create more roles.
 
 Save the changes, and you are good to go! You can assign multiple roles to a member.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 6: FAQs about Discord Server Roles
 
 Just some obvious things you might wonder about.
@@ -729,15 +674,16 @@ So, let us learn the art of delegation on Discord! This guide will help you with
 * [Part 6: Adding Roles to Discord FAQs](#part6)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: Discord Server Permissions You Can Set Up
 
 To give you a heads-up, there are around 29 permissions that you can adjust over a Discord server. More specifically, there are 7 voice permissions, 9 permissions related to texts, and about 13 permissions dealing with the server.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. General server permission
 
 Administrator – this is the highest permission that you can grant to a user. Think twice before giving this authority to anyone.
@@ -788,9 +734,6 @@ Use External Emojis – if enabled, users can send emojis from other servers.
 
 Add Reactions – with this; users can add new reactions to a text.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Voice channel permissions
 
 Connect – enables users to connect themselves over the voice channel.
@@ -817,9 +760,6 @@ Includes the 'Administrator' permission, which by default enables all the permis
 
 The desktop app and Browser resemble the mobile apple a lot. The process of assigning roles and configuring members is more or less the same across devices. First, you need to create roles and define their authority before assigning these roles to some members.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to create roles in Discord?
 
 Before you can assign roles, you need a server. Once you have created your Discord server, start crafting the structure.
@@ -842,6 +782,13 @@ To be able to assign roles, you should first create them
 4. From the drop-down menu that appears, select a role you want to assign to that member.
 1. You will notice that the color changes as per your settings. And this is how you assign roles to a server.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Manage Roles in Discord?
 
 After you learn **how to make roles in Discord**, you might want to manage them.
@@ -852,9 +799,6 @@ The quickest and easiest way to manage your bloating server is to let all member
 
 Further, you can easily figure out what roles you have assigned to whom. Due to these colors, the other members can identify moderators, admins, or other roles.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Part 4: How to Delete Roles in Discord?
 
 Honestly, removing Discord roles easier than setting them up. There are hardly a few steps that you need to follow for role removal.
@@ -870,8 +814,12 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. How to create roles in Discord mobile app?
 
 Before you can assign roles, you have to create them.
@@ -886,9 +834,6 @@ Before you can assign roles, you have to create them.
 
 You can repeat this multiple times to create more roles.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. How to Assign Roles in Discord mobile app?
 
 * Head over to settings and select 'Members.'
@@ -924,9 +869,6 @@ By default, every member gets the role of ‘everyone’ on the server. However,
 
 This is likely to happen if the server owner gave you the role of admin, but the permissions are disabled. You can ask the owner to enable the permissions for your user ID.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -946,8 +888,6 @@ Follow @Richard Bennett
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -956,8 +896,20 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-efficiently-speaking-out-a-blueprint-for-reporting-incidents-in-digital-communities-for-2024/"><u>[New] Efficiently Speaking Out A Blueprint for Reporting Incidents in Digital Communities for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-angular-adjustments-in-vlc-player/"><u>[New] Mastering Angular Adjustments in VLC Player</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-streamlining-content-delivery-on-discord-platform-for-2024/"><u>[New] Streamlining Content Delivery on Discord Platform for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-simplifying-server-removal-for-desktopmobile-use/"><u>[Updated] 2024 Approved Simplifying Server Removal for Desktop/Mobile Use</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-adaptive-strategies-for-successful-content-on-new-fb-algorithm/"><u>[Updated] In 2024, Adaptive Strategies for Successful Content on New FB Algorithm</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-ultimate-checklist-for-broadcasting-on-discord/"><u>2024 Approved The Ultimate Checklist for Broadcasting on Discord</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-advancements-predicting-job-replacements/"><u>AI Advancements: Predicting Job Replacements?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aviation-gaming-the-ultimate-drone-race-course-and-best-models/"><u>Aviation Gaming The Ultimate Drone Race Course and Best Models</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-workflow-on-windows-11-for-professionals/"><u>Elevating Workflow on Windows 11 for Professionals</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-take-control-of-your-discord-community-with-roles/"><u>How to Take Control of Your Discord Community with Roles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-humor-hub-picture-composer/"><u>In 2024, Humor Hub Picture Composer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1725288225339-winxvideo-ai-4k-8k-10k/"><u>고품질 사진 만들기 Winxvideo AI로 4K, 8K, 10K 해상도 이미지를 확대시키고 복구하세요</u></a></li>
+</ul></div>
 

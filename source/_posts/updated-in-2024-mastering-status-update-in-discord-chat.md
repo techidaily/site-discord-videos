@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Mastering Status Update in Discord Chat"
-date: 2024-07-29T00:57:03.033Z
-updated: 2024-07-30T00:57:03.033Z
+date: 2024-10-23T00:28:29.664Z
+updated: 2024-10-23T16:19:39.764Z
 tags:
   - ai video
   - ai discord
@@ -76,178 +76,6 @@ Step 2: Type in any text message of your choice, and you can also add an emoji i
 
 Yeah!! Now your status has been changed to custom!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
-
-Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
-
-Step 1: Once again, click on the profile icon and select Set status.
-
-Step 2: Select the Set a custom status option.
-
-Step 3: Click the Cross icon to clear custom status.
-
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
-
-## **Part 3: How to Change Discord Status on Windows/Mac?**
-
-Changing discord status on windows/Mac computers is very simple, and the Discord interface for both Mac and Windows systems is the same. Thus there's no need to use any distinct steps. If you have read the content above, you may already know how to change the status on Discord.
-
-**Step 1:** Launch the Discord app on your Mac or Windows system and login into your account.
-
-**Step 2:** Navigate to the bottom left corner of the screen and click on the profile icon showing your account status.
-
-**Step 3:**Up next, click on the Set status option! This time you'll see four preset statuses to choose excluding the Custom status option. All you've got to do is choose your preferred option to proceed.
-
-## **Part 4: How to Change Discord Status on Android, iPhone, or iPad?**
-
-The first question that hits the brain when many folks see this question is ‘Does discord possess the same interface for both Android, iPhone, and iPad?
-
-Well, a quick answer is Yes!
-
-You only have to follow the stepwise guide below to change your status on Discord using the mobile app on Android, iPad, or iPhone.
-
-**Step 1:** Open the Discord mobile app on your Android, iPhone, or iPad device and sign in to your account.
-
-**Step 2:** Click the menu bar at the top left corner of the screen > hit the profile icon at the bottom right corner of the screen.
-
-**Step 3:**Select Set Status on the new page.
-
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
-
-**Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
-
-## **Part 5: How do you show what game you're playing on Discord?**
-
-Do you know Discord is a hookup outlet where gamers connect? Sound surprising? Yeah, with Discord, you can relate with like-minded gamers using its advanced features and customization options. You can Screen Share, add audio bots, and do lots more for free without hassles. In addition to that, Discord has an automatic detective system that looks at all that's running on your device and mostly recognizes popular verified game, though you can edit unverified games and programs using the steps outlined below.
-
-Sit back and learn how to show off what you're up to in the gaming realm!
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
-### **How to Display Game Status on Discord Desktop**
-
-**Step 1:** Launch the Discord app and click on the User Settings icon
-
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
-
-**Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
-
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
-
-**Step 3:**Finally, click the Toggle to turn on the Game Status.
-
-### **How to Display Game Status on Discord Mobile App**
-
-**Step 1:** Launch the Discord mobile app and click on the three horizontal lines in the top-right corner of the pane to select the profile icon at the bottom-left corner.
-
-**Step 2:** On the new page, scroll down and select the Game Activity option to proceed.
-
-**Step 3:**On the Game Tab, all you've got to do is to toggle the switch to show your current game activity.
-
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
-## **FAQs About Discord Status**
-
-### **1\. How can you change the Discord status automatically?**
-
-A concise answer to this question is, Discord status cannot be changed automatically, but you can set a time limit that you want a custom text to display on your status. However, the game activity status option can be updated automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### **2\. How can you tell if someone with their status set to offline is online, on Discord?**
-
-Detecting whether someone is online when their Discord status is set to invisible is not a walk in the park. But one unique way to tell if they're online is by spotting them via voice chat or when typing a message.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Today, many folks are yet to understand the logic attached to changing their status on Discord. While some do it to let their contacts know they're away from the keyboard or busy, others use the custom status as a means of selling the service they offer to their connection.
-
- Besides, there are lots of benefits when you ensure keeping a valid discord status, and one is that it'll enable your families, friends, and co-workers to know your current state before leaving you a message. Read further to learn how to change your status on Discord fast and easily.
-
-* **[Part 1: What Does the Discord Statuses Mean?](#part1)**
-* **[Part 2: How Do You Make and Get Custom Status on Discord?](#part2)**
-* **[Part 3: How to Change Discord Status on Windows/Mac?](#part3)**
-* **[Part 4: How to Change Discord Status on Android, iPhone, or iPad?](#part4)**
-* **[Part 5: How to Show What Game You're Playing on Discord?](#part5)**
-* **[Part 6: FAQs about Discord Status](#part6)**
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-## **Part 1: What Does the Discord Statuses Mean?**
-
-Discord status is a changeable notification setting that enables users to set their current condition either AFK, online, or custom! This status consists of four options (online, Idle, Do not disturb, Invisible, and Custom) which will be explained below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![default discord status options](https://images.wondershare.com/filmora/article-images/default-discord-status.jpg)
-
-**Online:**
-
-The default status of all Discord accounts is the Online mode! This mode allows you to receive instant notifications and show up in your contact list normally. It's indicated by a small green circle in your profile photo.
-
-**Idle**:
-
-The Idle mode is the same as the online status, though this status usually comes up automatically when you're away from the keyboard for a while, and it turns off as soon there's a movement within the Discord platform. In contrast, if the Idle status is set manually, you'll have to put it to online status yourself, and it's signified with a moon-shaped icon on your profile photo.
-
-**Do not disturb:**
-
-Do Not Disturb, also known as DND mode, disables all notifications from the Discord app, and it's indicated using a red status on your profile photo.
-
-**Invisible:**
-
-Invisible Mode allows you to use Discord while appearing Offline to other members, although the typing indicator will be displayed to your contact while typing. It's indicated with a gray icon on your profile.
-
-**Custom:**
-
-Custom status enables you to add messages that you want to be displayed on your profile. You can add up to a 128 character text limit, including emojis.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## **Part 2: How Do You Make and Get Custom Status on Discord?**
-
-As I said before, Discord custom status enables you to add messages you want to display on your discord profile. And many folks use it as a means of letting their contacts know the service they offer. Also, this Custom status option will allow you to add emojis as you like. The text limit is 128 characters!
-
-Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
-
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
-
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
-
-Step 2: Type in any text message of your choice, and you can also add an emoji if you wish. Afterward, select how long you want the new custom message to display on your status from the drop-down list (Clear tomorrow, Clear in 4 hours, Clear in 1 hour, Clear in 30 minutes, Don't clear) and click Save to finalize the operation.
-
-Yeah!! Now your status has been changed to custom!
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
@@ -271,215 +99,30 @@ Changing discord status on windows/Mac computers is very simple, and the Discord
 **Step 3:**Up next, click on the Set status option! This time you'll see four preset statuses to choose excluding the Custom status option. All you've got to do is choose your preferred option to proceed.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## **Part 4: How to Change Discord Status on Android, iPhone, or iPad?**
-
-The first question that hits the brain when many folks see this question is ‘Does discord possess the same interface for both Android, iPhone, and iPad?
-
-Well, a quick answer is Yes!
-
-You only have to follow the stepwise guide below to change your status on Discord using the mobile app on Android, iPad, or iPhone.
-
-**Step 1:** Open the Discord mobile app on your Android, iPhone, or iPad device and sign in to your account.
-
-**Step 2:** Click the menu bar at the top left corner of the screen > hit the profile icon at the bottom right corner of the screen.
-
-**Step 3:**Select Set Status on the new page.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
-
-**Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
-## **Part 5: How do you show what game you're playing on Discord?**
-
-Do you know Discord is a hookup outlet where gamers connect? Sound surprising? Yeah, with Discord, you can relate with like-minded gamers using its advanced features and customization options. You can Screen Share, add audio bots, and do lots more for free without hassles. In addition to that, Discord has an automatic detective system that looks at all that's running on your device and mostly recognizes popular verified game, though you can edit unverified games and programs using the steps outlined below.
-
-Sit back and learn how to show off what you're up to in the gaming realm!
-
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
-### **How to Display Game Status on Discord Desktop**
-
-**Step 1:** Launch the Discord app and click on the User Settings icon
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
-![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
-
-**Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
-
-![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
-
-**Step 3:**Finally, click the Toggle to turn on the Game Status.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
-### **How to Display Game Status on Discord Mobile App**
-
-**Step 1:** Launch the Discord mobile app and click on the three horizontal lines in the top-right corner of the pane to select the profile icon at the bottom-left corner.
-
-**Step 2:** On the new page, scroll down and select the Game Activity option to proceed.
-
-**Step 3:**On the Game Tab, all you've got to do is to toggle the switch to show your current game activity.
-
-## **FAQs About Discord Status**
-
-### **1\. How can you change the Discord status automatically?**
-
-A concise answer to this question is, Discord status cannot be changed automatically, but you can set a time limit that you want a custom text to display on your status. However, the game activity status option can be updated automatically.
-
-### **2\. How can you tell if someone with their status set to offline is online, on Discord?**
-
-Detecting whether someone is online when their Discord status is set to invisible is not a walk in the park. But one unique way to tell if they're online is by spotting them via voice chat or when typing a message.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Today, many folks are yet to understand the logic attached to changing their status on Discord. While some do it to let their contacts know they're away from the keyboard or busy, others use the custom status as a means of selling the service they offer to their connection.
-
- Besides, there are lots of benefits when you ensure keeping a valid discord status, and one is that it'll enable your families, friends, and co-workers to know your current state before leaving you a message. Read further to learn how to change your status on Discord fast and easily.
-
-* **[Part 1: What Does the Discord Statuses Mean?](#part1)**
-* **[Part 2: How Do You Make and Get Custom Status on Discord?](#part2)**
-* **[Part 3: How to Change Discord Status on Windows/Mac?](#part3)**
-* **[Part 4: How to Change Discord Status on Android, iPhone, or iPad?](#part4)**
-* **[Part 5: How to Show What Game You're Playing on Discord?](#part5)**
-* **[Part 6: FAQs about Discord Status](#part6)**
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
-## **Part 1: What Does the Discord Statuses Mean?**
-
-Discord status is a changeable notification setting that enables users to set their current condition either AFK, online, or custom! This status consists of four options (online, Idle, Do not disturb, Invisible, and Custom) which will be explained below.
-
-![default discord status options](https://images.wondershare.com/filmora/article-images/default-discord-status.jpg)
-
-**Online:**
-
-The default status of all Discord accounts is the Online mode! This mode allows you to receive instant notifications and show up in your contact list normally. It's indicated by a small green circle in your profile photo.
-
-**Idle**:
-
-The Idle mode is the same as the online status, though this status usually comes up automatically when you're away from the keyboard for a while, and it turns off as soon there's a movement within the Discord platform. In contrast, if the Idle status is set manually, you'll have to put it to online status yourself, and it's signified with a moon-shaped icon on your profile photo.
-
-**Do not disturb:**
-
-Do Not Disturb, also known as DND mode, disables all notifications from the Discord app, and it's indicated using a red status on your profile photo.
-
-**Invisible:**
-
-Invisible Mode allows you to use Discord while appearing Offline to other members, although the typing indicator will be displayed to your contact while typing. It's indicated with a gray icon on your profile.
-
-**Custom:**
-
-Custom status enables you to add messages that you want to be displayed on your profile. You can add up to a 128 character text limit, including emojis.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
-## **Part 2: How Do You Make and Get Custom Status on Discord?**
-
-As I said before, Discord custom status enables you to add messages you want to display on your discord profile. And many folks use it as a means of letting their contacts know the service they offer. Also, this Custom status option will allow you to add emojis as you like. The text limit is 128 characters!
-
-Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
-
-Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
-
-Step 2: Type in any text message of your choice, and you can also add an emoji if you wish. Afterward, select how long you want the new custom message to display on your status from the drop-down list (Clear tomorrow, Clear in 4 hours, Clear in 1 hour, Clear in 30 minutes, Don't clear) and click Save to finalize the operation.
-
-Yeah!! Now your status has been changed to custom!
-
-![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
-
-Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
-
-Step 1: Once again, click on the profile icon and select Set status.
-
-Step 2: Select the Set a custom status option.
-
-Step 3: Click the Cross icon to clear custom status.
-
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
-
-## **Part 3: How to Change Discord Status on Windows/Mac?**
-
-Changing discord status on windows/Mac computers is very simple, and the Discord interface for both Mac and Windows systems is the same. Thus there's no need to use any distinct steps. If you have read the content above, you may already know how to change the status on Discord.
-
-**Step 1:** Launch the Discord app on your Mac or Windows system and login into your account.
-
-**Step 2:** Navigate to the bottom left corner of the screen and click on the profile icon showing your account status.
-
-**Step 3:**Up next, click on the Set status option! This time you'll see four preset statuses to choose excluding the Custom status option. All you've got to do is choose your preferred option to proceed.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
-## **Part 4: How to Change Discord Status on Android, iPhone, or iPad?**
-
-The first question that hits the brain when many folks see this question is ‘Does discord possess the same interface for both Android, iPhone, and iPad?
-
-Well, a quick answer is Yes!
-
-You only have to follow the stepwise guide below to change your status on Discord using the mobile app on Android, iPad, or iPhone.
-
-**Step 1:** Open the Discord mobile app on your Android, iPhone, or iPad device and sign in to your account.
-
-**Step 2:** Click the menu bar at the top left corner of the screen > hit the profile icon at the bottom right corner of the screen.
-
-**Step 3:**Select Set Status on the new page.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
-![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
-
-**Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## **Part 4: How to Change Discord Status on Android, iPhone, or iPad?**
+
+The first question that hits the brain when many folks see this question is ‘Does discord possess the same interface for both Android, iPhone, and iPad?
+
+Well, a quick answer is Yes!
+
+You only have to follow the stepwise guide below to change your status on Discord using the mobile app on Android, iPad, or iPhone.
+
+**Step 1:** Open the Discord mobile app on your Android, iPhone, or iPad device and sign in to your account.
+
+**Step 2:** Click the menu bar at the top left corner of the screen > hit the profile icon at the bottom right corner of the screen.
+
+**Step 3:**Select Set Status on the new page.
+
+![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+
+**Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
+
 ## **Part 5: How do you show what game you're playing on Discord?**
 
 Do you know Discord is a hookup outlet where gamers connect? Sound surprising? Yeah, with Discord, you can relate with like-minded gamers using its advanced features and customization options. You can Screen Share, add audio bots, and do lots more for free without hassles. In addition to that, Discord has an automatic detective system that looks at all that's running on your device and mostly recognizes popular verified game, though you can edit unverified games and programs using the steps outlined below.
@@ -490,23 +133,14 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **How to Display Game Status on Discord Mobile App**
 
 **Step 1:** Launch the Discord mobile app and click on the three horizontal lines in the top-right corner of the pane to select the profile icon at the bottom-left corner.
@@ -515,9 +149,6 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 3:**On the Game Tab, all you've got to do is to toggle the switch to show your current game activity.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## **FAQs About Discord Status**
 
 ### **1\. How can you change the Discord status automatically?**
@@ -585,18 +216,12 @@ Anyway, creating a custom status is as easy as plucking a low hanging fruit. All
 
 Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
 Step 2: Type in any text message of your choice, and you can also add an emoji if you wish. Afterward, select how long you want the new custom message to display on your status from the drop-down list (Clear tomorrow, Clear in 4 hours, Clear in 1 hour, Clear in 30 minutes, Don't clear) and click Save to finalize the operation.
 
 Yeah!! Now your status has been changed to custom!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
@@ -607,9 +232,6 @@ Step 2: Select the Set a custom status option.
 
 Step 3: Click the Cross icon to clear custom status.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
@@ -636,10 +258,179 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 3:**Select Set Status on the new page.
 
+![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+
+**Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
+
+## **Part 5: How do you show what game you're playing on Discord?**
+
+Do you know Discord is a hookup outlet where gamers connect? Sound surprising? Yeah, with Discord, you can relate with like-minded gamers using its advanced features and customization options. You can Screen Share, add audio bots, and do lots more for free without hassles. In addition to that, Discord has an automatic detective system that looks at all that's running on your device and mostly recognizes popular verified game, though you can edit unverified games and programs using the steps outlined below.
+
+Sit back and learn how to show off what you're up to in the gaming realm!
+
+### **How to Display Game Status on Discord Desktop**
+
+**Step 1:** Launch the Discord app and click on the User Settings icon
+
+![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
+
+![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+
+**Step 3:**Finally, click the Toggle to turn on the Game Status.
+
+### **How to Display Game Status on Discord Mobile App**
+
+**Step 1:** Launch the Discord mobile app and click on the three horizontal lines in the top-right corner of the pane to select the profile icon at the bottom-left corner.
+
+**Step 2:** On the new page, scroll down and select the Game Activity option to proceed.
+
+**Step 3:**On the Game Tab, all you've got to do is to toggle the switch to show your current game activity.
+
+## **FAQs About Discord Status**
+
+### **1\. How can you change the Discord status automatically?**
+
+A concise answer to this question is, Discord status cannot be changed automatically, but you can set a time limit that you want a custom text to display on your status. However, the game activity status option can be updated automatically.
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### **2\. How can you tell if someone with their status set to offline is online, on Discord?**
+
+Detecting whether someone is online when their Discord status is set to invisible is not a walk in the park. But one unique way to tell if they're online is by spotting them via voice chat or when typing a message.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Today, many folks are yet to understand the logic attached to changing their status on Discord. While some do it to let their contacts know they're away from the keyboard or busy, others use the custom status as a means of selling the service they offer to their connection.
+
+ Besides, there are lots of benefits when you ensure keeping a valid discord status, and one is that it'll enable your families, friends, and co-workers to know your current state before leaving you a message. Read further to learn how to change your status on Discord fast and easily.
+
+* **[Part 1: What Does the Discord Statuses Mean?](#part1)**
+* **[Part 2: How Do You Make and Get Custom Status on Discord?](#part2)**
+* **[Part 3: How to Change Discord Status on Windows/Mac?](#part3)**
+* **[Part 4: How to Change Discord Status on Android, iPhone, or iPad?](#part4)**
+* **[Part 5: How to Show What Game You're Playing on Discord?](#part5)**
+* **[Part 6: FAQs about Discord Status](#part6)**
+
+## **Part 1: What Does the Discord Statuses Mean?**
+
+Discord status is a changeable notification setting that enables users to set their current condition either AFK, online, or custom! This status consists of four options (online, Idle, Do not disturb, Invisible, and Custom) which will be explained below.
+
+![default discord status options](https://images.wondershare.com/filmora/article-images/default-discord-status.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**Online:**
+
+The default status of all Discord accounts is the Online mode! This mode allows you to receive instant notifications and show up in your contact list normally. It's indicated by a small green circle in your profile photo.
+
+**Idle**:
+
+The Idle mode is the same as the online status, though this status usually comes up automatically when you're away from the keyboard for a while, and it turns off as soon there's a movement within the Discord platform. In contrast, if the Idle status is set manually, you'll have to put it to online status yourself, and it's signified with a moon-shaped icon on your profile photo.
+
+**Do not disturb:**
+
+Do Not Disturb, also known as DND mode, disables all notifications from the Discord app, and it's indicated using a red status on your profile photo.
+
+**Invisible:**
+
+Invisible Mode allows you to use Discord while appearing Offline to other members, although the typing indicator will be displayed to your contact while typing. It's indicated with a gray icon on your profile.
+
+**Custom:**
+
+Custom status enables you to add messages that you want to be displayed on your profile. You can add up to a 128 character text limit, including emojis.
+
+## **Part 2: How Do You Make and Get Custom Status on Discord?**
+
+As I said before, Discord custom status enables you to add messages you want to display on your discord profile. And many folks use it as a means of letting their contacts know the service they offer. Also, this Custom status option will allow you to add emojis as you like. The text limit is 128 characters!
+
+Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
+
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+
+![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
+
+Step 2: Type in any text message of your choice, and you can also add an emoji if you wish. Afterward, select how long you want the new custom message to display on your status from the drop-down list (Clear tomorrow, Clear in 4 hours, Clear in 1 hour, Clear in 30 minutes, Don't clear) and click Save to finalize the operation.
+
+Yeah!! Now your status has been changed to custom!
+
+![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+
+Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
+
+Step 1: Once again, click on the profile icon and select Set status.
+
+Step 2: Select the Set a custom status option.
+
+Step 3: Click the Cross icon to clear custom status.
+
+![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## **Part 3: How to Change Discord Status on Windows/Mac?**
+
+Changing discord status on windows/Mac computers is very simple, and the Discord interface for both Mac and Windows systems is the same. Thus there's no need to use any distinct steps. If you have read the content above, you may already know how to change the status on Discord.
+
+**Step 1:** Launch the Discord app on your Mac or Windows system and login into your account.
+
+**Step 2:** Navigate to the bottom left corner of the screen and click on the profile icon showing your account status.
+
+**Step 3:**Up next, click on the Set status option! This time you'll see four preset statuses to choose excluding the Custom status option. All you've got to do is choose your preferred option to proceed.
+
+## **Part 4: How to Change Discord Status on Android, iPhone, or iPad?**
+
+The first question that hits the brain when many folks see this question is ‘Does discord possess the same interface for both Android, iPhone, and iPad?
+
+Well, a quick answer is Yes!
+
+You only have to follow the stepwise guide below to change your status on Discord using the mobile app on Android, iPad, or iPhone.
+
+**Step 1:** Open the Discord mobile app on your Android, iPhone, or iPad device and sign in to your account.
+
+**Step 2:** Click the menu bar at the top left corner of the screen > hit the profile icon at the bottom right corner of the screen.
+
+**Step 3:**Select Set Status on the new page.
+
 ![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
@@ -676,16 +467,156 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 A concise answer to this question is, Discord status cannot be changed automatically, but you can set a time limit that you want a custom text to display on your status. However, the game activity status option can be updated automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### **2\. How can you tell if someone with their status set to offline is online, on Discord?**
 
 Detecting whether someone is online when their Discord status is set to invisible is not a walk in the park. But one unique way to tell if they're online is by spotting them via voice chat or when typing a message.
 
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Today, many folks are yet to understand the logic attached to changing their status on Discord. While some do it to let their contacts know they're away from the keyboard or busy, others use the custom status as a means of selling the service they offer to their connection.
+
+ Besides, there are lots of benefits when you ensure keeping a valid discord status, and one is that it'll enable your families, friends, and co-workers to know your current state before leaving you a message. Read further to learn how to change your status on Discord fast and easily.
+
+* **[Part 1: What Does the Discord Statuses Mean?](#part1)**
+* **[Part 2: How Do You Make and Get Custom Status on Discord?](#part2)**
+* **[Part 3: How to Change Discord Status on Windows/Mac?](#part3)**
+* **[Part 4: How to Change Discord Status on Android, iPhone, or iPad?](#part4)**
+* **[Part 5: How to Show What Game You're Playing on Discord?](#part5)**
+* **[Part 6: FAQs about Discord Status](#part6)**
+
+## **Part 1: What Does the Discord Statuses Mean?**
+
+Discord status is a changeable notification setting that enables users to set their current condition either AFK, online, or custom! This status consists of four options (online, Idle, Do not disturb, Invisible, and Custom) which will be explained below.
+
+![default discord status options](https://images.wondershare.com/filmora/article-images/default-discord-status.jpg)
+
+**Online:**
+
+The default status of all Discord accounts is the Online mode! This mode allows you to receive instant notifications and show up in your contact list normally. It's indicated by a small green circle in your profile photo.
+
+**Idle**:
+
+The Idle mode is the same as the online status, though this status usually comes up automatically when you're away from the keyboard for a while, and it turns off as soon there's a movement within the Discord platform. In contrast, if the Idle status is set manually, you'll have to put it to online status yourself, and it's signified with a moon-shaped icon on your profile photo.
+
+**Do not disturb:**
+
+Do Not Disturb, also known as DND mode, disables all notifications from the Discord app, and it's indicated using a red status on your profile photo.
+
+**Invisible:**
+
+Invisible Mode allows you to use Discord while appearing Offline to other members, although the typing indicator will be displayed to your contact while typing. It's indicated with a gray icon on your profile.
+
+**Custom:**
+
+Custom status enables you to add messages that you want to be displayed on your profile. You can add up to a 128 character text limit, including emojis.
+
+## **Part 2: How Do You Make and Get Custom Status on Discord?**
+
+As I said before, Discord custom status enables you to add messages you want to display on your discord profile. And many folks use it as a means of letting their contacts know the service they offer. Also, this Custom status option will allow you to add emojis as you like. The text limit is 128 characters!
+
+Anyway, creating a custom status is as easy as plucking a low hanging fruit. All you've got to do is follow the steps below to set your status on discord to custom.
+
+Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
+
+![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
+
+Step 2: Type in any text message of your choice, and you can also add an emoji if you wish. Afterward, select how long you want the new custom message to display on your status from the drop-down list (Clear tomorrow, Clear in 4 hours, Clear in 1 hour, Clear in 30 minutes, Don't clear) and click Save to finalize the operation.
+
+Yeah!! Now your status has been changed to custom!
+
+![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+
+Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
+
+Step 1: Once again, click on the profile icon and select Set status.
+
+Step 2: Select the Set a custom status option.
+
+Step 3: Click the Cross icon to clear custom status.
+
+![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
+
+## **Part 3: How to Change Discord Status on Windows/Mac?**
+
+Changing discord status on windows/Mac computers is very simple, and the Discord interface for both Mac and Windows systems is the same. Thus there's no need to use any distinct steps. If you have read the content above, you may already know how to change the status on Discord.
+
+**Step 1:** Launch the Discord app on your Mac or Windows system and login into your account.
+
+**Step 2:** Navigate to the bottom left corner of the screen and click on the profile icon showing your account status.
+
+**Step 3:**Up next, click on the Set status option! This time you'll see four preset statuses to choose excluding the Custom status option. All you've got to do is choose your preferred option to proceed.
+
+## **Part 4: How to Change Discord Status on Android, iPhone, or iPad?**
+
+The first question that hits the brain when many folks see this question is ‘Does discord possess the same interface for both Android, iPhone, and iPad?
+
+Well, a quick answer is Yes!
+
+You only have to follow the stepwise guide below to change your status on Discord using the mobile app on Android, iPad, or iPhone.
+
+**Step 1:** Open the Discord mobile app on your Android, iPhone, or iPad device and sign in to your account.
+
+**Step 2:** Click the menu bar at the top left corner of the screen > hit the profile icon at the bottom right corner of the screen.
+
+**Step 3:**Select Set Status on the new page.
+
+![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
+
+**Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
+
+## **Part 5: How do you show what game you're playing on Discord?**
+
+Do you know Discord is a hookup outlet where gamers connect? Sound surprising? Yeah, with Discord, you can relate with like-minded gamers using its advanced features and customization options. You can Screen Share, add audio bots, and do lots more for free without hassles. In addition to that, Discord has an automatic detective system that looks at all that's running on your device and mostly recognizes popular verified game, though you can edit unverified games and programs using the steps outlined below.
+
+Sit back and learn how to show off what you're up to in the gaming realm!
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### **How to Display Game Status on Discord Desktop**
+
+**Step 1:** Launch the Discord app and click on the User Settings icon
+
+![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
+
+**Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
+
+![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
+
+**Step 3:**Finally, click the Toggle to turn on the Game Status.
+
+### **How to Display Game Status on Discord Mobile App**
+
+**Step 1:** Launch the Discord mobile app and click on the three horizontal lines in the top-right corner of the pane to select the profile icon at the bottom-left corner.
+
+**Step 2:** On the new page, scroll down and select the Game Activity option to proceed.
+
+**Step 3:**On the Game Tab, all you've got to do is to toggle the switch to show your current game activity.
+
+## **FAQs About Discord Status**
+
+### **1\. How can you change the Discord status automatically?**
+
+A concise answer to this question is, Discord status cannot be changed automatically, but you can set a time limit that you want a custom text to display on your status. However, the game activity status option can be updated automatically.
+
+### **2\. How can you tell if someone with their status set to offline is online, on Discord?**
+
+Detecting whether someone is online when their Discord status is set to invisible is not a walk in the park. But one unique way to tell if they're online is by spotting them via voice chat or when typing a message.
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -707,8 +638,12 @@ Follow @Richard Bennett
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Your Ultimate Strategy for Engaging Streams on Discord
 
 Discord is a great communication tool that also offers live streaming services. You can use this platform to engage and connect to your audience by conducting a live session. Through its “Voice Chat” feature, you can directly interact with your audience in a comfortable environment. If you are unaware of how to **go live on Discord**, this article can help you.
@@ -726,17 +661,18 @@ For your assistance, this article will instantly address how to live **stream on
 * [Bonus Tip: Easily Record and Edit your Stream with Filmora](#part8)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: What is Discord?
 
 [Discord](https://discord.com/) is a popular platform created to offer a better communication experience between game players. The major reason for the massive recognition of Discord is its ability to generate servers instantly. Game players and other users can instantly create voice or text servers for enhanced communication.
 
 Discord provides excellent flexibility to users by providing high-quality audio services with no background noise. Even if your friends are in different parts of the world, you can chat with them smoothly. You can create private and public servers in Discord to communicate with people having similar interests.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![discord interface](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-1.jpg)
 
 Along with using Discord Voice and Text chat features, you can live stream your gameplays. The live streaming on Discord won't be a public show, as it will only be confined to your selected server. Through this, you can ask your friends for assistance while playing games. Moreover, Discord is also capable of capturing other screens. Hence, it’s a great platform for professionals, game lovers, and other individuals to communicate efficiently.
@@ -745,60 +681,36 @@ Along with using Discord Voice and Text chat features, you can live stream your 
 
 Many social media platforms put restrictions on users for live streaming. Some platforms require you to have a specific number of followers in order to conduct live streaming. However, in Discord, you don’t have to worry about such restrictions. By creating a server and channel on Discord, you can easily go for live streaming. Check the below prerequisites for performing a **live stream on Discord**:
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Create your Discord Server
 
 Step1 Open your Discord and hit the “Plus” icon given on the left side. It will open a small menu where you can select a template to start or create your own server.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![select the server template](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-2.jpg)
 
 Step2 If you want to create your server, click "Create My Own." Now select the type of server you want to create. Once done, create the server name and click the "Create" button.
 
 ![choose the type of server](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### 2\. Create your Discord Channel
 
 Step1 To create a Discord channel, open any of your servers from the left side. Now tap on the "Plus" icon adjacent to "Voice Channels."
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on the plus icon](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-4.jpg)
 
 Step2 You can either create a “Text” channel or a “Voice” channel. After choosing the channel type, create a channel name. You can also enable the “Private Channel” option to create a private channel. Once done, click on the “Create Channel” button.
 
 ![adjust the channel settings](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Part 3: How to Stream Videos on Discord
 
 Once you have created a server and channel, you can begin your live streaming. Discord provides you with an option through which you can stream your videos instantly. To know the process, check the below steps:
 
 Step1 Open Discord and navigate to your desired server. Now proceed to your voice channel and click on the “Share Your Screen” button given below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![tap on share icon](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-6.jpg)
 
 Step2 Select the screen you want to stream in the "Applications" tab. From the new menu, you can adjust the stream quality, such as resolution and frame rate. After adjusting the live streaming settings, click on the "Go Live" button.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press the go live button](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-7.jpg)
 
 ## Part 4: How to Stream your Webcam on Discord
@@ -811,46 +723,20 @@ Step1 Once you have opened a server on Discord, go to your Voice channel. From t
 
 Step2 It will open a new screen through which you can start an activity or share your screen. Moreover, you can also invite others to join your webcam streaming. Once done with your activities, click on the “Red” button to disconnect.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![webcam live streaming activated](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-9.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How to Change the Shared Screen on Discord
 
 Do you want to change a shared screen on Discord? If you want to open a presentation, web browser, or any other application, Discord can easily change the shared screen. Through this facility, you can quickly shift between multiple screens without hassle.
 
 Step1 If you are live streaming your shared screen, you can instantly change windows on Discord. For this, click on the “Gear” icon on your live streaming screen to open settings.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on gear icon](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-10.jpg)
 
 Step2 From the settings menu, click on "Change Windows." Now select the screen that you want to change. After choosing the required screen, hit on the "Go Live" button.
 
 ![select change windows option](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 6: How to Stream Discord on my Mobile Phone?
 
 Discord has the same operating systems on Android and iOS devices. That’s why the steps to **stream on** **Discord** on both these devices are the same.
@@ -861,18 +747,6 @@ Step1 Open Discord on your mobile and select the desired server. Now choose the 
 
 Step2 Now tap "Join Voice" to initiate live streaming. Here, you can turn on your camera and share the screen. You can also mute your voice from the given options. Once done with live streaming, tap on the “Red” button.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access your voice channel](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-13.jpg)
 
 ## Part 7: FAQs about the live stream on Discord
@@ -885,9 +759,6 @@ During the pandemic, up to 50 people were able to join live streaming on Discord
 
 Open Discord and navigate to the “User Settings” given at the bottom of the screen. Select the "Game Activity" section and activate the option "Display currently running game as a status message." Now click on the “Add it” button and choose the type of games you want to play. Once done, Discord would be able to detect the type of game automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. How to share a video on Discord?
 
 On your computer, launch Discord and go to your desired channel. On the chat box space, click on the “Plus” icon. Now browse the video from your system that you want to share. Click on the "Open" button and select the "Upload" option. By doing so, you can easily share videos.
@@ -916,9 +787,6 @@ Part 1: What is Discord?
 
 Discord provides excellent flexibility to users by providing high-quality audio services with no background noise. Even if your friends are in different parts of the world, you can chat with them smoothly. You can create private and public servers in Discord to communicate with people having similar interests.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![discord interface](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-1.jpg)
 
 Along with using Discord Voice and Text chat features, you can live stream your gameplays. The live streaming on Discord won't be a public show, as it will only be confined to your selected server. Through this, you can ask your friends for assistance while playing games. Moreover, Discord is also capable of capturing other screens. Hence, it’s a great platform for professionals, game lovers, and other individuals to communicate efficiently.
@@ -935,9 +803,6 @@ Step1 Open your Discord and hit the “Plus” icon given on the left side. It w
 
 Step2 If you want to create your server, click "Create My Own." Now select the type of server you want to create. Once done, create the server name and click the "Create" button.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose the type of server](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-3.jpg)
 
 ### 2\. Create your Discord Channel
@@ -948,14 +813,8 @@ Step1 To create a Discord channel, open any of your servers from the left side. 
 
 Step2 You can either create a “Text” channel or a “Voice” channel. After choosing the channel type, create a channel name. You can also enable the “Private Channel” option to create a private channel. Once done, click on the “Create Channel” button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![adjust the channel settings](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to Stream Videos on Discord
 
 Once you have created a server and channel, you can begin your live streaming. Discord provides you with an option through which you can stream your videos instantly. To know the process, check the below steps:
@@ -966,13 +825,6 @@ Step1 Open Discord and navigate to your desired server. Now proceed to your voic
 
 Step2 Select the screen you want to stream in the "Applications" tab. From the new menu, you can adjust the stream quality, such as resolution and frame rate. After adjusting the live streaming settings, click on the "Go Live" button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![press the go live button](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-7.jpg)
 
 ## Part 4: How to Stream your Webcam on Discord
@@ -985,14 +837,8 @@ Step1 Once you have opened a server on Discord, go to your Voice channel. From t
 
 Step2 It will open a new screen through which you can start an activity or share your screen. Moreover, you can also invite others to join your webcam streaming. Once done with your activities, click on the “Red” button to disconnect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![webcam live streaming activated](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How to Change the Shared Screen on Discord
 
 Do you want to change a shared screen on Discord? If you want to open a presentation, web browser, or any other application, Discord can easily change the shared screen. Through this facility, you can quickly shift between multiple screens without hassle.
@@ -1003,9 +849,6 @@ Step1 If you are live streaming your shared screen, you can instantly change win
 
 Step2 From the settings menu, click on "Change Windows." Now select the screen that you want to change. After choosing the required screen, hit on the "Go Live" button.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select change windows option](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-11.jpg)
 
 ## Part 6: How to Stream Discord on my Mobile Phone?
@@ -1020,9 +863,6 @@ Step2 Now tap "Join Voice" to initiate live streaming. Here, you can turn on you
 
 ![access your voice channel](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 7: FAQs about the live stream on Discord
 
 ### 1\. How many people can watch my Discord live simultaneously?
@@ -1068,8 +908,24 @@ Have you ever **streamed on Discord** before? Discord is a great communication p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-step-by-step-streaming-on-discord-tips-to-engage-and-retain-viewers/"><u>[New] 2024 Approved Step-by-Step Streaming on Discord Tips to Engage and Retain Viewers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-easy-extraction-of-social-media-videos-with-chrome-plugs/"><u>[New] Easy Extraction of Social Media Videos with Chrome Plugs</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-elevate-your-chats-advanced-message-pinning-techniques/"><u>[New] Elevate Your Chats Advanced Message Pinning Techniques</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unleash-the-power-of-messaging-mastering-pinning-on-discord/"><u>[Updated] 2024 Approved Unleash the Power of Messaging Mastering Pinning on Discord</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-5-star-channel-cutting-long-urls-down-for-youtube-videos-for-2024/"><u>[Updated] 5-Star Channel Cutting Long URLs Down for YouTube Videos for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-from-novice-to-nexus-earning-the-status-as-a-validated-discord-partner/"><u>[Updated] In 2024, From Novice to Nexus Earning the Status as a Validated Discord Partner</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-learn-to-use-emoji-and-stylings-in-discord-threads/"><u>[Updated] In 2024, Learn To Use Emoji & Stylings in Discord Threads</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-discoresponders-handbook-react-and-converse/"><u>2024 Approved The DiscoResponder's Handbook React and Converse</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-quintessential-new-wave-of-facebook-updates/"><u>2024 Approved The Quintessential New Wave of Facebook Updates</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/2024-excel/"><u>2024 Excel的三大回复技巧：易于操作的工作表重建方法</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-14-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 14 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-lava-yuva-2-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Lava Yuva 2 Phone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-disconnect-your-discord-account/"><u>In 2024, Disconnect Your Discord Account</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-how-to-establish-and-run-a-discochannel-successfully/"><u>In 2024, How to Establish and Run a DiscoChannel Successfully</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-setting-up-facebook-live-your-roku-route/"><u>In 2024, Setting Up Facebook LIVE Your Roku Route</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-14-ultra-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi 14 Ultra Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transform-your-ebook-with-confidence-the-ultimate-7-step-process-for-converting-epub-to-txt-now-working-flawlessly/"><u>Transform Your eBook with Confidence: The Ultimate 7-Step Process for Converting ePub to TXT - Now Working Flawlessly</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Silence to Significance  Replying in Discord Chats for 2024\""
-date: 2024-07-29T00:54:44.314Z
-updated: 2024-07-30T00:54:44.314Z
+date: 2024-10-21T03:14:05.454Z
+updated: 2024-10-24T02:16:28.500Z
 tags:
   - ai video
   - ai discord
@@ -51,9 +51,6 @@ This technique works for both the browser and the desktop applications; use it w
 
 1. Locate the message you wish to reply to
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
 
 1. Hover your cursor on the comment as you see icons on the right of the message
@@ -66,8 +63,12 @@ This technique works for both the browser and the desktop applications; use it w
 ![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Reply to a Certain Message on Discord Mobile
 
 Replying on the mobile app is similar to Desktop. Here's how to do it:
@@ -76,70 +77,59 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 2. Hold down on the comment until a list of options appears on the screen
 3. Choose the "Reply" option
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
 
-1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
-2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
-
-After pressing the send button, you should now be able to see your message in the channel.
-
-## Part 3: How to Set Auto Reply on Discord
-
-It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
-
-Here's an example of how you can implement this feature in your server. In this example, we are going to be using the Dyno bot:
-
-1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
-
-![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
-
-1. Now you will have to sign in to your Discord account from your browser
-2. Next, you will have to pick which server you want to invite the bot to
-3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
-
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
-
-1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
-
-![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
-
-After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## Part 4: How to Reply to Messages with Reactions on Discord
-
-Discord allows you to react to posts with emojis. To respond with an emoji:
-
-1. Hover your mouse cursor over the message you wish to react to
-2. Click the smiley face titled "Add reaction" on the message's far-right
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
-![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
-
-1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
+2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
+
+After pressing the send button, you should now be able to see your message in the channel.
+
+## Part 3: How to Set Auto Reply on Discord
+
+It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
+
+Here's an example of how you can implement this feature in your server. In this example, we are going to be using the Dyno bot:
+
+1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
+
+![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
+
+1. Now you will have to sign in to your Discord account from your browser
+2. Next, you will have to pick which server you want to invite the bot to
+3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
+
+![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
+
+1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
+
+![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
+
+After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
+
+## Part 4: How to Reply to Messages with Reactions on Discord
+
+Discord allows you to react to posts with emojis. To respond with an emoji:
+
+1. Hover your mouse cursor over the message you wish to react to
+2. Click the smiley face titled "Add reaction" on the message's far-right
+
+![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
+
+1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
+
 ![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
 
 Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
@@ -151,10 +141,14 @@ Furthermore, to react to a message with an emoji that has already been used as a
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
 
@@ -163,9 +157,6 @@ On the other hand, multi-line quoting is when you need to quote a paragraph or b
 
 ![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -230,9 +221,6 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 
 After pressing the send button, you should now be able to see your message in the channel.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Part 3: How to Set Auto Reply on Discord
 
 It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
@@ -241,9 +229,6 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
@@ -265,10 +250,20 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 1. Hover your mouse cursor over the message you wish to react to
 2. Click the smiley face titled "Add reaction" on the message's far-right
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
 
@@ -278,6 +273,13 @@ Furthermore, to react to a message with an emoji that has already been used as a
 
 1. Click on the emoji, and it would increase the total number of responses by 1
 2. Hovering over the emoji will also let you know the names of the people who reacted to the message
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: How to Quote Messages on Discord?
 
@@ -324,18 +326,12 @@ In this article, we will cover the following parts on how to reply to messages o
 * [Part 4: Replying to Messages with Reactions on Discord](#part4)
 * [Part 5: Quoting Messages on Discord?](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Reply to a Specific Message on Discord on Desktop
 
 This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
 
 1. Locate the message you wish to reply to
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
 
 1. Hover your cursor on the comment as you see icons on the right of the message
@@ -362,9 +358,6 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 
 After pressing the send button, you should now be able to see your message in the channel.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Part 3: How to Set Auto Reply on Discord
 
 It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
@@ -373,30 +366,26 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
 
 After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to Reply to Messages with Reactions on Discord
 
@@ -409,23 +398,31 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
 
 1. Click on the emoji, and it would increase the total number of responses by 1
 2. Hovering over the emoji will also let you know the names of the people who reacted to the message
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5: How to Quote Messages on Discord?
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
@@ -433,9 +430,6 @@ On the other hand, multi-line quoting is when you need to quote a paragraph or b
 1. Add > after every line. However, this can become annoying
 2. Instead, add >>> at the start of the paragraph you wish to quote
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -470,18 +464,12 @@ In this article, we will cover the following parts on how to reply to messages o
 * [Part 4: Replying to Messages with Reactions on Discord](#part4)
 * [Part 5: Quoting Messages on Discord?](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Reply to a Specific Message on Discord on Desktop
 
 This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
 
 1. Locate the message you wish to reply to
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
 
 1. Hover your cursor on the comment as you see icons on the right of the message
@@ -491,9 +479,6 @@ This technique works for both the browser and the desktop applications; use it w
 5. Write your reply in the text box. You will now see a banner telling you who you are replying to. There will also be a "@" sign over the text box, which will tag the person you respond to (this can be turned off with a click)
 6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
 
 ## Part 2: How to Reply to a Certain Message on Discord Mobile
@@ -504,14 +489,6 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 2. Hold down on the comment until a list of options appears on the screen
 3. Choose the "Reply" option
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
 
 1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
@@ -519,9 +496,6 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 
 After pressing the send button, you should now be able to see your message in the channel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to Set Auto Reply on Discord
 
 It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
@@ -530,19 +504,12 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
@@ -558,9 +525,6 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 1. Hover your mouse cursor over the message you wish to react to
 2. Click the smiley face titled "Add reaction" on the message's far-right
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
 
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
@@ -572,9 +536,6 @@ Furthermore, to react to a message with an emoji that has already been used as a
 1. Click on the emoji, and it would increase the total number of responses by 1
 2. Hovering over the emoji will also let you know the names of the people who reacted to the message
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How to Quote Messages on Discord?
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
@@ -607,8 +568,6 @@ Follow @Richard Bennett
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -617,8 +576,16 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-talk-the-walk-engaging-others-on-discord-desktopmobile-for-2024/"><u>[New] Talk the Walk Engaging Others on Discord Desktop/Mobile for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essentials-of-high-quality-audio-interfaces-in-podcasting/"><u>[New] The Essentials of High-Quality Audio Interfaces in Podcasting</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-secrets-of-successful-ps3-game-recording-tactics/"><u>[Updated] 2024 Approved Secrets of Successful PS3 Game Recording Tactics</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discovering-the-basics-of-discords-spoiler-tags-for-2024/"><u>[Updated] Discovering the Basics of Discord's Spoiler Tags for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-charting-your-course-to-certification-a-guide-to-verified-partnership/"><u>2024 Approved Charting Your Course to Certification A Guide to Verified Partnership</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-redmi-note-13-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Xiaomi Redmi Note 13 5G Without PUK Codes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-approach-stitching-gopro-sequences-in-holoscopic-clips/"><u>Innovative Approach Stitching GoPro Sequences in Holoscopic Clips</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/launching-a-channel-a-comprehensive-discosteps-guide-for-2024/"><u>Launching a Channel A Comprehensive DiscoSteps Guide for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy A05? | Dr.fone</u></a></li>
+</ul></div>
 

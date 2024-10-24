@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Leveraging Discord for Efficient Media Broadcasting Techniques for 2024"
-date: 2024-07-29T00:56:20.686Z
-updated: 2024-07-30T00:56:20.686Z
+date: 2024-10-17T20:19:44.630Z
+updated: 2024-10-24T03:41:30.061Z
 tags:
   - ai video
   - ai discord
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/6aaf83c5a09999402e25379b87750585dedbdeb12
 
 # How to Send Videos on Discord
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -51,9 +48,6 @@ You’ll then just need to find the file on your computer, and double click on i
 
 From there, it’s as simple as clicking the upload button. Once it’s ready, the video will be in the chat window for anyone in the server to watch, or for your friend if you’ve sent it privately. And if they want to download it, they’ll just need to click the download button (a downward-facing arrow) at the top right of the video.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![how to upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-2.png)
 
 It’s worth noting that, while Discord will play most video formats, it can’t manage everything. If you upload a format that Discord isn’t compatible with, then it won’t show a video player – instead, the file will just be uploaded. Other people can still download it to watch on their own devices.
@@ -88,9 +82,6 @@ All you need to do is open a video in Filmora by clicking the arrow next to Impo
 
 This will open the Instant Cutter window where you can click Open File to add your video. From here you can trim your files and export them in multiple sections. There are different ways that you can do this, and while each is a simple process, there are still a few steps to follow.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For more detail, check out [this post](https://tools.techidaily.com/wondershare/filmora/download/) for a step-by-step guide on the different ways you can trim a video in Filmora.
@@ -121,9 +112,6 @@ You can also use MOV files, but not everyone will be able to play them, and FLAC
 
 If you find a video on Discord that you want to share on a different server or in a private DM, you can use the download icon to save it locally. Then, follow the steps above to upload the video to the server or DM chat window where you want to share it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -146,51 +134,56 @@ So, whether it’s a compilation of your best gaming moments that you’ve caref
 * [Part 4: FAQs About Uploading Videos to Discord](#part4)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 1: How to Send Videos on Discord PC
+
+It’s actually pretty simple to send videos on Discord when using a PC, providing they aren’t too large a file size.
+
+Firstly, you just need to navigate to the channel or private message where you want to send the video. Just find the right option on the list of servers you’re a member of, or head to your message inbox to find the user you want to send it to privately.
+
+Once you’re in the right place, click on the plus (+) icon that you’ll find to the left of the chatbox at the bottom of the screen where you’d normally type your message.
+
+You’ll then just need to find the file on your computer, and double click on it. It’ll then bring up a pop-up for the video where you can add a comment, which will sit above the video (ideal if you need to give context on why you’re sharing it). You can also mark it as a spoiler – useful if you’re sharing a gaming tip but you don’t want to spoil the story for anyone who’s not reached that point yet.
+
+![upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-1.png)
+
+From there, it’s as simple as clicking the upload button. Once it’s ready, the video will be in the chat window for anyone in the server to watch, or for your friend if you’ve sent it privately. And if they want to download it, they’ll just need to click the download button (a downward-facing arrow) at the top right of the video.
+
+![how to upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-2.png)
+
+It’s worth noting that, while Discord will play most video formats, it can’t manage everything. If you upload a format that Discord isn’t compatible with, then it won’t show a video player – instead, the file will just be uploaded. Other people can still download it to watch on their own devices.
+
+Also, there’s a strict file limit of 8MB. This isn’t huge at all – while there’s no definitive file size for video (as it depends on file type, resolution, compression, etc) it’s unlikely to be more than 60 seconds of footage, and could just be a few seconds. If the video you want to upload is more than 8MB, carry on reading below to find out how.
+
+## Part 2: How to Send Videos on Discord Mobile
+
+The process to send video on Discord Mobile is pretty similar both with iOS and Android, but with just a few minor tweaks.
+
+Firstly, you still need to navigate to either the server or inbox where you want to share the video. You can then click the ‘Photo Selector’ button directly to the left of the chatbox.
+
+This will open your phone’s gallery, but it’ll only be searching for photos. You instead want the File Selector, which will be the third icon along – it looks like a text document with a folded-over corner.
+
+Click this and it’ll give you the option to directly upload a video from your phone’s Downloads folder. To send a video that’s stored elsewhere, click on the Expand arrow at the top left of the menu. This will send you to your phone’s file navigation system where you can find the video you want.
+
+Once you’ve selected the video, just hit the blue Send icon to send your video to the chat. Again you can add a message as a caption, but this time it’ll just be in the normal message box rather than a dedicated comment box before you hit upload.
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-## Part 1: How to Send Videos on Discord PC
-
-It’s actually pretty simple to send videos on Discord when using a PC, providing they aren’t too large a file size.
-
-Firstly, you just need to navigate to the channel or private message where you want to send the video. Just find the right option on the list of servers you’re a member of, or head to your message inbox to find the user you want to send it to privately.
-
-Once you’re in the right place, click on the plus (+) icon that you’ll find to the left of the chatbox at the bottom of the screen where you’d normally type your message.
-
-You’ll then just need to find the file on your computer, and double click on it. It’ll then bring up a pop-up for the video where you can add a comment, which will sit above the video (ideal if you need to give context on why you’re sharing it). You can also mark it as a spoiler – useful if you’re sharing a gaming tip but you don’t want to spoil the story for anyone who’s not reached that point yet.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
-![upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-1.png)
-
-From there, it’s as simple as clicking the upload button. Once it’s ready, the video will be in the chat window for anyone in the server to watch, or for your friend if you’ve sent it privately. And if they want to download it, they’ll just need to click the download button (a downward-facing arrow) at the top right of the video.
-
-![how to upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-2.png)
-
-It’s worth noting that, while Discord will play most video formats, it can’t manage everything. If you upload a format that Discord isn’t compatible with, then it won’t show a video player – instead, the file will just be uploaded. Other people can still download it to watch on their own devices.
-
-Also, there’s a strict file limit of 8MB. This isn’t huge at all – while there’s no definitive file size for video (as it depends on file type, resolution, compression, etc) it’s unlikely to be more than 60 seconds of footage, and could just be a few seconds. If the video you want to upload is more than 8MB, carry on reading below to find out how.
-
-## Part 2: How to Send Videos on Discord Mobile
-
-The process to send video on Discord Mobile is pretty similar both with iOS and Android, but with just a few minor tweaks.
-
-Firstly, you still need to navigate to either the server or inbox where you want to share the video. You can then click the ‘Photo Selector’ button directly to the left of the chatbox.
-
-This will open your phone’s gallery, but it’ll only be searching for photos. You instead want the File Selector, which will be the third icon along – it looks like a text document with a folded-over corner.
-
-Click this and it’ll give you the option to directly upload a video from your phone’s Downloads folder. To send a video that’s stored elsewhere, click on the Expand arrow at the top left of the menu. This will send you to your phone’s file navigation system where you can find the video you want.
-
-Once you’ve selected the video, just hit the blue Send icon to send your video to the chat. Again you can add a message as a caption, but this time it’ll just be in the normal message box rather than a dedicated comment box before you hit upload.
 
 ## Part 3: How to Send Long Videos on Discord That Are More Than 8MB
 
@@ -226,120 +219,13 @@ So, if you want to upload massive files, you’ll need to decide whether to choo
 
 The only drawback to this option is that it stops other users from being able to download the video directly, and you may need to look at a file sharing alternative such as Dropbox if you want to send the actual file.
 
-## FAQs About Uploading Videos to Discord
-
-#### Which Kind of Video Formats Can I Upload to Discord?
-
-You can send any filetype to another user on Discord, so that they can download it and watch it on their own device. But if you want to upload a video so that Discord embeds it, and makes it playable within the chat, you’re limited to only mp4 and WebM filetypes.
-
-You can also use MOV files, but not everyone will be able to play them, and FLAC files are supported on desktop only but not on mobile.
-
-#### How Can I Upload Saved Videos to Discord?
-
-If you find a video on Discord that you want to share on a different server or in a private DM, you can use the download icon to save it locally. Then, follow the steps above to upload the video to the server or DM chat window where you want to share it.
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-The whole point of Discord is to bring together communities of like-minded people to talk, share ideas and have fun together. And this isn’t just limited to chatting but sometimes you’re going to want to share content, including videos.
-
-So, whether it’s a compilation of your best gaming moments that you’ve carefully edited together, a home movie that you want to share with friends, or just a funny clip that someone’s sent you that you want to pass on, here we’ll take you through how to send videos on Discord both on PC and mobile, and the likely issues you might face.
-
-* [Part 1: How to Send Videos on Discord PC](#part1)
-* [Part 2: How to Send Videos on Discord Mobile](#part2)
-* [Part 3: How to Send Long Videos on Discord That Are More Than 8MB](#part3)
-* [Part 4: FAQs About Uploading Videos to Discord](#part4)
-
-## Part 1: How to Send Videos on Discord PC
-
-It’s actually pretty simple to send videos on Discord when using a PC, providing they aren’t too large a file size.
-
-Firstly, you just need to navigate to the channel or private message where you want to send the video. Just find the right option on the list of servers you’re a member of, or head to your message inbox to find the user you want to send it to privately.
-
-Once you’re in the right place, click on the plus (+) icon that you’ll find to the left of the chatbox at the bottom of the screen where you’d normally type your message.
-
-You’ll then just need to find the file on your computer, and double click on it. It’ll then bring up a pop-up for the video where you can add a comment, which will sit above the video (ideal if you need to give context on why you’re sharing it). You can also mark it as a spoiler – useful if you’re sharing a gaming tip but you don’t want to spoil the story for anyone who’s not reached that point yet.
-
-![upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-1.png)
-
-From there, it’s as simple as clicking the upload button. Once it’s ready, the video will be in the chat window for anyone in the server to watch, or for your friend if you’ve sent it privately. And if they want to download it, they’ll just need to click the download button (a downward-facing arrow) at the top right of the video.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
-![how to upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-2.png)
-
-It’s worth noting that, while Discord will play most video formats, it can’t manage everything. If you upload a format that Discord isn’t compatible with, then it won’t show a video player – instead, the file will just be uploaded. Other people can still download it to watch on their own devices.
-
-Also, there’s a strict file limit of 8MB. This isn’t huge at all – while there’s no definitive file size for video (as it depends on file type, resolution, compression, etc) it’s unlikely to be more than 60 seconds of footage, and could just be a few seconds. If the video you want to upload is more than 8MB, carry on reading below to find out how.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 2: How to Send Videos on Discord Mobile
-
-The process to send video on Discord Mobile is pretty similar both with iOS and Android, but with just a few minor tweaks.
-
-Firstly, you still need to navigate to either the server or inbox where you want to share the video. You can then click the ‘Photo Selector’ button directly to the left of the chatbox.
-
-This will open your phone’s gallery, but it’ll only be searching for photos. You instead want the File Selector, which will be the third icon along – it looks like a text document with a folded-over corner.
-
-Click this and it’ll give you the option to directly upload a video from your phone’s Downloads folder. To send a video that’s stored elsewhere, click on the Expand arrow at the top left of the menu. This will send you to your phone’s file navigation system where you can find the video you want.
-
-Once you’ve selected the video, just hit the blue Send icon to send your video to the chat. Again you can add a message as a caption, but this time it’ll just be in the normal message box rather than a dedicated comment box before you hit upload.
-
-## Part 3: How to Send Long Videos on Discord That Are More Than 8MB
-
-So as we’ve said above, there is a file size limit when you’re using a free Discord account of just 8MB, which isn’t much at all. There are a few ways around this, so take your pick from the one that sounds best for you.
-
-#### 1\. Update to Discord Nitro to Upload 100MB
-
-The first option is possibly the simplest but it’s definitely not the cheapest, and that’s to pay for an upgrade to Discord Nitro. The paid version of Discord has a number of benefits, one of which is the increased file upload size of 100MB. It costs $4.99 per month or $49.99 per year, so if you’re likely to be regularly uploading videos that are lower than this limit, it might make sense.
-
-#### 2\. Cut Unwanted Clips/Compress Video with Filmora Video Editor
-
-The second choice would be to take your video and cut it into pieces, sending them one at a time. This might sound time-consuming but with Filmora’s Instant Cutter Tool, it’s really simple.
-
-All you need to do is open a video in Filmora by clicking the arrow next to Import and then choosing ‘Import with Instant Cutter Tool’.
-
-This will open the Instant Cutter window where you can click Open File to add your video. From here you can trim your files and export them in multiple sections. There are different ways that you can do this, and while each is a simple process, there are still a few steps to follow.
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-[![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For more detail, check out [this post](https://tools.techidaily.com/wondershare/filmora/download/) for a step-by-step guide on the different ways you can trim a video in Filmora.
-
-You can also try to compress your video size, which may let you keep the whole video at the expense of some of the quality. Again, using Filmora, this is easy. But also again, there are different ways to go about it.
-
-You could literally crop the video in order to trim some of the data, as the reduced viewing screen won’t be as big a file. You can also reduce the resolution, or convert your video to a format that uses fewer data. You’ll need to test it though, as converting to some video formats might result in blurry footage.
-
-There are advanced settings you can tinker with too, such as lowering the frame rate or the bit rate. Again, rather than go through all of those options in an epic article here, it’s easier to head to a post dedicated to these steps about [compress videos with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
-
-#### 3\. Upload to YouTube/Vimeo/Google Drive/Dropbox
-
-The final option is to upload your video to an online player or storage site, and link to it, rather than having Discord host the file. YouTube and Vimeo are the obvious options, but Streamable is another popular choice too with a free membership. YouTube’s maximum video uploads are 128GB, which is huge, while other sites like Streamable cap free accounts to 500MB per video.
-
-So, if you want to upload massive files, you’ll need to decide whether to choose YouTube or pay for an upgraded membership elsewhere. Wherever you host your video, once it’s online just grab the link and paste it into Discord to share your content.
-
-The only drawback to this option is that it stops other users from being able to download the video directly, and you may need to look at a file sharing alternative such as Dropbox if you want to send the actual file.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## FAQs About Uploading Videos to Discord
 
 #### Which Kind of Video Formats Can I Upload to Discord?
@@ -383,16 +269,137 @@ Once you’re in the right place, click on the plus (+) icon that you’ll find 
 
 You’ll then just need to find the file on your computer, and double click on it. It’ll then bring up a pop-up for the video where you can add a comment, which will sit above the video (ideal if you need to give context on why you’re sharing it). You can also mark it as a spoiler – useful if you’re sharing a gaming tip but you don’t want to spoil the story for anyone who’s not reached that point yet.
 
+![upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-1.png)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+From there, it’s as simple as clicking the upload button. Once it’s ready, the video will be in the chat window for anyone in the server to watch, or for your friend if you’ve sent it privately. And if they want to download it, they’ll just need to click the download button (a downward-facing arrow) at the top right of the video.
+
+![how to upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+It’s worth noting that, while Discord will play most video formats, it can’t manage everything. If you upload a format that Discord isn’t compatible with, then it won’t show a video player – instead, the file will just be uploaded. Other people can still download it to watch on their own devices.
+
+Also, there’s a strict file limit of 8MB. This isn’t huge at all – while there’s no definitive file size for video (as it depends on file type, resolution, compression, etc) it’s unlikely to be more than 60 seconds of footage, and could just be a few seconds. If the video you want to upload is more than 8MB, carry on reading below to find out how.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 2: How to Send Videos on Discord Mobile
+
+The process to send video on Discord Mobile is pretty similar both with iOS and Android, but with just a few minor tweaks.
+
+Firstly, you still need to navigate to either the server or inbox where you want to share the video. You can then click the ‘Photo Selector’ button directly to the left of the chatbox.
+
+This will open your phone’s gallery, but it’ll only be searching for photos. You instead want the File Selector, which will be the third icon along – it looks like a text document with a folded-over corner.
+
+Click this and it’ll give you the option to directly upload a video from your phone’s Downloads folder. To send a video that’s stored elsewhere, click on the Expand arrow at the top left of the menu. This will send you to your phone’s file navigation system where you can find the video you want.
+
+Once you’ve selected the video, just hit the blue Send icon to send your video to the chat. Again you can add a message as a caption, but this time it’ll just be in the normal message box rather than a dedicated comment box before you hit upload.
+
+## Part 3: How to Send Long Videos on Discord That Are More Than 8MB
+
+So as we’ve said above, there is a file size limit when you’re using a free Discord account of just 8MB, which isn’t much at all. There are a few ways around this, so take your pick from the one that sounds best for you.
+
+#### 1\. Update to Discord Nitro to Upload 100MB
+
+The first option is possibly the simplest but it’s definitely not the cheapest, and that’s to pay for an upgrade to Discord Nitro. The paid version of Discord has a number of benefits, one of which is the increased file upload size of 100MB. It costs $4.99 per month or $49.99 per year, so if you’re likely to be regularly uploading videos that are lower than this limit, it might make sense.
+
+#### 2\. Cut Unwanted Clips/Compress Video with Filmora Video Editor
+
+The second choice would be to take your video and cut it into pieces, sending them one at a time. This might sound time-consuming but with Filmora’s Instant Cutter Tool, it’s really simple.
+
+All you need to do is open a video in Filmora by clicking the arrow next to Import and then choosing ‘Import with Instant Cutter Tool’.
+
+This will open the Instant Cutter window where you can click Open File to add your video. From here you can trim your files and export them in multiple sections. There are different ways that you can do this, and while each is a simple process, there are still a few steps to follow.
+
+[![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For more detail, check out [this post](https://tools.techidaily.com/wondershare/filmora/download/) for a step-by-step guide on the different ways you can trim a video in Filmora.
+
+You can also try to compress your video size, which may let you keep the whole video at the expense of some of the quality. Again, using Filmora, this is easy. But also again, there are different ways to go about it.
+
+You could literally crop the video in order to trim some of the data, as the reduced viewing screen won’t be as big a file. You can also reduce the resolution, or convert your video to a format that uses fewer data. You’ll need to test it though, as converting to some video formats might result in blurry footage.
+
+There are advanced settings you can tinker with too, such as lowering the frame rate or the bit rate. Again, rather than go through all of those options in an epic article here, it’s easier to head to a post dedicated to these steps about [compress videos with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
+
+#### 3\. Upload to YouTube/Vimeo/Google Drive/Dropbox
+
+The final option is to upload your video to an online player or storage site, and link to it, rather than having Discord host the file. YouTube and Vimeo are the obvious options, but Streamable is another popular choice too with a free membership. YouTube’s maximum video uploads are 128GB, which is huge, while other sites like Streamable cap free accounts to 500MB per video.
+
+So, if you want to upload massive files, you’ll need to decide whether to choose YouTube or pay for an upgraded membership elsewhere. Wherever you host your video, once it’s online just grab the link and paste it into Discord to share your content.
+
+The only drawback to this option is that it stops other users from being able to download the video directly, and you may need to look at a file sharing alternative such as Dropbox if you want to send the actual file.
+
+## FAQs About Uploading Videos to Discord
+
+#### Which Kind of Video Formats Can I Upload to Discord?
+
+You can send any filetype to another user on Discord, so that they can download it and watch it on their own device. But if you want to upload a video so that Discord embeds it, and makes it playable within the chat, you’re limited to only mp4 and WebM filetypes.
+
+You can also use MOV files, but not everyone will be able to play them, and FLAC files are supported on desktop only but not on mobile.
+
+#### How Can I Upload Saved Videos to Discord?
+
+If you find a video on Discord that you want to share on a different server or in a private DM, you can use the download icon to save it locally. Then, follow the steps above to upload the video to the server or DM chat window where you want to share it.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+The whole point of Discord is to bring together communities of like-minded people to talk, share ideas and have fun together. And this isn’t just limited to chatting but sometimes you’re going to want to share content, including videos.
+
+So, whether it’s a compilation of your best gaming moments that you’ve carefully edited together, a home movie that you want to share with friends, or just a funny clip that someone’s sent you that you want to pass on, here we’ll take you through how to send videos on Discord both on PC and mobile, and the likely issues you might face.
+
+* [Part 1: How to Send Videos on Discord PC](#part1)
+* [Part 2: How to Send Videos on Discord Mobile](#part2)
+* [Part 3: How to Send Long Videos on Discord That Are More Than 8MB](#part3)
+* [Part 4: FAQs About Uploading Videos to Discord](#part4)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 1: How to Send Videos on Discord PC
+
+It’s actually pretty simple to send videos on Discord when using a PC, providing they aren’t too large a file size.
+
+Firstly, you just need to navigate to the channel or private message where you want to send the video. Just find the right option on the list of servers you’re a member of, or head to your message inbox to find the user you want to send it to privately.
+
+Once you’re in the right place, click on the plus (+) icon that you’ll find to the left of the chatbox at the bottom of the screen where you’d normally type your message.
+
+You’ll then just need to find the file on your computer, and double click on it. It’ll then bring up a pop-up for the video where you can add a comment, which will sit above the video (ideal if you need to give context on why you’re sharing it). You can also mark it as a spoiler – useful if you’re sharing a gaming tip but you don’t want to spoil the story for anyone who’s not reached that point yet.
+
 ![upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-1.png)
 
 From there, it’s as simple as clicking the upload button. Once it’s ready, the video will be in the chat window for anyone in the server to watch, or for your friend if you’ve sent it privately. And if they want to download it, they’ll just need to click the download button (a downward-facing arrow) at the top right of the video.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-2.png)
 
 It’s worth noting that, while Discord will play most video formats, it can’t manage everything. If you upload a format that Discord isn’t compatible with, then it won’t show a video player – instead, the file will just be uploaded. Other people can still download it to watch on their own devices.
@@ -427,9 +434,6 @@ All you need to do is open a video in Filmora by clicking the arrow next to Impo
 
 This will open the Instant Cutter window where you can click Open File to add your video. From here you can trim your files and export them in multiple sections. There are different ways that you can do this, and while each is a simple process, there are still a few steps to follow.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For more detail, check out [this post](https://tools.techidaily.com/wondershare/filmora/download/) for a step-by-step guide on the different ways you can trim a video in Filmora.
@@ -448,10 +452,6 @@ So, if you want to upload massive files, you’ll need to decide whether to choo
 
 The only drawback to this option is that it stops other users from being able to download the video directly, and you may need to look at a file sharing alternative such as Dropbox if you want to send the actual file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## FAQs About Uploading Videos to Discord
 
 #### Which Kind of Video Formats Can I Upload to Discord?
@@ -465,6 +465,13 @@ You can also use MOV files, but not everyone will be able to play them, and FLAC
 If you find a video on Discord that you want to share on a different server or in a private DM, you can use the download icon to save it locally. Then, follow the steps above to upload the video to the server or DM chat window where you want to share it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -483,8 +490,6 @@ Follow @Richard Bennett
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -493,8 +498,22 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-creating-engaging-content-for-effective-discord-live-streams/"><u>[New] 2024 Approved Creating Engaging Content for Effective Discord Live Streams</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-terminate-discord-access-dual-devices/"><u>[New] 2024 Approved Terminate Discord Access - Dual Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unleash-the-full-potential-of-discord-mastering-message-pinning-for-2024/"><u>[New] Unleash the Full Potential of Discord Mastering Message Pinning for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-rocket-league-wont-launch/"><u>[Solved] Rocket League Won’t Launch</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-maximizing-user-experience-for-live-streams-on-discord-platform/"><u>[Updated] 2024 Approved Maximizing User Experience for Live Streams on Discord Platform</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-guide-to-disable-facebook-broadcasts-mobiledesktop/"><u>[Updated] In 2024, Guide to Disable Facebook Broadcasts, Mobile/Desktop</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-complete-blueprint-to-infuse-life-with-emojis-in-your-discord-statuses/"><u>[Updated] In 2024, The Complete Blueprint to Infuse Life with Emojis in Your Discord Statuses</u></a></li>
+<li><a href="https://media-tips.techidaily.com/american-release-date-set-tivos-revolutionary-tv-systems-in-march-2023/"><u>American Release Date Set: TiVo's Revolutionary TV Systems in March 2023</u></a></li>
+<li><a href="https://fox-that.techidaily.com/banish-the-amber-hue-effective-methods-for-an-even-iphone-screen/"><u>Banish the Amber Hue: Effective Methods for an Even iPhone Screen</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-lenovo-thinkphone-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Lenovo ThinkPhone Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cookiebot-enabled-enhance-your-websites-data-collection-efficiency/"><u>Cookiebot-Enabled: Enhance Your Website's Data Collection Efficiency</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-inject-life-into-posts-change-your-voice-with-ease-on-insta/"><u>In 2024, Inject Life Into Posts Change Your Voice with Ease on Insta</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-master-the-art-of-chatting-with-discords-speaking-function/"><u>In 2024, Master the Art of Chatting with Discord's Speaking Function</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/lassen-sie-sich-die-top-strategien-ansehen-um-musiktitel-aus-itunes-direkt-auf-ihrem-iphone-zu-speichern/"><u>Lassen Sie Sich Die Top-Strategien Ansehen, Um Musiktitel Aus iTunes Direkt Auf Ihrem iPhone Zu Speichern!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-steps-how-to-effortlessly-transform-your-hd-videos-into-perfectly-playable-formats-for-psp-using-a-specialized-video-converter/"><u>Simple Steps: How to Effortlessly Transform Your HD Videos Into Perfectly Playable Formats for PSP Using a Specialized Video Converter</u></a></li>
+</ul></div>
 

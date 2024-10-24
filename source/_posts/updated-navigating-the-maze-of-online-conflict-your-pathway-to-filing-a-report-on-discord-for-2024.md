@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Navigating the Maze of Online Conflict  Your Pathway to Filing a Report on Discord for 2024\""
-date: 2024-07-29T00:57:54.926Z
-updated: 2024-07-30T00:57:54.926Z
+date: 2024-10-21T00:41:12.192Z
+updated: 2024-10-24T04:17:10.359Z
 tags:
   - ai video
   - ai discord
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/9681e2a52e53572a5b2a969e09d45c7b049caa711
 
 # How to Report Someone on Discord
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -62,10 +59,6 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
@@ -92,16 +85,17 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Report Users on Discord on iPhone And Android
 
 Just like on a desktop, you will first need to enable developer mode.
@@ -130,9 +124,6 @@ Now, you can send this information to the [Trust and Safety team](https://suppor
 2. Provide your email address along with the context behind the situation
 3. Click on "Submit"
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Part 3: How to Kick People on Discord
 
 Discord also allows you to take care of improper behavior yourself. If you are a moderator or server owner, you can kick people for violating Discord's guidelines.
@@ -162,190 +153,11 @@ If you happen to be a moderator or server owner, you have the authority to kick 
 4. Click on "Kick" again to confirm your decision
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-## Part 4: FAQs About Discord Reporting
-
-There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-### Can I Report People on Discord Anonymously?
-
-According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
-
-### What Happens If I Report Someone on Discord?
-
-After you report someone on Discord, the T&S team goes through the evidence to justify or negate your claims.
-
-Usually, this process takes a long time as the team evaluates whether the problem is part of a broader pattern.
-
-After conducting their research and deciding upon a punishment, the T&S team will contact the offender via email to inform them about their misconduct and the relevant consequences.
-
-In minor offenses, the T&S team will reach out to the reporter and teach them how to block the user rather than take direct action.
-
-### Can You Report Someone on Discord for Being Under 13?
-
-Individuals under the age of 13 are not permitted to use Discord unless they have permission from a parent or guardian. However, it is not very easy to prove that the user is below a certain age.
-
-If you know someone who is undoubtedly underage, then you can report them to the Trust & Safety team by filling out their form and adding evidence to back your claim.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Discord has completely transformed online communication, becoming the preferred platform for gamers, streamers, and reviewers alike.
-
-As of late, it has started integrating with other gaming and streaming services, giving us the streamer mode. With streaming's growing popularity, it's essential to know what the streamer mode is all about.
-
-If you're a gamer, Discord's streamer mode allows you to stream your gaming session to viewers by broadcasting your game to your friends, fans, and even a closed community of enthusiasts.
-
-Many e-gaming professionals have taken up streaming, offering original and valuable content for like-minded individuals. This mode helps them streamline all their communications in one place.
-
-If you're new to Discord’s streamer mode, you need to know what it is, how you can use it to engage with other community members, and the primary security concerns you need to be aware of.
-
-* [Part 1: How to Report Users on Discord Desktop?](#part1)
-* [Part 2: How to Report Users on Discord Mobile App?](#part2)
-* [Part 3: How to Kick People on Discord?](#part3)
-* [Part 4: FAQs About Discord Reporting](#part4)
-
-For gamers in the modern era, Discord is a household name. The platform has around 120 million active users monthly as of early 2021.
-
-With so many users on the forum, it is normal to have some "bad apples" in the mix. There are trolls, miscreants, and spammers who ruin the experience for everyone else.
-
-You can report them to Discord Trust and Safety team. They would take appropriate action against these nuisances after reviewing evidence.
-
-Reporting helps make healthier communities and allows you to avoid conflicts and outbreaks due to suspicious activity on the platform.
-
-Today we will look into how to report someone on Discord using desktop and mobile devices. Moreover, we will look at other ways to deal with indecent behavior, such as kicking people or banning them.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
-## Part 1: How to Report Users on Discord Desktop
-
-Before you can report a person to Discord's Trust and Safety team, you will need to enable Discord's developer mode.
-
-Enabling this mode will allow you to obtain the information necessary to file your report.
-
-1. Login to your Discord account on PC or Mac
-2. You will see a gear icon next to your username to the bottom left of your screen; click on it
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
-![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
-
-1. There will be a list of options in the sidebar; from here, click on "Appearance"
-2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
-
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
-
-After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
-
-1. Right-click on their username
-2. From the list of options that appear, choose "Copy ID"
-3. Paste this user ID somewhere so that you can access it later
-
-To report a specific message, you need to get the message link as well. For this:
-
-1. Locate the message you want to report
-2. Then hover your cursor over it and click on the ellipsis sign (…) on the right side
-3. Click on "Copy Message Link"
-4. Paste this somewhere so that you can use it later
-
-After collecting the necessary information, go to Discord's website to report it to [Discord's Trust and Safety Team](https://support.discord.com/hc/en-us/requests/new?ticket%5Fform%5Fid=360000029731).
-
-You will have to provide your email address and post the two links copied earlier into the description box.
-
-Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
-
-Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
-
-## Part 2: How to Report Users on Discord on iPhone And Android
-
-Just like on a desktop, you will first need to enable developer mode.
-
-1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
-2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
-![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
-
-1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
-
-Like before, you will now need to obtain the User ID; the process may be slightly different depending on the phone you are using. In general, the steps would be:
-
-1. Open the user's profile by tapping on it
-2. Tap on the ellipsis sign (…) in the upper-right of your screen and select "Copy ID"
-3. After doing this, paste the ID somewhere you can later access
-
-Follow the steps below to get the message link to report.
-
-1. Go to the message and then hold down on it until a list of options appears
-2. On an iPhone, tap on "Copy Message Link." For an android device, click on "Select" and then "Copy To Clipboard"
-
-Now, you can send this information to the [Trust and Safety team](https://support.discord.com/hc/en-us/requests/new?ticket%5Fform%5Fid=360000029731) to assess it. To do this:
-
-1. Paste the two links copied earlier in the "Description Box"
-2. Provide your email address along with the context behind the situation
-3. Click on "Submit"
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
-## Part 3: How to Kick People on Discord
-
-Discord also allows you to take care of improper behavior yourself. If you are a moderator or server owner, you can kick people for violating Discord's guidelines.
-
-However, it is essential to have a reason to kick someone. Otherwise, it may be seen as an abuse of power.
-
-Here are activities to look out for before kicking someone:
-
-* Spam messages
-* Harassment
-* Sharing child pornography
-* Violating IP rights
-* Sharing viruses
-* Advocating self-harm or suicide
-* Distributing gore content or animal cruelty
-* Life threats to another user
-
-If you see someone involved in these, you can kick them off your server or report them to moderators or server owners if you don't have kicking authority.
-
-In case the moderators or owners do not act on your complaint, you can always contact the Trust and Safety team.
-
-If you happen to be a moderator or server owner, you have the authority to kick people off your server. Here is how to do it:
-
-1. Go to the correct channel on Discord
-2. Find the user from the user list on the right side of the screen
-3. Right-click on their username and then select "Kick"
-4. Click on "Kick" again to confirm your decision
 
 ## Part 4: FAQs About Discord Reporting
 
@@ -417,10 +229,14 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 1. Login to your Discord account on PC or Mac
 2. You will see a gear icon next to your username to the bottom left of your screen; click on it
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. There will be a list of options in the sidebar; from here, click on "Appearance"
 2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
@@ -450,9 +266,6 @@ Also, it would help if you gave context regarding your report describing how and
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Report Users on Discord on iPhone And Android
 
 Just like on a desktop, you will first need to enable developer mode.
@@ -460,9 +273,6 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
@@ -512,27 +322,14 @@ If you happen to be a moderator or server owner, you have the authority to kick 
 3. Right-click on their username and then select "Kick"
 4. Click on "Kick" again to confirm your decision
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Part 4: FAQs About Discord Reporting
 
 There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### Can I Report People on Discord Anonymously?
 
 According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What Happens If I Report Someone on Discord?
 
 After you report someone on Discord, the T&S team goes through the evidence to justify or negate your claims.
@@ -586,9 +383,183 @@ Reporting helps make healthier communities and allows you to avoid conflicts and
 
 Today we will look into how to report someone on Discord using desktop and mobile devices. Moreover, we will look at other ways to deal with indecent behavior, such as kicking people or banning them.
 
+## Part 1: How to Report Users on Discord Desktop
+
+Before you can report a person to Discord's Trust and Safety team, you will need to enable Discord's developer mode.
+
+Enabling this mode will allow you to obtain the information necessary to file your report.
+
+1. Login to your Discord account on PC or Mac
+2. You will see a gear icon next to your username to the bottom left of your screen; click on it
+
+![Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+1. There will be a list of options in the sidebar; from here, click on "Appearance"
+2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
+
+![Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+
+After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
+
+1. Right-click on their username
+2. From the list of options that appear, choose "Copy ID"
+3. Paste this user ID somewhere so that you can access it later
+
+To report a specific message, you need to get the message link as well. For this:
+
+1. Locate the message you want to report
+2. Then hover your cursor over it and click on the ellipsis sign (…) on the right side
+3. Click on "Copy Message Link"
+4. Paste this somewhere so that you can use it later
+
+After collecting the necessary information, go to Discord's website to report it to [Discord's Trust and Safety Team](https://support.discord.com/hc/en-us/requests/new?ticket%5Fform%5Fid=360000029731).
+
+You will have to provide your email address and post the two links copied earlier into the description box.
+
+Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
+
+![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+
+Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
+
+## Part 2: How to Report Users on Discord on iPhone And Android
+
+Just like on a desktop, you will first need to enable developer mode.
+
+1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
+2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
+
+![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+
+1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
+
+Like before, you will now need to obtain the User ID; the process may be slightly different depending on the phone you are using. In general, the steps would be:
+
+1. Open the user's profile by tapping on it
+2. Tap on the ellipsis sign (…) in the upper-right of your screen and select "Copy ID"
+3. After doing this, paste the ID somewhere you can later access
+
+Follow the steps below to get the message link to report.
+
+1. Go to the message and then hold down on it until a list of options appears
+2. On an iPhone, tap on "Copy Message Link." For an android device, click on "Select" and then "Copy To Clipboard"
+
+Now, you can send this information to the [Trust and Safety team](https://support.discord.com/hc/en-us/requests/new?ticket%5Fform%5Fid=360000029731) to assess it. To do this:
+
+1. Paste the two links copied earlier in the "Description Box"
+2. Provide your email address along with the context behind the situation
+3. Click on "Submit"
+
+## Part 3: How to Kick People on Discord
+
+Discord also allows you to take care of improper behavior yourself. If you are a moderator or server owner, you can kick people for violating Discord's guidelines.
+
+However, it is essential to have a reason to kick someone. Otherwise, it may be seen as an abuse of power.
+
+Here are activities to look out for before kicking someone:
+
+* Spam messages
+* Harassment
+* Sharing child pornography
+* Violating IP rights
+* Sharing viruses
+* Advocating self-harm or suicide
+* Distributing gore content or animal cruelty
+* Life threats to another user
+
+If you see someone involved in these, you can kick them off your server or report them to moderators or server owners if you don't have kicking authority.
+
+In case the moderators or owners do not act on your complaint, you can always contact the Trust and Safety team.
+
+If you happen to be a moderator or server owner, you have the authority to kick people off your server. Here is how to do it:
+
+1. Go to the correct channel on Discord
+2. Find the user from the user list on the right side of the screen
+3. Right-click on their username and then select "Kick"
+4. Click on "Kick" again to confirm your decision
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 4: FAQs About Discord Reporting
+
+There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
+
+### Can I Report People on Discord Anonymously?
+
+According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
+
+### What Happens If I Report Someone on Discord?
+
+After you report someone on Discord, the T&S team goes through the evidence to justify or negate your claims.
+
+Usually, this process takes a long time as the team evaluates whether the problem is part of a broader pattern.
+
+After conducting their research and deciding upon a punishment, the T&S team will contact the offender via email to inform them about their misconduct and the relevant consequences.
+
+In minor offenses, the T&S team will reach out to the reporter and teach them how to block the user rather than take direct action.
+
+### Can You Report Someone on Discord for Being Under 13?
+
+Individuals under the age of 13 are not permitted to use Discord unless they have permission from a parent or guardian. However, it is not very easy to prove that the user is below a certain age.
+
+If you know someone who is undoubtedly underage, then you can report them to the Trust & Safety team by filling out their form and adding evidence to back your claim.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Discord has completely transformed online communication, becoming the preferred platform for gamers, streamers, and reviewers alike.
+
+As of late, it has started integrating with other gaming and streaming services, giving us the streamer mode. With streaming's growing popularity, it's essential to know what the streamer mode is all about.
+
+If you're a gamer, Discord's streamer mode allows you to stream your gaming session to viewers by broadcasting your game to your friends, fans, and even a closed community of enthusiasts.
+
+Many e-gaming professionals have taken up streaming, offering original and valuable content for like-minded individuals. This mode helps them streamline all their communications in one place.
+
+If you're new to Discord’s streamer mode, you need to know what it is, how you can use it to engage with other community members, and the primary security concerns you need to be aware of.
+
+* [Part 1: How to Report Users on Discord Desktop?](#part1)
+* [Part 2: How to Report Users on Discord Mobile App?](#part2)
+* [Part 3: How to Kick People on Discord?](#part3)
+* [Part 4: FAQs About Discord Reporting](#part4)
+
+For gamers in the modern era, Discord is a household name. The platform has around 120 million active users monthly as of early 2021.
+
+With so many users on the forum, it is normal to have some "bad apples" in the mix. There are trolls, miscreants, and spammers who ruin the experience for everyone else.
+
+You can report them to Discord Trust and Safety team. They would take appropriate action against these nuisances after reviewing evidence.
+
+Reporting helps make healthier communities and allows you to avoid conflicts and outbreaks due to suspicious activity on the platform.
+
+Today we will look into how to report someone on Discord using desktop and mobile devices. Moreover, we will look at other ways to deal with indecent behavior, such as kicking people or banning them.
+
 ## Part 1: How to Report Users on Discord Desktop
 
 Before you can report a person to Discord's Trust and Safety team, you will need to enable Discord's developer mode.
@@ -624,9 +595,6 @@ You will have to provide your email address and post the two links copied earlie
 
 Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
@@ -638,9 +606,6 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
@@ -662,9 +627,6 @@ Now, you can send this information to the [Trust and Safety team](https://suppor
 2. Provide your email address along with the context behind the situation
 3. Click on "Submit"
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to Kick People on Discord
 
 Discord also allows you to take care of improper behavior yourself. If you are a moderator or server owner, you can kick people for violating Discord's guidelines.
@@ -701,6 +663,13 @@ There is no need to Google responses to "How do you report someone on Discord," 
 
 According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What Happens If I Report Someone on Discord?
 
 After you report someone on Discord, the T&S team goes through the evidence to justify or negate your claims.
@@ -718,6 +687,13 @@ Individuals under the age of 13 are not permitted to use Discord unless they hav
 If you know someone who is undoubtedly underage, then you can report them to the Trust & Safety team by filling out their form and adding evidence to back your claim.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -736,8 +712,6 @@ Follow @Richard Bennett
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -746,8 +720,21 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-textual-amplification-for-igtv-broadcasts/"><u>[New] 2024 Approved Textual Amplification for IGTV Broadcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-time-live-photo-journey-to-video-vista/"><u>[New] Capturing Time Live Photo Journey to Video Vista</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-quick-step-elevate-through-video-and-like-gameplay-for-2024/"><u>[Updated] Instagram Quick-Step Elevate Through Video & Like Gameplay for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/6-excellent-apps-to-capture-and-save-linkedin-videos-successfully/"><u>6 Excellent Apps to Capture and Save LinkedIn Videos Successfully</u></a></li>
+<li><a href="https://extra-information.techidaily.com/balancing-frameworks-for-engaging-visual-media-for-2024/"><u>Balancing Frameworks for Engaging Visual Media for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lenovo-audio-issues-decoded-expert-tips-to-restore-computer-speaker-functionality/"><u>Lenovo Audio Issues Decoded: Expert Tips to Restore Computer Speaker Functionality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/seamless-vlc-viewing-tips-for-m2ts-format-a-step-by-step-fix-without-glitches/"><u>Seamless VLC Viewing Tips for M2TS Format: A Step-by-Step Fix Without Glitches</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-vivo-v27e-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Vivo V27e</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/troubleshooting-guide-effective-steps-for-repairing-mp4-to-windows-dvd-compatibility-errors/"><u>Troubleshooting Guide: Effective Steps for Repairing MP4-to-Windows DVD Compatibility Errors</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/troubleshooting-tips-for-resolving-could-not-retrieve-directory-information-errors-on-kodi-devices/"><u>Troubleshooting Tips for Resolving 'Could Not Retrieve Directory Information' Errors on Kodi Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ultimate-guide-on-transforming-ogg-audio-into-mp3-using-the-free-vlc-software/"><u>Ultimate Guide on Transforming OGG Audio Into MP3 Using the Free VLC Software</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unlock-the-secrets-of-perfect-1080p-video-quality-with-ideal-bitrate-techniques/"><u>Unlock the Secrets of Perfect 1080P Video Quality with Ideal Bitrate Techniques</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/what-is-flv-exploring-distinctions-and-comparing-with-mp4-in-detail/"><u>What Is FLV? Exploring Distinctions and Comparing with MP4 in Detail</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/windows-1011m4awav/"><u>Windows 10/11向けM4AからWAVへの自由ソフトウェア・サイトリコメンド：変換ガイド</u></a></li>
+</ul></div>
 

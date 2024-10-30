@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Navigating the World of Discord Roles"
-date: 2024-10-16T23:41:09.628Z
-updated: 2024-10-18T04:14:42.033Z
+date: 2024-10-27T20:49:31.005Z
+updated: 2024-10-30T01:50:13.342Z
 tags:
   - ai video
   - ai discord
@@ -43,10 +43,10 @@ So, let us learn the art of delegation on Discord! This guide will help you with
 To give you a heads-up, there are around 29 permissions that you can adjust over a Discord server. More specifically, there are 7 voice permissions, 9 permissions related to texts, and about 13 permissions dealing with the server.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. General server permission
@@ -117,13 +117,6 @@ Priority Speaker – when this permission is turned on for a user, other’s
 
 this permission allows the user to reduce the volume of other users when this user is speaking so that their words are louder on the channel.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Advanced permissions
 
 Includes the 'Administrator' permission, which by default enables all the permissions to the assigned user.
@@ -145,16 +138,10 @@ Before you can assign roles, you need a server. Once you have created your Disco
 4. When you are done, save the changes.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Assign Roles to Members in Discord?
@@ -166,6 +153,13 @@ To be able to assign roles, you should first create them
 3. Here, you will see the list of all the members on your server, tap the Plus sign that is right beside the username.
 4. From the drop-down menu that appears, select a role you want to assign to that member.
 1. You will notice that the color changes as per your settings. And this is how you assign roles to a server.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Manage Roles in Discord?
 
@@ -188,10 +182,10 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 2. Press ok to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 5: How to Add Roles on Discord Mobile?
@@ -212,6 +206,13 @@ Before you can assign roles, you have to create them.
 
 You can repeat this multiple times to create more roles.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. How to Assign Roles in Discord mobile app?
 
 * Head over to settings and select 'Members.'
@@ -219,13 +220,6 @@ You can repeat this multiple times to create more roles.
 * Tick the boxes beside each member’s name for the roles you are assigning them.
 
 Save the changes, and you are good to go! You can assign multiple roles to a member.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 6: FAQs about Discord Server Roles
 
@@ -271,19 +265,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-facebook-cinematic-capture-tool/"><u>[New] 2024 Approved Facebook Cinematic Capture Tool</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-premier-mic-choices-perfected-for-high-res-videos/"><u>[New] In 2024, Premier Mic Choices Perfected for High-Res Videos</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigating-the-nuances-of-network-based-video-sharing-on-discord/"><u>[Updated] In 2024, Navigating the Nuances of Network-Based Video Sharing on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-make-your-discord-conversation-stand-out-with-style/"><u>[Updated] Make Your Discord Conversation Stand Out with Style</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-masterful-moderation-with-new-discord-roles-for-2024/"><u>[Updated] Masterful Moderation with New Discord Roles for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-tutorial-for-removing-multiple-messages-on-discord/"><u>[Updated] The Ultimate Tutorial for Removing Multiple Messages on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-unveiling-discord-video-communication-on-devices/"><u>[Updated] Unveiling Discord Video Communication on Devices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-historical-insights-at-your-fingertips-top-10-for-students/"><u>2024 Approved Historical Insights at Your Fingertips – Top 10 for Students</u></a></li>
-<li><a href="https://article-files.techidaily.com/deciphering-the-codex-of-meta-and-omni-worlds/"><u>Deciphering the Codex of Meta and Omni Worlds</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-nokia-c12-plus-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nokia C12 Plus Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-youtube-thumbnails-essential-dimensions-explored/"><u>In 2024, Mastering YouTube Thumbnails Essential Dimensions Explored</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722896044737-shell32dll-missing-discover-effective-fixes-here/"><u>Shell32.dll Missing? Discover Effective Fixes Here!</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-wayfinders-guide-your-path-to-youtube-video-mastery-hub-for-2024/"><u>The Wayfinder’s Guide Your Path to YouTube Video Mastery Hub for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/your-budget-friendly-discord-recorder-guide-top-10-tools-for-2024/"><u>Your Budget-Friendly Discord Recorder Guide - Top 10 Tools for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-templates-transformed-a-visual-guide-to-logo-mastery/"><u>[New] 2024 Approved Templates Transformed A Visual Guide to Logo Mastery</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unraveling-twitchs-mysteries-the-recording-connoisseurs-guide/"><u>[New] 2024 Approved Unraveling Twitch's Mysteries The Recording Connoisseur's Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-overcoming-stalled-transmission-of-videos-tips-for-successful-sharing-in-messenger-app/"><u>[New] Overcoming Stalled Transmission of Videos Tips for Successful Sharing in Messenger App</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-convert-vimeo-hd-mp4-format-guide/"><u>[Updated] Convert Vimeo HD MP4 Format Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-master-the-art-of-message-interaction-on-desktopmobile/"><u>[Updated] In 2024, Master the Art of Message Interaction on Desktop/Mobile</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-insiders-move-to-effortless-discord-calls/"><u>[Updated] In 2024, The Insider's Move to Effortless Discord Calls</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-quick-recap-essential-use-of-discord-spoiler-labels-for-2024/"><u>[Updated] Quick Recap Essential Use of Discord Spoiler Labels for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-seamless-blend-linking-spotify-and-discord-directly/"><u>[Updated] Seamless Blend Linking Spotify & Discord Directly</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-simplifying-your-life-with-discord-call-setup-guide/"><u>[Updated] Simplifying Your Life with Discord Call Setup Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-ultimate-desktop-and-mobile-discord-recorders-reviewed-for-2024/"><u>[Updated] Ultimate Desktop & Mobile Discord Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unleashing-creativity-on-discord-a-complete-guide-to-adding-gifs-for-2024/"><u>[Updated] Unleashing Creativity on Discord A Complete Guide to Adding GIFS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/influencing-minds-with-music-selection-for-movie-previews-for-2024/"><u>Influencing Minds with Music Selection for Movie Previews for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-creative-potential-with-filmora-answers-for-2024/"><u>Unlocking Creative Potential with Filmora Answers for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/viral-visionaries-top-meme-creators-on-social-media-for-2024/"><u>Viral Visionaries Top Meme Creators on Social Media for 2024</u></a></li>
 </ul></div>
 

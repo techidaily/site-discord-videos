@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastery in Messaging  Perfecting Video Posting on Discord\""
-date: 2024-10-15T16:57:56.294Z
-updated: 2024-10-18T04:51:46.668Z
+date: 2024-10-25T22:16:19.607Z
+updated: 2024-10-29T20:58:06.471Z
 tags:
   - ai video
   - ai discord
@@ -55,16 +55,10 @@ It’s worth noting that, while Discord will play most video formats, it can’t
 Also, there’s a strict file limit of 8MB. This isn’t huge at all – while there’s no definitive file size for video (as it depends on file type, resolution, compression, etc) it’s unlikely to be more than 60 seconds of footage, and could just be a few seconds. If the video you want to upload is more than 8MB, carry on reading below to find out how.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Send Videos on Discord Mobile
@@ -78,6 +72,13 @@ This will open your phone’s gallery, but it’ll only be searching for photos.
 Click this and it’ll give you the option to directly upload a video from your phone’s Downloads folder. To send a video that’s stored elsewhere, click on the Expand arrow at the top left of the menu. This will send you to your phone’s file navigation system where you can find the video you want.
 
 Once you’ve selected the video, just hit the blue Send icon to send your video to the chat. Again you can add a message as a caption, but this time it’ll just be in the normal message box rather than a dedicated comment box before you hit upload.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Send Long Videos on Discord That Are More Than 8MB
 
@@ -97,13 +98,6 @@ This will open the Instant Cutter window where you can click Open File to add yo
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 For more detail, check out [this post](https://tools.techidaily.com/wondershare/filmora/download/) for a step-by-step guide on the different ways you can trim a video in Filmora.
 
 You can also try to compress your video size, which may let you keep the whole video at the expense of some of the quality. Again, using Filmora, this is easy. But also again, there are different ways to go about it.
@@ -121,10 +115,10 @@ So, if you want to upload massive files, you’ll need to decide whether to choo
 The only drawback to this option is that it stops other users from being able to download the video directly, and you may need to look at a file sharing alternative such as Dropbox if you want to send the actual file.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs About Uploading Videos to Discord
@@ -142,10 +136,10 @@ If you find a video on Discord that you want to share on a different server or i
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -163,21 +157,15 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-is-the-cost-of-aurora-justified-by-its-hdr-quality/"><u>[New] 2024 Approved Is The Cost of Aurora Justified by Its HDR Quality?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-download-discord-videos-for-free-on-desktop-and-mobile/"><u>[Updated] 2024 Approved How to Download Discord Videos for Free on Desktop & Mobile?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-become-a-livestream-king-the-best-webcams-for-youtube-stars/"><u>[Updated] Become a Livestream King The Best Webcams for YouTube Stars</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-crafting-courteous-responses-in-discord-chat-for-2024/"><u>[Updated] Crafting Courteous Responses in Discord Chat for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-cutting-ties-in-cyberspace-an-exit-strategy-from-discords-for-2024/"><u>[Updated] Cutting Ties in Cyberspace An Exit Strategy From Discords for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discord-and-gifs-the-ultimate-tutorial-for-seamless-integration/"><u>[Updated] Discord & GIFs The Ultimate Tutorial for Seamless Integration</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discover-the-pathway-earning-your-place-as-a-validated-disco-partner-for-2024/"><u>[Updated] Discover the Pathway Earning Your Place as a Validated Disco Partner for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-demystifying-disconitros-premium-membership-in-minutes/"><u>[Updated] In 2024, Demystifying DiscoNitro's Premium Membership in Minutes</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-optimize-video-search-with-these-top-7-youtube-tags-extractor-tools-for-2024/"><u>[Updated] Optimize Video Search with These Top 7 Youtube Tags Extractor Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-rewind-revolution-novel-strategies-for-youtube-viewers/"><u>[Updated] The Rewind Revolution Novel Strategies for YouTube Viewers</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-windows-11s-functionality-top-strategies-for-widget-upgrades/"><u>Enhancing Windows 11'S Functionality: Top Strategies for Widget Upgrades</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Spy on Text Messages from Computer & Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-audacity-audio-basics-for-new-mac-users/"><u>In 2024, Audacity Audio Basics for New Mac Users</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-here-you-will-find-10-best-free-animation-software-for-windows-and-mac-if-you-want-to-know-what-they-are-the-pros-and-cons-check-it-out/"><u>New In 2024, Here, You Will Find 10 Best Free Animation Software for Windows and Mac. If You Want to Know What They Are, the Pros and Cons, Check It Out</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/transform-your-discord-experience-with-top-bot-choices-for-2024/"><u>Transform Your Discord Experience with Top Bot Choices for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-your-network-a-step-by-step-guide-to-finding-wi-fi-passwords-on-windows-11/"><u>Unlocking Your Network: A Step-by-Step Guide to Finding Wi-Fi Passwords on Windows 11</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-strategic-message-management-expert-tips-for-discord-pinning/"><u>[Updated] 2024 Approved Strategic Message Management Expert Tips for Discord Pinning</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-transforming-servers-top-30-bots-for-dynamic-interaction/"><u>[Updated] 2024 Approved Transforming Servers Top 30 Bots for Dynamic Interaction</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-digitize-effortlessly-turn-to-mematic/"><u>[Updated] Digitize Effortlessly - Turn to Mematic</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-get-free-animated-emojis-on-discord-withwithout-nitro/"><u>[Updated] How to Get Free Animated Emojis on Discord [With/Without Nitro]</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-elevate-group-video-sessions-with-discords-share-functionality/"><u>[Updated] In 2024, Elevate Group Video Sessions with Discord's Share Functionality</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-masterful-thumbnails-in-a-flash-professional-valorant-creations/"><u>2024 Approved Masterful Thumbnails in a Flash Professional Valorant Creations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/iphones-panoramic-videos-explained-for-fb-sharing-for-2024/"><u>IPhone's Panoramic Videos Explained for FB Sharing for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/leading-edge-speech-recognition-tools-for-2024/"><u>Leading Edge Speech Recognition Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-your-devices-aesthetics-using-microsoft-store-themes/"><u>Optimizing Your Device's Aesthetics Using Microsoft Store Themes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 6s Plus | Dr.fone</u></a></li>
 </ul></div>
 

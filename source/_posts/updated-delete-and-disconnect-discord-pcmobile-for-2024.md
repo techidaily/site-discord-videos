@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Delete and Disconnect Discord (PC/Mobile) for 2024"
-date: 2024-07-29T00:51:28.414Z
-updated: 2024-07-30T00:51:28.414Z
+date: 2024-10-24T00:56:25.978Z
+updated: 2024-10-30T00:11:11.588Z
 tags:
   - ai video
   - ai discord
@@ -62,9 +62,6 @@ Without further ado, here are some easy to follow steps to delete a Discord acco
 
 1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Delete Discord Account Permantely - Account Options](https://images.wondershare.com/filmora/article-images/discord-delete-account-option.jpg)
 
 1. Click the delete account button to make your Discord account disappear!
@@ -102,6 +99,13 @@ Like the primary Discord account deletion process, if you have enabled 2FA on th
 After this, you’ll be asked one more time to click the “delete server” button before it is completely deleted. Keep in mind that you’ll have 14 days time to recover your Discord account. Once the two-week time passes, you won’t be able to retrieve or sign in to your account.
 
 Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Delete Discord Account From iPhone And Android?
 
@@ -146,9 +150,6 @@ Nevertheless, follow the steps below to disable your Discord account on mobile:
 4. You’ll have the choice to either “Delete Account” or “Disable Account.” However, whatever you choose, you’ll be prompted to the support page explaining ways to disable or delete your account
 5. To complete disabling process from a mobile device, you’ll have to send a request to the support team, as it’s the only way to disable your account via your smartphone
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQs About Deleting Discord Account
 
 #### 1\. How Long Does Discord Take To Delete Account?
@@ -163,9 +164,6 @@ Deleting your discord account won’t delete the information you have on the acc
 
 You can re-use your deleted discord account only if the account is in a “pending deletion state,” which is 14 days. If the time is passed, you won’t be able to re-use it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -195,9 +193,6 @@ However, if, for any reason, you want to delete or disable your account for good
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Part 1: How To Delete A Discord Account Permanently?
 
 Are you done with a game, scared about your data, or just bored with the app? No problem! If you want to learn how to delete your discord account, look no further.
@@ -214,10 +209,14 @@ Without further ado, here are some easy to follow steps to delete a Discord acco
 1. Open the Discord app
 2. Sign in to your Discord account and open the user settings option (Cog icon)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![How to Delete Discord Account - Go to My Account](https://images.wondershare.com/filmora/article-images/find-discord-my-account.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
 
@@ -249,9 +248,6 @@ Here’s how you can delete the server to complete the process of deleting your 
 2. Within the several options, click the “Server Settings.”
 3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
 
 1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
@@ -271,9 +267,6 @@ Yes, you can delete the discord account from iPhone and Android. And if you’re
 3. Select “My Account”
 4. Below the “Account Management” option, choose “Delete Account” and put your password and 2FA (if you have set it up)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Part 3: How To Disable Discord Account On Desktop Computer?
 
 Deleting the account means you won’t be able to use it further, whereas disabling the account normally means you’re taking a little break.
@@ -286,9 +279,6 @@ Here’s how you can disable a Discord account on a desktop computer:
 2. Click the “User Settings” option and then go to the “My Account” option within the user settings
 3. In the lower corner of your Mac/PC screen, you’ll see the “Disable Account” button next to the “Delete Account” button
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![How to disable discord account](https://images.wondershare.com/filmora/article-images/disable-discord-account.jpg)
 
 1. Click the “Disable Account” option, and it will be disabled.
@@ -297,9 +287,6 @@ Here’s how you can disable a Discord account on a desktop computer:
 
 Disabling the account means you can recover it anytime you want, unlike deleting the account where you only have a 14-day restoration window. Additionally, when the account is disabled, you won’t receive notifications, but you will still get “friend requests.”
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How To Disable Discord Account On Mobile?
 
 Disabling your Discord account for Android and iOS isn’t as simple as it is on a Desktop Windows/Mac PC.
@@ -314,10 +301,6 @@ Nevertheless, follow the steps below to disable your Discord account on mobile:
 4. You’ll have the choice to either “Delete Account” or “Disable Account.” However, whatever you choose, you’ll be prompted to the support page explaining ways to disable or delete your account
 5. To complete disabling process from a mobile device, you’ll have to send a request to the support team, as it’s the only way to disable your account via your smartphone
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## FAQs About Deleting Discord Account
 
 #### 1\. How Long Does Discord Take To Delete Account?
@@ -362,8 +345,12 @@ However, if, for any reason, you want to delete or disable your account for good
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: How To Delete A Discord Account Permanently?
 
 Are you done with a game, scared about your data, or just bored with the app? No problem! If you want to learn how to delete your discord account, look no further.
@@ -412,9 +399,6 @@ Here’s how you can delete the server to complete the process of deleting your 
 2. Within the several options, click the “Server Settings.”
 3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
 
 1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
@@ -425,9 +409,6 @@ After this, you’ll be asked one more time to click the “delete server” but
 
 Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Delete Discord Account From iPhone And Android?
 
 Yes, you can delete the discord account from iPhone and Android. And if you’re wondering how to delete a Discord account, Here’s a quick way to do it:
@@ -437,9 +418,6 @@ Yes, you can delete the discord account from iPhone and Android. And if you’re
 3. Select “My Account”
 4. Below the “Account Management” option, choose “Delete Account” and put your password and 2FA (if you have set it up)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Part 3: How To Disable Discord Account On Desktop Computer?
 
 Deleting the account means you won’t be able to use it further, whereas disabling the account normally means you’re taking a little break.
@@ -460,9 +438,6 @@ Here’s how you can disable a Discord account on a desktop computer:
 
 Disabling the account means you can recover it anytime you want, unlike deleting the account where you only have a 14-day restoration window. Additionally, when the account is disabled, you won’t receive notifications, but you will still get “friend requests.”
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Part 4: How To Disable Discord Account On Mobile?
 
 Disabling your Discord account for Android and iOS isn’t as simple as it is on a Desktop Windows/Mac PC.
@@ -477,9 +452,6 @@ Nevertheless, follow the steps below to disable your Discord account on mobile:
 4. You’ll have the choice to either “Delete Account” or “Disable Account.” However, whatever you choose, you’ll be prompted to the support page explaining ways to disable or delete your account
 5. To complete disabling process from a mobile device, you’ll have to send a request to the support team, as it’s the only way to disable your account via your smartphone
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQs About Deleting Discord Account
 
 #### 1\. How Long Does Discord Take To Delete Account?
@@ -543,9 +515,6 @@ Without further ado, here are some easy to follow steps to delete a Discord acco
 
 1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete Discord Account Permantely - Account Options](https://images.wondershare.com/filmora/article-images/discord-delete-account-option.jpg)
 
 1. Click the delete account button to make your Discord account disappear!
@@ -574,9 +543,6 @@ Here’s how you can delete the server to complete the process of deleting your 
 2. Within the several options, click the “Server Settings.”
 3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
 
 1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
@@ -587,9 +553,6 @@ After this, you’ll be asked one more time to click the “delete server” but
 
 Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Delete Discord Account From iPhone And Android?
 
 Yes, you can delete the discord account from iPhone and Android. And if you’re wondering how to delete a Discord account, Here’s a quick way to do it:
@@ -633,9 +596,6 @@ Nevertheless, follow the steps below to disable your Discord account on mobile:
 4. You’ll have the choice to either “Delete Account” or “Disable Account.” However, whatever you choose, you’ll be prompted to the support page explaining ways to disable or delete your account
 5. To complete disabling process from a mobile device, you’ll have to send a request to the support team, as it’s the only way to disable your account via your smartphone
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQs About Deleting Discord Account
 
 #### 1\. How Long Does Discord Take To Delete Account?
@@ -650,9 +610,6 @@ Deleting your discord account won’t delete the information you have on the acc
 
 You can re-use your deleted discord account only if the account is in a “pending deletion state,” which is 14 days. If the time is passed, you won’t be able to re-use it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -703,18 +660,12 @@ In this article, we will cover the following parts on how to reply to messages o
 * [Part 4: Replying to Messages with Reactions on Discord](#part4)
 * [Part 5: Quoting Messages on Discord?](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Reply to a Specific Message on Discord on Desktop
 
 This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
 
 1. Locate the message you wish to reply to
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
 
 1. Hover your cursor on the comment as you see icons on the right of the message
@@ -749,9 +700,6 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
@@ -773,9 +721,6 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 1. Hover your mouse cursor over the message you wish to react to
 2. Click the smiley face titled "Add reaction" on the message's far-right
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
 
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
@@ -787,16 +732,10 @@ Furthermore, to react to a message with an emoji that has already been used as a
 1. Click on the emoji, and it would increase the total number of responses by 1
 2. Hovering over the emoji will also let you know the names of the people who reacted to the message
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How to Quote Messages on Discord?
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
@@ -846,297 +785,122 @@ This technique works for both the browser and the desktop applications; use it w
 
 ![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
 
-1. Hover your cursor on the comment as you see icons on the right of the message
-2. Now click on the arrow icon
-3. Alternatively, you might have to click on the ellipsis icon (…) if you are replying to a comment by yourself
-4. After clicking on the ellipsis icon, choose the "Reply" button
-5. Write your reply in the text box. You will now see a banner telling you who you are replying to. There will also be a "@" sign over the text box, which will tag the person you respond to (this can be turned off with a click)
-6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
-
-![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
-
-## Part 2: How to Reply to a Certain Message on Discord Mobile
-
-Replying on the mobile app is similar to Desktop. Here's how to do it:
-
-1. Locate the message you wish to reply to in the Discord app
-2. Hold down on the comment until a list of options appears on the screen
-3. Choose the "Reply" option
-
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
-![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
-
-1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
-2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
-
-After pressing the send button, you should now be able to see your message in the channel.
-
-## Part 3: How to Set Auto Reply on Discord
-
-It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
-
-Here's an example of how you can implement this feature in your server. In this example, we are going to be using the Dyno bot:
-
-1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
-
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
-
-1. Now you will have to sign in to your Discord account from your browser
-2. Next, you will have to pick which server you want to invite the bot to
-3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
-
-![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
-
-1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
-
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
-
-After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 4: How to Reply to Messages with Reactions on Discord
-
-Discord allows you to react to posts with emojis. To respond with an emoji:
-
-1. Hover your mouse cursor over the message you wish to react to
-2. Click the smiley face titled "Add reaction" on the message's far-right
-
-![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
-
-1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
-
-Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
-
-1. Click on the emoji, and it would increase the total number of responses by 1
-2. Hovering over the emoji will also let you know the names of the people who reacted to the message
-
-## Part 5: How to Quote Messages on Discord?
-
-Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
-
-![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
-
-On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
-
-1. Add > after every line. However, this can become annoying
-2. Instead, add >>> at the start of the paragraph you wish to quote
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Discord is a communication app targeted towards gamers. Games such as Fortnite and Among Us – a social deduction game – drove many new users to the platform
-
-It surged in popularity during the pandemic, doubling its active monthly users to 120 million towards the end of 2020.
-
-This popularity comes from the fact that Discord is now also being used by households and workplaces for seamless communication.
-
-Today, we will focus on how the 'discord reply to message' feature works. This feature helps when you are trying to pick out a single message to reply to from a list of messages.
-
-You can also include a link back to the message you respond to, making it easier for other people to follow the conversation.
-
-You can even tag the person you are replying to so that they receive a notification whenever they log on to Discord.
-
-In this article, we will cover the following parts on how to reply to messages on Discord:
-
-* [Part 1: How to Reply to a Specific Message on Discord on Desktop](#part1)
-* [Part 2: Replying to a Certain Message on Discord Mobile](#part2)
-* [Part 3: Setting up Auto Reply on Discord with Bots](#part3)
-* [Part 4: Replying to Messages with Reactions on Discord](#part4)
-* [Part 5: Quoting Messages on Discord?](#part5)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
-## Part 1: How to Reply to a Specific Message on Discord on Desktop
-
-This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
-
-1. Locate the message you wish to reply to
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
-
-1. Hover your cursor on the comment as you see icons on the right of the message
-2. Now click on the arrow icon
-3. Alternatively, you might have to click on the ellipsis icon (…) if you are replying to a comment by yourself
-4. After clicking on the ellipsis icon, choose the "Reply" button
-5. Write your reply in the text box. You will now see a banner telling you who you are replying to. There will also be a "@" sign over the text box, which will tag the person you respond to (this can be turned off with a click)
-6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
-
-![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
-
-## Part 2: How to Reply to a Certain Message on Discord Mobile
-
-Replying on the mobile app is similar to Desktop. Here's how to do it:
-
-1. Locate the message you wish to reply to in the Discord app
-2. Hold down on the comment until a list of options appears on the screen
-3. Choose the "Reply" option
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
-![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
-
-1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
-2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
-
-After pressing the send button, you should now be able to see your message in the channel.
-
-## Part 3: How to Set Auto Reply on Discord
-
-It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
-
-Here's an example of how you can implement this feature in your server. In this example, we are going to be using the Dyno bot:
-
-1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
-
-1. Now you will have to sign in to your Discord account from your browser
-2. Next, you will have to pick which server you want to invite the bot to
-3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
-
-1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
-
-![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
-
-After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
-## Part 4: How to Reply to Messages with Reactions on Discord
-
-Discord allows you to react to posts with emojis. To respond with an emoji:
-
-1. Hover your mouse cursor over the message you wish to react to
-2. Click the smiley face titled "Add reaction" on the message's far-right
-
-![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
-
-1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
-![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
-
-Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
-
-1. Click on the emoji, and it would increase the total number of responses by 1
-2. Hovering over the emoji will also let you know the names of the people who reacted to the message
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
-## Part 5: How to Quote Messages on Discord?
-
-Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
-
-![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
-
-On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
-
-1. Add > after every line. However, this can become annoying
-2. Instead, add >>> at the start of the paragraph you wish to quote
-
-![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Discord is a communication app targeted towards gamers. Games such as Fortnite and Among Us – a social deduction game – drove many new users to the platform
-
-It surged in popularity during the pandemic, doubling its active monthly users to 120 million towards the end of 2020.
-
-This popularity comes from the fact that Discord is now also being used by households and workplaces for seamless communication.
-
-Today, we will focus on how the 'discord reply to message' feature works. This feature helps when you are trying to pick out a single message to reply to from a list of messages.
-
-You can also include a link back to the message you respond to, making it easier for other people to follow the conversation.
-
-You can even tag the person you are replying to so that they receive a notification whenever they log on to Discord.
-
-In this article, we will cover the following parts on how to reply to messages on Discord:
-
-* [Part 1: How to Reply to a Specific Message on Discord on Desktop](#part1)
-* [Part 2: Replying to a Certain Message on Discord Mobile](#part2)
-* [Part 3: Setting up Auto Reply on Discord with Bots](#part3)
-* [Part 4: Replying to Messages with Reactions on Discord](#part4)
-* [Part 5: Quoting Messages on Discord?](#part5)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+1. Hover your cursor on the comment as you see icons on the right of the message
+2. Now click on the arrow icon
+3. Alternatively, you might have to click on the ellipsis icon (…) if you are replying to a comment by yourself
+4. After clicking on the ellipsis icon, choose the "Reply" button
+5. Write your reply in the text box. You will now see a banner telling you who you are replying to. There will also be a "@" sign over the text box, which will tag the person you respond to (this can be turned off with a click)
+6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
+
+![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
+
+## Part 2: How to Reply to a Certain Message on Discord Mobile
+
+Replying on the mobile app is similar to Desktop. Here's how to do it:
+
+1. Locate the message you wish to reply to in the Discord app
+2. Hold down on the comment until a list of options appears on the screen
+3. Choose the "Reply" option
+
+![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
+
+1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
+2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
+
+After pressing the send button, you should now be able to see your message in the channel.
+
+## Part 3: How to Set Auto Reply on Discord
+
+It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
+
+Here's an example of how you can implement this feature in your server. In this example, we are going to be using the Dyno bot:
+
+1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
+
+![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
+
+1. Now you will have to sign in to your Discord account from your browser
+2. Next, you will have to pick which server you want to invite the bot to
+3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
+
+![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
+
+1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
+
+![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
+
+After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
+
+## Part 4: How to Reply to Messages with Reactions on Discord
+
+Discord allows you to react to posts with emojis. To respond with an emoji:
+
+1. Hover your mouse cursor over the message you wish to react to
+2. Click the smiley face titled "Add reaction" on the message's far-right
+
+![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
+
+1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
+
+![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
+
+Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
+
+1. Click on the emoji, and it would increase the total number of responses by 1
+2. Hovering over the emoji will also let you know the names of the people who reacted to the message
+
+## Part 5: How to Quote Messages on Discord?
+
+Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
+
+![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
+
+On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
+
+1. Add > after every line. However, this can become annoying
+2. Instead, add >>> at the start of the paragraph you wish to quote
+
+![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Discord is a communication app targeted towards gamers. Games such as Fortnite and Among Us – a social deduction game – drove many new users to the platform
+
+It surged in popularity during the pandemic, doubling its active monthly users to 120 million towards the end of 2020.
+
+This popularity comes from the fact that Discord is now also being used by households and workplaces for seamless communication.
+
+Today, we will focus on how the 'discord reply to message' feature works. This feature helps when you are trying to pick out a single message to reply to from a list of messages.
+
+You can also include a link back to the message you respond to, making it easier for other people to follow the conversation.
+
+You can even tag the person you are replying to so that they receive a notification whenever they log on to Discord.
+
+In this article, we will cover the following parts on how to reply to messages on Discord:
+
+* [Part 1: How to Reply to a Specific Message on Discord on Desktop](#part1)
+* [Part 2: Replying to a Certain Message on Discord Mobile](#part2)
+* [Part 3: Setting up Auto Reply on Discord with Bots](#part3)
+* [Part 4: Replying to Messages with Reactions on Discord](#part4)
+* [Part 5: Quoting Messages on Discord?](#part5)
+
 ## Part 1: How to Reply to a Specific Message on Discord on Desktop
 
 This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
@@ -1169,9 +933,6 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 
 After pressing the send button, you should now be able to see your message in the channel.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Set Auto Reply on Discord
 
 It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
@@ -1182,6 +943,13 @@ Here's an example of how you can implement this feature in your server. In this 
 
 ![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
@@ -1190,9 +958,6 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
 
 After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
@@ -1215,18 +980,10 @@ Furthermore, to react to a message with an emoji that has already been used as a
 1. Click on the emoji, and it would increase the total number of responses by 1
 2. Hovering over the emoji will also let you know the names of the people who reacted to the message
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Part 5: How to Quote Messages on Discord?
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
@@ -1236,10 +993,145 @@ On the other hand, multi-line quoting is when you need to quote a paragraph or b
 
 ![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Discord is a communication app targeted towards gamers. Games such as Fortnite and Among Us – a social deduction game – drove many new users to the platform
+
+It surged in popularity during the pandemic, doubling its active monthly users to 120 million towards the end of 2020.
+
+This popularity comes from the fact that Discord is now also being used by households and workplaces for seamless communication.
+
+Today, we will focus on how the 'discord reply to message' feature works. This feature helps when you are trying to pick out a single message to reply to from a list of messages.
+
+You can also include a link back to the message you respond to, making it easier for other people to follow the conversation.
+
+You can even tag the person you are replying to so that they receive a notification whenever they log on to Discord.
+
+In this article, we will cover the following parts on how to reply to messages on Discord:
+
+* [Part 1: How to Reply to a Specific Message on Discord on Desktop](#part1)
+* [Part 2: Replying to a Certain Message on Discord Mobile](#part2)
+* [Part 3: Setting up Auto Reply on Discord with Bots](#part3)
+* [Part 4: Replying to Messages with Reactions on Discord](#part4)
+* [Part 5: Quoting Messages on Discord?](#part5)
+
+## Part 1: How to Reply to a Specific Message on Discord on Desktop
+
+This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
+
+1. Locate the message you wish to reply to
+
+![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+1. Hover your cursor on the comment as you see icons on the right of the message
+2. Now click on the arrow icon
+3. Alternatively, you might have to click on the ellipsis icon (…) if you are replying to a comment by yourself
+4. After clicking on the ellipsis icon, choose the "Reply" button
+5. Write your reply in the text box. You will now see a banner telling you who you are replying to. There will also be a "@" sign over the text box, which will tag the person you respond to (this can be turned off with a click)
+6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
+
+![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
+
+## Part 2: How to Reply to a Certain Message on Discord Mobile
+
+Replying on the mobile app is similar to Desktop. Here's how to do it:
+
+1. Locate the message you wish to reply to in the Discord app
+2. Hold down on the comment until a list of options appears on the screen
+3. Choose the "Reply" option
+
+![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
+
+1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
+2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
+
+After pressing the send button, you should now be able to see your message in the channel.
+
+## Part 3: How to Set Auto Reply on Discord
+
+It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
+
+Here's an example of how you can implement this feature in your server. In this example, we are going to be using the Dyno bot:
+
+1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
+
+![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
+
+1. Now you will have to sign in to your Discord account from your browser
+2. Next, you will have to pick which server you want to invite the bot to
+3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
+
+![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
+
+1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
+
+![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
+
+After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 4: How to Reply to Messages with Reactions on Discord
+
+Discord allows you to react to posts with emojis. To respond with an emoji:
+
+1. Hover your mouse cursor over the message you wish to react to
+2. Click the smiley face titled "Add reaction" on the message's far-right
+
+![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
+
+1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
+
+![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
+
+Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
+
+1. Click on the emoji, and it would increase the total number of responses by 1
+2. Hovering over the emoji will also let you know the names of the people who reacted to the message
+
+## Part 5: How to Quote Messages on Discord?
+
+Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
+
+![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
+
+On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
+
+1. Add > after every line. However, this can become annoying
+2. Instead, add >>> at the start of the paragraph you wish to quote
+
+![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -1260,8 +1152,22 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-your-guide-to-streaming-success-on-discord-platform/"><u>[New] 2024 Approved Your Guide to Streaming Success on Discord Platform</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-end-your-active-discord-association/"><u>[New] End Your Active Discord Association</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-from-silence-to-significance-replying-in-discord-chats/"><u>[Updated] 2024 Approved From Silence to Significance Replying in Discord Chats</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-navigating-the-end-of-an-online-chapter-in-discord/"><u>[Updated] 2024 Approved Navigating the End of an Online Chapter in Discord</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-chortlecraft-funny-visuals-for-social-engagement/"><u>[Updated] In 2024, ChortleCraft Funny Visuals for Social Engagement</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-tailored-to-your-taste-the-bestdiscords-hot-10-themes/"><u>[Updated] Tailored to Your Taste The BestDiscord's Hot 10 Themes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-discord-video-downloading-guide-free-ios-android-pc-mac-methods/"><u>2024 Approved Discord Video Downloading Guide Free iOS, Android, PC, Mac Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-x-fold-2-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo X Fold 2 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-practical-steps-for-farewell-in-a-discord-environment/"><u>In 2024, Practical Steps for Farewell in a Discord Environment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-se-evolution-analyzed-identifying-key-differences-and-continuities-between-2020-and-2022-versions-gadgetguide/"><u>IPhone SE Evolution Analyzed: Identifying Key Differences and Continuities Between 2020 & #2022 Versions | GadgetGuide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-clients-and-servers-a-step-by-step-guide-to-solving-vpn-error-code-800/"><u>Resolving Clients & Servers: A Step-by-Step Guide to Solving VPN Error Code 800</u></a></li>
+<li><a href="https://win-online.techidaily.com/step-by-step-tutorial-securely-copying-files-from-pc-to-external-memory-stick-using-windows-11/"><u>Step-by-Step Tutorial: Securely Copying Files From PC to External Memory Stick Using Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-when-avatar-frontiers-of-pandora-wont-start/"><u>Troubleshooting Steps for When Avatar: Frontiers of Pandora Won't Start</u></a></li>
+</ul></div>
 

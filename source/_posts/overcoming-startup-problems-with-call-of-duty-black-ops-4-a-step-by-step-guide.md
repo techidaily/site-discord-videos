@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Startup Problems with 'Call of Duty Black Ops 4': A Step-by-Step Guide"
-date: 2024-10-04T16:27:53.730Z
-updated: 2024-10-06T20:20:51.915Z
+date: 2024-10-26T19:04:42.565Z
+updated: 2024-10-29T21:19:37.300Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ The Ascent
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch the game again and check if this fix works. If it still crashes, try the next fix, below.
@@ -91,6 +98,13 @@ The Ascent
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The developer of The Ascent releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -100,10 +114,10 @@ The Ascent
  Launch The Ascent again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Run The Ascent with DirectX 11
@@ -114,24 +128,18 @@ The Ascent
 2. **Right-click** on **The Ascent** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the GENERAL section, enter`**-dx11**` under LAUNCH OPTIONS. By doing that, Steam will run the game with DirectX 11 next time.  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Run The Ascent with DriectX 11](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-The-Ascent-with-DriectX-11.jpg)
 4. Launch The Ascent and see if this issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable Movie / Film Grain, Depth Of Field, Post-Process Effects
 
@@ -145,10 +153,10 @@ If the game still crashes, try the next fix, below.
 2. Open the file**Engine.ini** in Notepad.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. To disble Moive / Film Grain, add the following and save the file:  
@@ -170,6 +178,13 @@ If the game still crashes, try the next fix, below.
 6. Launch the game again after you save the Engine.ini file.
 
  See if it crashes after you disable those in-game graphics settings. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update MS Visual C++ Redistributables
 
@@ -202,10 +217,10 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
@@ -214,10 +229,10 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
@@ -226,21 +241,7 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart your PC and launch The Ascent to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -276,20 +277,15 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-transforming-social-media-sounds-into-practical-mobile-alerts/"><u>[New] In 2024, Transforming Social Media Sounds Into Practical Mobile Alerts</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-navigating-discord-a-must-know-guide/"><u>[New] Navigating Discord A Must-Know Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-step-by-step-guide-to-creating-professional-discord-profile-pictures-for-2024/"><u>[New] Step-by-Step Guide to Creating Professional Discord Profile Pictures for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-a-pocket-guide-for-channel-setup-and-management-on-discord/"><u>[Updated] 2024 Approved A Pocket Guide for Channel Setup and Management on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-disconnect-and-delete-discord-accounts-devices/"><u>[Updated] 2024 Approved Disconnect and Delete Discord Accounts (Devices)</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-step-by-step-guide-sending-videos-in-discord/"><u>[Updated] 2024 Approved Step-by-Step Guide Sending Videos in Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-premier-robot-interactions-in-discord/"><u>[Updated] In 2024, Premier Robot Interactions in Discord</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quintessential-radio-narrative-craftsmanship/"><u>2024 Approved Quintessential Radio Narrative Craftsmanship</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-sunset-symphony-cinematic-darkening-in-pro/"><u>2024 Approved Sunset Symphony Cinematic Darkening in Pro</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-principles-for-youtube-participants/"><u>Adept Principles for YouTube Participants</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-your-iphones-voicemail-running-again-with-these-9-tips/"><u>Get Your iPhone's Voicemail Running Again with These 9 Tips</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-insights-into-average-gain-from-each-watched-online-content/"><u>In 2024, Insights Into Average Gain From Each Watched Online Content</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-redmi-note-13-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi Redmi Note 13 Pro 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/master-the-art-of-message-interaction-on-desktopmobile/"><u>Master the Art of Message Interaction on Desktop/Mobile</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-should-you-buy-videopad-video-editor-a-honest-review-and-analysis/"><u>Updated 2024 Approved Should You Buy Videopad Video Editor? A Honest Review and Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-first-steps-in-film-making-top-8-recommended-cameras/"><u>[Updated] First Steps in Film Making Top 8 Recommended Cameras</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-motorola-moto-g13-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Motorola Moto G13 Activity | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-adobe-premiere-pro-extensions-free-and-essential-downloads/"><u>Best Adobe Premiere Pro Extensions Free and Essential Downloads</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/bulk-conversion-from-mts-to-mkv-files-step-by-step-guide/"><u>Bulk Conversion From MTS to MKV Files - Step-by-Step Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discover-unveiled-improvements-the-cutting-edge-capabilities-of-the-new-apple-iphone-eboard/"><u>Discover Unveiled Improvements: The Cutting-Edge Capabilities of the New Apple iPhone Eboard</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/download-wonderfoxs-latest-rip-from-dvd-to-mobile-version-20-now-available/"><u>Download WonderFox's Latest Rip From DVD to Mobile - Version 2.0 Now Available!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/expert-guide-to-rapidly-access-kickasstorrents-your-ultimate-source-for-movies-music-and-games/"><u>Expert Guide to Rapidly Access KickAssTorrents – Your Ultimate Source for Movies, Music & Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/recognizing-and-resolving-computer-cpu-heat-issues-a-comprehensive-guide/"><u>Recognizing & Resolving Computer CPU Heat Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-updates.techidaily.com/risoluzione-di-problemi-con-dischi-divergenti-clonezilla-vs-gpt-ed-mbr-spiegato/"><u>Risoluzione Di Problemi Con Dischi Divergenti: Clonezilla Vs. GPT Ed MBR Spiegato</u></a></li>
+<li><a href="https://program-issues.techidaily.com/starfield-wont-start-fix-it-essential-tips-for-steamxbox-users/"><u>Starfield Won't Start? Fix It! Essential Tips for Steam/Xbox Users</u></a></li>
 </ul></div>
 

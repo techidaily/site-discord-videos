@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Tutorial for Adding Discord Server Roles for 2024"
-date: 2024-10-04T20:53:07.962Z
-updated: 2024-10-06T19:48:41.335Z
+date: 2024-10-26T17:25:44.804Z
+updated: 2024-10-29T21:03:10.188Z
 tags:
   - ai video
   - ai discord
@@ -42,19 +42,6 @@ So, let us learn the art of delegation on Discord! This guide will help you with
 
 To give you a heads-up, there are around 29 permissions that you can adjust over a Discord server. More specifically, there are 7 voice permissions, 9 permissions related to texts, and about 13 permissions dealing with the server.
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. General server permission
 
 Administrator – this is the highest permission that you can grant to a user. Think twice before giving this authority to anyone.
@@ -73,13 +60,6 @@ Manage Webhooks – if you have this authority, you can add, modify, and remove 
 
 Read Text Channels & See Voice Channels – a user with this permission can read text channels.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Membership permissions
 
 Ban Members – a member with permission, can ban members from the server.
@@ -93,10 +73,10 @@ Manage Nicknames – if enabled, a user can change other’s nicknames.
 Kick Members – a user with this authority can remove members from the server.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Text channel permissions
@@ -118,13 +98,6 @@ Mention Everyone – you can send push notifications on the channel if this perm
 Use External Emojis – if enabled, users can send emojis from other servers.
 
 Add Reactions – with this; users can add new reactions to a text.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Voice channel permissions
 
@@ -164,6 +137,13 @@ Before you can assign roles, you need a server. Once you have created your Disco
 3. Now comes the time to grant some permissions. These are basically the authority that you gave to every profile.
 4. When you are done, save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Assign Roles to Members in Discord?
 
 To be able to assign roles, you should first create them
@@ -173,6 +153,13 @@ To be able to assign roles, you should first create them
 3. Here, you will see the list of all the members on your server, tap the Plus sign that is right beside the username.
 4. From the drop-down menu that appears, select a role you want to assign to that member.
 1. You will notice that the color changes as per your settings. And this is how you assign roles to a server.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Manage Roles in Discord?
 
@@ -199,10 +186,10 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. How to create roles in Discord mobile app?
@@ -226,6 +213,13 @@ You can repeat this multiple times to create more roles.
 * Tick the boxes beside each member’s name for the roles you are assigning them.
 
 Save the changes, and you are good to go! You can assign multiple roles to a member.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 6: FAQs about Discord Server Roles
 
@@ -271,21 +265,14 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-all-inclusive-iptv-delivery-systems/"><u>[New] All-Inclusive IPTV Delivery Systems</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-efficiently-remove-discord-server-from-pc-and-mobile-for-2024/"><u>[New] Efficiently Remove Discord Server From PC & Mobile for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discord-etiquette-101-responding-with-confidence/"><u>[Updated] Discord Etiquette 101 Responding with Confidence</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-guide-for-emoji-laden-discord-statements-for-2024/"><u>[Updated] The Ultimate Guide for Emoji-Laden Discord Statements for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-cut-the-stream-of-automatically-played-podcasts-in-spotify/"><u>2024 Approved Cut the Stream of Automatically Played Podcasts in Spotify</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-streamlining-content-delivery-on-discord-platform/"><u>2024 Approved Streamlining Content Delivery on Discord Platform</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-the-comprehensive-guide-to-discord-spoiler-tags/"><u>2024 Approved The Comprehensive Guide to Discord Spoiler Tags</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-motorola-moto-e13-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Motorola Moto E13 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/how-to-get-and-add-animated-emojis-on-discord-for-2024/"><u>How to Get and Add Animated Emojis on Discord for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-nokia-xr21-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Nokia XR21?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-non-working-usb-mobile-hotspot-problems/"><u>How To Resolve Non-Working USB Mobile Hotspot Problems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a78-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Oppo A78 5G Phone without Google Account?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-a05s-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy A05s</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-2019-game-changer-in-vegaspro/"><u>The 2019 Game-Changer in VegasPro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-expert-insights-into-computer-components-and-systems/"><u>Tom's Tech Reviews: Expert Insights Into Computer Components and Systems</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-servers-for-romance-discord-edition-for-2024/"><u>Top Servers for Romance Discord Edition for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unveiling-aerial-shots-the-full-potential-of-mi-drone/"><u>[Updated] 2024 Approved Unveiling Aerial Shots The Full Potential of MI Drone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-exploring-the-top-25-emoji-crafting-applications-on-discord/"><u>[Updated] In 2024, Exploring the Top 25 Emoji Crafting Applications on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-discords-video-chat-features-on-gadgets-for-2024/"><u>[Updated] Navigating Discord's Video Chat Features on Gadgets for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-step-by-step-for-swift-reaction-in-discord-dialogues-for-2024/"><u>[Updated] Step by Step for Swift Reaction in Discord Dialogues for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-roadmap-to-unearthing-elusive-discord-servers/"><u>[Updated] The Ultimate Roadmap to Unearthing Elusive Discord Servers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722981249701-connecting-seamlessly-with-steam-servers-issue-solved/"><u>Connecting Seamlessly with Steam Servers: Issue Solved</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-sound-protocols-for-windows-7-using-idt-drivers/"><u>Update Sound Protocols for Windows 7 Using IDT Drivers</u></a></li>
 </ul></div>
 

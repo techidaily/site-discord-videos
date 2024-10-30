@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, From Antagonism to Action  A Clear Framework for Handling Virtual Harassment on Discord\""
-date: 2024-10-02T18:32:25.764Z
-updated: 2024-10-06T19:24:27.351Z
+date: 2024-10-26T19:41:42.493Z
+updated: 2024-10-30T00:26:27.154Z
 tags:
   - ai video
   - ai discord
@@ -98,6 +98,13 @@ Just like on a desktop, you will first need to enable developer mode.
 
 ![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
 Like before, you will now need to obtain the User ID; the process may be slightly different depending on the phone you are using. In general, the steps would be:
@@ -118,10 +125,10 @@ Now, you can send this information to the [Trust and Safety team](https://suppor
 3. Click on "Submit"
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Kick People on Discord
@@ -157,22 +164,15 @@ If you happen to be a moderator or server owner, you have the authority to kick 
 There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Can I Report People on Discord Anonymously?
 
 According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What Happens If I Report Someone on Discord?
 
@@ -184,6 +184,13 @@ After conducting their research and deciding upon a punishment, the T&S team wil
 
 In minor offenses, the T&S team will reach out to the reporter and teach them how to block the user rather than take direct action.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Can You Report Someone on Discord for Being Under 13?
 
 Individuals under the age of 13 are not permitted to use Discord unless they have permission from a parent or guardian. However, it is not very easy to prove that the user is below a certain age.
@@ -191,19 +198,6 @@ Individuals under the age of 13 are not permitted to use Discord unless they hav
 If you know someone who is undoubtedly underage, then you can report them to the Trust & Safety team by filling out their form and adding evidence to back your claim.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -220,22 +214,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-how-to-craft-strikingly-attractive-pfps-for-your-discolife-in-discord-for-2024/"><u>[New] How To Craft Strikingly Attractive Pfps for Your DiscoLife in Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-unveiling-the-power-of-pinning-your-guide-to-discord-mastery-for-2024/"><u>[New] Unveiling the Power of Pinning Your Guide to Discord Mastery for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-avoiding-escalation-stealthy-yet-effective-techniques-to-address-grievances-on-discord/"><u>[Updated] 2024 Approved Avoiding Escalation Stealthy Yet Effective Techniques to Address Grievances on Discord</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-comprerancial-guide-to-building-an-influential-online-following/"><u>[Updated] In 2024, The Comprerancial Guide to Building an Influential Online Following</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-gentle-art-of-stepping-back-from-discords-for-2024/"><u>[Updated] The Gentle Art of Stepping Back From Discords for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-voice-modding-on-discord-a-step-by-step-guide-for-2024/"><u>[Updated] Voice Modding on Discord A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprendere-il-file-divx-guida-alla-lettura-e-alla-reproduzione/"><u>Comprendere Il File DivX: Guida Alla Lettura E Alla Reproduzione</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortless-and-free-aac-to-mp4-transformation-using-movavis-web-service/"><u>Effortless and Free AAC-to-MP4 Transformation Using Movavi's Web Service</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722964904721-effortless-configuration-how-to-insert-surface-dock-drivers-today/"><u>Effortless Configuration: How to Insert Surface Dock Drivers Today!</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/from-startup-to-shutdown-steam-on-discord-devices-for-2024/"><u>From Startup to Shutdown Steam on Discord Devices for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/how-to-create-an-iconic-pfp-for-your-discogamer-life/"><u>How to Create an Iconic Pfp for Your DiscoGamer Life</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-apeaksoft-screen-recorder-review/"><u>In 2024, Apeaksoft Screen Recorder Review</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximizing-gameplay-with-proper-gpu-implementation-in-call-of-duty-warzone-on-windows-10-systems/"><u>Maximizing Gameplay with Proper GPU Implementation in Call of Duty: Warzone on Windows 10 Systems</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/saying-goodbye-a-guide-for-ending-your-discord-membership/"><u>Saying Goodbye A Guide for Ending Your Discord Membership</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/trending-tweet-tales-twitters-top-10-video-hits-for-2024/"><u>Trending Tweet Tales Twitter's Top 10 Video Hits for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-windows-7s-wi-fi-drivers-with-these-quick-downloads/"><u>Update Your Windows 7'S Wi-Fi Drivers with These Quick Downloads</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-enhance-brand-recognition-inserting-watermarklogo-in-youtube-videos/"><u>[New] 2024 Approved Enhance Brand Recognition Inserting Watermark/Logo in Youtube Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-easy-mp3-snippet-from-fb-chats/"><u>[Updated] Easy MP3 Snippet From FB Chats</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-end-screen-essentials-for-social-media-success-on-youtube/"><u>[Updated] End-Screen Essentials for Social Media Success on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-escaping-a-stroke-on-your-youtube-channel-for-2024/"><u>[Updated] Escaping a Stroke on Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-boxed-bliss-reinventing-the-art-of-first-contacts/"><u>[Updated] In 2024, Boxed Bliss Reinventing the Art of First Contacts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-proficiently-use-screen-share-in-discord-channels/"><u>[Updated] In 2024, How to Proficiently Use Screen Share in Discord Channels</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigating-the-world-of-discord-roles/"><u>[Updated] In 2024, Navigating the World of Discord Roles</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-proven-bots-for-superior-server-dynamics/"><u>[Updated] In 2024, Proven Bots for Superior Server Dynamics</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-the-nuances-of-discord-identity-shifts/"><u>[Updated] Navigating the Nuances of Discord Identity Shifts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-the-universe-of-discord-stickers/"><u>[Updated] Navigating the Universe of Discord Stickers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-style-spectrum-top-10-discotheme-innovations-by-expert-curators-for-2024/"><u>[Updated] Style Spectrum Top 10 DiscoTheme Innovations by Expert Curators for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/recover-lost-data-restore-deleted-photos-and-documents-from-your-android-phone-with-sd-card-recovery/"><u>Recover Lost Data: Restore Deleted Photos & Documents From Your Android Phone with SD Card Recovery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-fixes-for-among-us-continuous-crash-issues/"><u>Top Fixes for 'Among Us' Continuous Crash Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-and-repairing-sleay32dll-is-not-found-issues/"><u>Understanding and Repairing 'sleay32.dll Is Not Found' Issues</u></a></li>
 </ul></div>
 

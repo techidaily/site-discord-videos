@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sever Link - PC & Mobile Devices  Discord\""
-date: 2024-07-29T00:45:45.003Z
-updated: 2024-07-30T00:45:45.003Z
+date: 2024-11-01T18:46:07.323Z
+updated: 2024-11-04T19:02:54.526Z
 tags:
   - ai video
   - ai discord
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
 # How to Delete Discord Account \[Step-by-Step\]
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -61,181 +58,10 @@ Without further ado, here are some easy to follow steps to delete a Discord acco
 1. Open the Discord app
 2. Sign in to your Discord account and open the user settings option (Cog icon)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![How to Delete Discord Account - Go to My Account](https://images.wondershare.com/filmora/article-images/find-discord-my-account.jpg)
 
 1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
 
-![Delete Discord Account Permantely - Account Options](https://images.wondershare.com/filmora/article-images/discord-delete-account-option.jpg)
-
-1. Click the delete account button to make your Discord account disappear!
-
-However, if you’ve activated 2FA, you may also be asked to put your password and 2FA code.
-
-Also, if you want to delete your account permanently, there are some things you need to do before completing the process.
-
-As mentioned before, if you’re the server’s owner, you’ll have to either delete your server or transfer its ownership to a trusted source.
-
-For transferring ownership on Discord, follow these steps:
-
-1. Open the Discord app
-2. Click the “server name,” and a range of options will open; then click “server setting”
-3. At the bottom-left of the screen, click the ‘members’ option below “User Management”
-4. Here you’ll make the critical decision of who gets the keys to your kingdom. Once you decide who to transfer the ownership to, click the “3 vertical dots”
-5. As the “dialog menu” opens, click “Transfer Ownership”
-
-Once it’s completed, you’ll become a regular server member. Your access to the server will be limited and as per the set position.
-
-On the other hand, if you don’t want to transfer its ownership to someone else, you can also delete it.
-
-Here’s how you can delete the server to complete the process of deleting your Discord account:
-
-1. Click the “Server Name” again
-2. Within the several options, click the “Server Settings.”
-3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
-
-![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
-
-1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
-
-Like the primary Discord account deletion process, if you have enabled 2FA on this account, you’ll have to put in the code to get things completed.
-
-After this, you’ll be asked one more time to click the “delete server” button before it is completely deleted. Keep in mind that you’ll have 14 days time to recover your Discord account. Once the two-week time passes, you won’t be able to retrieve or sign in to your account.
-
-Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 2: How to Delete Discord Account From iPhone And Android?
-
-Yes, you can delete the discord account from iPhone and Android. And if you’re wondering how to delete a Discord account, Here’s a quick way to do it:
-
-1. Open your updated discord app and tap the “hamburger” menu located at the top-left
-2. Tap the gear icon so you can go to the “user settings.”
-3. Select “My Account”
-4. Below the “Account Management” option, choose “Delete Account” and put your password and 2FA (if you have set it up)
-
-## Part 3: How To Disable Discord Account On Desktop Computer?
-
-Deleting the account means you won’t be able to use it further, whereas disabling the account normally means you’re taking a little break.
-
-So, if you don’t want to remove or delete your account entirely but only want it gone for some time, choose the disable option.
-
-Here’s how you can disable a Discord account on a desktop computer:
-
-1. Open the app on your window PC/Mac and then log in to your Discord account
-2. Click the “User Settings” option and then go to the “My Account” option within the user settings
-3. In the lower corner of your Mac/PC screen, you’ll see the “Disable Account” button next to the “Delete Account” button
-
-![How to disable discord account](https://images.wondershare.com/filmora/article-images/disable-discord-account.jpg)
-
-1. Click the “Disable Account” option, and it will be disabled.
-
-#### **What’s The Difference Between Disabling And Deleting A Discord Account?**
-
-Disabling the account means you can recover it anytime you want, unlike deleting the account where you only have a 14-day restoration window. Additionally, when the account is disabled, you won’t receive notifications, but you will still get “friend requests.”
-
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 4: How To Disable Discord Account On Mobile?
-
-Disabling your Discord account for Android and iOS isn’t as simple as it is on a Desktop Windows/Mac PC.
-
-Currently, there is no direct way to either delete or disable your Discord account through a mobile device.
-
-Nevertheless, follow the steps below to disable your Discord account on mobile:
-
-1. Open the Discord application on your smartphone
-2. Tap the cog icon on the lower right corner of the phone
-3. Tap on the “My Account” option in the “User Settings” menu
-4. You’ll have the choice to either “Delete Account” or “Disable Account.” However, whatever you choose, you’ll be prompted to the support page explaining ways to disable or delete your account
-5. To complete disabling process from a mobile device, you’ll have to send a request to the support team, as it’s the only way to disable your account via your smartphone
-
-## FAQs About Deleting Discord Account
-
-#### 1\. How Long Does Discord Take To Delete Account?
-
-Typically, once you have completed the entire deletion process, Discord takes approximately 14 to 30 days to process it.
-
-#### 2\. What Happens When You Delete Discord Account?
-
-Deleting your discord account won’t delete the information you have on the account. It will delete your profile and rename the account to “deleteduser.” However, all your data and messages will remain on the server or servers.
-
-#### 3\. Can I Re-Use The Deleted Discord Account?
-
-You can re-use your deleted discord account only if the account is in a “pending deletion state,” which is 14 days. If the time is passed, you won’t be able to re-use it.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-[Discord is a voice and text chat service](https://tools.techidaily.com/wondershare/filmora/download/) to bring like-minded people together, especially e-sports professionals.
-
-The goal was to provide users with an improved communications platform that could streamline the way people speak in real-time and over the internet.
-
-Originally designed for gamers, the app allowed users to communicate with others who share interests on a given topic.
-
-After a while, the Discord app expanded its reach and included non-gamers as well. Today, it is one of the most popular chatting apps out there.
-
-However, if, for any reason, you want to delete or disable your account for good, you can. In the following articles, you will learn about how to delete your account step by step.
-
-* [**Part 1: Deleting A Discord Account Permanently on Desktop Computer**](#part1)
-* [**Part 2: Deleting Discord Account from Mobile Devices**](#part2)
-* [**Part 3: How to Disable Discord Account On Desktop Computer**](#part3)
-* [**Part 4: How To Disable Discord Account On Mobile?**](#part4)
-
----
-
-## Part 1: How To Delete A Discord Account Permanently?
-
-Are you done with a game, scared about your data, or just bored with the app? No problem! If you want to learn how to delete your discord account, look no further.
-
-But before doing so, you’ll have to do two quick things:
-
-* Reassign ‘administrative rights’ of the servers
-* Completely delete them
-
-The only reason you will have to think about these things is if you assumed responsibility for any server.
-
-Without further ado, here are some easy to follow steps to delete a Discord account permanently:
-
-1. Open the Discord app
-2. Sign in to your Discord account and open the user settings option (Cog icon)
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
-![How to Delete Discord Account - Go to My Account](https://images.wondershare.com/filmora/article-images/find-discord-my-account.jpg)
-
-1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Delete Discord Account Permantely - Account Options](https://images.wondershare.com/filmora/article-images/discord-delete-account-option.jpg)
 
 1. Click the delete account button to make your Discord account disappear!
@@ -295,9 +121,6 @@ Here’s how you can disable a Discord account on a desktop computer:
 2. Click the “User Settings” option and then go to the “My Account” option within the user settings
 3. In the lower corner of your Mac/PC screen, you’ll see the “Disable Account” button next to the “Delete Account” button
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![How to disable discord account](https://images.wondershare.com/filmora/article-images/disable-discord-account.jpg)
 
 1. Click the “Disable Account” option, and it will be disabled.
@@ -306,171 +129,6 @@ Here’s how you can disable a Discord account on a desktop computer:
 
 Disabling the account means you can recover it anytime you want, unlike deleting the account where you only have a 14-day restoration window. Additionally, when the account is disabled, you won’t receive notifications, but you will still get “friend requests.”
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
-## Part 4: How To Disable Discord Account On Mobile?
-
-Disabling your Discord account for Android and iOS isn’t as simple as it is on a Desktop Windows/Mac PC.
-
-Currently, there is no direct way to either delete or disable your Discord account through a mobile device.
-
-Nevertheless, follow the steps below to disable your Discord account on mobile:
-
-1. Open the Discord application on your smartphone
-2. Tap the cog icon on the lower right corner of the phone
-3. Tap on the “My Account” option in the “User Settings” menu
-4. You’ll have the choice to either “Delete Account” or “Disable Account.” However, whatever you choose, you’ll be prompted to the support page explaining ways to disable or delete your account
-5. To complete disabling process from a mobile device, you’ll have to send a request to the support team, as it’s the only way to disable your account via your smartphone
-
-## FAQs About Deleting Discord Account
-
-#### 1\. How Long Does Discord Take To Delete Account?
-
-Typically, once you have completed the entire deletion process, Discord takes approximately 14 to 30 days to process it.
-
-#### 2\. What Happens When You Delete Discord Account?
-
-Deleting your discord account won’t delete the information you have on the account. It will delete your profile and rename the account to “deleteduser.” However, all your data and messages will remain on the server or servers.
-
-#### 3\. Can I Re-Use The Deleted Discord Account?
-
-You can re-use your deleted discord account only if the account is in a “pending deletion state,” which is 14 days. If the time is passed, you won’t be able to re-use it.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-[Discord is a voice and text chat service](https://tools.techidaily.com/wondershare/filmora/download/) to bring like-minded people together, especially e-sports professionals.
-
-The goal was to provide users with an improved communications platform that could streamline the way people speak in real-time and over the internet.
-
-Originally designed for gamers, the app allowed users to communicate with others who share interests on a given topic.
-
-After a while, the Discord app expanded its reach and included non-gamers as well. Today, it is one of the most popular chatting apps out there.
-
-However, if, for any reason, you want to delete or disable your account for good, you can. In the following articles, you will learn about how to delete your account step by step.
-
-* [**Part 1: Deleting A Discord Account Permanently on Desktop Computer**](#part1)
-* [**Part 2: Deleting Discord Account from Mobile Devices**](#part2)
-* [**Part 3: How to Disable Discord Account On Desktop Computer**](#part3)
-* [**Part 4: How To Disable Discord Account On Mobile?**](#part4)
-
----
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 1: How To Delete A Discord Account Permanently?
-
-Are you done with a game, scared about your data, or just bored with the app? No problem! If you want to learn how to delete your discord account, look no further.
-
-But before doing so, you’ll have to do two quick things:
-
-* Reassign ‘administrative rights’ of the servers
-* Completely delete them
-
-The only reason you will have to think about these things is if you assumed responsibility for any server.
-
-Without further ado, here are some easy to follow steps to delete a Discord account permanently:
-
-1. Open the Discord app
-2. Sign in to your Discord account and open the user settings option (Cog icon)
-
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![How to Delete Discord Account - Go to My Account](https://images.wondershare.com/filmora/article-images/find-discord-my-account.jpg)
-
-1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Delete Discord Account Permantely - Account Options](https://images.wondershare.com/filmora/article-images/discord-delete-account-option.jpg)
-
-1. Click the delete account button to make your Discord account disappear!
-
-However, if you’ve activated 2FA, you may also be asked to put your password and 2FA code.
-
-Also, if you want to delete your account permanently, there are some things you need to do before completing the process.
-
-As mentioned before, if you’re the server’s owner, you’ll have to either delete your server or transfer its ownership to a trusted source.
-
-For transferring ownership on Discord, follow these steps:
-
-1. Open the Discord app
-2. Click the “server name,” and a range of options will open; then click “server setting”
-3. At the bottom-left of the screen, click the ‘members’ option below “User Management”
-4. Here you’ll make the critical decision of who gets the keys to your kingdom. Once you decide who to transfer the ownership to, click the “3 vertical dots”
-5. As the “dialog menu” opens, click “Transfer Ownership”
-
-Once it’s completed, you’ll become a regular server member. Your access to the server will be limited and as per the set position.
-
-On the other hand, if you don’t want to transfer its ownership to someone else, you can also delete it.
-
-Here’s how you can delete the server to complete the process of deleting your Discord account:
-
-1. Click the “Server Name” again
-2. Within the several options, click the “Server Settings.”
-3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
-
-1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
-
-Like the primary Discord account deletion process, if you have enabled 2FA on this account, you’ll have to put in the code to get things completed.
-
-After this, you’ll be asked one more time to click the “delete server” button before it is completely deleted. Keep in mind that you’ll have 14 days time to recover your Discord account. Once the two-week time passes, you won’t be able to retrieve or sign in to your account.
-
-Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
-
-## Part 2: How to Delete Discord Account From iPhone And Android?
-
-Yes, you can delete the discord account from iPhone and Android. And if you’re wondering how to delete a Discord account, Here’s a quick way to do it:
-
-1. Open your updated discord app and tap the “hamburger” menu located at the top-left
-2. Tap the gear icon so you can go to the “user settings.”
-3. Select “My Account”
-4. Below the “Account Management” option, choose “Delete Account” and put your password and 2FA (if you have set it up)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-## Part 3: How To Disable Discord Account On Desktop Computer?
-
-Deleting the account means you won’t be able to use it further, whereas disabling the account normally means you’re taking a little break.
-
-So, if you don’t want to remove or delete your account entirely but only want it gone for some time, choose the disable option.
-
-Here’s how you can disable a Discord account on a desktop computer:
-
-1. Open the app on your window PC/Mac and then log in to your Discord account
-2. Click the “User Settings” option and then go to the “My Account” option within the user settings
-3. In the lower corner of your Mac/PC screen, you’ll see the “Disable Account” button next to the “Delete Account” button
-
-![How to disable discord account](https://images.wondershare.com/filmora/article-images/disable-discord-account.jpg)
-
-1. Click the “Disable Account” option, and it will be disabled.
-
-#### **What’s The Difference Between Disabling And Deleting A Discord Account?**
-
-Disabling the account means you can recover it anytime you want, unlike deleting the account where you only have a 14-day restoration window. Additionally, when the account is disabled, you won’t receive notifications, but you will still get “friend requests.”
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How To Disable Discord Account On Mobile?
 
 Disabling your Discord account for Android and iOS isn’t as simple as it is on a Desktop Windows/Mac PC.
@@ -586,9 +244,6 @@ After this, you’ll be asked one more time to click the “delete server” but
 
 Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Part 2: How to Delete Discord Account From iPhone And Android?
 
 Yes, you can delete the discord account from iPhone and Android. And if you’re wondering how to delete a Discord account, Here’s a quick way to do it:
@@ -618,9 +273,6 @@ Here’s how you can disable a Discord account on a desktop computer:
 
 Disabling the account means you can recover it anytime you want, unlike deleting the account where you only have a 14-day restoration window. Additionally, when the account is disabled, you won’t receive notifications, but you will still get “friend requests.”
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Part 4: How To Disable Discord Account On Mobile?
 
 Disabling your Discord account for Android and iOS isn’t as simple as it is on a Desktop Windows/Mac PC.
@@ -649,9 +301,301 @@ Deleting your discord account won’t delete the information you have on the acc
 
 You can re-use your deleted discord account only if the account is in a “pending deletion state,” which is 14 days. If the time is passed, you won’t be able to re-use it.
 
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+[Discord is a voice and text chat service](https://tools.techidaily.com/wondershare/filmora/download/) to bring like-minded people together, especially e-sports professionals.
+
+The goal was to provide users with an improved communications platform that could streamline the way people speak in real-time and over the internet.
+
+Originally designed for gamers, the app allowed users to communicate with others who share interests on a given topic.
+
+After a while, the Discord app expanded its reach and included non-gamers as well. Today, it is one of the most popular chatting apps out there.
+
+However, if, for any reason, you want to delete or disable your account for good, you can. In the following articles, you will learn about how to delete your account step by step.
+
+* [**Part 1: Deleting A Discord Account Permanently on Desktop Computer**](#part1)
+* [**Part 2: Deleting Discord Account from Mobile Devices**](#part2)
+* [**Part 3: How to Disable Discord Account On Desktop Computer**](#part3)
+* [**Part 4: How To Disable Discord Account On Mobile?**](#part4)
+
+---
+
+## Part 1: How To Delete A Discord Account Permanently?
+
+Are you done with a game, scared about your data, or just bored with the app? No problem! If you want to learn how to delete your discord account, look no further.
+
+But before doing so, you’ll have to do two quick things:
+
+* Reassign ‘administrative rights’ of the servers
+* Completely delete them
+
+The only reason you will have to think about these things is if you assumed responsibility for any server.
+
+Without further ado, here are some easy to follow steps to delete a Discord account permanently:
+
+1. Open the Discord app
+2. Sign in to your Discord account and open the user settings option (Cog icon)
+
+![How to Delete Discord Account - Go to My Account](https://images.wondershare.com/filmora/article-images/find-discord-my-account.jpg)
+
+1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
+
+![Delete Discord Account Permantely - Account Options](https://images.wondershare.com/filmora/article-images/discord-delete-account-option.jpg)
+
+1. Click the delete account button to make your Discord account disappear!
+
+However, if you’ve activated 2FA, you may also be asked to put your password and 2FA code.
+
+Also, if you want to delete your account permanently, there are some things you need to do before completing the process.
+
+As mentioned before, if you’re the server’s owner, you’ll have to either delete your server or transfer its ownership to a trusted source.
+
+For transferring ownership on Discord, follow these steps:
+
+1. Open the Discord app
+2. Click the “server name,” and a range of options will open; then click “server setting”
+3. At the bottom-left of the screen, click the ‘members’ option below “User Management”
+4. Here you’ll make the critical decision of who gets the keys to your kingdom. Once you decide who to transfer the ownership to, click the “3 vertical dots”
+5. As the “dialog menu” opens, click “Transfer Ownership”
+
+Once it’s completed, you’ll become a regular server member. Your access to the server will be limited and as per the set position.
+
+On the other hand, if you don’t want to transfer its ownership to someone else, you can also delete it.
+
+Here’s how you can delete the server to complete the process of deleting your Discord account:
+
+1. Click the “Server Name” again
+2. Within the several options, click the “Server Settings.”
+3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
+
+![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
+
+1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
+
+Like the primary Discord account deletion process, if you have enabled 2FA on this account, you’ll have to put in the code to get things completed.
+
+After this, you’ll be asked one more time to click the “delete server” button before it is completely deleted. Keep in mind that you’ll have 14 days time to recover your Discord account. Once the two-week time passes, you won’t be able to retrieve or sign in to your account.
+
+Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
+
+## Part 2: How to Delete Discord Account From iPhone And Android?
+
+Yes, you can delete the discord account from iPhone and Android. And if you’re wondering how to delete a Discord account, Here’s a quick way to do it:
+
+1. Open your updated discord app and tap the “hamburger” menu located at the top-left
+2. Tap the gear icon so you can go to the “user settings.”
+3. Select “My Account”
+4. Below the “Account Management” option, choose “Delete Account” and put your password and 2FA (if you have set it up)
+
+## Part 3: How To Disable Discord Account On Desktop Computer?
+
+Deleting the account means you won’t be able to use it further, whereas disabling the account normally means you’re taking a little break.
+
+So, if you don’t want to remove or delete your account entirely but only want it gone for some time, choose the disable option.
+
+Here’s how you can disable a Discord account on a desktop computer:
+
+1. Open the app on your window PC/Mac and then log in to your Discord account
+2. Click the “User Settings” option and then go to the “My Account” option within the user settings
+3. In the lower corner of your Mac/PC screen, you’ll see the “Disable Account” button next to the “Delete Account” button
+
+![How to disable discord account](https://images.wondershare.com/filmora/article-images/disable-discord-account.jpg)
+
+1. Click the “Disable Account” option, and it will be disabled.
+
+#### **What’s The Difference Between Disabling And Deleting A Discord Account?**
+
+Disabling the account means you can recover it anytime you want, unlike deleting the account where you only have a 14-day restoration window. Additionally, when the account is disabled, you won’t receive notifications, but you will still get “friend requests.”
+
+## Part 4: How To Disable Discord Account On Mobile?
+
+Disabling your Discord account for Android and iOS isn’t as simple as it is on a Desktop Windows/Mac PC.
+
+Currently, there is no direct way to either delete or disable your Discord account through a mobile device.
+
+Nevertheless, follow the steps below to disable your Discord account on mobile:
+
+1. Open the Discord application on your smartphone
+2. Tap the cog icon on the lower right corner of the phone
+3. Tap on the “My Account” option in the “User Settings” menu
+4. You’ll have the choice to either “Delete Account” or “Disable Account.” However, whatever you choose, you’ll be prompted to the support page explaining ways to disable or delete your account
+5. To complete disabling process from a mobile device, you’ll have to send a request to the support team, as it’s the only way to disable your account via your smartphone
+
+## FAQs About Deleting Discord Account
+
+#### 1\. How Long Does Discord Take To Delete Account?
+
+Typically, once you have completed the entire deletion process, Discord takes approximately 14 to 30 days to process it.
+
+#### 2\. What Happens When You Delete Discord Account?
+
+Deleting your discord account won’t delete the information you have on the account. It will delete your profile and rename the account to “deleteduser.” However, all your data and messages will remain on the server or servers.
+
+#### 3\. Can I Re-Use The Deleted Discord Account?
+
+You can re-use your deleted discord account only if the account is in a “pending deletion state,” which is 14 days. If the time is passed, you won’t be able to re-use it.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+[Discord is a voice and text chat service](https://tools.techidaily.com/wondershare/filmora/download/) to bring like-minded people together, especially e-sports professionals.
+
+The goal was to provide users with an improved communications platform that could streamline the way people speak in real-time and over the internet.
+
+Originally designed for gamers, the app allowed users to communicate with others who share interests on a given topic.
+
+After a while, the Discord app expanded its reach and included non-gamers as well. Today, it is one of the most popular chatting apps out there.
+
+However, if, for any reason, you want to delete or disable your account for good, you can. In the following articles, you will learn about how to delete your account step by step.
+
+* [**Part 1: Deleting A Discord Account Permanently on Desktop Computer**](#part1)
+* [**Part 2: Deleting Discord Account from Mobile Devices**](#part2)
+* [**Part 3: How to Disable Discord Account On Desktop Computer**](#part3)
+* [**Part 4: How To Disable Discord Account On Mobile?**](#part4)
+
+---
+
+## Part 1: How To Delete A Discord Account Permanently?
+
+Are you done with a game, scared about your data, or just bored with the app? No problem! If you want to learn how to delete your discord account, look no further.
+
+But before doing so, you’ll have to do two quick things:
+
+* Reassign ‘administrative rights’ of the servers
+* Completely delete them
+
+The only reason you will have to think about these things is if you assumed responsibility for any server.
+
+Without further ado, here are some easy to follow steps to delete a Discord account permanently:
+
+1. Open the Discord app
+2. Sign in to your Discord account and open the user settings option (Cog icon)
+
+![How to Delete Discord Account - Go to My Account](https://images.wondershare.com/filmora/article-images/find-discord-my-account.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
+
+![Delete Discord Account Permantely - Account Options](https://images.wondershare.com/filmora/article-images/discord-delete-account-option.jpg)
+
+1. Click the delete account button to make your Discord account disappear!
+
+However, if you’ve activated 2FA, you may also be asked to put your password and 2FA code.
+
+Also, if you want to delete your account permanently, there are some things you need to do before completing the process.
+
+As mentioned before, if you’re the server’s owner, you’ll have to either delete your server or transfer its ownership to a trusted source.
+
+For transferring ownership on Discord, follow these steps:
+
+1. Open the Discord app
+2. Click the “server name,” and a range of options will open; then click “server setting”
+3. At the bottom-left of the screen, click the ‘members’ option below “User Management”
+4. Here you’ll make the critical decision of who gets the keys to your kingdom. Once you decide who to transfer the ownership to, click the “3 vertical dots”
+5. As the “dialog menu” opens, click “Transfer Ownership”
+
+Once it’s completed, you’ll become a regular server member. Your access to the server will be limited and as per the set position.
+
+On the other hand, if you don’t want to transfer its ownership to someone else, you can also delete it.
+
+Here’s how you can delete the server to complete the process of deleting your Discord account:
+
+1. Click the “Server Name” again
+2. Within the several options, click the “Server Settings.”
+3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
+
+![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
+
+1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
+
+Like the primary Discord account deletion process, if you have enabled 2FA on this account, you’ll have to put in the code to get things completed.
+
+After this, you’ll be asked one more time to click the “delete server” button before it is completely deleted. Keep in mind that you’ll have 14 days time to recover your Discord account. Once the two-week time passes, you won’t be able to retrieve or sign in to your account.
+
+Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
+
+## Part 2: How to Delete Discord Account From iPhone And Android?
+
+Yes, you can delete the discord account from iPhone and Android. And if you’re wondering how to delete a Discord account, Here’s a quick way to do it:
+
+1. Open your updated discord app and tap the “hamburger” menu located at the top-left
+2. Tap the gear icon so you can go to the “user settings.”
+3. Select “My Account”
+4. Below the “Account Management” option, choose “Delete Account” and put your password and 2FA (if you have set it up)
+
+## Part 3: How To Disable Discord Account On Desktop Computer?
+
+Deleting the account means you won’t be able to use it further, whereas disabling the account normally means you’re taking a little break.
+
+So, if you don’t want to remove or delete your account entirely but only want it gone for some time, choose the disable option.
+
+Here’s how you can disable a Discord account on a desktop computer:
+
+1. Open the app on your window PC/Mac and then log in to your Discord account
+2. Click the “User Settings” option and then go to the “My Account” option within the user settings
+3. In the lower corner of your Mac/PC screen, you’ll see the “Disable Account” button next to the “Delete Account” button
+
+![How to disable discord account](https://images.wondershare.com/filmora/article-images/disable-discord-account.jpg)
+
+1. Click the “Disable Account” option, and it will be disabled.
+
+#### **What’s The Difference Between Disabling And Deleting A Discord Account?**
+
+Disabling the account means you can recover it anytime you want, unlike deleting the account where you only have a 14-day restoration window. Additionally, when the account is disabled, you won’t receive notifications, but you will still get “friend requests.”
+
+## Part 4: How To Disable Discord Account On Mobile?
+
+Disabling your Discord account for Android and iOS isn’t as simple as it is on a Desktop Windows/Mac PC.
+
+Currently, there is no direct way to either delete or disable your Discord account through a mobile device.
+
+Nevertheless, follow the steps below to disable your Discord account on mobile:
+
+1. Open the Discord application on your smartphone
+2. Tap the cog icon on the lower right corner of the phone
+3. Tap on the “My Account” option in the “User Settings” menu
+4. You’ll have the choice to either “Delete Account” or “Disable Account.” However, whatever you choose, you’ll be prompted to the support page explaining ways to disable or delete your account
+5. To complete disabling process from a mobile device, you’ll have to send a request to the support team, as it’s the only way to disable your account via your smartphone
+
+## FAQs About Deleting Discord Account
+
+#### 1\. How Long Does Discord Take To Delete Account?
+
+Typically, once you have completed the entire deletion process, Discord takes approximately 14 to 30 days to process it.
+
+#### 2\. What Happens When You Delete Discord Account?
+
+Deleting your discord account won’t delete the information you have on the account. It will delete your profile and rename the account to “deleteduser.” However, all your data and messages will remain on the server or servers.
+
+#### 3\. Can I Re-Use The Deleted Discord Account?
+
+You can re-use your deleted discord account only if the account is in a “pending deletion state,” which is 14 days. If the time is passed, you won’t be able to re-use it.
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -672,16 +616,10 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Quick-React Guide: Efficiently Answering Discord Messages
 
 # How to Reply Message on Discord
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -708,9 +646,6 @@ In this article, we will cover the following parts on how to reply to messages o
 * [Part 4: Replying to Messages with Reactions on Discord](#part4)
 * [Part 5: Quoting Messages on Discord?](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Part 1: How to Reply to a Specific Message on Discord on Desktop
 
 This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
@@ -726,9 +661,6 @@ This technique works for both the browser and the desktop applications; use it w
 5. Write your reply in the text box. You will now see a banner telling you who you are replying to. There will also be a "@" sign over the text box, which will tag the person you respond to (this can be turned off with a click)
 6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
 
 ## Part 2: How to Reply to a Certain Message on Discord Mobile
@@ -739,9 +671,6 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 2. Hold down on the comment until a list of options appears on the screen
 3. Choose the "Reply" option
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
 
 1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
@@ -757,18 +686,12 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
@@ -784,16 +707,10 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 1. Hover your mouse cursor over the message you wish to react to
 2. Click the smiley face titled "Add reaction" on the message's far-right
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
 
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
 
 Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
@@ -801,9 +718,6 @@ Furthermore, to react to a message with an emoji that has already been used as a
 1. Click on the emoji, and it would increase the total number of responses by 1
 2. Hovering over the emoji will also let you know the names of the people who reacted to the message
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Part 5: How to Quote Messages on Discord?
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
@@ -850,17 +764,18 @@ In this article, we will cover the following parts on how to reply to messages o
 * [Part 5: Quoting Messages on Discord?](#part5)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: How to Reply to a Specific Message on Discord on Desktop
 
 This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
 
 1. Locate the message you wish to reply to
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
 
 1. Hover your cursor on the comment as you see icons on the right of the message
@@ -870,9 +785,6 @@ This technique works for both the browser and the desktop applications; use it w
 5. Write your reply in the text box. You will now see a banner telling you who you are replying to. There will also be a "@" sign over the text box, which will tag the person you respond to (this can be turned off with a click)
 6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
 
 ## Part 2: How to Reply to a Certain Message on Discord Mobile
@@ -898,29 +810,33 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
 ![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Part 4: How to Reply to Messages with Reactions on Discord
 
 Discord allows you to react to posts with emojis. To respond with an emoji:
@@ -943,9 +859,6 @@ Furthermore, to react to a message with an emoji that has already been used as a
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
@@ -987,9 +900,6 @@ In this article, we will cover the following parts on how to reply to messages o
 * [Part 4: Replying to Messages with Reactions on Discord](#part4)
 * [Part 5: Quoting Messages on Discord?](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Reply to a Specific Message on Discord on Desktop
 
 This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
@@ -1030,18 +940,12 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
@@ -1049,6 +953,13 @@ Here's an example of how you can implement this feature in your server. In this 
 ![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
 
 After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to Reply to Messages with Reactions on Discord
 
@@ -1072,9 +983,6 @@ Furthermore, to react to a message with an emoji that has already been used as a
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
@@ -1084,9 +992,6 @@ On the other hand, multi-line quoting is when you need to quote a paragraph or b
 
 ![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -1119,18 +1024,12 @@ In this article, we will cover the following parts on how to reply to messages o
 * [Part 4: Replying to Messages with Reactions on Discord](#part4)
 * [Part 5: Quoting Messages on Discord?](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Reply to a Specific Message on Discord on Desktop
 
 This technique works for both the browser and the desktop applications; use it when replying in different discord channels or direct messaging a friend.
 
 1. Locate the message you wish to reply to
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
 
 1. Hover your cursor on the comment as you see icons on the right of the message
@@ -1143,8 +1042,12 @@ This technique works for both the browser and the desktop applications; use it w
 ![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Reply to a Certain Message on Discord Mobile
 
 Replying on the mobile app is similar to Desktop. Here's how to do it:
@@ -1160,9 +1063,6 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 
 After pressing the send button, you should now be able to see your message in the channel.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Set Auto Reply on Discord
 
 It may be useful to have an auto-reply feature when handling large servers. Do this by integrating a bot into your Discord server.
@@ -1171,39 +1071,34 @@ Here's an example of how you can implement this feature in your server. In this 
 
 1. First, you need to visit Dyno's [website](https://dyno.gg/bot) and then click on "Join us on Discord"
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Part 4: How to Reply to Messages with Reactions on Discord
 
 Discord allows you to react to posts with emojis. To respond with an emoji:
@@ -1211,10 +1106,14 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 1. Hover your mouse cursor over the message you wish to react to
 2. Click the smiley face titled "Add reaction" on the message's far-right
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
 
@@ -1225,9 +1124,6 @@ Furthermore, to react to a message with an emoji that has already been used as a
 1. Click on the emoji, and it would increase the total number of responses by 1
 2. Hovering over the emoji will also let you know the names of the people who reacted to the message
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 5: How to Quote Messages on Discord?
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
@@ -1262,8 +1158,20 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-15-ways-to-enhance-your-listening-pleasure-with-podcasts/"><u>[New] 2024 Approved 15 Ways to Enhance Your Listening Pleasure with Podcasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-enhancing-virtual-presentations-through-skypes-screen-sharing/"><u>[New] Enhancing Virtual Presentations Through Skype's Screen Sharing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-funny-face-of-freedom-top-20-pranks-at-facebooks-barracks-for-2024/"><u>[New] The Funny Face of Freedom Top 20 Pranks at Facebook's Barracks for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-optimized-titling-techniques-for-youtube-success/"><u>[Updated] In 2024, Optimized Titling Techniques for YouTube Success</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-instagram-tutorial-upload-and-share-video/"><u>2024 Approved Instagram Tutorial Upload and Share Video</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top7/"><u>日本語動画圧縮ツールベストセレクションTOP7 - ご推薦サイト</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-connexant-smartaudio-hd-effective-solutions-for-windows-11-users/"><u>Fixing the Silent Connexant SmartAudio HD: Effective Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-ways-to-stream-and-save-your-favorite-tv-shows-on-your-iphone/"><u>Free Ways to Stream and Save Your Favorite TV Shows on Your iPhone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-incorporate-your-podcast-into-app-store-for-2024/"><u>How To Incorporate Your Podcast Into App Store for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-playstation-5-subscription-schemes/"><u>Streamlining PlayStation 5 Subscription Schemes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-sites-for-free-4k-movie-downloads-and-how-to-use-leading-4k-video-converters/"><u>Top Sites for Free 4K Movie Downloads & How to Use Leading 4K Video Converters</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/tutorial-on-retrieving-video-files-from-the-platform-tokyvideo/"><u>Tutorial on Retrieving Video Files From the Platform, TokyVideo</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ultimate-guide-seamless-transformation-of-mts-video-files-into-mp3-format/"><u>Ultimate Guide: Seamless Transformation of MTS Video Files Into MP3 Format</u></a></li>
+</ul></div>
 

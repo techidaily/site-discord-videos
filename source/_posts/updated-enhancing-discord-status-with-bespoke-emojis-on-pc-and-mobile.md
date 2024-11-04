@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Enhancing Discord Status with Bespoke Emojis on PC & Mobile"
-date: 2024-07-29T00:40:35.107Z
-updated: 2024-07-30T00:40:35.107Z
+date: 2024-11-03T16:54:52.609Z
+updated: 2024-11-04T18:59:47.052Z
 tags:
   - ai video
   - ai discord
@@ -31,15 +31,8 @@ If you have an active Nitro subscription and want to make your Discord status lo
 
 05 [Custom Discord Status Emoji Ideas](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Put Custom Emoji in Discord Status on Desktop and Online?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![add custom emoji discord status](https://images.wondershare.com/filmora/article-images/add-custom-emoji-discord-status.jpg)
 
 For those who want to add an emoji on their Discord status on desktop and online, you can do that easily by following the steps that we have listed below:
@@ -60,14 +53,8 @@ And that’s it. The emojis will be successfully added to your status based on t
 
 Related: [How to Get Free Animated Emojis on Discord](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Add Custom Emoji on Discord Status on Mobile?
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![add emoji to discord custom status](https://images.wondershare.com/filmora/article-images/add-emoji-to-discord-custom-status.jpg)
 
 If you are using the Discord app on your mobile phone, you can add a custom emoji on Discord status using your phone too. Follow the step-by-step guide that we have prepared to learn how to do that.
@@ -86,9 +73,6 @@ By following these steps, your status with the emoji you have chosen will be sav
 
 **Related**: [How to Change Discord Status](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Copy and Paste Emojis in Discord Status?
 
 If you don’t want to go through the hassle of adding an emoji manually, you can just copy and paste one to your status. How to do it? Follow these steps:
@@ -127,9 +111,6 @@ If you want to make your Discord Status look really cool, you can get some custo
 
 Kaomoji is a collection of super cute emojis that can brighten anyone’s day! They are great because they make your status look different and cute at the same time. You can choose from stars, smiley faces, cute polar bears, and much more! And yes, they are different than your usual emojis.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Add Old-school Emoticons
 
 Remember the good old Nokia 1100 days when you used to send emojis using some signs? Well, you can try this idea too to give a vintage look to your status. Everybody uses the same smiley emojis, so why not try something different? Go back to your old 90s school days and display images, such as @}->-- which is a rose! You can find old-school emoticons online easily.
@@ -146,14 +127,8 @@ And that’s it; now you know **how to put emoji in Discord status** without swe
 
 05 [Custom Discord Status Emoji Ideas](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to Put Custom Emoji in Discord Status on Desktop and Online?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add custom emoji discord status](https://images.wondershare.com/filmora/article-images/add-custom-emoji-discord-status.jpg)
 
 For those who want to add an emoji on their Discord status on desktop and online, you can do that easily by following the steps that we have listed below:
@@ -194,9 +169,6 @@ By following these steps, your status with the emoji you have chosen will be sav
 
 **Related**: [How to Change Discord Status](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Copy and Paste Emojis in Discord Status?
 
 If you don’t want to go through the hassle of adding an emoji manually, you can just copy and paste one to your status. How to do it? Follow these steps:
@@ -209,9 +181,6 @@ If you don’t want to go through the hassle of adding an emoji manually, you ca
 
 Please note that this may not be possible for all types of emojis, though. Also, this will work if only the website has created emojis that can be directly copied and pasted on the status section.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: How to Add Animated Emojis to Discord Status?
 
 Apart from the basic emojis, you can also add animated emojis to your Discord Status to make your status look even better. Here are the steps to follow to add an animated emoji:
@@ -228,21 +197,12 @@ Apart from the basic emojis, you can also add animated emojis to your Discord St
 
 **Step 6:** Look at the emoji that you like and memorize the animated emoji name. Press \\ followed by the name of the emoji. Now, copy the whole text and paste it again. You will see a few numbers; that’s the Nitro ID for the emoji. Copy the number only, go back to the Animated plugin and paste it on the Nitro ID field. Go back to the Nitro page again, and you will see the animated emoji on your status.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Part 5: Custom Discord Status Emoji Ideas
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![custom discord status emoji ideas](https://images.wondershare.com/filmora/article-images/custom-discord-status-emoji-ideas.jpg)
 
 If you want to make your Discord Status look really cool, you can get some custom Discord status emoji ideas from us. Read this section to find out a few super cool custom Discord status emojis ideas and get inspired.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Use Kaomoji in Status
 
 Kaomoji is a collection of super cute emojis that can brighten anyone’s day! They are great because they make your status look different and cute at the same time. You can choose from stars, smiley faces, cute polar bears, and much more! And yes, they are different than your usual emojis.
@@ -265,9 +225,6 @@ And that’s it; now you know **how to put emoji in Discord status** without swe
 
 ## Part 1: How to Put Custom Emoji in Discord Status on Desktop and Online?
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add custom emoji discord status](https://images.wondershare.com/filmora/article-images/add-custom-emoji-discord-status.jpg)
 
 For those who want to add an emoji on their Discord status on desktop and online, you can do that easily by following the steps that we have listed below:
@@ -288,9 +245,6 @@ And that’s it. The emojis will be successfully added to your status based on t
 
 Related: [How to Get Free Animated Emojis on Discord](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Add Custom Emoji on Discord Status on Mobile?
 
 ![add emoji to discord custom status](https://images.wondershare.com/filmora/article-images/add-emoji-to-discord-custom-status.jpg)
@@ -323,9 +277,6 @@ If you don’t want to go through the hassle of adding an emoji manually, you ca
 
 Please note that this may not be possible for all types of emojis, though. Also, this will work if only the website has created emojis that can be directly copied and pasted on the status section.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: How to Add Animated Emojis to Discord Status?
 
 Apart from the basic emojis, you can also add animated emojis to your Discord Status to make your status look even better. Here are the steps to follow to add an animated emoji:
@@ -344,9 +295,6 @@ Apart from the basic emojis, you can also add animated emojis to your Discord St
 
 ## Part 5: Custom Discord Status Emoji Ideas
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![custom discord status emoji ideas](https://images.wondershare.com/filmora/article-images/custom-discord-status-emoji-ideas.jpg)
 
 If you want to make your Discord Status look really cool, you can get some custom Discord status emoji ideas from us. Read this section to find out a few super cool custom Discord status emojis ideas and get inspired.
@@ -355,16 +303,10 @@ If you want to make your Discord Status look really cool, you can get some custo
 
 Kaomoji is a collection of super cute emojis that can brighten anyone’s day! They are great because they make your status look different and cute at the same time. You can choose from stars, smiley faces, cute polar bears, and much more! And yes, they are different than your usual emojis.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Add Old-school Emoticons
 
 Remember the good old Nokia 1100 days when you used to send emojis using some signs? Well, you can try this idea too to give a vintage look to your status. Everybody uses the same smiley emojis, so why not try something different? Go back to your old 90s school days and display images, such as @}->-- which is a rose! You can find old-school emoticons online easily.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 And that’s it; now you know **how to put emoji in Discord status** without sweating much. We hope you have found this article helpful, and you will start using cool emojis on your status to make your Discord status look different than others!
@@ -377,9 +319,6 @@ And that’s it; now you know **how to put emoji in Discord status** without swe
 
 05 [Custom Discord Status Emoji Ideas](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to Put Custom Emoji in Discord Status on Desktop and Online?
 
 ![add custom emoji discord status](https://images.wondershare.com/filmora/article-images/add-custom-emoji-discord-status.jpg)
@@ -456,9 +395,6 @@ Apart from the basic emojis, you can also add animated emojis to your Discord St
 
 If you want to make your Discord Status look really cool, you can get some custom Discord status emoji ideas from us. Read this section to find out a few super cool custom Discord status emojis ideas and get inspired.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### Use Kaomoji in Status
 
 Kaomoji is a collection of super cute emojis that can brighten anyone’s day! They are great because they make your status look different and cute at the same time. You can choose from stars, smiley faces, cute polar bears, and much more! And yes, they are different than your usual emojis.
@@ -508,9 +444,6 @@ Thankfully, Discord came out with the perfect solution. Now, if you are sharing 
 
 And now we come to the point - **how to do spoilers on Discord**? Well, there are two ways to do it. You can run through both of them and choose whichever suits you the best. All the methods are simple to follow. Note that some are available only on the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Adding Spoiler Text Via Tag on Discord
 
 We will begin with the tag method. All you have to do is add the spoiler tag on Discord. Here is a quick rundown of the steps –
@@ -521,25 +454,20 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -550,16 +478,10 @@ This alternate method is quite simple. This was a recent update on Discord that 
 3. Upon selection, a floating bar will appear. Click the ‘eye’ symbol. and then the '||' mark will immediately accompany the selected text, and the selected message will be spoiled automatically.
 4. After you hit the send button, the text will be sent to the server. Only the people who wish to see the spoiler will tap on it unveil it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add spoiler marker on Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-icon.jpg)
 
 This method is available only on the Discord desktop app and browser version. For iOS, the steps are similar. The only difference is that you have to select the spoiler mark from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Add Spoiler to Image and Video on Discord?
 
 There are many scenarios where a **Discord spoiler** can come in handy. As you might be aware that Discord is quite popular and its cross-platform flexibility make it a favorite among gamers. You can connect to your friends over multiple devices with a single account.
@@ -599,17 +521,17 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -637,9 +559,6 @@ Thankfully, Discord came out with the perfect solution. Now, if you are sharing 
 
 And now we come to the point - **how to do spoilers on Discord**? Well, there are two ways to do it. You can run through both of them and choose whichever suits you the best. All the methods are simple to follow. Note that some are available only on the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Adding Spoiler Text Via Tag on Discord
 
 We will begin with the tag method. All you have to do is add the spoiler tag on Discord. Here is a quick rundown of the steps –
@@ -658,6 +577,13 @@ You can also add ‘/spoiler’ before the spoiler content. This is an alternati
 
 ![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
 This alternate method is quite simple. This was a recent update on Discord that enables you to add the spoiler tag quickly. Here is a brief rundown for you –
@@ -667,12 +593,16 @@ This alternate method is quite simple. This was a recent update on Discord that 
 3. Upon selection, a floating bar will appear. Click the ‘eye’ symbol. and then the '||' mark will immediately accompany the selected text, and the selected message will be spoiled automatically.
 4. After you hit the send button, the text will be sent to the server. Only the people who wish to see the spoiler will tap on it unveil it.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add spoiler marker on Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-icon.jpg)
 
 This method is available only on the Discord desktop app and browser version. For iOS, the steps are similar. The only difference is that you have to select the spoiler mark from the context menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Add Spoiler to Image and Video on Discord?
 
@@ -695,8 +625,12 @@ Images can be tagged as spoilers before you upload them on servers. To add spoil
 Note that spoilers that contain images, videos, or other multimedia files can be sent only on the desktop app or the browser. Mobile apps do not support spoiler marks for images or other media files.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bonus: Is it the same to use Spoiler on Mobile devices?
 
 The **Discord mobile spoiler** tag works the same on mobile apps. The process is more or less the same. Here is a quick rundown of the steps –
@@ -710,10 +644,6 @@ You can even mark embedded links as spoilers with the same process. But this doe
 
 For iOS, you can select and highlight the text that you want to hide. Then, tap open the context menu and click on the ‘Mark as Spoiler’ to hide the text.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Bonus: How to turn off the Spoiler tag?
 
 For some reason, you may want to remove the spoiler tag from the spoiler texts. In that case, open the User Settings and tap on Text & Images. Scroll down to the Show Spoiler Content tab and you will see options to control when spoiler content is displayed. You can choose to display on click, on servers I moderate, and always.
@@ -747,12 +677,16 @@ Thankfully, Discord came out with the perfect solution. Now, if you are sharing 
 * [Bonus: Is it the same to use Spoiler on Mobile devices?](#part3)
 * [Bonus: How to turn off the Spoiler tag?](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to Use Spoilers on Discord to Hide Text Messages?
 
 And now we come to the point - **how to do spoilers on Discord**? Well, there are two ways to do it. You can run through both of them and choose whichever suits you the best. All the methods are simple to follow. Note that some are available only on the desktop.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Adding Spoiler Text Via Tag on Discord
 
@@ -764,18 +698,6 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
@@ -793,9 +715,6 @@ This alternate method is quite simple. This was a recent update on Discord that 
 3. Upon selection, a floating bar will appear. Click the ‘eye’ symbol. and then the '||' mark will immediately accompany the selected text, and the selected message will be spoiled automatically.
 4. After you hit the send button, the text will be sent to the server. Only the people who wish to see the spoiler will tap on it unveil it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![add spoiler marker on Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-icon.jpg)
 
 This method is available only on the Discord desktop app and browser version. For iOS, the steps are similar. The only difference is that you have to select the spoiler mark from the context menu.
@@ -806,9 +725,6 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
@@ -822,6 +738,13 @@ Images can be tagged as spoilers before you upload them on servers. To add spoil
 * The result is a blurred image sent on the server. Anyone who wishes to view the image can tap on it.
 
 Note that spoilers that contain images, videos, or other multimedia files can be sent only on the desktop app or the browser. Mobile apps do not support spoiler marks for images or other media files.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus: Is it the same to use Spoiler on Mobile devices?
 
@@ -842,9 +765,6 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
@@ -876,9 +796,6 @@ Thankfully, Discord came out with the perfect solution. Now, if you are sharing 
 
 And now we come to the point - **how to do spoilers on Discord**? Well, there are two ways to do it. You can run through both of them and choose whichever suits you the best. All the methods are simple to follow. Note that some are available only on the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Adding Spoiler Text Via Tag on Discord
 
 We will begin with the tag method. All you have to do is add the spoiler tag on Discord. Here is a quick rundown of the steps –
@@ -889,9 +806,6 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 4. Now add the ‘||’ symbols before and after the spoiler content. For instance, it will look something like this – Hey! This is a spoiler ||spoiler alert||
 5. Hit the enter key to send and your spoiler is sent without spoiling anything!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
@@ -913,18 +827,12 @@ This alternate method is quite simple. This was a recent update on Discord that 
 
 This method is available only on the Discord desktop app and browser version. For iOS, the steps are similar. The only difference is that you have to select the spoiler mark from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Add Spoiler to Image and Video on Discord?
 
 There are many scenarios where a **Discord spoiler** can come in handy. As you might be aware that Discord is quite popular and its cross-platform flexibility make it a favorite among gamers. You can connect to your friends over multiple devices with a single account.
 
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
@@ -952,19 +860,20 @@ You can even mark embedded links as spoilers with the same process. But this doe
 
 For iOS, you can select and highlight the text that you want to hide. Then, tap open the context menu and click on the ‘Mark as Spoiler’ to hide the text.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus: How to turn off the Spoiler tag?
 
 For some reason, you may want to remove the spoiler tag from the spoiler texts. In that case, open the User Settings and tap on Text & Images. Scroll down to the Show Spoiler Content tab and you will see options to control when spoiler content is displayed. You can choose to display on click, on servers I moderate, and always.
 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
@@ -989,8 +898,18 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-social-media-boost-link-your-facebook-story-4-methods/"><u>[New] 2024 Approved Social Media Boost Link Your Facebook Story [4 Methods]</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-permanently-unplug-discord-services-for-2024/"><u>[New] Permanently Unplug Discord Services for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-guide-to-interacting-in-discord-dms-for-2024/"><u>[New] The Ultimate Guide to Interacting in Discord DMs for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-top-ranked-discord-recorder-tools-desktop-mobile-for-2024/"><u>[New] Top-Ranked Discord Recorder Tools (Desktop, Mobile) for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unmasking-silence-how-to-speak-up-and-document-toxicity-in-virtual-communities-like-discord/"><u>[New] Unmasking Silence How to Speak Up and Document Toxicity in Virtual Communities Like Discord</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-find-n3-flip-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo Find N3 Flip Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/refund-process-initiated-for-apples-malfunctioning-butterfly-keyboard-up-to-395-reimbursement-per-laptop/"><u>Refund Process Initiated for Apple's Malfunctioning Butterfly Keyboard: Up to $395 Reimbursement Per Laptop</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/simplifying-video-distribution-a-discord-insiders-approach-for-2024/"><u>Simplifying Video Distribution A Discord Insider's Approach for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tackling-error-14-problems-on-iphones-with-simple-fixes-and-guidance/"><u>Tackling Error 14 Problems on iPhones with Simple Fixes and Guidance</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-collection-of-task-management-tools-for-windows-11-users/"><u>The Ultimate Collection of Task Management Tools for Windows 11 Users</u></a></li>
+</ul></div>
 

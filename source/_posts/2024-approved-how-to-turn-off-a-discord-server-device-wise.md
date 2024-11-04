@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Turn Off a Discord Server Device-Wise\""
-date: 2024-07-29T00:42:28.750Z
-updated: 2024-07-30T00:42:28.750Z
+date: 2024-10-29T17:11:46.423Z
+updated: 2024-11-04T16:06:06.761Z
 tags:
   - ai video
   - ai discord
@@ -33,9 +33,6 @@ However, you may have to someday delete a server you own.
 
 Today we will discuss **how to delete Discord server** or deleting the Discord server of someone who has passed away:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Delete Discord Server Permanently on A Desktop?
 
 If you're familiar with Discord, you will know that there will come a time that you no longer need a server: it may be because you've resigned from your workplace or stopped playing a game.
@@ -58,9 +55,6 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Once you select the server, there will be an options list under the server's name
 3. Click the "server setting" button from the menu (This will be the second option on the list)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
 
 1. At the end of the sidebar, you will find the option "delete the server on the left side." Click it
@@ -86,9 +80,6 @@ transfer-ownership-on-discord-server.jpg
 
 1. Select "Transfer Ownership" and then confirm the transfer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![confirm discord server ownership transfer](https://images.wondershare.com/filmora/article-images/confirm-transfer-ownership.jpg)
 
 ## How to Delete A Server On Discord Via The Mobile App?
@@ -109,9 +100,6 @@ It is nothing but a formality; choosing to ignore it or answer it will not affec
 
 You can choose from pre-decided answers as well, and to give you an example, one of the options is: "I couldn't get people to join."
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How Do I Delete A Discord Server Without Ownership?
 
 Previously you could delete your Discord server using a BOT. Anyone who had permission to use the command/action within BOT could also delete the server. However, now only the server owner and the Discord trust and safety team can delete a server.
@@ -183,49 +171,50 @@ transfer-ownership-on-discord-server.jpg
 
 1. Select "Transfer Ownership" and then confirm the transfer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![confirm discord server ownership transfer](https://images.wondershare.com/filmora/article-images/confirm-transfer-ownership.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## How to Delete A Server On Discord Via The Mobile App?
-
-Suppose you do not want to go through the hassle of logging on to the desktop app. In that case, you have the option of deleting your Discord server via the mobile app quickly.
-
-Here are some easy to follow steps on **how to delete Discord server** using the mobile app:
-
-1. Open the Discord app on your Android device or iPhone and then tap the hamburger settings icon on the top-left
-2. Search for the server you wish to delete, and then long-press the icon of the server you chose
-3. A mini option bar will pop up; here, you must click on "More Options" and then the server options will slide up on your screen; click on "Settings" to continue.
-4. This will take you to the control panel; here, click on the three-dotted settings on the top right
-5. Now you will be provided only one option: "Delete (server name)." Click on it
-
-At this point, in the **how to delete server on Discord** process, Discord will ask you why you chose to delete the server as part of their customer experience surveys.
-
-It is nothing but a formality; choosing to ignore it or answer it will not affect the process's outcome.
-
-You can choose from pre-decided answers as well, and to give you an example, one of the options is: "I couldn't get people to join."
-
-### How Do I Delete A Discord Server Without Ownership?
-
-Previously you could delete your Discord server using a BOT. Anyone who had permission to use the command/action within BOT could also delete the server. However, now only the server owner and the Discord trust and safety team can delete a server.
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## How to Delete A Server On Discord Via The Mobile App?
+
+Suppose you do not want to go through the hassle of logging on to the desktop app. In that case, you have the option of deleting your Discord server via the mobile app quickly.
+
+Here are some easy to follow steps on **how to delete Discord server** using the mobile app:
+
+1. Open the Discord app on your Android device or iPhone and then tap the hamburger settings icon on the top-left
+2. Search for the server you wish to delete, and then long-press the icon of the server you chose
+3. A mini option bar will pop up; here, you must click on "More Options" and then the server options will slide up on your screen; click on "Settings" to continue.
+4. This will take you to the control panel; here, click on the three-dotted settings on the top right
+5. Now you will be provided only one option: "Delete (server name)." Click on it
+
+At this point, in the **how to delete server on Discord** process, Discord will ask you why you chose to delete the server as part of their customer experience surveys.
+
+It is nothing but a formality; choosing to ignore it or answer it will not affect the process's outcome.
+
+You can choose from pre-decided answers as well, and to give you an example, one of the options is: "I couldn't get people to join."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### How Do I Delete A Discord Server Without Ownership?
+
+Previously you could delete your Discord server using a BOT. Anyone who had permission to use the command/action within BOT could also delete the server. However, now only the server owner and the Discord trust and safety team can delete a server.
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -272,9 +261,6 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 
 1. At the end of the sidebar, you will find the option "delete the server on the left side." Click it
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![ Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
 
 **Image**: _The image shows the screen that pops up after clicking "Server settings," here, the delete button can be seen in red._
@@ -320,9 +306,6 @@ You can choose from pre-decided answers as well, and to give you an example, one
 
 Previously you could delete your Discord server using a BOT. Anyone who had permission to use the command/action within BOT could also delete the server. However, now only the server owner and the Discord trust and safety team can delete a server.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -344,8 +327,12 @@ However, you may have to someday delete a server you own.
 Today we will discuss **how to delete Discord server** or deleting the Discord server of someone who has passed away:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: How to Delete Discord Server Permanently on A Desktop?
 
 If you're familiar with Discord, you will know that there will come a time that you no longer need a server: it may be because you've resigned from your workplace or stopped playing a game.
@@ -368,14 +355,18 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Once you select the server, there will be an options list under the server's name
 3. Click the "server setting" button from the menu (This will be the second option on the list)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![ Discord Server Settings](https://images.wondershare.com/filmora/article-images/discord-server-settings.jpg)
 
 1. At the end of the sidebar, you will find the option "delete the server on the left side." Click it
 
 ![ Discord Server Overview](https://images.wondershare.com/filmora/article-images/deleting-discord-server-overview.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Image**: _The image shows the screen that pops up after clicking "Server settings," here, the delete button can be seen in red._
 
@@ -383,10 +374,6 @@ And lastly, ensure that this is what you intend on doing because deleting a Disc
 2. Confirm by entering the server's name and authentication code; this is only required when two-factor authentication is enabled
 3. Click on "delete server" to confirm
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![ Discord Server delete confirm](https://images.wondershare.com/filmora/article-images/double-confirm-to-delete-server.jpg)
 
 **Image:** _As mentioned, you must be sure you want to permanently lose a server and all of its content before deleting it; this prompt serves the same purpose_
@@ -420,16 +407,10 @@ It is nothing but a formality; choosing to ignore it or answer it will not affec
 
 You can choose from pre-decided answers as well, and to give you an example, one of the options is: "I couldn't get people to join."
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### How Do I Delete A Discord Server Without Ownership?
 
 Previously you could delete your Discord server using a BOT. Anyone who had permission to use the command/action within BOT could also delete the server. However, now only the server owner and the Discord trust and safety team can delete a server.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -454,9 +435,6 @@ Follow @Richard Bennett
 
 # How to Send Videos on Discord
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -472,9 +450,6 @@ So, whether it’s a compilation of your best gaming moments that you’ve caref
 * [Part 3: How to Send Long Videos on Discord That Are More Than 8MB](#part3)
 * [Part 4: FAQs About Uploading Videos to Discord](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Send Videos on Discord PC
 
 It’s actually pretty simple to send videos on Discord when using a PC, providing they aren’t too large a file size.
@@ -485,9 +460,6 @@ Once you’re in the right place, click on the plus (+) icon that you’ll find 
 
 You’ll then just need to find the file on your computer, and double click on it. It’ll then bring up a pop-up for the video where you can add a comment, which will sit above the video (ideal if you need to give context on why you’re sharing it). You can also mark it as a spoiler – useful if you’re sharing a gaming tip but you don’t want to spoil the story for anyone who’s not reached that point yet.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-1.png)
 
 From there, it’s as simple as clicking the upload button. Once it’s ready, the video will be in the chat window for anyone in the server to watch, or for your friend if you’ve sent it privately. And if they want to download it, they’ll just need to click the download button (a downward-facing arrow) at the top right of the video.
@@ -499,8 +471,131 @@ It’s worth noting that, while Discord will play most video formats, it can’t
 Also, there’s a strict file limit of 8MB. This isn’t huge at all – while there’s no definitive file size for video (as it depends on file type, resolution, compression, etc) it’s unlikely to be more than 60 seconds of footage, and could just be a few seconds. If the video you want to upload is more than 8MB, carry on reading below to find out how.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Part 2: How to Send Videos on Discord Mobile
+
+The process to send video on Discord Mobile is pretty similar both with iOS and Android, but with just a few minor tweaks.
+
+Firstly, you still need to navigate to either the server or inbox where you want to share the video. You can then click the ‘Photo Selector’ button directly to the left of the chatbox.
+
+This will open your phone’s gallery, but it’ll only be searching for photos. You instead want the File Selector, which will be the third icon along – it looks like a text document with a folded-over corner.
+
+Click this and it’ll give you the option to directly upload a video from your phone’s Downloads folder. To send a video that’s stored elsewhere, click on the Expand arrow at the top left of the menu. This will send you to your phone’s file navigation system where you can find the video you want.
+
+Once you’ve selected the video, just hit the blue Send icon to send your video to the chat. Again you can add a message as a caption, but this time it’ll just be in the normal message box rather than a dedicated comment box before you hit upload.
+
+## Part 3: How to Send Long Videos on Discord That Are More Than 8MB
+
+So as we’ve said above, there is a file size limit when you’re using a free Discord account of just 8MB, which isn’t much at all. There are a few ways around this, so take your pick from the one that sounds best for you.
+
+#### 1\. Update to Discord Nitro to Upload 100MB
+
+The first option is possibly the simplest but it’s definitely not the cheapest, and that’s to pay for an upgrade to Discord Nitro. The paid version of Discord has a number of benefits, one of which is the increased file upload size of 100MB. It costs $4.99 per month or $49.99 per year, so if you’re likely to be regularly uploading videos that are lower than this limit, it might make sense.
+
+#### 2\. Cut Unwanted Clips/Compress Video with Filmora Video Editor
+
+The second choice would be to take your video and cut it into pieces, sending them one at a time. This might sound time-consuming but with Filmora’s Instant Cutter Tool, it’s really simple.
+
+All you need to do is open a video in Filmora by clicking the arrow next to Import and then choosing ‘Import with Instant Cutter Tool’.
+
+This will open the Instant Cutter window where you can click Open File to add your video. From here you can trim your files and export them in multiple sections. There are different ways that you can do this, and while each is a simple process, there are still a few steps to follow.
+
+[![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+For more detail, check out [this post](https://tools.techidaily.com/wondershare/filmora/download/) for a step-by-step guide on the different ways you can trim a video in Filmora.
+
+You can also try to compress your video size, which may let you keep the whole video at the expense of some of the quality. Again, using Filmora, this is easy. But also again, there are different ways to go about it.
+
+You could literally crop the video in order to trim some of the data, as the reduced viewing screen won’t be as big a file. You can also reduce the resolution, or convert your video to a format that uses fewer data. You’ll need to test it though, as converting to some video formats might result in blurry footage.
+
+There are advanced settings you can tinker with too, such as lowering the frame rate or the bit rate. Again, rather than go through all of those options in an epic article here, it’s easier to head to a post dedicated to these steps about [compress videos with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
+
+#### 3\. Upload to YouTube/Vimeo/Google Drive/Dropbox
+
+The final option is to upload your video to an online player or storage site, and link to it, rather than having Discord host the file. YouTube and Vimeo are the obvious options, but Streamable is another popular choice too with a free membership. YouTube’s maximum video uploads are 128GB, which is huge, while other sites like Streamable cap free accounts to 500MB per video.
+
+So, if you want to upload massive files, you’ll need to decide whether to choose YouTube or pay for an upgraded membership elsewhere. Wherever you host your video, once it’s online just grab the link and paste it into Discord to share your content.
+
+The only drawback to this option is that it stops other users from being able to download the video directly, and you may need to look at a file sharing alternative such as Dropbox if you want to send the actual file.
+
+## FAQs About Uploading Videos to Discord
+
+#### Which Kind of Video Formats Can I Upload to Discord?
+
+You can send any filetype to another user on Discord, so that they can download it and watch it on their own device. But if you want to upload a video so that Discord embeds it, and makes it playable within the chat, you’re limited to only mp4 and WebM filetypes.
+
+You can also use MOV files, but not everyone will be able to play them, and FLAC files are supported on desktop only but not on mobile.
+
+#### How Can I Upload Saved Videos to Discord?
+
+If you find a video on Discord that you want to share on a different server or in a private DM, you can use the download icon to save it locally. Then, follow the steps above to upload the video to the server or DM chat window where you want to share it.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+The whole point of Discord is to bring together communities of like-minded people to talk, share ideas and have fun together. And this isn’t just limited to chatting but sometimes you’re going to want to share content, including videos.
+
+So, whether it’s a compilation of your best gaming moments that you’ve carefully edited together, a home movie that you want to share with friends, or just a funny clip that someone’s sent you that you want to pass on, here we’ll take you through how to send videos on Discord both on PC and mobile, and the likely issues you might face.
+
+* [Part 1: How to Send Videos on Discord PC](#part1)
+* [Part 2: How to Send Videos on Discord Mobile](#part2)
+* [Part 3: How to Send Long Videos on Discord That Are More Than 8MB](#part3)
+* [Part 4: FAQs About Uploading Videos to Discord](#part4)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 1: How to Send Videos on Discord PC
+
+It’s actually pretty simple to send videos on Discord when using a PC, providing they aren’t too large a file size.
+
+Firstly, you just need to navigate to the channel or private message where you want to send the video. Just find the right option on the list of servers you’re a member of, or head to your message inbox to find the user you want to send it to privately.
+
+Once you’re in the right place, click on the plus (+) icon that you’ll find to the left of the chatbox at the bottom of the screen where you’d normally type your message.
+
+You’ll then just need to find the file on your computer, and double click on it. It’ll then bring up a pop-up for the video where you can add a comment, which will sit above the video (ideal if you need to give context on why you’re sharing it). You can also mark it as a spoiler – useful if you’re sharing a gaming tip but you don’t want to spoil the story for anyone who’s not reached that point yet.
+
+![upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-1.png)
+
+From there, it’s as simple as clicking the upload button. Once it’s ready, the video will be in the chat window for anyone in the server to watch, or for your friend if you’ve sent it privately. And if they want to download it, they’ll just need to click the download button (a downward-facing arrow) at the top right of the video.
+
+![how to upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-2.png)
+
+It’s worth noting that, while Discord will play most video formats, it can’t manage everything. If you upload a format that Discord isn’t compatible with, then it won’t show a video player – instead, the file will just be uploaded. Other people can still download it to watch on their own devices.
+
+Also, there’s a strict file limit of 8MB. This isn’t huge at all – while there’s no definitive file size for video (as it depends on file type, resolution, compression, etc) it’s unlikely to be more than 60 seconds of footage, and could just be a few seconds. If the video you want to upload is more than 8MB, carry on reading below to find out how.
+
 ## Part 2: How to Send Videos on Discord Mobile
 
 The process to send video on Discord Mobile is pretty similar both with iOS and Android, but with just a few minor tweaks.
@@ -559,9 +654,112 @@ You can also use MOV files, but not everyone will be able to play them, and FLAC
 
 If you find a video on Discord that you want to share on a different server or in a private DM, you can use the download icon to save it locally. Then, follow the steps above to upload the video to the server or DM chat window where you want to share it.
 
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+The whole point of Discord is to bring together communities of like-minded people to talk, share ideas and have fun together. And this isn’t just limited to chatting but sometimes you’re going to want to share content, including videos.
+
+So, whether it’s a compilation of your best gaming moments that you’ve carefully edited together, a home movie that you want to share with friends, or just a funny clip that someone’s sent you that you want to pass on, here we’ll take you through how to send videos on Discord both on PC and mobile, and the likely issues you might face.
+
+* [Part 1: How to Send Videos on Discord PC](#part1)
+* [Part 2: How to Send Videos on Discord Mobile](#part2)
+* [Part 3: How to Send Long Videos on Discord That Are More Than 8MB](#part3)
+* [Part 4: FAQs About Uploading Videos to Discord](#part4)
+
+## Part 1: How to Send Videos on Discord PC
+
+It’s actually pretty simple to send videos on Discord when using a PC, providing they aren’t too large a file size.
+
+Firstly, you just need to navigate to the channel or private message where you want to send the video. Just find the right option on the list of servers you’re a member of, or head to your message inbox to find the user you want to send it to privately.
+
+Once you’re in the right place, click on the plus (+) icon that you’ll find to the left of the chatbox at the bottom of the screen where you’d normally type your message.
+
+You’ll then just need to find the file on your computer, and double click on it. It’ll then bring up a pop-up for the video where you can add a comment, which will sit above the video (ideal if you need to give context on why you’re sharing it). You can also mark it as a spoiler – useful if you’re sharing a gaming tip but you don’t want to spoil the story for anyone who’s not reached that point yet.
+
+![upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-1.png)
+
+From there, it’s as simple as clicking the upload button. Once it’s ready, the video will be in the chat window for anyone in the server to watch, or for your friend if you’ve sent it privately. And if they want to download it, they’ll just need to click the download button (a downward-facing arrow) at the top right of the video.
+
+![how to upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-2.png)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+It’s worth noting that, while Discord will play most video formats, it can’t manage everything. If you upload a format that Discord isn’t compatible with, then it won’t show a video player – instead, the file will just be uploaded. Other people can still download it to watch on their own devices.
+
+Also, there’s a strict file limit of 8MB. This isn’t huge at all – while there’s no definitive file size for video (as it depends on file type, resolution, compression, etc) it’s unlikely to be more than 60 seconds of footage, and could just be a few seconds. If the video you want to upload is more than 8MB, carry on reading below to find out how.
+
+## Part 2: How to Send Videos on Discord Mobile
+
+The process to send video on Discord Mobile is pretty similar both with iOS and Android, but with just a few minor tweaks.
+
+Firstly, you still need to navigate to either the server or inbox where you want to share the video. You can then click the ‘Photo Selector’ button directly to the left of the chatbox.
+
+This will open your phone’s gallery, but it’ll only be searching for photos. You instead want the File Selector, which will be the third icon along – it looks like a text document with a folded-over corner.
+
+Click this and it’ll give you the option to directly upload a video from your phone’s Downloads folder. To send a video that’s stored elsewhere, click on the Expand arrow at the top left of the menu. This will send you to your phone’s file navigation system where you can find the video you want.
+
+Once you’ve selected the video, just hit the blue Send icon to send your video to the chat. Again you can add a message as a caption, but this time it’ll just be in the normal message box rather than a dedicated comment box before you hit upload.
+
+## Part 3: How to Send Long Videos on Discord That Are More Than 8MB
+
+So as we’ve said above, there is a file size limit when you’re using a free Discord account of just 8MB, which isn’t much at all. There are a few ways around this, so take your pick from the one that sounds best for you.
+
+#### 1\. Update to Discord Nitro to Upload 100MB
+
+The first option is possibly the simplest but it’s definitely not the cheapest, and that’s to pay for an upgrade to Discord Nitro. The paid version of Discord has a number of benefits, one of which is the increased file upload size of 100MB. It costs $4.99 per month or $49.99 per year, so if you’re likely to be regularly uploading videos that are lower than this limit, it might make sense.
+
+#### 2\. Cut Unwanted Clips/Compress Video with Filmora Video Editor
+
+The second choice would be to take your video and cut it into pieces, sending them one at a time. This might sound time-consuming but with Filmora’s Instant Cutter Tool, it’s really simple.
+
+All you need to do is open a video in Filmora by clicking the arrow next to Import and then choosing ‘Import with Instant Cutter Tool’.
+
+This will open the Instant Cutter window where you can click Open File to add your video. From here you can trim your files and export them in multiple sections. There are different ways that you can do this, and while each is a simple process, there are still a few steps to follow.
+
+[![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For more detail, check out [this post](https://tools.techidaily.com/wondershare/filmora/download/) for a step-by-step guide on the different ways you can trim a video in Filmora.
+
+You can also try to compress your video size, which may let you keep the whole video at the expense of some of the quality. Again, using Filmora, this is easy. But also again, there are different ways to go about it.
+
+You could literally crop the video in order to trim some of the data, as the reduced viewing screen won’t be as big a file. You can also reduce the resolution, or convert your video to a format that uses fewer data. You’ll need to test it though, as converting to some video formats might result in blurry footage.
+
+There are advanced settings you can tinker with too, such as lowering the frame rate or the bit rate. Again, rather than go through all of those options in an epic article here, it’s easier to head to a post dedicated to these steps about [compress videos with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
+
+#### 3\. Upload to YouTube/Vimeo/Google Drive/Dropbox
+
+The final option is to upload your video to an online player or storage site, and link to it, rather than having Discord host the file. YouTube and Vimeo are the obvious options, but Streamable is another popular choice too with a free membership. YouTube’s maximum video uploads are 128GB, which is huge, while other sites like Streamable cap free accounts to 500MB per video.
+
+So, if you want to upload massive files, you’ll need to decide whether to choose YouTube or pay for an upgraded membership elsewhere. Wherever you host your video, once it’s online just grab the link and paste it into Discord to share your content.
+
+The only drawback to this option is that it stops other users from being able to download the video directly, and you may need to look at a file sharing alternative such as Dropbox if you want to send the actual file.
+
+## FAQs About Uploading Videos to Discord
+
+#### Which Kind of Video Formats Can I Upload to Discord?
+
+You can send any filetype to another user on Discord, so that they can download it and watch it on their own device. But if you want to upload a video so that Discord embeds it, and makes it playable within the chat, you’re limited to only mp4 and WebM filetypes.
+
+You can also use MOV files, but not everyone will be able to play them, and FLAC files are supported on desktop only but not on mobile.
+
+#### How Can I Upload Saved Videos to Discord?
+
+If you find a video on Discord that you want to share on a different server or in a private DM, you can use the download icon to save it locally. Then, follow the steps above to upload the video to the server or DM chat window where you want to share it.
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -661,240 +859,6 @@ You can also use MOV files, but not everyone will be able to play them, and FLAC
 
 If you find a video on Discord that you want to share on a different server or in a private DM, you can use the download icon to save it locally. Then, follow the steps above to upload the video to the server or DM chat window where you want to share it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-The whole point of Discord is to bring together communities of like-minded people to talk, share ideas and have fun together. And this isn’t just limited to chatting but sometimes you’re going to want to share content, including videos.
-
-So, whether it’s a compilation of your best gaming moments that you’ve carefully edited together, a home movie that you want to share with friends, or just a funny clip that someone’s sent you that you want to pass on, here we’ll take you through how to send videos on Discord both on PC and mobile, and the likely issues you might face.
-
-* [Part 1: How to Send Videos on Discord PC](#part1)
-* [Part 2: How to Send Videos on Discord Mobile](#part2)
-* [Part 3: How to Send Long Videos on Discord That Are More Than 8MB](#part3)
-* [Part 4: FAQs About Uploading Videos to Discord](#part4)
-
-## Part 1: How to Send Videos on Discord PC
-
-It’s actually pretty simple to send videos on Discord when using a PC, providing they aren’t too large a file size.
-
-Firstly, you just need to navigate to the channel or private message where you want to send the video. Just find the right option on the list of servers you’re a member of, or head to your message inbox to find the user you want to send it to privately.
-
-Once you’re in the right place, click on the plus (+) icon that you’ll find to the left of the chatbox at the bottom of the screen where you’d normally type your message.
-
-You’ll then just need to find the file on your computer, and double click on it. It’ll then bring up a pop-up for the video where you can add a comment, which will sit above the video (ideal if you need to give context on why you’re sharing it). You can also mark it as a spoiler – useful if you’re sharing a gaming tip but you don’t want to spoil the story for anyone who’s not reached that point yet.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
-![upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-1.png)
-
-From there, it’s as simple as clicking the upload button. Once it’s ready, the video will be in the chat window for anyone in the server to watch, or for your friend if you’ve sent it privately. And if they want to download it, they’ll just need to click the download button (a downward-facing arrow) at the top right of the video.
-
-![how to upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-2.png)
-
-It’s worth noting that, while Discord will play most video formats, it can’t manage everything. If you upload a format that Discord isn’t compatible with, then it won’t show a video player – instead, the file will just be uploaded. Other people can still download it to watch on their own devices.
-
-Also, there’s a strict file limit of 8MB. This isn’t huge at all – while there’s no definitive file size for video (as it depends on file type, resolution, compression, etc) it’s unlikely to be more than 60 seconds of footage, and could just be a few seconds. If the video you want to upload is more than 8MB, carry on reading below to find out how.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
-## Part 2: How to Send Videos on Discord Mobile
-
-The process to send video on Discord Mobile is pretty similar both with iOS and Android, but with just a few minor tweaks.
-
-Firstly, you still need to navigate to either the server or inbox where you want to share the video. You can then click the ‘Photo Selector’ button directly to the left of the chatbox.
-
-This will open your phone’s gallery, but it’ll only be searching for photos. You instead want the File Selector, which will be the third icon along – it looks like a text document with a folded-over corner.
-
-Click this and it’ll give you the option to directly upload a video from your phone’s Downloads folder. To send a video that’s stored elsewhere, click on the Expand arrow at the top left of the menu. This will send you to your phone’s file navigation system where you can find the video you want.
-
-Once you’ve selected the video, just hit the blue Send icon to send your video to the chat. Again you can add a message as a caption, but this time it’ll just be in the normal message box rather than a dedicated comment box before you hit upload.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 3: How to Send Long Videos on Discord That Are More Than 8MB
-
-So as we’ve said above, there is a file size limit when you’re using a free Discord account of just 8MB, which isn’t much at all. There are a few ways around this, so take your pick from the one that sounds best for you.
-
-#### 1\. Update to Discord Nitro to Upload 100MB
-
-The first option is possibly the simplest but it’s definitely not the cheapest, and that’s to pay for an upgrade to Discord Nitro. The paid version of Discord has a number of benefits, one of which is the increased file upload size of 100MB. It costs $4.99 per month or $49.99 per year, so if you’re likely to be regularly uploading videos that are lower than this limit, it might make sense.
-
-#### 2\. Cut Unwanted Clips/Compress Video with Filmora Video Editor
-
-The second choice would be to take your video and cut it into pieces, sending them one at a time. This might sound time-consuming but with Filmora’s Instant Cutter Tool, it’s really simple.
-
-All you need to do is open a video in Filmora by clicking the arrow next to Import and then choosing ‘Import with Instant Cutter Tool’.
-
-This will open the Instant Cutter window where you can click Open File to add your video. From here you can trim your files and export them in multiple sections. There are different ways that you can do this, and while each is a simple process, there are still a few steps to follow.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-[![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For more detail, check out [this post](https://tools.techidaily.com/wondershare/filmora/download/) for a step-by-step guide on the different ways you can trim a video in Filmora.
-
-You can also try to compress your video size, which may let you keep the whole video at the expense of some of the quality. Again, using Filmora, this is easy. But also again, there are different ways to go about it.
-
-You could literally crop the video in order to trim some of the data, as the reduced viewing screen won’t be as big a file. You can also reduce the resolution, or convert your video to a format that uses fewer data. You’ll need to test it though, as converting to some video formats might result in blurry footage.
-
-There are advanced settings you can tinker with too, such as lowering the frame rate or the bit rate. Again, rather than go through all of those options in an epic article here, it’s easier to head to a post dedicated to these steps about [compress videos with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
-
-#### 3\. Upload to YouTube/Vimeo/Google Drive/Dropbox
-
-The final option is to upload your video to an online player or storage site, and link to it, rather than having Discord host the file. YouTube and Vimeo are the obvious options, but Streamable is another popular choice too with a free membership. YouTube’s maximum video uploads are 128GB, which is huge, while other sites like Streamable cap free accounts to 500MB per video.
-
-So, if you want to upload massive files, you’ll need to decide whether to choose YouTube or pay for an upgraded membership elsewhere. Wherever you host your video, once it’s online just grab the link and paste it into Discord to share your content.
-
-The only drawback to this option is that it stops other users from being able to download the video directly, and you may need to look at a file sharing alternative such as Dropbox if you want to send the actual file.
-
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## FAQs About Uploading Videos to Discord
-
-#### Which Kind of Video Formats Can I Upload to Discord?
-
-You can send any filetype to another user on Discord, so that they can download it and watch it on their own device. But if you want to upload a video so that Discord embeds it, and makes it playable within the chat, you’re limited to only mp4 and WebM filetypes.
-
-You can also use MOV files, but not everyone will be able to play them, and FLAC files are supported on desktop only but not on mobile.
-
-#### How Can I Upload Saved Videos to Discord?
-
-If you find a video on Discord that you want to share on a different server or in a private DM, you can use the download icon to save it locally. Then, follow the steps above to upload the video to the server or DM chat window where you want to share it.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-The whole point of Discord is to bring together communities of like-minded people to talk, share ideas and have fun together. And this isn’t just limited to chatting but sometimes you’re going to want to share content, including videos.
-
-So, whether it’s a compilation of your best gaming moments that you’ve carefully edited together, a home movie that you want to share with friends, or just a funny clip that someone’s sent you that you want to pass on, here we’ll take you through how to send videos on Discord both on PC and mobile, and the likely issues you might face.
-
-* [Part 1: How to Send Videos on Discord PC](#part1)
-* [Part 2: How to Send Videos on Discord Mobile](#part2)
-* [Part 3: How to Send Long Videos on Discord That Are More Than 8MB](#part3)
-* [Part 4: FAQs About Uploading Videos to Discord](#part4)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-## Part 1: How to Send Videos on Discord PC
-
-It’s actually pretty simple to send videos on Discord when using a PC, providing they aren’t too large a file size.
-
-Firstly, you just need to navigate to the channel or private message where you want to send the video. Just find the right option on the list of servers you’re a member of, or head to your message inbox to find the user you want to send it to privately.
-
-Once you’re in the right place, click on the plus (+) icon that you’ll find to the left of the chatbox at the bottom of the screen where you’d normally type your message.
-
-You’ll then just need to find the file on your computer, and double click on it. It’ll then bring up a pop-up for the video where you can add a comment, which will sit above the video (ideal if you need to give context on why you’re sharing it). You can also mark it as a spoiler – useful if you’re sharing a gaming tip but you don’t want to spoil the story for anyone who’s not reached that point yet.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
-![upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-1.png)
-
-From there, it’s as simple as clicking the upload button. Once it’s ready, the video will be in the chat window for anyone in the server to watch, or for your friend if you’ve sent it privately. And if they want to download it, they’ll just need to click the download button (a downward-facing arrow) at the top right of the video.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
-![how to upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-2.png)
-
-It’s worth noting that, while Discord will play most video formats, it can’t manage everything. If you upload a format that Discord isn’t compatible with, then it won’t show a video player – instead, the file will just be uploaded. Other people can still download it to watch on their own devices.
-
-Also, there’s a strict file limit of 8MB. This isn’t huge at all – while there’s no definitive file size for video (as it depends on file type, resolution, compression, etc) it’s unlikely to be more than 60 seconds of footage, and could just be a few seconds. If the video you want to upload is more than 8MB, carry on reading below to find out how.
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
-## Part 2: How to Send Videos on Discord Mobile
-
-The process to send video on Discord Mobile is pretty similar both with iOS and Android, but with just a few minor tweaks.
-
-Firstly, you still need to navigate to either the server or inbox where you want to share the video. You can then click the ‘Photo Selector’ button directly to the left of the chatbox.
-
-This will open your phone’s gallery, but it’ll only be searching for photos. You instead want the File Selector, which will be the third icon along – it looks like a text document with a folded-over corner.
-
-Click this and it’ll give you the option to directly upload a video from your phone’s Downloads folder. To send a video that’s stored elsewhere, click on the Expand arrow at the top left of the menu. This will send you to your phone’s file navigation system where you can find the video you want.
-
-Once you’ve selected the video, just hit the blue Send icon to send your video to the chat. Again you can add a message as a caption, but this time it’ll just be in the normal message box rather than a dedicated comment box before you hit upload.
-
-## Part 3: How to Send Long Videos on Discord That Are More Than 8MB
-
-So as we’ve said above, there is a file size limit when you’re using a free Discord account of just 8MB, which isn’t much at all. There are a few ways around this, so take your pick from the one that sounds best for you.
-
-#### 1\. Update to Discord Nitro to Upload 100MB
-
-The first option is possibly the simplest but it’s definitely not the cheapest, and that’s to pay for an upgrade to Discord Nitro. The paid version of Discord has a number of benefits, one of which is the increased file upload size of 100MB. It costs $4.99 per month or $49.99 per year, so if you’re likely to be regularly uploading videos that are lower than this limit, it might make sense.
-
-#### 2\. Cut Unwanted Clips/Compress Video with Filmora Video Editor
-
-The second choice would be to take your video and cut it into pieces, sending them one at a time. This might sound time-consuming but with Filmora’s Instant Cutter Tool, it’s really simple.
-
-All you need to do is open a video in Filmora by clicking the arrow next to Import and then choosing ‘Import with Instant Cutter Tool’.
-
-This will open the Instant Cutter window where you can click Open File to add your video. From here you can trim your files and export them in multiple sections. There are different ways that you can do this, and while each is a simple process, there are still a few steps to follow.
-
-[![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For more detail, check out [this post](https://tools.techidaily.com/wondershare/filmora/download/) for a step-by-step guide on the different ways you can trim a video in Filmora.
-
-You can also try to compress your video size, which may let you keep the whole video at the expense of some of the quality. Again, using Filmora, this is easy. But also again, there are different ways to go about it.
-
-You could literally crop the video in order to trim some of the data, as the reduced viewing screen won’t be as big a file. You can also reduce the resolution, or convert your video to a format that uses fewer data. You’ll need to test it though, as converting to some video formats might result in blurry footage.
-
-There are advanced settings you can tinker with too, such as lowering the frame rate or the bit rate. Again, rather than go through all of those options in an epic article here, it’s easier to head to a post dedicated to these steps about [compress videos with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
-
-#### 3\. Upload to YouTube/Vimeo/Google Drive/Dropbox
-
-The final option is to upload your video to an online player or storage site, and link to it, rather than having Discord host the file. YouTube and Vimeo are the obvious options, but Streamable is another popular choice too with a free membership. YouTube’s maximum video uploads are 128GB, which is huge, while other sites like Streamable cap free accounts to 500MB per video.
-
-So, if you want to upload massive files, you’ll need to decide whether to choose YouTube or pay for an upgraded membership elsewhere. Wherever you host your video, once it’s online just grab the link and paste it into Discord to share your content.
-
-The only drawback to this option is that it stops other users from being able to download the video directly, and you may need to look at a file sharing alternative such as Dropbox if you want to send the actual file.
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## FAQs About Uploading Videos to Discord
-
-#### Which Kind of Video Formats Can I Upload to Discord?
-
-You can send any filetype to another user on Discord, so that they can download it and watch it on their own device. But if you want to upload a video so that Discord embeds it, and makes it playable within the chat, you’re limited to only mp4 and WebM filetypes.
-
-You can also use MOV files, but not everyone will be able to play them, and FLAC files are supported on desktop only but not on mobile.
-
-#### How Can I Upload Saved Videos to Discord?
-
-If you find a video on Discord that you want to share on a different server or in a private DM, you can use the download icon to save it locally. Then, follow the steps above to upload the video to the server or DM chat window where you want to share it.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -916,8 +880,18 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/5-premium-free-music-websites-every-videographer-needs-for-2024/"><u>[New] 15 Premium, Free Music Websites Every Videographer Needs for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-delete-discord-server/"><u>[Updated] 2024 Approved How to Delete Discord Server?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-clearing-the-air-methodical-guidance-for-taking-action-against-harassment-on-discord/"><u>[Updated] Clearing the Air Methodical Guidance for Taking Action Against Harassment on Discord</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-simplifying-your-system-switch-from-sierra-to-os-x-1010-for-2024/"><u>[Updated] Simplifying Your System Switch From Sierra to OS X 10.10 for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1728473569559-usb4/"><u>「手軽なUSBデータ移動：フォーマット不要・4つのシンプル方法」</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/elevate-video-excellence-discover-winxvideo-ai-enhanced-editing-solutions/"><u>Elevate Video Excellence - Discover Winxvideo AI Enhanced Editing Solutions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2641098-9780750955188-haunted-wiltshire/"><u>Haunted Wiltshire | Free Book</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-stream-on-discord-step-by-step-guide/"><u>How to Stream on Discord [Step-by-Step Guide]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fix-tips-for-the-common-zoom-cannot-display-my-video-error/"><u>Quick Fix Tips for the Common 'Zoom Cannot Display My Video' Error</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/seamless-ios-file-handling-with-top-iexplorer-alternatives/"><u>Seamless iOS File Handling with Top IExplorer Alternatives</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/wiping-your-discord-servers-from-pc-and-android-devices-for-2024/"><u>Wiping Your Discord Servers From PC and Android Devices for 2024</u></a></li>
+</ul></div>
 

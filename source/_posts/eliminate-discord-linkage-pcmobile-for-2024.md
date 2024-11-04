@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Discord Linkage (PC/Mobile) for 2024"
-date: 2024-07-29T00:40:22.095Z
-updated: 2024-07-30T00:40:22.095Z
+date: 2024-11-03T18:18:07.537Z
+updated: 2024-11-04T19:23:00.431Z
 tags:
   - ai video
   - ai discord
@@ -42,9 +42,6 @@ However, if, for any reason, you want to delete or disable your account for good
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Part 1: How To Delete A Discord Account Permanently?
 
 Are you done with a game, scared about your data, or just bored with the app? No problem! If you want to learn how to delete your discord account, look no further.
@@ -93,9 +90,6 @@ Here’s how you can delete the server to complete the process of deleting your 
 2. Within the several options, click the “Server Settings.”
 3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
 
 1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
@@ -127,10 +121,14 @@ Here’s how you can disable a Discord account on a desktop computer:
 2. Click the “User Settings” option and then go to the “My Account” option within the user settings
 3. In the lower corner of your Mac/PC screen, you’ll see the “Disable Account” button next to the “Delete Account” button
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![How to disable discord account](https://images.wondershare.com/filmora/article-images/disable-discord-account.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Click the “Disable Account” option, and it will be disabled.
 
@@ -168,307 +166,297 @@ You can re-use your deleted discord account only if the account is in a “pendi
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-[Discord is a voice and text chat service](https://tools.techidaily.com/wondershare/filmora/download/) to bring like-minded people together, especially e-sports professionals.
-
-The goal was to provide users with an improved communications platform that could streamline the way people speak in real-time and over the internet.
-
-Originally designed for gamers, the app allowed users to communicate with others who share interests on a given topic.
-
-After a while, the Discord app expanded its reach and included non-gamers as well. Today, it is one of the most popular chatting apps out there.
-
-However, if, for any reason, you want to delete or disable your account for good, you can. In the following articles, you will learn about how to delete your account step by step.
-
-* [**Part 1: Deleting A Discord Account Permanently on Desktop Computer**](#part1)
-* [**Part 2: Deleting Discord Account from Mobile Devices**](#part2)
-* [**Part 3: How to Disable Discord Account On Desktop Computer**](#part3)
-* [**Part 4: How To Disable Discord Account On Mobile?**](#part4)
-
----
-
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## Part 1: How To Delete A Discord Account Permanently?
-
-Are you done with a game, scared about your data, or just bored with the app? No problem! If you want to learn how to delete your discord account, look no further.
-
-But before doing so, you’ll have to do two quick things:
-
-* Reassign ‘administrative rights’ of the servers
-* Completely delete them
-
-The only reason you will have to think about these things is if you assumed responsibility for any server.
-
-Without further ado, here are some easy to follow steps to delete a Discord account permanently:
-
-1. Open the Discord app
-2. Sign in to your Discord account and open the user settings option (Cog icon)
-
-![How to Delete Discord Account - Go to My Account](https://images.wondershare.com/filmora/article-images/find-discord-my-account.jpg)
-
-1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
-![Delete Discord Account Permantely - Account Options](https://images.wondershare.com/filmora/article-images/discord-delete-account-option.jpg)
-
-1. Click the delete account button to make your Discord account disappear!
-
-However, if you’ve activated 2FA, you may also be asked to put your password and 2FA code.
-
-Also, if you want to delete your account permanently, there are some things you need to do before completing the process.
-
-As mentioned before, if you’re the server’s owner, you’ll have to either delete your server or transfer its ownership to a trusted source.
-
-For transferring ownership on Discord, follow these steps:
-
-1. Open the Discord app
-2. Click the “server name,” and a range of options will open; then click “server setting”
-3. At the bottom-left of the screen, click the ‘members’ option below “User Management”
-4. Here you’ll make the critical decision of who gets the keys to your kingdom. Once you decide who to transfer the ownership to, click the “3 vertical dots”
-5. As the “dialog menu” opens, click “Transfer Ownership”
-
-Once it’s completed, you’ll become a regular server member. Your access to the server will be limited and as per the set position.
-
-On the other hand, if you don’t want to transfer its ownership to someone else, you can also delete it.
-
-Here’s how you can delete the server to complete the process of deleting your Discord account:
-
-1. Click the “Server Name” again
-2. Within the several options, click the “Server Settings.”
-3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
-
-![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
-
-1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
-
-Like the primary Discord account deletion process, if you have enabled 2FA on this account, you’ll have to put in the code to get things completed.
-
-After this, you’ll be asked one more time to click the “delete server” button before it is completely deleted. Keep in mind that you’ll have 14 days time to recover your Discord account. Once the two-week time passes, you won’t be able to retrieve or sign in to your account.
-
-Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
-## Part 2: How to Delete Discord Account From iPhone And Android?
-
-Yes, you can delete the discord account from iPhone and Android. And if you’re wondering how to delete a Discord account, Here’s a quick way to do it:
-
-1. Open your updated discord app and tap the “hamburger” menu located at the top-left
-2. Tap the gear icon so you can go to the “user settings.”
-3. Select “My Account”
-4. Below the “Account Management” option, choose “Delete Account” and put your password and 2FA (if you have set it up)
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
-## Part 3: How To Disable Discord Account On Desktop Computer?
-
-Deleting the account means you won’t be able to use it further, whereas disabling the account normally means you’re taking a little break.
-
-So, if you don’t want to remove or delete your account entirely but only want it gone for some time, choose the disable option.
-
-Here’s how you can disable a Discord account on a desktop computer:
-
-1. Open the app on your window PC/Mac and then log in to your Discord account
-2. Click the “User Settings” option and then go to the “My Account” option within the user settings
-3. In the lower corner of your Mac/PC screen, you’ll see the “Disable Account” button next to the “Delete Account” button
-
-![How to disable discord account](https://images.wondershare.com/filmora/article-images/disable-discord-account.jpg)
-
-1. Click the “Disable Account” option, and it will be disabled.
-
-#### **What’s The Difference Between Disabling And Deleting A Discord Account?**
-
-Disabling the account means you can recover it anytime you want, unlike deleting the account where you only have a 14-day restoration window. Additionally, when the account is disabled, you won’t receive notifications, but you will still get “friend requests.”
-
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 4: How To Disable Discord Account On Mobile?
-
-Disabling your Discord account for Android and iOS isn’t as simple as it is on a Desktop Windows/Mac PC.
-
-Currently, there is no direct way to either delete or disable your Discord account through a mobile device.
-
-Nevertheless, follow the steps below to disable your Discord account on mobile:
-
-1. Open the Discord application on your smartphone
-2. Tap the cog icon on the lower right corner of the phone
-3. Tap on the “My Account” option in the “User Settings” menu
-4. You’ll have the choice to either “Delete Account” or “Disable Account.” However, whatever you choose, you’ll be prompted to the support page explaining ways to disable or delete your account
-5. To complete disabling process from a mobile device, you’ll have to send a request to the support team, as it’s the only way to disable your account via your smartphone
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
-## FAQs About Deleting Discord Account
-
-#### 1\. How Long Does Discord Take To Delete Account?
-
-Typically, once you have completed the entire deletion process, Discord takes approximately 14 to 30 days to process it.
-
-#### 2\. What Happens When You Delete Discord Account?
-
-Deleting your discord account won’t delete the information you have on the account. It will delete your profile and rename the account to “deleteduser.” However, all your data and messages will remain on the server or servers.
-
-#### 3\. Can I Re-Use The Deleted Discord Account?
-
-You can re-use your deleted discord account only if the account is in a “pending deletion state,” which is 14 days. If the time is passed, you won’t be able to re-use it.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-[Discord is a voice and text chat service](https://tools.techidaily.com/wondershare/filmora/download/) to bring like-minded people together, especially e-sports professionals.
-
-The goal was to provide users with an improved communications platform that could streamline the way people speak in real-time and over the internet.
-
-Originally designed for gamers, the app allowed users to communicate with others who share interests on a given topic.
-
-After a while, the Discord app expanded its reach and included non-gamers as well. Today, it is one of the most popular chatting apps out there.
-
-However, if, for any reason, you want to delete or disable your account for good, you can. In the following articles, you will learn about how to delete your account step by step.
-
-* [**Part 1: Deleting A Discord Account Permanently on Desktop Computer**](#part1)
-* [**Part 2: Deleting Discord Account from Mobile Devices**](#part2)
-* [**Part 3: How to Disable Discord Account On Desktop Computer**](#part3)
-* [**Part 4: How To Disable Discord Account On Mobile?**](#part4)
-
----
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
-## Part 1: How To Delete A Discord Account Permanently?
-
-Are you done with a game, scared about your data, or just bored with the app? No problem! If you want to learn how to delete your discord account, look no further.
-
-But before doing so, you’ll have to do two quick things:
-
-* Reassign ‘administrative rights’ of the servers
-* Completely delete them
-
-The only reason you will have to think about these things is if you assumed responsibility for any server.
-
-Without further ado, here are some easy to follow steps to delete a Discord account permanently:
-
-1. Open the Discord app
-2. Sign in to your Discord account and open the user settings option (Cog icon)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
-![How to Delete Discord Account - Go to My Account](https://images.wondershare.com/filmora/article-images/find-discord-my-account.jpg)
-
-1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
-
-![Delete Discord Account Permantely - Account Options](https://images.wondershare.com/filmora/article-images/discord-delete-account-option.jpg)
-
-1. Click the delete account button to make your Discord account disappear!
-
-However, if you’ve activated 2FA, you may also be asked to put your password and 2FA code.
-
-Also, if you want to delete your account permanently, there are some things you need to do before completing the process.
-
-As mentioned before, if you’re the server’s owner, you’ll have to either delete your server or transfer its ownership to a trusted source.
-
-For transferring ownership on Discord, follow these steps:
-
-1. Open the Discord app
-2. Click the “server name,” and a range of options will open; then click “server setting”
-3. At the bottom-left of the screen, click the ‘members’ option below “User Management”
-4. Here you’ll make the critical decision of who gets the keys to your kingdom. Once you decide who to transfer the ownership to, click the “3 vertical dots”
-5. As the “dialog menu” opens, click “Transfer Ownership”
-
-Once it’s completed, you’ll become a regular server member. Your access to the server will be limited and as per the set position.
-
-On the other hand, if you don’t want to transfer its ownership to someone else, you can also delete it.
-
-Here’s how you can delete the server to complete the process of deleting your Discord account:
-
-1. Click the “Server Name” again
-2. Within the several options, click the “Server Settings.”
-3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
-
-![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
-
-1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
-
-Like the primary Discord account deletion process, if you have enabled 2FA on this account, you’ll have to put in the code to get things completed.
-
-After this, you’ll be asked one more time to click the “delete server” button before it is completely deleted. Keep in mind that you’ll have 14 days time to recover your Discord account. Once the two-week time passes, you won’t be able to retrieve or sign in to your account.
-
-Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
-## Part 2: How to Delete Discord Account From iPhone And Android?
-
-Yes, you can delete the discord account from iPhone and Android. And if you’re wondering how to delete a Discord account, Here’s a quick way to do it:
-
-1. Open your updated discord app and tap the “hamburger” menu located at the top-left
-2. Tap the gear icon so you can go to the “user settings.”
-3. Select “My Account”
-4. Below the “Account Management” option, choose “Delete Account” and put your password and 2FA (if you have set it up)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
-## Part 3: How To Disable Discord Account On Desktop Computer?
-
-Deleting the account means you won’t be able to use it further, whereas disabling the account normally means you’re taking a little break.
-
-So, if you don’t want to remove or delete your account entirely but only want it gone for some time, choose the disable option.
-
-Here’s how you can disable a Discord account on a desktop computer:
-
-1. Open the app on your window PC/Mac and then log in to your Discord account
-2. Click the “User Settings” option and then go to the “My Account” option within the user settings
-3. In the lower corner of your Mac/PC screen, you’ll see the “Disable Account” button next to the “Delete Account” button
-
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+[Discord is a voice and text chat service](https://tools.techidaily.com/wondershare/filmora/download/) to bring like-minded people together, especially e-sports professionals.
+
+The goal was to provide users with an improved communications platform that could streamline the way people speak in real-time and over the internet.
+
+Originally designed for gamers, the app allowed users to communicate with others who share interests on a given topic.
+
+After a while, the Discord app expanded its reach and included non-gamers as well. Today, it is one of the most popular chatting apps out there.
+
+However, if, for any reason, you want to delete or disable your account for good, you can. In the following articles, you will learn about how to delete your account step by step.
+
+* [**Part 1: Deleting A Discord Account Permanently on Desktop Computer**](#part1)
+* [**Part 2: Deleting Discord Account from Mobile Devices**](#part2)
+* [**Part 3: How to Disable Discord Account On Desktop Computer**](#part3)
+* [**Part 4: How To Disable Discord Account On Mobile?**](#part4)
+
+---
+
+## Part 1: How To Delete A Discord Account Permanently?
+
+Are you done with a game, scared about your data, or just bored with the app? No problem! If you want to learn how to delete your discord account, look no further.
+
+But before doing so, you’ll have to do two quick things:
+
+* Reassign ‘administrative rights’ of the servers
+* Completely delete them
+
+The only reason you will have to think about these things is if you assumed responsibility for any server.
+
+Without further ado, here are some easy to follow steps to delete a Discord account permanently:
+
+1. Open the Discord app
+2. Sign in to your Discord account and open the user settings option (Cog icon)
+
+![How to Delete Discord Account - Go to My Account](https://images.wondershare.com/filmora/article-images/find-discord-my-account.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
+
+![Delete Discord Account Permantely - Account Options](https://images.wondershare.com/filmora/article-images/discord-delete-account-option.jpg)
+
+1. Click the delete account button to make your Discord account disappear!
+
+However, if you’ve activated 2FA, you may also be asked to put your password and 2FA code.
+
+Also, if you want to delete your account permanently, there are some things you need to do before completing the process.
+
+As mentioned before, if you’re the server’s owner, you’ll have to either delete your server or transfer its ownership to a trusted source.
+
+For transferring ownership on Discord, follow these steps:
+
+1. Open the Discord app
+2. Click the “server name,” and a range of options will open; then click “server setting”
+3. At the bottom-left of the screen, click the ‘members’ option below “User Management”
+4. Here you’ll make the critical decision of who gets the keys to your kingdom. Once you decide who to transfer the ownership to, click the “3 vertical dots”
+5. As the “dialog menu” opens, click “Transfer Ownership”
+
+Once it’s completed, you’ll become a regular server member. Your access to the server will be limited and as per the set position.
+
+On the other hand, if you don’t want to transfer its ownership to someone else, you can also delete it.
+
+Here’s how you can delete the server to complete the process of deleting your Discord account:
+
+1. Click the “Server Name” again
+2. Within the several options, click the “Server Settings.”
+3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
+
+![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
+
+1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
+
+Like the primary Discord account deletion process, if you have enabled 2FA on this account, you’ll have to put in the code to get things completed.
+
+After this, you’ll be asked one more time to click the “delete server” button before it is completely deleted. Keep in mind that you’ll have 14 days time to recover your Discord account. Once the two-week time passes, you won’t be able to retrieve or sign in to your account.
+
+Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
+
+## Part 2: How to Delete Discord Account From iPhone And Android?
+
+Yes, you can delete the discord account from iPhone and Android. And if you’re wondering how to delete a Discord account, Here’s a quick way to do it:
+
+1. Open your updated discord app and tap the “hamburger” menu located at the top-left
+2. Tap the gear icon so you can go to the “user settings.”
+3. Select “My Account”
+4. Below the “Account Management” option, choose “Delete Account” and put your password and 2FA (if you have set it up)
+
+## Part 3: How To Disable Discord Account On Desktop Computer?
+
+Deleting the account means you won’t be able to use it further, whereas disabling the account normally means you’re taking a little break.
+
+So, if you don’t want to remove or delete your account entirely but only want it gone for some time, choose the disable option.
+
+Here’s how you can disable a Discord account on a desktop computer:
+
+1. Open the app on your window PC/Mac and then log in to your Discord account
+2. Click the “User Settings” option and then go to the “My Account” option within the user settings
+3. In the lower corner of your Mac/PC screen, you’ll see the “Disable Account” button next to the “Delete Account” button
+
+![How to disable discord account](https://images.wondershare.com/filmora/article-images/disable-discord-account.jpg)
+
+1. Click the “Disable Account” option, and it will be disabled.
+
+#### **What’s The Difference Between Disabling And Deleting A Discord Account?**
+
+Disabling the account means you can recover it anytime you want, unlike deleting the account where you only have a 14-day restoration window. Additionally, when the account is disabled, you won’t receive notifications, but you will still get “friend requests.”
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 4: How To Disable Discord Account On Mobile?
+
+Disabling your Discord account for Android and iOS isn’t as simple as it is on a Desktop Windows/Mac PC.
+
+Currently, there is no direct way to either delete or disable your Discord account through a mobile device.
+
+Nevertheless, follow the steps below to disable your Discord account on mobile:
+
+1. Open the Discord application on your smartphone
+2. Tap the cog icon on the lower right corner of the phone
+3. Tap on the “My Account” option in the “User Settings” menu
+4. You’ll have the choice to either “Delete Account” or “Disable Account.” However, whatever you choose, you’ll be prompted to the support page explaining ways to disable or delete your account
+5. To complete disabling process from a mobile device, you’ll have to send a request to the support team, as it’s the only way to disable your account via your smartphone
+
+## FAQs About Deleting Discord Account
+
+#### 1\. How Long Does Discord Take To Delete Account?
+
+Typically, once you have completed the entire deletion process, Discord takes approximately 14 to 30 days to process it.
+
+#### 2\. What Happens When You Delete Discord Account?
+
+Deleting your discord account won’t delete the information you have on the account. It will delete your profile and rename the account to “deleteduser.” However, all your data and messages will remain on the server or servers.
+
+#### 3\. Can I Re-Use The Deleted Discord Account?
+
+You can re-use your deleted discord account only if the account is in a “pending deletion state,” which is 14 days. If the time is passed, you won’t be able to re-use it.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+[Discord is a voice and text chat service](https://tools.techidaily.com/wondershare/filmora/download/) to bring like-minded people together, especially e-sports professionals.
+
+The goal was to provide users with an improved communications platform that could streamline the way people speak in real-time and over the internet.
+
+Originally designed for gamers, the app allowed users to communicate with others who share interests on a given topic.
+
+After a while, the Discord app expanded its reach and included non-gamers as well. Today, it is one of the most popular chatting apps out there.
+
+However, if, for any reason, you want to delete or disable your account for good, you can. In the following articles, you will learn about how to delete your account step by step.
+
+* [**Part 1: Deleting A Discord Account Permanently on Desktop Computer**](#part1)
+* [**Part 2: Deleting Discord Account from Mobile Devices**](#part2)
+* [**Part 3: How to Disable Discord Account On Desktop Computer**](#part3)
+* [**Part 4: How To Disable Discord Account On Mobile?**](#part4)
+
+---
+
+## Part 1: How To Delete A Discord Account Permanently?
+
+Are you done with a game, scared about your data, or just bored with the app? No problem! If you want to learn how to delete your discord account, look no further.
+
+But before doing so, you’ll have to do two quick things:
+
+* Reassign ‘administrative rights’ of the servers
+* Completely delete them
+
+The only reason you will have to think about these things is if you assumed responsibility for any server.
+
+Without further ado, here are some easy to follow steps to delete a Discord account permanently:
+
+1. Open the Discord app
+2. Sign in to your Discord account and open the user settings option (Cog icon)
+
+![How to Delete Discord Account - Go to My Account](https://images.wondershare.com/filmora/article-images/find-discord-my-account.jpg)
+
+1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
+
+![Delete Discord Account Permantely - Account Options](https://images.wondershare.com/filmora/article-images/discord-delete-account-option.jpg)
+
+1. Click the delete account button to make your Discord account disappear!
+
+However, if you’ve activated 2FA, you may also be asked to put your password and 2FA code.
+
+Also, if you want to delete your account permanently, there are some things you need to do before completing the process.
+
+As mentioned before, if you’re the server’s owner, you’ll have to either delete your server or transfer its ownership to a trusted source.
+
+For transferring ownership on Discord, follow these steps:
+
+1. Open the Discord app
+2. Click the “server name,” and a range of options will open; then click “server setting”
+3. At the bottom-left of the screen, click the ‘members’ option below “User Management”
+4. Here you’ll make the critical decision of who gets the keys to your kingdom. Once you decide who to transfer the ownership to, click the “3 vertical dots”
+5. As the “dialog menu” opens, click “Transfer Ownership”
+
+Once it’s completed, you’ll become a regular server member. Your access to the server will be limited and as per the set position.
+
+On the other hand, if you don’t want to transfer its ownership to someone else, you can also delete it.
+
+Here’s how you can delete the server to complete the process of deleting your Discord account:
+
+1. Click the “Server Name” again
+2. Within the several options, click the “Server Settings.”
+3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
+
+![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
+
+Like the primary Discord account deletion process, if you have enabled 2FA on this account, you’ll have to put in the code to get things completed.
+
+After this, you’ll be asked one more time to click the “delete server” button before it is completely deleted. Keep in mind that you’ll have 14 days time to recover your Discord account. Once the two-week time passes, you won’t be able to retrieve or sign in to your account.
+
+Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
+
+## Part 2: How to Delete Discord Account From iPhone And Android?
+
+Yes, you can delete the discord account from iPhone and Android. And if you’re wondering how to delete a Discord account, Here’s a quick way to do it:
+
+1. Open your updated discord app and tap the “hamburger” menu located at the top-left
+2. Tap the gear icon so you can go to the “user settings.”
+3. Select “My Account”
+4. Below the “Account Management” option, choose “Delete Account” and put your password and 2FA (if you have set it up)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 3: How To Disable Discord Account On Desktop Computer?
+
+Deleting the account means you won’t be able to use it further, whereas disabling the account normally means you’re taking a little break.
+
+So, if you don’t want to remove or delete your account entirely but only want it gone for some time, choose the disable option.
+
+Here’s how you can disable a Discord account on a desktop computer:
+
+1. Open the app on your window PC/Mac and then log in to your Discord account
+2. Click the “User Settings” option and then go to the “My Account” option within the user settings
+3. In the lower corner of your Mac/PC screen, you’ll see the “Disable Account” button next to the “Delete Account” button
+
 ![How to disable discord account](https://images.wondershare.com/filmora/article-images/disable-discord-account.jpg)
 
 1. Click the “Disable Account” option, and it will be disabled.
@@ -550,9 +538,6 @@ Without further ado, here are some easy to follow steps to delete a Discord acco
 1. Open the Discord app
 2. Sign in to your Discord account and open the user settings option (Cog icon)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![How to Delete Discord Account - Go to My Account](https://images.wondershare.com/filmora/article-images/find-discord-my-account.jpg)
 
 1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
@@ -585,9 +570,6 @@ Here’s how you can delete the server to complete the process of deleting your 
 2. Within the several options, click the “Server Settings.”
 3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
 
 1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
@@ -599,8 +581,12 @@ After this, you’ll be asked one more time to click the “delete server” but
 Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Delete Discord Account From iPhone And Android?
 
 Yes, you can delete the discord account from iPhone and Android. And if you’re wondering how to delete a Discord account, Here’s a quick way to do it:
@@ -622,9 +608,6 @@ Here’s how you can disable a Discord account on a desktop computer:
 2. Click the “User Settings” option and then go to the “My Account” option within the user settings
 3. In the lower corner of your Mac/PC screen, you’ll see the “Disable Account” button next to the “Delete Account” button
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![How to disable discord account](https://images.wondershare.com/filmora/article-images/disable-discord-account.jpg)
 
 1. Click the “Disable Account” option, and it will be disabled.
@@ -663,6 +646,13 @@ You can re-use your deleted discord account only if the account is in a “pendi
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -680,8 +670,6 @@ Follow @Richard Bennett
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -690,8 +678,23 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-perfectly-prepared-videos-a-guide-to-instagram-fitness/"><u>[New] 2024 Approved Perfectly Prepared Videos A Guide to Instagram Fitness</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-uniting-choreography-with-crafted-audio-in-instagram/"><u>[New] 2024 Approved Uniting Choreography with Crafted Audio in Instagram</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-x-studio-voice-synthesizer-windows-compatible/"><u>[New] 2024 Approved X-Studio Voice Synthesizer, Windows Compatible</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iscovering-2023s-cinematic-hidden-gems-for-2024/"><u>[New] Discovering 2023'S Cinematic Hidden Gems for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-top-30-boosting-bots-for-enhanced-discord-servers/"><u>[Updated] 2024 Approved Top 30 Boosting Bots for Enhanced Discord Servers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-turn-text-into-voice-mastering-discords-speech-features/"><u>[Updated] 2024 Approved Turn Text Into Voice Mastering Discord's Speech Features</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unveiling-the-visionaries-behind-disruptive-chat-symbols/"><u>[Updated] 2024 Approved Unveiling the Visionaries Behind Disruptive Chat Symbols</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-detailed-steps-to-using-azure-speech-recognition/"><u>[Updated] Detailed Steps to Using Azure Speech Recognition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-embellish-your-discord-conversations-like-a-pro/"><u>[Updated] Embellish Your Discord Conversations Like a Pro</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-expanding-your-circle-discord-friending-101-for-2024/"><u>[Updated] Expanding Your Circle Discord Friending 101 for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-free-apps-excelling-at-transcribing-discord-conversations-for-2024/"><u>[Updated] Free Apps Excelling at Transcribing Discord Conversations for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-assessment-report-toolwiz-app-for-imaging-aficionados/"><u>[Updated] In 2024, Assessment Report Toolwiz App for Imaging Aficionados</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-comprehensive-guide-to-discord-nitro-what-it-is-plus-how-you-can-get-it/"><u>[Updated] In 2024, Comprehensive Guide to Discord Nitro - What It Is + How You Can Get It</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/converting-avian-videos-avi-into-graphic-images-gif-using-filmora/"><u>Converting Avian Videos (AVI) Into Graphic Images (GIF) Using Filmora</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-honor-90-gt-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/retrieving-lost-data-on-external-storage-4-cost-free-techniques-to-get-it-back/"><u>Retrieving Lost Data on External Storage: 4 Cost-Free Techniques to Get It Back</u></a></li>
+</ul></div>
 

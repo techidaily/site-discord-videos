@@ -1,7 +1,7 @@
 ---
 title: "[New] End Your Active Discord Association"
-date: 2024-07-29T00:40:28.032Z
-updated: 2024-07-30T00:40:28.032Z
+date: 2024-10-29T18:50:59.590Z
+updated: 2024-11-04T16:26:29.775Z
 tags:
   - ai video
   - ai discord
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/2b3cfba87301486dbbd741d1b746c08f2612d6801
 
 # How to Delete Discord Account \[Step-by-Step\]
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -45,9 +42,6 @@ However, if, for any reason, you want to delete or disable your account for good
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How To Delete A Discord Account Permanently?
 
 Are you done with a game, scared about your data, or just bored with the app? No problem! If you want to learn how to delete your discord account, look no further.
@@ -96,9 +90,6 @@ Here’s how you can delete the server to complete the process of deleting your 
 2. Within the several options, click the “Server Settings.”
 3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
 
 1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
@@ -138,9 +129,6 @@ Here’s how you can disable a Discord account on a desktop computer:
 
 Disabling the account means you can recover it anytime you want, unlike deleting the account where you only have a 14-day restoration window. Additionally, when the account is disabled, you won’t receive notifications, but you will still get “friend requests.”
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Part 4: How To Disable Discord Account On Mobile?
 
 Disabling your Discord account for Android and iOS isn’t as simple as it is on a Desktop Windows/Mac PC.
@@ -198,174 +186,6 @@ However, if, for any reason, you want to delete or disable your account for good
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## Part 1: How To Delete A Discord Account Permanently?
-
-Are you done with a game, scared about your data, or just bored with the app? No problem! If you want to learn how to delete your discord account, look no further.
-
-But before doing so, you’ll have to do two quick things:
-
-* Reassign ‘administrative rights’ of the servers
-* Completely delete them
-
-The only reason you will have to think about these things is if you assumed responsibility for any server.
-
-Without further ado, here are some easy to follow steps to delete a Discord account permanently:
-
-1. Open the Discord app
-2. Sign in to your Discord account and open the user settings option (Cog icon)
-
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
-![How to Delete Discord Account - Go to My Account](https://images.wondershare.com/filmora/article-images/find-discord-my-account.jpg)
-
-1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
-![Delete Discord Account Permantely - Account Options](https://images.wondershare.com/filmora/article-images/discord-delete-account-option.jpg)
-
-1. Click the delete account button to make your Discord account disappear!
-
-However, if you’ve activated 2FA, you may also be asked to put your password and 2FA code.
-
-Also, if you want to delete your account permanently, there are some things you need to do before completing the process.
-
-As mentioned before, if you’re the server’s owner, you’ll have to either delete your server or transfer its ownership to a trusted source.
-
-For transferring ownership on Discord, follow these steps:
-
-1. Open the Discord app
-2. Click the “server name,” and a range of options will open; then click “server setting”
-3. At the bottom-left of the screen, click the ‘members’ option below “User Management”
-4. Here you’ll make the critical decision of who gets the keys to your kingdom. Once you decide who to transfer the ownership to, click the “3 vertical dots”
-5. As the “dialog menu” opens, click “Transfer Ownership”
-
-Once it’s completed, you’ll become a regular server member. Your access to the server will be limited and as per the set position.
-
-On the other hand, if you don’t want to transfer its ownership to someone else, you can also delete it.
-
-Here’s how you can delete the server to complete the process of deleting your Discord account:
-
-1. Click the “Server Name” again
-2. Within the several options, click the “Server Settings.”
-3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
-
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
-
-1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
-
-Like the primary Discord account deletion process, if you have enabled 2FA on this account, you’ll have to put in the code to get things completed.
-
-After this, you’ll be asked one more time to click the “delete server” button before it is completely deleted. Keep in mind that you’ll have 14 days time to recover your Discord account. Once the two-week time passes, you won’t be able to retrieve or sign in to your account.
-
-Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
-## Part 2: How to Delete Discord Account From iPhone And Android?
-
-Yes, you can delete the discord account from iPhone and Android. And if you’re wondering how to delete a Discord account, Here’s a quick way to do it:
-
-1. Open your updated discord app and tap the “hamburger” menu located at the top-left
-2. Tap the gear icon so you can go to the “user settings.”
-3. Select “My Account”
-4. Below the “Account Management” option, choose “Delete Account” and put your password and 2FA (if you have set it up)
-
-## Part 3: How To Disable Discord Account On Desktop Computer?
-
-Deleting the account means you won’t be able to use it further, whereas disabling the account normally means you’re taking a little break.
-
-So, if you don’t want to remove or delete your account entirely but only want it gone for some time, choose the disable option.
-
-Here’s how you can disable a Discord account on a desktop computer:
-
-1. Open the app on your window PC/Mac and then log in to your Discord account
-2. Click the “User Settings” option and then go to the “My Account” option within the user settings
-3. In the lower corner of your Mac/PC screen, you’ll see the “Disable Account” button next to the “Delete Account” button
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
-![How to disable discord account](https://images.wondershare.com/filmora/article-images/disable-discord-account.jpg)
-
-1. Click the “Disable Account” option, and it will be disabled.
-
-#### **What’s The Difference Between Disabling And Deleting A Discord Account?**
-
-Disabling the account means you can recover it anytime you want, unlike deleting the account where you only have a 14-day restoration window. Additionally, when the account is disabled, you won’t receive notifications, but you will still get “friend requests.”
-
-## Part 4: How To Disable Discord Account On Mobile?
-
-Disabling your Discord account for Android and iOS isn’t as simple as it is on a Desktop Windows/Mac PC.
-
-Currently, there is no direct way to either delete or disable your Discord account through a mobile device.
-
-Nevertheless, follow the steps below to disable your Discord account on mobile:
-
-1. Open the Discord application on your smartphone
-2. Tap the cog icon on the lower right corner of the phone
-3. Tap on the “My Account” option in the “User Settings” menu
-4. You’ll have the choice to either “Delete Account” or “Disable Account.” However, whatever you choose, you’ll be prompted to the support page explaining ways to disable or delete your account
-5. To complete disabling process from a mobile device, you’ll have to send a request to the support team, as it’s the only way to disable your account via your smartphone
-
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
-## FAQs About Deleting Discord Account
-
-#### 1\. How Long Does Discord Take To Delete Account?
-
-Typically, once you have completed the entire deletion process, Discord takes approximately 14 to 30 days to process it.
-
-#### 2\. What Happens When You Delete Discord Account?
-
-Deleting your discord account won’t delete the information you have on the account. It will delete your profile and rename the account to “deleteduser.” However, all your data and messages will remain on the server or servers.
-
-#### 3\. Can I Re-Use The Deleted Discord Account?
-
-You can re-use your deleted discord account only if the account is in a “pending deletion state,” which is 14 days. If the time is passed, you won’t be able to re-use it.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-[Discord is a voice and text chat service](https://tools.techidaily.com/wondershare/filmora/download/) to bring like-minded people together, especially e-sports professionals.
-
-The goal was to provide users with an improved communications platform that could streamline the way people speak in real-time and over the internet.
-
-Originally designed for gamers, the app allowed users to communicate with others who share interests on a given topic.
-
-After a while, the Discord app expanded its reach and included non-gamers as well. Today, it is one of the most popular chatting apps out there.
-
-However, if, for any reason, you want to delete or disable your account for good, you can. In the following articles, you will learn about how to delete your account step by step.
-
-* [**Part 1: Deleting A Discord Account Permanently on Desktop Computer**](#part1)
-* [**Part 2: Deleting Discord Account from Mobile Devices**](#part2)
-* [**Part 3: How to Disable Discord Account On Desktop Computer**](#part3)
-* [**Part 4: How To Disable Discord Account On Mobile?**](#part4)
-
----
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How To Delete A Discord Account Permanently?
 
 Are you done with a game, scared about your data, or just bored with the app? No problem! If you want to learn how to delete your discord account, look no further.
@@ -424,9 +244,6 @@ After this, you’ll be asked one more time to click the “delete server” but
 
 Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Delete Discord Account From iPhone And Android?
 
 Yes, you can delete the discord account from iPhone and Android. And if you’re wondering how to delete a Discord account, Here’s a quick way to do it:
@@ -456,9 +273,6 @@ Here’s how you can disable a Discord account on a desktop computer:
 
 Disabling the account means you can recover it anytime you want, unlike deleting the account where you only have a 14-day restoration window. Additionally, when the account is disabled, you won’t receive notifications, but you will still get “friend requests.”
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How To Disable Discord Account On Mobile?
 
 Disabling your Discord account for Android and iOS isn’t as simple as it is on a Desktop Windows/Mac PC.
@@ -487,9 +301,6 @@ Deleting your discord account won’t delete the information you have on the acc
 
 You can re-use your deleted discord account only if the account is in a “pending deletion state,” which is 14 days. If the time is passed, you won’t be able to re-use it.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -535,17 +346,18 @@ Without further ado, here are some easy to follow steps to delete a Discord acco
 1. Open the Discord app
 2. Sign in to your Discord account and open the user settings option (Cog icon)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![How to Delete Discord Account - Go to My Account](https://images.wondershare.com/filmora/article-images/find-discord-my-account.jpg)
 
 1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete Discord Account Permantely - Account Options](https://images.wondershare.com/filmora/article-images/discord-delete-account-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Click the delete account button to make your Discord account disappear!
 
@@ -573,9 +385,6 @@ Here’s how you can delete the server to complete the process of deleting your 
 2. Within the several options, click the “Server Settings.”
 3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
 
 1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
@@ -608,6 +417,164 @@ Here’s how you can disable a Discord account on a desktop computer:
 3. In the lower corner of your Mac/PC screen, you’ll see the “Disable Account” button next to the “Delete Account” button
 
 ![How to disable discord account](https://images.wondershare.com/filmora/article-images/disable-discord-account.jpg)
+
+1. Click the “Disable Account” option, and it will be disabled.
+
+#### **What’s The Difference Between Disabling And Deleting A Discord Account?**
+
+Disabling the account means you can recover it anytime you want, unlike deleting the account where you only have a 14-day restoration window. Additionally, when the account is disabled, you won’t receive notifications, but you will still get “friend requests.”
+
+## Part 4: How To Disable Discord Account On Mobile?
+
+Disabling your Discord account for Android and iOS isn’t as simple as it is on a Desktop Windows/Mac PC.
+
+Currently, there is no direct way to either delete or disable your Discord account through a mobile device.
+
+Nevertheless, follow the steps below to disable your Discord account on mobile:
+
+1. Open the Discord application on your smartphone
+2. Tap the cog icon on the lower right corner of the phone
+3. Tap on the “My Account” option in the “User Settings” menu
+4. You’ll have the choice to either “Delete Account” or “Disable Account.” However, whatever you choose, you’ll be prompted to the support page explaining ways to disable or delete your account
+5. To complete disabling process from a mobile device, you’ll have to send a request to the support team, as it’s the only way to disable your account via your smartphone
+
+## FAQs About Deleting Discord Account
+
+#### 1\. How Long Does Discord Take To Delete Account?
+
+Typically, once you have completed the entire deletion process, Discord takes approximately 14 to 30 days to process it.
+
+#### 2\. What Happens When You Delete Discord Account?
+
+Deleting your discord account won’t delete the information you have on the account. It will delete your profile and rename the account to “deleteduser.” However, all your data and messages will remain on the server or servers.
+
+#### 3\. Can I Re-Use The Deleted Discord Account?
+
+You can re-use your deleted discord account only if the account is in a “pending deletion state,” which is 14 days. If the time is passed, you won’t be able to re-use it.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+[Discord is a voice and text chat service](https://tools.techidaily.com/wondershare/filmora/download/) to bring like-minded people together, especially e-sports professionals.
+
+The goal was to provide users with an improved communications platform that could streamline the way people speak in real-time and over the internet.
+
+Originally designed for gamers, the app allowed users to communicate with others who share interests on a given topic.
+
+After a while, the Discord app expanded its reach and included non-gamers as well. Today, it is one of the most popular chatting apps out there.
+
+However, if, for any reason, you want to delete or disable your account for good, you can. In the following articles, you will learn about how to delete your account step by step.
+
+* [**Part 1: Deleting A Discord Account Permanently on Desktop Computer**](#part1)
+* [**Part 2: Deleting Discord Account from Mobile Devices**](#part2)
+* [**Part 3: How to Disable Discord Account On Desktop Computer**](#part3)
+* [**Part 4: How To Disable Discord Account On Mobile?**](#part4)
+
+---
+
+## Part 1: How To Delete A Discord Account Permanently?
+
+Are you done with a game, scared about your data, or just bored with the app? No problem! If you want to learn how to delete your discord account, look no further.
+
+But before doing so, you’ll have to do two quick things:
+
+* Reassign ‘administrative rights’ of the servers
+* Completely delete them
+
+The only reason you will have to think about these things is if you assumed responsibility for any server.
+
+Without further ado, here are some easy to follow steps to delete a Discord account permanently:
+
+1. Open the Discord app
+2. Sign in to your Discord account and open the user settings option (Cog icon)
+
+![How to Delete Discord Account - Go to My Account](https://images.wondershare.com/filmora/article-images/find-discord-my-account.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+1. Click the “My Account” option in the user setting menu. At the very bottom of the screen, you’ll see the “delete account” option
+
+![Delete Discord Account Permantely - Account Options](https://images.wondershare.com/filmora/article-images/discord-delete-account-option.jpg)
+
+1. Click the delete account button to make your Discord account disappear!
+
+However, if you’ve activated 2FA, you may also be asked to put your password and 2FA code.
+
+Also, if you want to delete your account permanently, there are some things you need to do before completing the process.
+
+As mentioned before, if you’re the server’s owner, you’ll have to either delete your server or transfer its ownership to a trusted source.
+
+For transferring ownership on Discord, follow these steps:
+
+1. Open the Discord app
+2. Click the “server name,” and a range of options will open; then click “server setting”
+3. At the bottom-left of the screen, click the ‘members’ option below “User Management”
+4. Here you’ll make the critical decision of who gets the keys to your kingdom. Once you decide who to transfer the ownership to, click the “3 vertical dots”
+5. As the “dialog menu” opens, click “Transfer Ownership”
+
+Once it’s completed, you’ll become a regular server member. Your access to the server will be limited and as per the set position.
+
+On the other hand, if you don’t want to transfer its ownership to someone else, you can also delete it.
+
+Here’s how you can delete the server to complete the process of deleting your Discord account:
+
+1. Click the “Server Name” again
+2. Within the several options, click the “Server Settings.”
+3. At the bottom-left of your window, click the “Delete Server” option in the “User Management” section.
+
+![Delete Discord Server to Delete Account](https://images.wondershare.com/filmora/article-images/delete-discord-server-account.jpg)
+
+1. Once clicked, the system will ask you to enter the account password to delete your server (or servers) from existence altogether
+
+Like the primary Discord account deletion process, if you have enabled 2FA on this account, you’ll have to put in the code to get things completed.
+
+After this, you’ll be asked one more time to click the “delete server” button before it is completely deleted. Keep in mind that you’ll have 14 days time to recover your Discord account. Once the two-week time passes, you won’t be able to retrieve or sign in to your account.
+
+Once the account is deleted, the username will show up as “deleteduser 0000” or something similar to this. However, users you have texted via your account will still see your texts.
+
+## Part 2: How to Delete Discord Account From iPhone And Android?
+
+Yes, you can delete the discord account from iPhone and Android. And if you’re wondering how to delete a Discord account, Here’s a quick way to do it:
+
+1. Open your updated discord app and tap the “hamburger” menu located at the top-left
+2. Tap the gear icon so you can go to the “user settings.”
+3. Select “My Account”
+4. Below the “Account Management” option, choose “Delete Account” and put your password and 2FA (if you have set it up)
+
+## Part 3: How To Disable Discord Account On Desktop Computer?
+
+Deleting the account means you won’t be able to use it further, whereas disabling the account normally means you’re taking a little break.
+
+So, if you don’t want to remove or delete your account entirely but only want it gone for some time, choose the disable option.
+
+Here’s how you can disable a Discord account on a desktop computer:
+
+1. Open the app on your window PC/Mac and then log in to your Discord account
+2. Click the “User Settings” option and then go to the “My Account” option within the user settings
+3. In the lower corner of your Mac/PC screen, you’ll see the “Disable Account” button next to the “Delete Account” button
+
+![How to disable discord account](https://images.wondershare.com/filmora/article-images/disable-discord-account.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Click the “Disable Account” option, and it will be disabled.
 
@@ -689,9 +656,6 @@ A few things to note before you leave a server –
 * The person you hand over your server to can do whatever they want with it.
 * You can join the server you left again if you change your mind.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Leave a Discord Server on Computer?
 
 Several peoples and hardcore gamers use Discord over a PC. And you can wave goodbye to the channel in a matter of few seconds. The procedure is the same for Mac and Windows.
@@ -699,9 +663,6 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
@@ -710,9 +671,6 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Leave a Discord Server on the Mobile App?
 
 The procedure of leaving the server is more or less the same on the mobile app. The user interface of Discord does not differ much across the devices. To quit a server, follow these steps -
@@ -720,23 +678,23 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
 
 ![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
 If you have decided to take a break from gaming and Discord, you can consider uninstalling the app temporarily. You can also turn off the notifications in the app settings on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus: How to Transfer Discord Server Ownership?
 
 How to leave your own Discord server? If your server has many members in it, it is wiser to transfer the ownership rather than shutting the server completely or abandoning it to fate. Especially if the users are active, then you can handover the ownership to a trustworthy person.
@@ -815,6 +773,13 @@ A few things to note before you leave a server –
 * The person you hand over your server to can do whatever they want with it.
 * You can join the server you left again if you change your mind.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Leave a Discord Server on Computer?
 
 Several peoples and hardcore gamers use Discord over a PC. And you can wave goodbye to the channel in a matter of few seconds. The procedure is the same for Mac and Windows.
@@ -826,157 +791,23 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 
 1. Right at the bottom of the list, click on the option leave server
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
-After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
-
-## Part 2: How to Leave a Discord Server on the Mobile App?
-
-The procedure of leaving the server is more or less the same on the mobile app. The user interface of Discord does not differ much across the devices. To quit a server, follow these steps -
-
-1. Click open the Discord app on your mobile.
-2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
-
-![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
-
-1. From the menu that opens, scroll towards the bottom and click on the leave server option.
-
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
-
-After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
-
-If you have decided to take a break from gaming and Discord, you can consider uninstalling the app temporarily. You can also turn off the notifications in the app settings on your device.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-## Bonus: How to Transfer Discord Server Ownership?
-
-How to leave your own Discord server? If your server has many members in it, it is wiser to transfer the ownership rather than shutting the server completely or abandoning it to fate. Especially if the users are active, then you can handover the ownership to a trustworthy person.
-
-Here is how you can do it -
-
-**For desktop**
-
-The process is quite simple and only takes a few minutes.
-
-1. Open the Discord app or log in using the browser.
-2. Click on the server that you want to leave.
-3. With right-click, open up the floating menu.
-4. From that list, select server settings and then choose members.
-5. Select the user that You Want To handover your server to. Tap those 3 dots and tap on ‘transfer ownership.’
-6. Confirm your choice and then click on transfer ownership.
-7. The chosen member will become the new owner of the server.
-
-**On mobile**
-
-The transfer procedure is quite similar to the desktop version. However, it has a few extra steps.
-
-1. Open your Discord App on your phone.
-2. Select the server that you want to give away.
-3. Tap those 3 dots to open up the menu. Under user management, tap on ‘members.'
-4. Select the member that will be the new owner of your server. Tap the 3 dots that appear next to the name of that user.
-5. A confirmation box will appear.
-6. Check off the box to confirm your choice.
-
-Your server is now successfully transferred to the selected member. And the new owner can decide what to do with the server.
-
-FAQs About Leaving A Discord Server
-
-1. How can I leave a Discord server without anyone knowing?
-
-Frankly speaking, there is no magic to help conceal your disappearance from a server. There is no way to hide your departure. However, you can take a few measures to make it less noticeable.
-
-* Lay low for a few hours or days. This won’t work if you are the loudest member on the server. But still, it’s worth a shot.
-* Try changing your avatar, profile picture, and nickname. This can throw people off the track or confuse them for a while.
-* Control yourself and try not to tell anyone that you are leaving.
-* And now it’s time for the discreet farewell!
-
-You might still get some texts on personal asking about your exit. This is not a surefire way of making your exit a secret. However, hundreds of members along with bots will make your disappearance less apparent. Another solution would be to create a new user ID and leave the old one inactive.
-
-1. Does leaving a Discord server delete your messages?
-
-No, none of the texts that you sent on the server get deleted. Every text remains, even after you leave. The only way you can delete your texts if you delete them all one by one, or someone with sufficient permissions deletes them. If you get banned, then the member who banned you decides whether to keep your messages on the server or remove them. In this case, your texts can be removed if the member deletes them.
-
-This was a guide on ‘**how to leave a Discord server’** that provided a detailed how-to on leaving servers and transferring servers.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Discord is all fun and games if you are a part of a lively server that has a cool community. You can obsess about some game, comic, or song with hundreds of other people without the fear of being called geeky.
-
-However, sometimes you might disagree with other members, which can lead you to hunt for some other server. Other times, the server might be inactive, or you may not mix well with the crowd. Or maybe, you landed there by mistake. So, **how do you leave a Discord server**?
-
-Whatever your reason, here is a detailed guide on how to leave a server on Discord!
-
-A few things to note before you leave a server –
-
-* After you exit from a server, you will no longer be able to send any texts on it.
-* You will not receive any notifications from the server.
-* Your username will no longer appear in the member list of the server.
-* Whatever role you had in the server will be disabled.
-* If you own a server, you will have to transfer the ownership to another member before you quit.
-* The person you hand over your server to can do whatever they want with it.
-* You can join the server you left again if you change your mind.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-## Part 1: How to Leave a Discord Server on Computer?
-
-Several peoples and hardcore gamers use Discord over a PC. And you can wave goodbye to the channel in a matter of few seconds. The procedure is the same for Mac and Windows.
-
-1. Open Discord on your computer (the desktop app or on the browser).
-2. Tap on the server name that appears towards the top left.
-
-![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
-
-1. Right at the bottom of the list, click on the option leave server
-
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
-![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Leave a Discord Server on the Mobile App?
 
 The procedure of leaving the server is more or less the same on the mobile app. The user interface of Discord does not differ much across the devices. To quit a server, follow these steps -
@@ -984,9 +815,6 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 1. Click open the Discord app on your mobile.
 2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
 
 1. From the menu that opens, scroll towards the bottom and click on the leave server option.
@@ -997,18 +825,6 @@ After confirmation, you will not be a part of the server anymore. The process is
 
 If you have decided to take a break from gaming and Discord, you can consider uninstalling the app temporarily. You can also turn off the notifications in the app settings on your device.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus: How to Transfer Discord Server Ownership?
 
 How to leave your own Discord server? If your server has many members in it, it is wiser to transfer the ownership rather than shutting the server completely or abandoning it to fate. Especially if the users are active, then you can handover the ownership to a trustworthy person.
@@ -1094,9 +910,6 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 1. Open Discord on your computer (the desktop app or on the browser).
 2. Tap on the server name that appears towards the top left.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
 
 1. Right at the bottom of the list, click on the option leave server
@@ -1105,9 +918,6 @@ Several peoples and hardcore gamers use Discord over a PC. And you can wave good
 
 After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Leave a Discord Server on the Mobile App?
 
 The procedure of leaving the server is more or less the same on the mobile app. The user interface of Discord does not differ much across the devices. To quit a server, follow these steps -
@@ -1124,6 +934,13 @@ The procedure of leaving the server is more or less the same on the mobile app. 
 After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
 
 If you have decided to take a break from gaming and Discord, you can consider uninstalling the app temporarily. You can also turn off the notifications in the app settings on your device.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus: How to Transfer Discord Server Ownership?
 
@@ -1175,9 +992,123 @@ No, none of the texts that you sent on the server get deleted. Every text remain
 
 This was a guide on ‘**how to leave a Discord server’** that provided a detailed how-to on leaving servers and transferring servers.
 
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Discord is all fun and games if you are a part of a lively server that has a cool community. You can obsess about some game, comic, or song with hundreds of other people without the fear of being called geeky.
+
+However, sometimes you might disagree with other members, which can lead you to hunt for some other server. Other times, the server might be inactive, or you may not mix well with the crowd. Or maybe, you landed there by mistake. So, **how do you leave a Discord server**?
+
+Whatever your reason, here is a detailed guide on how to leave a server on Discord!
+
+A few things to note before you leave a server –
+
+* After you exit from a server, you will no longer be able to send any texts on it.
+* You will not receive any notifications from the server.
+* Your username will no longer appear in the member list of the server.
+* Whatever role you had in the server will be disabled.
+* If you own a server, you will have to transfer the ownership to another member before you quit.
+* The person you hand over your server to can do whatever they want with it.
+* You can join the server you left again if you change your mind.
+
+## Part 1: How to Leave a Discord Server on Computer?
+
+Several peoples and hardcore gamers use Discord over a PC. And you can wave goodbye to the channel in a matter of few seconds. The procedure is the same for Mac and Windows.
+
+1. Open Discord on your computer (the desktop app or on the browser).
+2. Tap on the server name that appears towards the top left.
+
+![ Leave Discord Server](https://images.wondershare.com/filmora/article-images/leave-discord-server.jpg)
+
+1. Right at the bottom of the list, click on the option leave server
+
+![ Leave Discord Server Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server.jpg)
+
+After confirming you won't be a part of that server anymore. You cannot send any texts or get any notifications. The server name will disappear from the server list in your profile.
+
+## Part 2: How to Leave a Discord Server on the Mobile App?
+
+The procedure of leaving the server is more or less the same on the mobile app. The user interface of Discord does not differ much across the devices. To quit a server, follow these steps -
+
+1. Click open the Discord app on your mobile.
+2. Click on the right pane and click on the 3 dots that appear. Click on the name of the server that you want to leave.
+
+![ Leave Discord Server on Mobile](https://images.wondershare.com/filmora/article-images/leave-discord-server-mobile.jpg)
+
+1. From the menu that opens, scroll towards the bottom and click on the leave server option.
+
+![ Leave Discord Server on Mobile Confirm](https://images.wondershare.com/filmora/article-images/confirm-leaving-discord-server-mobile.jpg)
+
+After confirmation, you will not be a part of the server anymore. The process is the same for ios and Android devices.
+
+If you have decided to take a break from gaming and Discord, you can consider uninstalling the app temporarily. You can also turn off the notifications in the app settings on your device.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Bonus: How to Transfer Discord Server Ownership?
+
+How to leave your own Discord server? If your server has many members in it, it is wiser to transfer the ownership rather than shutting the server completely or abandoning it to fate. Especially if the users are active, then you can handover the ownership to a trustworthy person.
+
+Here is how you can do it -
+
+**For desktop**
+
+The process is quite simple and only takes a few minutes.
+
+1. Open the Discord app or log in using the browser.
+2. Click on the server that you want to leave.
+3. With right-click, open up the floating menu.
+4. From that list, select server settings and then choose members.
+5. Select the user that You Want To handover your server to. Tap those 3 dots and tap on ‘transfer ownership.’
+6. Confirm your choice and then click on transfer ownership.
+7. The chosen member will become the new owner of the server.
+
+**On mobile**
+
+The transfer procedure is quite similar to the desktop version. However, it has a few extra steps.
+
+1. Open your Discord App on your phone.
+2. Select the server that you want to give away.
+3. Tap those 3 dots to open up the menu. Under user management, tap on ‘members.'
+4. Select the member that will be the new owner of your server. Tap the 3 dots that appear next to the name of that user.
+5. A confirmation box will appear.
+6. Check off the box to confirm your choice.
+
+Your server is now successfully transferred to the selected member. And the new owner can decide what to do with the server.
+
+FAQs About Leaving A Discord Server
+
+1. How can I leave a Discord server without anyone knowing?
+
+Frankly speaking, there is no magic to help conceal your disappearance from a server. There is no way to hide your departure. However, you can take a few measures to make it less noticeable.
+
+* Lay low for a few hours or days. This won’t work if you are the loudest member on the server. But still, it’s worth a shot.
+* Try changing your avatar, profile picture, and nickname. This can throw people off the track or confuse them for a while.
+* Control yourself and try not to tell anyone that you are leaving.
+* And now it’s time for the discreet farewell!
+
+You might still get some texts on personal asking about your exit. This is not a surefire way of making your exit a secret. However, hundreds of members along with bots will make your disappearance less apparent. Another solution would be to create a new user ID and leave the old one inactive.
+
+1. Does leaving a Discord server delete your messages?
+
+No, none of the texts that you sent on the server get deleted. Every text remains, even after you leave. The only way you can delete your texts if you delete them all one by one, or someone with sufficient permissions deletes them. If you get banned, then the member who banned you decides whether to keep your messages on the server or remove them. In this case, your texts can be removed if the member deletes them.
+
+This was a guide on ‘**how to leave a Discord server’** that provided a detailed how-to on leaving servers and transferring servers.
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -1199,8 +1130,24 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-hashtag-hacks-the-top-25-tactics-to-elevate-your-instagram-profile/"><u>[New] In 2024, Hashtag Hacks The Top 25 Tactics to Elevate Your Instagram Profile</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-optimal-tactics-for-saving-android-interactions/"><u>[New] In 2024, Optimal Tactics for Saving Android Interactions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-validating-your-channels-ad-based-income/"><u>[New] In 2024, Validating Your Channel’s Ad-Based Income</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-a-comprehensible-breakdown-of-discord-spoilers/"><u>[Updated] 2024 Approved A Comprehensible Breakdown of Discord Spoilers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-dial-down-distractions-mastering-voicemod-techniques-for-discord-chats/"><u>[Updated] 2024 Approved Dial Down Distractions Mastering VoiceMod Techniques for Discord Chats</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-ending-discord-access-desktop-and-phones/"><u>[Updated] 2024 Approved Ending Discord Access - Desktop & Phones</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-boosting-status-appeal-integrating-emojis-into-discord/"><u>[Updated] Boosting Status Appeal Integrating Emojis Into Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-comprehensive-guide-to-disconnecting-discord-servers/"><u>[Updated] In 2024, Comprehensive Guide to Disconnecting Discord Servers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tune-up-clips-import-audio-into-inshot-easily/"><u>[Updated] Tune Up Clips Import Audio Into InShot Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-attribute-information-from-chatgpt-in-research-and-essays/"><u>How to Attribute Information From ChatGPT in Research and Essays</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-a58-4g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo A58 4G to Roku | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-honor-90-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Honor 90</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionary-ai-for-artistic-photography/"><u>In 2024, Revolutionary AI for Artistic Photography</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-poco-f5-pro-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Poco F5 Pro 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-collection-of-free-discord-audio-modifiers/"><u>The Ultimate Collection of Free Discord Audio Modifiers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unstick-your-iphone-10-tips-to-restore-making-phone-calls-functionality/"><u>Unstick Your iPhone: 10 Tips to Restore Making Phone Calls Functionality</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unveiling-the-hidden-gems-in-discord-stickers/"><u>Unveiling the Hidden Gems in Discord Stickers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Your Quick Reference to Discord Spoiler Usage for 2024"
-date: 2024-11-10T18:01:05.782Z
-updated: 2024-11-13T17:26:46.529Z
+date: 2024-11-10T19:37:12.264Z
+updated: 2024-11-14T20:39:51.395Z
 tags:
   - ai video
   - ai discord
@@ -58,6 +58,13 @@ You can also add ‘/spoiler’ before the spoiler content. This is an alternati
 
 ![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
 This alternate method is quite simple. This was a recent update on Discord that enables you to add the spoiler tag quickly. Here is a brief rundown for you –
@@ -80,10 +87,10 @@ Just like texts, even images, videos, and other attachments can be marked as spo
 ![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
@@ -98,13 +105,6 @@ Images can be tagged as spoilers before you upload them on servers. To add spoil
 
 Note that spoilers that contain images, videos, or other multimedia files can be sent only on the desktop app or the browser. Mobile apps do not support spoiler marks for images or other media files.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bonus: Is it the same to use Spoiler on Mobile devices?
 
 The **Discord mobile spoiler** tag works the same on mobile apps. The process is more or less the same. Here is a quick rundown of the steps –
@@ -118,6 +118,13 @@ You can even mark embedded links as spoilers with the same process. But this doe
 
 For iOS, you can select and highlight the text that you want to hide. Then, tap open the context menu and click on the ‘Mark as Spoiler’ to hide the text.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bonus: How to turn off the Spoiler tag?
 
 For some reason, you may want to remove the spoiler tag from the spoiler texts. In that case, open the User Settings and tap on Text & Images. Scroll down to the Show Spoiler Content tab and you will see options to control when spoiler content is displayed. You can choose to display on click, on servers I moderate, and always.
@@ -126,22 +133,15 @@ If you want to display all spoiler content, choose Always to turn off the spoile
 
 ![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -159,17 +159,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-step-up-your-game-mastering-discord-message-embellishments/"><u>[New] In 2024, Step Up Your Game Mastering Discord Message Embellishments</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-path-to-connected-playlists-and-channels/"><u>[New] In 2024, The Path to Connected Playlists & Channels</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-unveiling-the-blueprint-step-by-step-guide-to-discoscreen-sharing/"><u>[New] In 2024, Unveiling the Blueprint Step-by-Step Guide to DiscoScreen Sharing</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-revolutionary-discothemes-a-top-10-showcase-for-2024/"><u>[New] Revolutionary DiscoThemes - A Top 10 Showcase for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-voice-that-captures-hearts-intro-artistry-for-2024/"><u>[New] Voice that Captures Hearts Intro Artistry for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-image-distortion-made-easy/"><u>[Updated] Image Distortion Made Easy</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-stop-losses-maintaining-seamless-obs-recording-for-2024/"><u>[Updated] Stop Losses Maintaining Seamless OBS Recording for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/artificial-creativity-unintended-consequences/"><u>Artificial Creativity: Unintended Consequences?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopro-tips-and-tricks-for-2024/"><u>Gopro Tips and Tricks for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-poco-c51-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Poco C51 Devices</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo Y28 5G? | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/superior-mobile-and-pc-discord-capture-apps-for-2024/"><u>Superior Mobile & PC Discord Capture Apps for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-content-redistribution-hacks-for-instagramers/"><u>[New] In 2024, Content Redistribution Hacks for Instagramers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-friend-requests-desktop-and-mobile-guide/"><u>[New] Mastering Friend Requests Desktop & Mobile Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-practical-steps-for-farewell-in-a-discord-environment/"><u>[New] Practical Steps for Farewell in a Discord Environment</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-skype-or-discord-finding-your-ideal-chat-app-for-2024/"><u>[New] Skype or Discord Finding Your Ideal Chat App for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unveiling-the-best-practices-for-transmitting-media-in-discord-for-2024/"><u>[New] Unveiling the Best Practices for Transmitting Media in Discord for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-master-list-essential-6-fb-lite-downloads/"><u>[Updated] 2024 Approved Master List Essential 6 FB Lite Downloads</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-harvest-mastery-discovering-valheims-optimal-flora/"><u>[Updated] Harvest Mastery Discovering Valheim's Optimal Flora</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-how-to-edit-memoji-on-android-and-iphone/"><u>2024 Approved How to Edit Memoji on Android and iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creative-freedom-crafting-your-own-insta-tones/"><u>2024 Approved Unleash Creative Freedom Crafting Your Own Insta Tones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/devops-engineer-career-path-uncovered-navigating-through-benefits-and-challenges-for-future-success-insights-from-zdnet/"><u>DevOps Engineer Career Path Uncovered: Navigating Through Benefits & Challenges for Future Success | Insights From ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-epson-xp-640-printer-drivers-on-your-pc/"><u>How to Install the Latest Epson XP-640 Printer Drivers on Your PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-seize-the-day-best-apps-for-live-streaming-and-recording-on-facebook/"><u>In 2024, Seize the Day Best Apps for Live Streaming and Recording on Facebook</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-unlock-the-potential-of-your-channels-with-our-guide-to-discord-broadcasting/"><u>In 2024, Unlock the Potential of Your Channels with Our Guide to Discord Broadcasting</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/miniature-musicianship-at-its-best-revealing-sandisk-clip-jam/"><u>Miniature Musicianship at Its Best - Revealing SanDisk Clip Jam</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/navigate-discords-streaming-landscape-a-comprehensive-tutorial-for-2024/"><u>Navigate Discord's Streaming Landscape A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/resolving-your-iphones-continuous-data-recovery-dilemma-a-comprehensive-approach/"><u>Resolving Your iPhone's Continuous Data Recovery Dilemma: A Comprehensive Approach</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-process-to-make-professional-discord-photos-for-2024/"><u>Step-By-Step Process to Make Professional Discord Photos for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-setting-up-a-channel-for-streaming/"><u>Step-by-Step Setting up a Channel for Streaming</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-lowdown-on-discords-nitro-exclusives-and-how-to-secure-them/"><u>The Lowdown on Discord's Nitro - Exclusives and How to Secure Them</u></a></li>
 </ul></div>
 

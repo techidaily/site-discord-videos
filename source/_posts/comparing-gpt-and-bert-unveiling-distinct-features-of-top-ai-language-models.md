@@ -1,7 +1,7 @@
 ---
 title: "Comparing GPT and BERT: Unveiling Distinct Features of Top AI Language Models"
-date: 2024-09-24T22:53:48.691Z
-updated: 2024-09-30T18:41:05.956Z
+date: 2024-11-12T17:59:20.518Z
+updated: 2024-11-13T17:45:32.827Z
 tags:
   - chatgpt
   - open-ai
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
@@ -62,16 +55,16 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -85,16 +78,16 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
@@ -108,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
@@ -115,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which LLM Tells the Best Jokes?
 
@@ -131,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
  A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
 
 You read it here first, folks.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
 
@@ -162,22 +162,18 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-checklist-for-google-podcast-enthusiasts-for-2024/"><u>[New] The Ultimate Checklist for Google Podcast Enthusiasts for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-your-wayback-machine-facebooks-story-archives-at-your-service/"><u>[New] Your Wayback Machine Facebook’s Story Archives at Your Service</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-discords-ultimate-romance-hubs/"><u>[Updated] 2024 Approved Discord's Ultimate Romance Hubs</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-efficiently-remove-discord-server-from-pc-and-mobile/"><u>[Updated] 2024 Approved Efficiently Remove Discord Server From PC & Mobile</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-navigating-voice-modding-on-discord-desktop-and-mobile-edition/"><u>[Updated] 2024 Approved Navigating Voice Modding on Discord Desktop & Mobile Edition</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-top-tier-desktop-applications-for-discord-snaps/"><u>[Updated] 2024 Approved Top-Tier Desktop Applications for Discord Snaps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unmatched-hdds-for-enhanced-xbox-experience/"><u>[Updated] 2024 Approved Unmatched HDDs for Enhanced Xbox Experience</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-becoming-a-trusted-voice-on-discord-the-verification-blueprint-for-2024/"><u>[Updated] Becoming a Trusted Voice on Discord The Verification Blueprint for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-dating-servers-for-love-on-the-go-with-discord-for-2024/"><u>[Updated] Dating Servers for Love on the Go with Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-from-conflict-to-resolution-an-in-depth-tutorial-on-reporting-users-on-discord-for-2024/"><u>[Updated] From Conflict to Resolution An In-Depth Tutorial on Reporting Users on Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-evaluating-team-communication-tools-does-slack-outshine-discords-benefits/"><u>[Updated] In 2024, Evaluating Team Communication Tools Does Slack Outshine Discord's Benefits?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/7-essential-tips-for-flawless-underwater-filming/"><u>7 Essential Tips for Flawless Underwater Filming</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-ultimate-checklist-for-optimal-yt-brand-aesthetics/"><u>In 2024, The Ultimate Checklist for Optimal YT Brand Aesthetics</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-insights-the-best-apps-to-supercharge-your-profile/"><u>Instagram Insights The Best Apps to Supercharge Your Profile</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-delayed-keyboard-responses-easy-solutions-inside/"><u>Resolving Delayed Keyboard Responses: Easy Solutions Inside!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-problem-what-to-do-when-your-keyboard-isnt-typing/"><u>Solving the Problem: What to Do When Your Keyboard Isn't Typing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-no-fuss-guide-for-exploring-loved-and-trending-youtube-comments/"><u>[New] The No-Fuss Guide for Exploring Loved and Trending YouTube Comments</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-cutting-edge-ai-companions-discord/"><u>[Updated] 2024 Approved Cutting-Edge AI Companions Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-get-and-add-animated-emojis-on-discord/"><u>[Updated] 2024 Approved How to Get and Add Animated Emojis on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-ultimate-insight-into-using-discord-effectively/"><u>[Updated] 2024 Approved The Ultimate Insight Into Using Discord Effectively</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-zoom-into-your-workspace-learn-screen-casting-via-ezvide/"><u>[Updated] 2024 Approved Zoom Into Your Workspace Learn Screen Casting via EZvide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-dissecting-discords-visual-language-innovators-and-their-works-for-2024/"><u>[Updated] Dissecting Discord's Visual Language Innovators and Their Works for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-dissolve-link-to-discord-on-devices/"><u>[Updated] Dissolve Link to Discord on Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-essential-tips-for-xbox-live-streaming-setup/"><u>[Updated] In 2024, Essential Tips for Xbox Live Streaming Setup</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-pro-tools-review-rising-above-sharex/"><u>[Updated] In 2024, Pro Tools Review - Rising Above ShareX</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-master-techniques-to-dodge-edgenuity-videos-swiftly/"><u>2024 Approved Master Techniques to Dodge Edgenuity Videos Swiftly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-restore-screen-visibility-on-dell-laptops-a-comprehensive-guide/"><u>Step-by-Step Solutions to Restore Screen Visibility on Dell Laptops - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-your-writing-with-hix-ai-and-gpt-4-the-ultimate-automation-solution/"><u>Streamline Your Writing with HIX AI & GPT-4: The Ultimate Automation Solution</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unleash-the-potential-effective-pip-use-on-microsoft-edge-browser/"><u>Unleash the Potential Effective PIP Use on Microsoft Edge Browser</u></a></li>
 </ul></div>
 

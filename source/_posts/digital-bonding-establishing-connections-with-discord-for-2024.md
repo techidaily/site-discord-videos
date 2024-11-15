@@ -1,7 +1,7 @@
 ---
 title: "\"Digital Bonding  Establishing Connections with Discord for 2024\""
-date: 2024-07-29T00:38:36.679Z
-updated: 2024-07-30T00:38:36.679Z
+date: 2024-11-09T18:43:04.031Z
+updated: 2024-11-13T20:01:59.612Z
 tags:
   - ai video
   - ai discord
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b3
 
 # How to Add Friends on Discord
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -34,16 +31,10 @@ If you are new to discord, it might take you a while to get the hang of the app.
 
 Before that – why would you want to add friends on Discord? Well, why not! You can chat with them personally, show off your gaming skills by streaming games, or add them to your servers!
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Add Friends on Discord on Computer?
 
 Discord is supposed to make gaming an interactive and lively experience. So, you should start adding friends right away. Here are the steps for adding friends on Discord. The process is the same for the desktop app and browser Discord. You can add friends through two ways -
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Add friends directly on Discord desktop
 
 With this method, you can add friends using their Discord username and tag. Make sure you have their tag.
@@ -53,366 +44,20 @@ If you are using a desktop app or the website, here is how you can add friends -
 1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
 2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
 
-1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
-2. Hit the send friend request button to send the friend request.
-
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
-
-1. The friend will appear in your friend list once they accept your friend request.
-
-Now you can chat with them personally.
-
-### 2\. How to add friends on Discord Server
-
-Severs are the places where you find your best buddies who obsess over the same things. If you want to add a friend that you met on a server, follow these steps -
-
-1. Open the server that you and your friend are a part of.
-2. Tap on your friend’s profile. You can find their profile in the user list of the server.
-
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
-![ add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
-
-1. View their profile. Click open the profile's menu.
-2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
-
-You can directly text or call the people who get added to your friend list.
-
-Similarly, if a person (who’s not on your Friends List) has messaged you directly, you add them as a friend quickly.
-
-To do this, open your chat list by clicking on your profile. Find the person you want to add to the chat list, and right-click on their profile. Tap the ‘Add Friend’ option. This is the fastest way to add friends on Discord without their user tag.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
-## Part 2: How to Add friends on Discord on Android and iOS?
-
-The user interface of discord is more or less the same across various devices. The process of adding friends is quite similar to the one we discussed for the computer.
-
-You cannot use discord over a phone's browser. To use discord on your phone, you have to download the app. It is available on Google Play Store and App Store. Once you have downloaded the app and logged in, here is **how to add people on Discord**.
-
-### 1\. How to Add friends directly on Discord Mobile
-
-If you have some friends that you do not share common channels with, you can add them directly with their username and Discord tag. Make sure you note down their user name and tag.
-
-1. Open the discord app.
-2. Tap on the Friends button that is located towards the bottom.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
-![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
-
-1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
-2. A box appears. Enter the discord username and the tag number.
-3. Hit the send friend request button once the search result appears.
-4. Your friend request will be sent. The friend would be visible in your friend's list once they have approved your friend request.
-
-Once your friend is added, you can directly message them or call them.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### 2\. How to add friends on Discord Server
-
-discord is all about stumbling upon like-minded people and growing your gaming group. Once you join a server, you are bound to make a lot of friends. And sometimes, you might want to add them to your friend's list so you can text them personally.
-
-Follow these steps to add a friend that you met on the server.
-
-1. Open your discord app.
-2. Click open the server that you and your friend are a part of.
-3. Open the list of channel users. The button for the list is located towards the top at the right corner.
-4. Find your friend on the list. When you find your friend, tap on their profile.
-5. Their profile will pop up. Click the ‘add friend’ button.
-
-![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
-
-1. Your friend request will be delivered.
-2. Once they approve, they will be a part of your friend list.
-
-Likewise, you can build a community of your own by creating a new server. You can invite your friends or people that you met while playing games or obsessing over some fandom.
-
-## Part 3: How to Find Someone and Add Friends on Discord Without Number
-
-In case you have been using discord for a while, you might have realized that the only way to add friends is by username and the Discord tag number. However, there is a way to add friends without the tag. And here is how to do it –
-
-1. Open the Discord app on your phone.
-2. Tap those ‘three parallel lines’ buttons located on the top left.
-3. Tap the Friends symbol that appears on the bottom tab.
-4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
-
-1. Ask your friend to turn on the Nearby Scan mode on their phone too.
-
-![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
-
-1. When your friend gets detected, they appear on the radar.
-2. Hit the ‘Send’ button to send a Friend Request.
-3. Once they accept your request, they will make their way to your Friends List.
-
-Note that this method only works on the mobile app (it doesn't matter if you have an Android phone or iPhone). You cannot perform this with a PC or laptop.
-
-Further, you and your friend both must be on the Nearby Scan mode to connect with this feature. This method only works for connections that are within a 10-meter radius. So, if your pal is from a whole different continent, you will need a user tag to add them as friends.
-
-If you and the person you want to add are on the same server, you can add them through the channel user lists, as we discussed above.
-
-## Bonus: How to Add friends on Discord without user tag via an invitation link
-
-On Discord channels, it always ‘the more, the merrier.’ And your server can be one lonely place without friends. Plus, adding friends via a server is a lot easier and needs fewer steps. Create a server and customize it according to your taste. Don’t forget to add bots for fun!
-
-1. Open your discord, and head over to the server that you want to add friends to.
-2. Right-click on the server title. A menu with several options will appear.
-3. From that list, choose ‘invite friends’ and an invite link will appear on the pop-up menu.
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
-![add friends to Discord Server via invitation links](https://images.wondershare.com/filmora/article-images/add-friends-to-discord-server-via-invitation-link.jpg)
-
-1. The invitation link typically expires in a day. But you can change this setting to ‘set this link to never expire.
-
-![set Discord invitation links](https://images.wondershare.com/filmora/article-images/set-discord-invitation-link.jpg)
-
-1. Share this link with your friends over other social media apps to invite them.
-2. Your friends will show up on the member list of your channel when they accept your invite and follow the link.
-3. From here, you can right-click on the profile that you want to add as your Friend.
-4. From the drop-down that appears, tap on the ‘Profile’ option.
-5. The profile opens up. Here, click on the ‘send friend request’ option.
-
-The person will receive the request. Upon approval, the friend will be added to your Friends list. This method does not require a user tag, and you can directly add your friends through the channel member's list.
-
-This was a guide on **how to add friends in Discord** with user tags and from servers. You can view the sent and pending friend requests.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Discord is a widely used platform for gaming, joining new online communities, stream games with friends, meet new people, and chat. In 2019, Discord had over 250 million users. And over 6 million servers. And these numbers keep bloating every year.
-
-If you are new to discord, it might take you a while to get the hang of the app. **How to add friends on Discord**? Moreover, discord is no fun without active servers or friends. But we are here to help you add friends on discord.
-
-Before that – why would you want to add friends on Discord? Well, why not! You can chat with them personally, show off your gaming skills by streaming games, or add them to your servers!
-
-## Part 1: How to Add Friends on Discord on Computer?
-
-Discord is supposed to make gaming an interactive and lively experience. So, you should start adding friends right away. Here are the steps for adding friends on Discord. The process is the same for the desktop app and browser Discord. You can add friends through two ways -
-
-### How to Add friends directly on Discord desktop
-
-With this method, you can add friends using their Discord username and tag. Make sure you have their tag.
-
-If you are using a desktop app or the website, here is how you can add friends -
-
-1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
-2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
-
-1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
-2. Hit the send friend request button to send the friend request.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
-![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
-
-1. The friend will appear in your friend list once they accept your friend request.
-
-Now you can chat with them personally.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
-### 2\. How to add friends on Discord Server
-
-Severs are the places where you find your best buddies who obsess over the same things. If you want to add a friend that you met on a server, follow these steps -
-
-1. Open the server that you and your friend are a part of.
-2. Tap on your friend’s profile. You can find their profile in the user list of the server.
-
-![ add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
-
-1. View their profile. Click open the profile's menu.
-2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
-
-You can directly text or call the people who get added to your friend list.
-
-Similarly, if a person (who’s not on your Friends List) has messaged you directly, you add them as a friend quickly.
-
-To do this, open your chat list by clicking on your profile. Find the person you want to add to the chat list, and right-click on their profile. Tap the ‘Add Friend’ option. This is the fastest way to add friends on Discord without their user tag.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
-## Part 2: How to Add friends on Discord on Android and iOS?
-
-The user interface of discord is more or less the same across various devices. The process of adding friends is quite similar to the one we discussed for the computer.
-
-You cannot use discord over a phone's browser. To use discord on your phone, you have to download the app. It is available on Google Play Store and App Store. Once you have downloaded the app and logged in, here is **how to add people on Discord**.
-
-### 1\. How to Add friends directly on Discord Mobile
-
-If you have some friends that you do not share common channels with, you can add them directly with their username and Discord tag. Make sure you note down their user name and tag.
-
-1. Open the discord app.
-2. Tap on the Friends button that is located towards the bottom.
-
-![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
-
-1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
-2. A box appears. Enter the discord username and the tag number.
-3. Hit the send friend request button once the search result appears.
-4. Your friend request will be sent. The friend would be visible in your friend's list once they have approved your friend request.
-
-Once your friend is added, you can directly message them or call them.
-
-### 2\. How to add friends on Discord Server
-
-discord is all about stumbling upon like-minded people and growing your gaming group. Once you join a server, you are bound to make a lot of friends. And sometimes, you might want to add them to your friend's list so you can text them personally.
-
-Follow these steps to add a friend that you met on the server.
-
-1. Open your discord app.
-2. Click open the server that you and your friend are a part of.
-3. Open the list of channel users. The button for the list is located towards the top at the right corner.
-4. Find your friend on the list. When you find your friend, tap on their profile.
-5. Their profile will pop up. Click the ‘add friend’ button.
-
-![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
-
-1. Your friend request will be delivered.
-2. Once they approve, they will be a part of your friend list.
-
-Likewise, you can build a community of your own by creating a new server. You can invite your friends or people that you met while playing games or obsessing over some fandom.
-
-## Part 3: How to Find Someone and Add Friends on Discord Without Number
-
-In case you have been using discord for a while, you might have realized that the only way to add friends is by username and the Discord tag number. However, there is a way to add friends without the tag. And here is how to do it –
-
-1. Open the Discord app on your phone.
-2. Tap those ‘three parallel lines’ buttons located on the top left.
-3. Tap the Friends symbol that appears on the bottom tab.
-4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
-
-1. Ask your friend to turn on the Nearby Scan mode on their phone too.
-
-![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
-
-1. When your friend gets detected, they appear on the radar.
-2. Hit the ‘Send’ button to send a Friend Request.
-3. Once they accept your request, they will make their way to your Friends List.
-
-Note that this method only works on the mobile app (it doesn't matter if you have an Android phone or iPhone). You cannot perform this with a PC or laptop.
-
-Further, you and your friend both must be on the Nearby Scan mode to connect with this feature. This method only works for connections that are within a 10-meter radius. So, if your pal is from a whole different continent, you will need a user tag to add them as friends.
-
-If you and the person you want to add are on the same server, you can add them through the channel user lists, as we discussed above.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
-## Bonus: How to Add friends on Discord without user tag via an invitation link
-
-On Discord channels, it always ‘the more, the merrier.’ And your server can be one lonely place without friends. Plus, adding friends via a server is a lot easier and needs fewer steps. Create a server and customize it according to your taste. Don’t forget to add bots for fun!
-
-1. Open your discord, and head over to the server that you want to add friends to.
-2. Right-click on the server title. A menu with several options will appear.
-3. From that list, choose ‘invite friends’ and an invite link will appear on the pop-up menu.
-
-![add friends to Discord Server via invitation links](https://images.wondershare.com/filmora/article-images/add-friends-to-discord-server-via-invitation-link.jpg)
-
-1. The invitation link typically expires in a day. But you can change this setting to ‘set this link to never expire.
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![set Discord invitation links](https://images.wondershare.com/filmora/article-images/set-discord-invitation-link.jpg)
-
-1. Share this link with your friends over other social media apps to invite them.
-2. Your friends will show up on the member list of your channel when they accept your invite and follow the link.
-3. From here, you can right-click on the profile that you want to add as your Friend.
-4. From the drop-down that appears, tap on the ‘Profile’ option.
-5. The profile opens up. Here, click on the ‘send friend request’ option.
-
-The person will receive the request. Upon approval, the friend will be added to your Friends list. This method does not require a user tag, and you can directly add your friends through the channel member's list.
-
-This was a guide on **how to add friends in Discord** with user tags and from servers. You can view the sent and pending friend requests.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Discord is a widely used platform for gaming, joining new online communities, stream games with friends, meet new people, and chat. In 2019, Discord had over 250 million users. And over 6 million servers. And these numbers keep bloating every year.
-
-If you are new to discord, it might take you a while to get the hang of the app. **How to add friends on Discord**? Moreover, discord is no fun without active servers or friends. But we are here to help you add friends on discord.
-
-Before that – why would you want to add friends on Discord? Well, why not! You can chat with them personally, show off your gaming skills by streaming games, or add them to your servers!
-
-## Part 1: How to Add Friends on Discord on Computer?
-
-Discord is supposed to make gaming an interactive and lively experience. So, you should start adding friends right away. Here are the steps for adding friends on Discord. The process is the same for the desktop app and browser Discord. You can add friends through two ways -
-
-### How to Add friends directly on Discord desktop
-
-With this method, you can add friends using their Discord username and tag. Make sure you have their tag.
-
-If you are using a desktop app or the website, here is how you can add friends -
-
-1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
-2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
-
-![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
 
 1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
 2. Hit the send friend request button to send the friend request.
@@ -423,9 +68,6 @@ If you are using a desktop app or the website, here is how you can add friends -
 
 Now you can chat with them personally.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. How to add friends on Discord Server
 
 Severs are the places where you find your best buddies who obsess over the same things. If you want to add a friend that you met on a server, follow these steps -
@@ -433,165 +75,329 @@ Severs are the places where you find your best buddies who obsess over the same 
 1. Open the server that you and your friend are a part of.
 2. Tap on your friend’s profile. You can find their profile in the user list of the server.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
 
-1. View their profile. Click open the profile's menu.
-2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
-
-You can directly text or call the people who get added to your friend list.
-
-Similarly, if a person (who’s not on your Friends List) has messaged you directly, you add them as a friend quickly.
-
-To do this, open your chat list by clicking on your profile. Find the person you want to add to the chat list, and right-click on their profile. Tap the ‘Add Friend’ option. This is the fastest way to add friends on Discord without their user tag.
-
-## Part 2: How to Add friends on Discord on Android and iOS?
-
-The user interface of discord is more or less the same across various devices. The process of adding friends is quite similar to the one we discussed for the computer.
-
-You cannot use discord over a phone's browser. To use discord on your phone, you have to download the app. It is available on Google Play Store and App Store. Once you have downloaded the app and logged in, here is **how to add people on Discord**.
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### 1\. How to Add friends directly on Discord Mobile
-
-If you have some friends that you do not share common channels with, you can add them directly with their username and Discord tag. Make sure you note down their user name and tag.
-
-1. Open the discord app.
-2. Tap on the Friends button that is located towards the bottom.
-
-![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
-
-1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
-2. A box appears. Enter the discord username and the tag number.
-3. Hit the send friend request button once the search result appears.
-4. Your friend request will be sent. The friend would be visible in your friend's list once they have approved your friend request.
-
-Once your friend is added, you can directly message them or call them.
-
-### 2\. How to add friends on Discord Server
-
-discord is all about stumbling upon like-minded people and growing your gaming group. Once you join a server, you are bound to make a lot of friends. And sometimes, you might want to add them to your friend's list so you can text them personally.
-
-Follow these steps to add a friend that you met on the server.
-
-1. Open your discord app.
-2. Click open the server that you and your friend are a part of.
-3. Open the list of channel users. The button for the list is located towards the top at the right corner.
-4. Find your friend on the list. When you find your friend, tap on their profile.
-5. Their profile will pop up. Click the ‘add friend’ button.
-
-![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
-
-1. Your friend request will be delivered.
-2. Once they approve, they will be a part of your friend list.
-
-Likewise, you can build a community of your own by creating a new server. You can invite your friends or people that you met while playing games or obsessing over some fandom.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
-## Part 3: How to Find Someone and Add Friends on Discord Without Number
-
-In case you have been using discord for a while, you might have realized that the only way to add friends is by username and the Discord tag number. However, there is a way to add friends without the tag. And here is how to do it –
-
-1. Open the Discord app on your phone.
-2. Tap those ‘three parallel lines’ buttons located on the top left.
-3. Tap the Friends symbol that appears on the bottom tab.
-4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
-
-1. Ask your friend to turn on the Nearby Scan mode on their phone too.
-
-![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
-
-1. When your friend gets detected, they appear on the radar.
-2. Hit the ‘Send’ button to send a Friend Request.
-3. Once they accept your request, they will make their way to your Friends List.
-
-Note that this method only works on the mobile app (it doesn't matter if you have an Android phone or iPhone). You cannot perform this with a PC or laptop.
-
-Further, you and your friend both must be on the Nearby Scan mode to connect with this feature. This method only works for connections that are within a 10-meter radius. So, if your pal is from a whole different continent, you will need a user tag to add them as friends.
-
-If you and the person you want to add are on the same server, you can add them through the channel user lists, as we discussed above.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
-## Bonus: How to Add friends on Discord without user tag via an invitation link
-
-On Discord channels, it always ‘the more, the merrier.’ And your server can be one lonely place without friends. Plus, adding friends via a server is a lot easier and needs fewer steps. Create a server and customize it according to your taste. Don’t forget to add bots for fun!
-
-1. Open your discord, and head over to the server that you want to add friends to.
-2. Right-click on the server title. A menu with several options will appear.
-3. From that list, choose ‘invite friends’ and an invite link will appear on the pop-up menu.
-
-![add friends to Discord Server via invitation links](https://images.wondershare.com/filmora/article-images/add-friends-to-discord-server-via-invitation-link.jpg)
-
-1. The invitation link typically expires in a day. But you can change this setting to ‘set this link to never expire.
-
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![set Discord invitation links](https://images.wondershare.com/filmora/article-images/set-discord-invitation-link.jpg)
-
-1. Share this link with your friends over other social media apps to invite them.
-2. Your friends will show up on the member list of your channel when they accept your invite and follow the link.
-3. From here, you can right-click on the profile that you want to add as your Friend.
-4. From the drop-down that appears, tap on the ‘Profile’ option.
-5. The profile opens up. Here, click on the ‘send friend request’ option.
-
-The person will receive the request. Upon approval, the friend will be added to your Friends list. This method does not require a user tag, and you can directly add your friends through the channel member's list.
-
-This was a guide on **how to add friends in Discord** with user tags and from servers. You can view the sent and pending friend requests.
-
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Discord is a widely used platform for gaming, joining new online communities, stream games with friends, meet new people, and chat. In 2019, Discord had over 250 million users. And over 6 million servers. And these numbers keep bloating every year.
-
-If you are new to discord, it might take you a while to get the hang of the app. **How to add friends on Discord**? Moreover, discord is no fun without active servers or friends. But we are here to help you add friends on discord.
-
-Before that – why would you want to add friends on Discord? Well, why not! You can chat with them personally, show off your gaming skills by streaming games, or add them to your servers!
-
-## Part 1: How to Add Friends on Discord on Computer?
-
-Discord is supposed to make gaming an interactive and lively experience. So, you should start adding friends right away. Here are the steps for adding friends on Discord. The process is the same for the desktop app and browser Discord. You can add friends through two ways -
-
-### How to Add friends directly on Discord desktop
-
-With this method, you can add friends using their Discord username and tag. Make sure you have their tag.
-
-If you are using a desktop app or the website, here is how you can add friends -
-
-1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
-2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+1. View their profile. Click open the profile's menu.
+2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
+
+You can directly text or call the people who get added to your friend list.
+
+Similarly, if a person (who’s not on your Friends List) has messaged you directly, you add them as a friend quickly.
+
+To do this, open your chat list by clicking on your profile. Find the person you want to add to the chat list, and right-click on their profile. Tap the ‘Add Friend’ option. This is the fastest way to add friends on Discord without their user tag.
+
+## Part 2: How to Add friends on Discord on Android and iOS?
+
+The user interface of discord is more or less the same across various devices. The process of adding friends is quite similar to the one we discussed for the computer.
+
+You cannot use discord over a phone's browser. To use discord on your phone, you have to download the app. It is available on Google Play Store and App Store. Once you have downloaded the app and logged in, here is **how to add people on Discord**.
+
+### 1\. How to Add friends directly on Discord Mobile
+
+If you have some friends that you do not share common channels with, you can add them directly with their username and Discord tag. Make sure you note down their user name and tag.
+
+1. Open the discord app.
+2. Tap on the Friends button that is located towards the bottom.
+
+![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
+
+1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
+2. A box appears. Enter the discord username and the tag number.
+3. Hit the send friend request button once the search result appears.
+4. Your friend request will be sent. The friend would be visible in your friend's list once they have approved your friend request.
+
+Once your friend is added, you can directly message them or call them.
+
+### 2\. How to add friends on Discord Server
+
+discord is all about stumbling upon like-minded people and growing your gaming group. Once you join a server, you are bound to make a lot of friends. And sometimes, you might want to add them to your friend's list so you can text them personally.
+
+Follow these steps to add a friend that you met on the server.
+
+1. Open your discord app.
+2. Click open the server that you and your friend are a part of.
+3. Open the list of channel users. The button for the list is located towards the top at the right corner.
+4. Find your friend on the list. When you find your friend, tap on their profile.
+5. Their profile will pop up. Click the ‘add friend’ button.
+
+![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+1. Your friend request will be delivered.
+2. Once they approve, they will be a part of your friend list.
+
+Likewise, you can build a community of your own by creating a new server. You can invite your friends or people that you met while playing games or obsessing over some fandom.
+
+## Part 3: How to Find Someone and Add Friends on Discord Without Number
+
+In case you have been using discord for a while, you might have realized that the only way to add friends is by username and the Discord tag number. However, there is a way to add friends without the tag. And here is how to do it –
+
+1. Open the Discord app on your phone.
+2. Tap those ‘three parallel lines’ buttons located on the top left.
+3. Tap the Friends symbol that appears on the bottom tab.
+4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
+
+![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
+
+1. Ask your friend to turn on the Nearby Scan mode on their phone too.
+
+![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
+
+1. When your friend gets detected, they appear on the radar.
+2. Hit the ‘Send’ button to send a Friend Request.
+3. Once they accept your request, they will make their way to your Friends List.
+
+Note that this method only works on the mobile app (it doesn't matter if you have an Android phone or iPhone). You cannot perform this with a PC or laptop.
+
+Further, you and your friend both must be on the Nearby Scan mode to connect with this feature. This method only works for connections that are within a 10-meter radius. So, if your pal is from a whole different continent, you will need a user tag to add them as friends.
+
+If you and the person you want to add are on the same server, you can add them through the channel user lists, as we discussed above.
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Bonus: How to Add friends on Discord without user tag via an invitation link
+
+On Discord channels, it always ‘the more, the merrier.’ And your server can be one lonely place without friends. Plus, adding friends via a server is a lot easier and needs fewer steps. Create a server and customize it according to your taste. Don’t forget to add bots for fun!
+
+1. Open your discord, and head over to the server that you want to add friends to.
+2. Right-click on the server title. A menu with several options will appear.
+3. From that list, choose ‘invite friends’ and an invite link will appear on the pop-up menu.
+
+![add friends to Discord Server via invitation links](https://images.wondershare.com/filmora/article-images/add-friends-to-discord-server-via-invitation-link.jpg)
+
+1. The invitation link typically expires in a day. But you can change this setting to ‘set this link to never expire.
+
+![set Discord invitation links](https://images.wondershare.com/filmora/article-images/set-discord-invitation-link.jpg)
+
+1. Share this link with your friends over other social media apps to invite them.
+2. Your friends will show up on the member list of your channel when they accept your invite and follow the link.
+3. From here, you can right-click on the profile that you want to add as your Friend.
+4. From the drop-down that appears, tap on the ‘Profile’ option.
+5. The profile opens up. Here, click on the ‘send friend request’ option.
+
+The person will receive the request. Upon approval, the friend will be added to your Friends list. This method does not require a user tag, and you can directly add your friends through the channel member's list.
+
+This was a guide on **how to add friends in Discord** with user tags and from servers. You can view the sent and pending friend requests.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Discord is a widely used platform for gaming, joining new online communities, stream games with friends, meet new people, and chat. In 2019, Discord had over 250 million users. And over 6 million servers. And these numbers keep bloating every year.
+
+If you are new to discord, it might take you a while to get the hang of the app. **How to add friends on Discord**? Moreover, discord is no fun without active servers or friends. But we are here to help you add friends on discord.
+
+Before that – why would you want to add friends on Discord? Well, why not! You can chat with them personally, show off your gaming skills by streaming games, or add them to your servers!
+
+## Part 1: How to Add Friends on Discord on Computer?
+
+Discord is supposed to make gaming an interactive and lively experience. So, you should start adding friends right away. Here are the steps for adding friends on Discord. The process is the same for the desktop app and browser Discord. You can add friends through two ways -
+
+### How to Add friends directly on Discord desktop
+
+With this method, you can add friends using their Discord username and tag. Make sure you have their tag.
+
+If you are using a desktop app or the website, here is how you can add friends -
+
+1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
+2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
+
+![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
+
+1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
+2. Hit the send friend request button to send the friend request.
+
+![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
+
+1. The friend will appear in your friend list once they accept your friend request.
+
+Now you can chat with them personally.
+
+### 2\. How to add friends on Discord Server
+
+Severs are the places where you find your best buddies who obsess over the same things. If you want to add a friend that you met on a server, follow these steps -
+
+1. Open the server that you and your friend are a part of.
+2. Tap on your friend’s profile. You can find their profile in the user list of the server.
+
+![ add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
+
+1. View their profile. Click open the profile's menu.
+2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
+
+You can directly text or call the people who get added to your friend list.
+
+Similarly, if a person (who’s not on your Friends List) has messaged you directly, you add them as a friend quickly.
+
+To do this, open your chat list by clicking on your profile. Find the person you want to add to the chat list, and right-click on their profile. Tap the ‘Add Friend’ option. This is the fastest way to add friends on Discord without their user tag.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 2: How to Add friends on Discord on Android and iOS?
+
+The user interface of discord is more or less the same across various devices. The process of adding friends is quite similar to the one we discussed for the computer.
+
+You cannot use discord over a phone's browser. To use discord on your phone, you have to download the app. It is available on Google Play Store and App Store. Once you have downloaded the app and logged in, here is **how to add people on Discord**.
+
+### 1\. How to Add friends directly on Discord Mobile
+
+If you have some friends that you do not share common channels with, you can add them directly with their username and Discord tag. Make sure you note down their user name and tag.
+
+1. Open the discord app.
+2. Tap on the Friends button that is located towards the bottom.
+
+![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
+
+1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
+2. A box appears. Enter the discord username and the tag number.
+3. Hit the send friend request button once the search result appears.
+4. Your friend request will be sent. The friend would be visible in your friend's list once they have approved your friend request.
+
+Once your friend is added, you can directly message them or call them.
+
+### 2\. How to add friends on Discord Server
+
+discord is all about stumbling upon like-minded people and growing your gaming group. Once you join a server, you are bound to make a lot of friends. And sometimes, you might want to add them to your friend's list so you can text them personally.
+
+Follow these steps to add a friend that you met on the server.
+
+1. Open your discord app.
+2. Click open the server that you and your friend are a part of.
+3. Open the list of channel users. The button for the list is located towards the top at the right corner.
+4. Find your friend on the list. When you find your friend, tap on their profile.
+5. Their profile will pop up. Click the ‘add friend’ button.
+
+![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
+
+1. Your friend request will be delivered.
+2. Once they approve, they will be a part of your friend list.
+
+Likewise, you can build a community of your own by creating a new server. You can invite your friends or people that you met while playing games or obsessing over some fandom.
+
+## Part 3: How to Find Someone and Add Friends on Discord Without Number
+
+In case you have been using discord for a while, you might have realized that the only way to add friends is by username and the Discord tag number. However, there is a way to add friends without the tag. And here is how to do it –
+
+1. Open the Discord app on your phone.
+2. Tap those ‘three parallel lines’ buttons located on the top left.
+3. Tap the Friends symbol that appears on the bottom tab.
+4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
+
+![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
+
+1. Ask your friend to turn on the Nearby Scan mode on their phone too.
+
+![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+1. When your friend gets detected, they appear on the radar.
+2. Hit the ‘Send’ button to send a Friend Request.
+3. Once they accept your request, they will make their way to your Friends List.
+
+Note that this method only works on the mobile app (it doesn't matter if you have an Android phone or iPhone). You cannot perform this with a PC or laptop.
+
+Further, you and your friend both must be on the Nearby Scan mode to connect with this feature. This method only works for connections that are within a 10-meter radius. So, if your pal is from a whole different continent, you will need a user tag to add them as friends.
+
+If you and the person you want to add are on the same server, you can add them through the channel user lists, as we discussed above.
+
+## Bonus: How to Add friends on Discord without user tag via an invitation link
+
+On Discord channels, it always ‘the more, the merrier.’ And your server can be one lonely place without friends. Plus, adding friends via a server is a lot easier and needs fewer steps. Create a server and customize it according to your taste. Don’t forget to add bots for fun!
+
+1. Open your discord, and head over to the server that you want to add friends to.
+2. Right-click on the server title. A menu with several options will appear.
+3. From that list, choose ‘invite friends’ and an invite link will appear on the pop-up menu.
+
+![add friends to Discord Server via invitation links](https://images.wondershare.com/filmora/article-images/add-friends-to-discord-server-via-invitation-link.jpg)
+
+1. The invitation link typically expires in a day. But you can change this setting to ‘set this link to never expire.
+
+![set Discord invitation links](https://images.wondershare.com/filmora/article-images/set-discord-invitation-link.jpg)
+
+1. Share this link with your friends over other social media apps to invite them.
+2. Your friends will show up on the member list of your channel when they accept your invite and follow the link.
+3. From here, you can right-click on the profile that you want to add as your Friend.
+4. From the drop-down that appears, tap on the ‘Profile’ option.
+5. The profile opens up. Here, click on the ‘send friend request’ option.
+
+The person will receive the request. Upon approval, the friend will be added to your Friends list. This method does not require a user tag, and you can directly add your friends through the channel member's list.
+
+This was a guide on **how to add friends in Discord** with user tags and from servers. You can view the sent and pending friend requests.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Discord is a widely used platform for gaming, joining new online communities, stream games with friends, meet new people, and chat. In 2019, Discord had over 250 million users. And over 6 million servers. And these numbers keep bloating every year.
+
+If you are new to discord, it might take you a while to get the hang of the app. **How to add friends on Discord**? Moreover, discord is no fun without active servers or friends. But we are here to help you add friends on discord.
+
+Before that – why would you want to add friends on Discord? Well, why not! You can chat with them personally, show off your gaming skills by streaming games, or add them to your servers!
+
+## Part 1: How to Add Friends on Discord on Computer?
+
+Discord is supposed to make gaming an interactive and lively experience. So, you should start adding friends right away. Here are the steps for adding friends on Discord. The process is the same for the desktop app and browser Discord. You can add friends through two ways -
+
+### How to Add friends directly on Discord desktop
+
+With this method, you can add friends using their Discord username and tag. Make sure you have their tag.
+
+If you are using a desktop app or the website, here is how you can add friends -
+
+1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
+2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
+
 ![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
 
 1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
@@ -634,9 +440,6 @@ If you have some friends that you do not share common channels with, you can add
 1. Open the discord app.
 2. Tap on the Friends button that is located towards the bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
 
 1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
@@ -665,9 +468,6 @@ Follow these steps to add a friend that you met on the server.
 
 Likewise, you can build a community of your own by creating a new server. You can invite your friends or people that you met while playing games or obsessing over some fandom.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Part 3: How to Find Someone and Add Friends on Discord Without Number
 
 In case you have been using discord for a while, you might have realized that the only way to add friends is by username and the Discord tag number. However, there is a way to add friends without the tag. And here is how to do it –
@@ -681,9 +481,6 @@ In case you have been using discord for a while, you might have realized that th
 
 1. Ask your friend to turn on the Nearby Scan mode on their phone too.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
 
 1. When your friend gets detected, they appear on the radar.
@@ -704,16 +501,10 @@ On Discord channels, it always ‘the more, the merrier.’ And your server can 
 2. Right-click on the server title. A menu with several options will appear.
 3. From that list, choose ‘invite friends’ and an invite link will appear on the pop-up menu.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add friends to Discord Server via invitation links](https://images.wondershare.com/filmora/article-images/add-friends-to-discord-server-via-invitation-link.jpg)
 
 1. The invitation link typically expires in a day. But you can change this setting to ‘set this link to never expire.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set Discord invitation links](https://images.wondershare.com/filmora/article-images/set-discord-invitation-link.jpg)
 
 1. Share this link with your friends over other social media apps to invite them.
@@ -726,9 +517,170 @@ The person will receive the request. Upon approval, the friend will be added to 
 
 This was a guide on **how to add friends in Discord** with user tags and from servers. You can view the sent and pending friend requests.
 
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Discord is a widely used platform for gaming, joining new online communities, stream games with friends, meet new people, and chat. In 2019, Discord had over 250 million users. And over 6 million servers. And these numbers keep bloating every year.
+
+If you are new to discord, it might take you a while to get the hang of the app. **How to add friends on Discord**? Moreover, discord is no fun without active servers or friends. But we are here to help you add friends on discord.
+
+Before that – why would you want to add friends on Discord? Well, why not! You can chat with them personally, show off your gaming skills by streaming games, or add them to your servers!
+
+## Part 1: How to Add Friends on Discord on Computer?
+
+Discord is supposed to make gaming an interactive and lively experience. So, you should start adding friends right away. Here are the steps for adding friends on Discord. The process is the same for the desktop app and browser Discord. You can add friends through two ways -
+
+### How to Add friends directly on Discord desktop
+
+With this method, you can add friends using their Discord username and tag. Make sure you have their tag.
+
+If you are using a desktop app or the website, here is how you can add friends -
+
+1. Open the desktop app or visit the site. Tap the home button on the top towards the left.
+2. Open the direct message list. In the list, click on the ‘Add friend’ tab.
+
+![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
+
+1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
+2. Hit the send friend request button to send the friend request.
+
+![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
+
+1. The friend will appear in your friend list once they accept your friend request.
+
+Now you can chat with them personally.
+
+### 2\. How to add friends on Discord Server
+
+Severs are the places where you find your best buddies who obsess over the same things. If you want to add a friend that you met on a server, follow these steps -
+
+1. Open the server that you and your friend are a part of.
+2. Tap on your friend’s profile. You can find their profile in the user list of the server.
+
+![ add friends on Discord server](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-server.jpg)
+
+1. View their profile. Click open the profile's menu.
+2. Hit the Add Friend option and once the person accepts your request, you will find them in your friend list.
+
+You can directly text or call the people who get added to your friend list.
+
+Similarly, if a person (who’s not on your Friends List) has messaged you directly, you add them as a friend quickly.
+
+To do this, open your chat list by clicking on your profile. Find the person you want to add to the chat list, and right-click on their profile. Tap the ‘Add Friend’ option. This is the fastest way to add friends on Discord without their user tag.
+
+## Part 2: How to Add friends on Discord on Android and iOS?
+
+The user interface of discord is more or less the same across various devices. The process of adding friends is quite similar to the one we discussed for the computer.
+
+You cannot use discord over a phone's browser. To use discord on your phone, you have to download the app. It is available on Google Play Store and App Store. Once you have downloaded the app and logged in, here is **how to add people on Discord**.
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### 1\. How to Add friends directly on Discord Mobile
+
+If you have some friends that you do not share common channels with, you can add them directly with their username and Discord tag. Make sure you note down their user name and tag.
+
+1. Open the discord app.
+2. Tap on the Friends button that is located towards the bottom.
+
+![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
+
+1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
+2. A box appears. Enter the discord username and the tag number.
+3. Hit the send friend request button once the search result appears.
+4. Your friend request will be sent. The friend would be visible in your friend's list once they have approved your friend request.
+
+Once your friend is added, you can directly message them or call them.
+
+### 2\. How to add friends on Discord Server
+
+discord is all about stumbling upon like-minded people and growing your gaming group. Once you join a server, you are bound to make a lot of friends. And sometimes, you might want to add them to your friend's list so you can text them personally.
+
+Follow these steps to add a friend that you met on the server.
+
+1. Open your discord app.
+2. Click open the server that you and your friend are a part of.
+3. Open the list of channel users. The button for the list is located towards the top at the right corner.
+4. Find your friend on the list. When you find your friend, tap on their profile.
+5. Their profile will pop up. Click the ‘add friend’ button.
+
+![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
+
+1. Your friend request will be delivered.
+2. Once they approve, they will be a part of your friend list.
+
+Likewise, you can build a community of your own by creating a new server. You can invite your friends or people that you met while playing games or obsessing over some fandom.
+
+## Part 3: How to Find Someone and Add Friends on Discord Without Number
+
+In case you have been using discord for a while, you might have realized that the only way to add friends is by username and the Discord tag number. However, there is a way to add friends without the tag. And here is how to do it –
+
+1. Open the Discord app on your phone.
+2. Tap those ‘three parallel lines’ buttons located on the top left.
+3. Tap the Friends symbol that appears on the bottom tab.
+4. Tap on the ‘Add Friends’ button and you will see two tabs: Username and Nearby Scan. Select the Nearby Scan option.
+
+![ add friends to server on Discord mobile without numbers](https://images.wondershare.com/filmora/article-images/add-friends-on-discord-mobile-without-number.jpg)
+
+1. Ask your friend to turn on the Nearby Scan mode on their phone too.
+
+![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
+
+1. When your friend gets detected, they appear on the radar.
+2. Hit the ‘Send’ button to send a Friend Request.
+3. Once they accept your request, they will make their way to your Friends List.
+
+Note that this method only works on the mobile app (it doesn't matter if you have an Android phone or iPhone). You cannot perform this with a PC or laptop.
+
+Further, you and your friend both must be on the Nearby Scan mode to connect with this feature. This method only works for connections that are within a 10-meter radius. So, if your pal is from a whole different continent, you will need a user tag to add them as friends.
+
+If you and the person you want to add are on the same server, you can add them through the channel user lists, as we discussed above.
+
+## Bonus: How to Add friends on Discord without user tag via an invitation link
+
+On Discord channels, it always ‘the more, the merrier.’ And your server can be one lonely place without friends. Plus, adding friends via a server is a lot easier and needs fewer steps. Create a server and customize it according to your taste. Don’t forget to add bots for fun!
+
+1. Open your discord, and head over to the server that you want to add friends to.
+2. Right-click on the server title. A menu with several options will appear.
+3. From that list, choose ‘invite friends’ and an invite link will appear on the pop-up menu.
+
+![add friends to Discord Server via invitation links](https://images.wondershare.com/filmora/article-images/add-friends-to-discord-server-via-invitation-link.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+1. The invitation link typically expires in a day. But you can change this setting to ‘set this link to never expire.
+
+![set Discord invitation links](https://images.wondershare.com/filmora/article-images/set-discord-invitation-link.jpg)
+
+1. Share this link with your friends over other social media apps to invite them.
+2. Your friends will show up on the member list of your channel when they accept your invite and follow the link.
+3. From here, you can right-click on the profile that you want to add as your Friend.
+4. From the drop-down that appears, tap on the ‘Profile’ option.
+5. The profile opens up. Here, click on the ‘send friend request’ option.
+
+The person will receive the request. Upon approval, the friend will be added to your Friends list. This method does not require a user tag, and you can directly add your friends through the channel member's list.
+
+This was a guide on **how to add friends in Discord** with user tags and from servers. You can view the sent and pending friend requests.
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -748,8 +700,6 @@ Follow @Richard Bennett
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -758,8 +708,22 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-ultimate-guide-for-emoji-laden-discord-statements/"><u>[New] In 2024, The Ultimate Guide for Emoji-Laden Discord Statements</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-elevate-conversational-impact-how-to-pin-messages-wisely-in-discord/"><u>[Updated] 2024 Approved Elevate Conversational Impact How to Pin Messages Wisely in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-simplifying-the-process-of-live-sharing-with-discord/"><u>[Updated] 2024 Approved Simplifying the Process of Live Sharing with Discord</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-elevate-your-banner-game-mastering-visual-branding-techniques-for-2024/"><u>[Updated] Elevate Your Banner Game Mastering Visual Branding Techniques for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-efficiently-speaking-out-a-blueprint-for-reporting-incidents-in-digital-communities/"><u>[Updated] In 2024, Efficiently Speaking Out A Blueprint for Reporting Incidents in Digital Communities</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-essential-guide-to-advanced-youtube-studio-editing/"><u>[Updated] In 2024, The Essential Guide to Advanced YouTube Studio Editing</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-transformative-discord-journey-with-these-essential-upgrades-for-2024/"><u>[Updated] Transformative Discord Journey with These Essential Upgrades for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-effective-communication-in-live-discovers-with-our-guide/"><u>2024 Approved Effective Communication in Live Discovers with Our Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/boosting-daily-use-tips-to-stay-active-on-facebook/"><u>Boosting Daily Use Tips to Stay Active on Facebook</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-xcover-7-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy XCover 7 Safely | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-xiaomi-redmi-note-13-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Xiaomi Redmi Note 13 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-k70-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi K70</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-turning-on-windows-11s-high-dynamic-range-mode-for-2024/"><u>Step-by-Step Turning On Windows 11'S High Dynamic Range Mode for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-20-emojis-designer-tools-on-discord-for-2024/"><u>Top 20 Emojis Designer Tools on Discord for 2024</u></a></li>
+</ul></div>
 

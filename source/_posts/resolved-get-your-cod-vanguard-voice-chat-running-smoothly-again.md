@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Get Your COD: Vanguard Voice Chat Running Smoothly Again!"
-date: 2024-10-25T20:27:21.170Z
-updated: 2024-10-30T01:04:03.381Z
+date: 2024-11-09T17:30:57.561Z
+updated: 2024-11-13T21:43:09.464Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Sign out Fortnite, then sign back in
 
  This is the quickest and easiest fix to try when chat’s not working in Fortnite. Just sign out of the game, then sign back in.
@@ -58,31 +51,17 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. Click **Update** next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Fortnite patch
 
@@ -116,16 +95,16 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
 
@@ -139,15 +118,36 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 iii. Exit Fortnite.
 
  2\. On your desktop,**right-click** **the speaker icon** at the bottom-right corner, and then select**Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3\. Click the **Playback** tab, select the speakers/headphones you’re using and click **Set Default** .
 
@@ -157,28 +157,15 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6\. Click **OK** .
@@ -198,6 +185,13 @@ iii. Exit Fortnite.
  2\. Click**Uninstall** to uninstall Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3\. Restart your PC.
 
@@ -228,21 +222,24 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-digital-diary-top-picks-for-personal-video-devices-for-2024/"><u>[New] Digital Diary Top Picks for Personal Video Devices for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instigate-inspiration-top-20-ideas-for-ig-masterpieces/"><u>[New] In 2024, Instigate Inspiration Top 20 Ideas for IG Masterpieces</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-srt-audio-file-handling-for-oses/"><u>[New] SRT Audio File Handling for OSes</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-connecting-with-peers-discord-friendning-tips/"><u>[Updated] 2024 Approved Connecting with Peers Discord Friendning Tips</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-enhancing-your-discord-experience-with-video-sharing/"><u>[Updated] 2024 Approved Enhancing Your Discord Experience with Video Sharing</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-from-playtime-to-profits-ryan-kajis-youtube-cash-crusade/"><u>[Updated] 2024 Approved From Playtime to Profits Ryan Kaji's YouTube Cash Crusade</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-transforming-chat-dynamics-mastering-discords-text-styling/"><u>[Updated] 2024 Approved Transforming Chat Dynamics Mastering Discord's Text Styling</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-bulk-message-elimination-a-complete-handbook-for-the-discreet-discord-user-for-2024/"><u>[Updated] Bulk Message Elimination A Complete Handbook for the Discreet Discord User for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-capture-the-vibes-fast-access-to-tiktok-content-for-2024/"><u>[Updated] Capture the Vibes - Fast Access to TikTok Content for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-direct-linking-spotifys-journey-into-discord/"><u>[Updated] Direct Linking Spotify's Journey Into Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-how-to-add-friends-on-discord/"><u>[Updated] How to Add Friends on Discord</u></a></li>
-<li><a href="https://fox-info.techidaily.com/elite-top-10-4k-monitors-list-for-2024/"><u>Elite Top 10 4K Monitors List for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhancing-digital-shield-discover-the-latest-three-security-updates-in-google-chrome-for-optimized-online-protection-and-privacy-techadvocate/"><u>Enhancing Digital Shield: Discover the Latest Three Security Updates in Google Chrome for Optimized Online Protection & Privacy | TechAdvocate</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-official-method-to-unlock-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 6s Plus Official Method to Unlock Your Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-audio-the-ultimate-guide-to-music-icons/"><u>In 2024, Instagram Audio The Ultimate Guide to Music Icons</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-ultimate-playlist-of-premium-discord-audio-bots/"><u>The Ultimate Playlist of Premium Discord Audio Bots</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nhance-video-appeal-with-filmmaker-friendly-subscribe-button-tutorials-filmora-for-2024/"><u>[New] Enhance Video Appeal with Filmmaker-Friendly Subscribe Button Tutorials (Filmora) for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-expertly-engineered-virtual-assistants-discord-for-2024/"><u>[New] Expertly Engineered Virtual Assistants (Discord) for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-clean-cut-windows-10-screen-logger/"><u>[New] In 2024, Clean-Cut Windows 10 Screen Logger</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-optimal-mobile-tech-for-discord-recording/"><u>[New] Optimal Mobile Tech for Discord Recording</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-stepwise-guide-for-validated-discord-identity-for-2024/"><u>[New] Stepwise Guide for Validated Discord Identity for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-streamline-discord-the-ultimate-list-of-10-key-plugins-for-2024/"><u>[New] Streamline Discord The Ultimate List of 10 Key Plugins for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-secret-to-swiftly-and-stealthily-purging-messages-on-discord-for-2024/"><u>[New] The Secret to Swiftly and Stealthily Purging Messages on Discord for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-advanced-3d-media-player-for-android-users/"><u>2024 Approved Advanced 3D Media Player for Android Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-effortless-video-capture-using-screencastify-app/"><u>2024 Approved Effortless Video Capture Using Screencastify App</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-quick-guide-applying-discord-spoiler-tags-right/"><u>2024 Approved Quick Guide Applying Discord Spoiler Tags Right</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210298703-9781646705559-come-with-a-hunger-come-with-a-thirst-be-filled-to-overflow/"><u>Come with a Hunger Come with a Thirst Be Filled to Overflow | Free Book</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/essential-know-how-for-getting-started-on-discord-live-for-2024/"><u>Essential Know-How for Getting Started on Discord Live for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hands-on-review-experience-the-dell-monitor-premium-noise-cancelling-headphones-and-crystalclear-webcam/"><u>Hands-On Review: Experience the Dell Monitor, Premium Noise Cancelling Headphones, & CrystalClear Webcam</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-exploring-advanced-features-of-discords-live-stream-functionality/"><u>In 2024, Exploring Advanced Features of Discord's Live Stream Functionality</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722902315346-stay-updated-on-the-latest-apple-m3-macbook-pro-prices-specs-and-release-timeline-explored/"><u>Stay Updated on the Latest Apple M3 MacBook Pro - Prices, Specs, and Release Timeline Explored</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-up-your-game-mastering-discord-message-embellishments/"><u>Step Up Your Game Mastering Discord Message Embellishments</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick Recap  Essential Use of Discord Spoiler Labels for 2024\""
-date: 2024-09-28T17:32:47.478Z
-updated: 2024-09-30T23:46:35.332Z
+date: 2024-11-06T22:18:55.496Z
+updated: 2024-11-13T22:05:32.254Z
 tags:
   - ai video
   - ai discord
@@ -40,6 +40,13 @@ Thankfully, Discord came out with the perfect solution. Now, if you are sharing 
 
 And now we come to the point - **how to do spoilers on Discord**? Well, there are two ways to do it. You can run through both of them and choose whichever suits you the best. All the methods are simple to follow. Note that some are available only on the desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Adding Spoiler Text Via Tag on Discord
 
 We will begin with the tag method. All you have to do is add the spoiler tag on Discord. Here is a quick rundown of the steps –
@@ -59,10 +66,16 @@ You can also add ‘/spoiler’ before the spoiler content. This is an alternati
 ![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
@@ -77,20 +90,13 @@ This alternate method is quite simple. This was a recent update on Discord that 
 ![add spoiler marker on Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-icon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This method is available only on the Discord desktop app and browser version. For iOS, the steps are similar. The only difference is that you have to select the spoiler mark from the context menu.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Add Spoiler to Image and Video on Discord?
 
@@ -99,13 +105,6 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
 ![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -140,6 +139,19 @@ If you want to display all spoiler content, choose Always to turn off the spoile
 
 ![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -159,24 +171,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigating-discords-streaming-features-desktopmobile/"><u>[Updated] In 2024, Navigating Discord's Streaming Features (Desktop/Mobile)</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-revolutionize-discord-conversations-with-top-ranked-free-modifiers/"><u>[Updated] In 2024, Revolutionize Discord Conversations with Top-Ranked Free Modifiers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-uncovering-the-depths-of-discord/"><u>[Updated] In 2024, Uncovering the Depths of Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unveiling-the-secrets-how-to-access-high-end-features-with-disconitro/"><u>[Updated] In 2024, Unveiling the Secrets How to Access High-End Features with DiscoNitro</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-livetv-prowess-elevating-facebook-live-broadcasts/"><u>[Updated] LiveTV Prowess Elevating Facebook Live Broadcasts</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-network-necessities-how-to-add-friends-on-devices-for-2024/"><u>[Updated] Network Necessities How to Add Friends on Devices for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-revolutionary-social-networking-tools-for-2024/"><u>[Updated] Revolutionary Social Networking Tools for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-safe-exit-procedures-for-departing-discord-servers/"><u>[Updated] Safe Exit Procedures for Departing Discord Servers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-slice-and-shoot-mastering-the-art-of-food-video/"><u>[Updated] Slice and Shoot Mastering the Art of Food Video</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-printer-user-download-updated-software-for-laserjet-p1007-model/"><u>HP Printer User: Download Updated Software for LaserJet P1007 Model</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-motorola-razr-40-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Motorola Razr 40? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-voiceover-revolution-in-tiktok-content-creation/"><u>In 2024, The Voiceover Revolution in TikTok Content Creation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-full-potential-of-zoom-with-chromebook/"><u>In 2024, Unleashing Full Potential of Zoom with Chromebook</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-auto-gpt-setup-for-ubuntu-systems/"><u>Navigating Auto-GPT Setup for Ubuntu Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-more-pdf-printing-woes-swift-solutions-that-work/"><u>No More PDF Printing Woes - Swift Solutions That Work!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-process-of-downloading-new-mouse-drivers-for-windows-7-users/"><u>Step-by-Step Process of Downloading New Mouse Drivers for Windows 7 Users</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/vibey-vistas-your-guide-to-the-10-most-trending-discothemes/"><u>Vibey Vistas Your Guide to the 10 Most Trending DiscoThemes</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/what-is-discord-pfp-and-how-to-make-an-attractive-pfp-for-discord/"><u>What Is Discord PFP and How to Make an Attractive PFP for Discord</u></a></li>
-<li><a href="https://blog-min.techidaily.com/windows-11-dvd-drive-detection-issue-resolved/"><u>Windows 11 DVD Drive Detection Issue Resolved</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapstreak-savvy-guidance-to-prevent-interruptions/"><u>[New] 2024 Approved Snapstreak Savvy Guidance to Prevent Interruptions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-reel-ready-content-best-insta-downloaders-explored/"><u>[New] In 2024, Reel-Ready Content Best Insta Downloaders Explored</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-first-steps-on-social-landscape-creating-a-facebook-account-for-2024/"><u>[Updated] First Steps on Social Landscape Creating a Facebook Account for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028416344-5/"><u>「自由にダウンロード可能な優秀な無料ビデオ音量調節ツールベスト5」</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1-best-guide-transform-gsm-audio-files-into-mp3-format-at-no-cost/"><u>1. [Best Guide] Transform GSM Audio Files Into MP3 Format at No Cost</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/100-unique-instagram-captions-to-show-yourself-to-the-world/"><u>100 Unique Instagram Captions to Show Yourself to the World</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028872900-pc/"><u>動画の音ズレをPCで簡単に調整する方法：初心者向けガイド</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-complete-look-at-color-correction-for-gopro-videos-for-2024/"><u>A Complete Look at Color Correction for GoPro Videos for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/chinas-ambitious-goal-boost-public-supercomputing-strength-by-30-hit-300-exaflops-milestone-in-five-years/"><u>China's Ambitious Goal: Boost Public Supercomputing Strength by 30%, Hit 300 Exaflops Milestone in Five Years</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028201074-dvdwindows-10/"><u>DVD再生に失敗するWindows 10コンピュータを修正する方法</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratis-converteren-van-mxf-naar-mpg-professioneel-online-tool-by-movavi/"><u>Gratis Converteren Van MXF Naar MPG: Professioneel Online-Tool by Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-excessive-cpu-use-during-a-zoom-call-6-tips/"><u>How to Stop Excessive CPU Use During a Zoom Call: 6 Tips</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029567888-iphone-mp4/"><u>IPhone MP4ファイルプレイヤー設定：スムーズ再生とトラブルシューティング</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/solving-the-0xc004f011-boot-failure-in-windows-11-a-step-by-step-guide/"><u>Solving the 0xC004F011 Boot Failure in Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-transforming-mp4-videos-into-compatible-flv-format/"><u>Step-by-Step Guide: Transforming MP4 Videos Into Compatible FLV Format</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Master the Art of Message Interaction on Desktop/Mobile"
-date: 2024-09-27T05:24:14.440Z
-updated: 2024-10-01T04:29:08.760Z
+date: 2024-11-11T22:00:51.014Z
+updated: 2024-11-13T19:40:49.399Z
 tags:
   - ai video
   - ai discord
@@ -63,10 +63,10 @@ This technique works for both the browser and the desktop applications; use it w
 ![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Reply to a Certain Message on Discord Mobile
@@ -78,13 +78,6 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 3. Choose the "Reply" option
 
 ![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
 2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
@@ -107,19 +100,6 @@ Here's an example of how you can implement this feature in your server. In this 
 
 ![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
 ![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
@@ -135,27 +115,47 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 
 ![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
 
 ![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
 
 1. Click on the emoji, and it would increase the total number of responses by 1
 2. Hovering over the emoji will also let you know the names of the people who reacted to the message
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: How to Quote Messages on Discord?
 
 Quoting messages in Discord is very simple. All you need to do is type > before your quote if it is only a one-liner.
 
 ![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
 
@@ -167,10 +167,10 @@ On the other hand, multi-line quoting is when you need to quote a paragraph or b
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -188,18 +188,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-inside-the-world-of-discord-nitro-highlights-and-acquisition-strategies-for-2024/"><u>[Updated] Inside the World of Discord Nitro Highlights and Acquisition Strategies for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-selecting-the-ideal-team-communication-tool-a-slack-vs-discord-evaluation-for-2024/"><u>[Updated] Selecting the Ideal Team Communication Tool A Slack Vs. Discord Evaluation for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-simplify-your-virtual-experience-modifying-status-and-images-on-discord-for-2024/"><u>[Updated] Simplify Your Virtual Experience Modifying Status & Images on Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-voyage-to-trustworthiness-becoming-a-confirmed-disco-partner/"><u>[Updated] The Voyage to Trustworthiness Becoming a Confirmed Disco Partner</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-unveiling-secrets-for-superior-user-imagery-on-discord-for-2024/"><u>[Updated] Unveiling Secrets for Superior User Imagery on Discord for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-showdown-claude-and-gpt-for-household-assistance/"><u>AI Showdown: Claude & GPT for Household Assistance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enshrouded-pc-crash-fixed-a-comprehensive-guide/"><u>Enshrouded PC Crash Fixed: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-solving-icue-hardware-recognition-issues/"><u>Expert Tips for Solving ICUE Hardware Recognition Issues</u></a></li>
-<li><a href="https://article-helps.techidaily.com/feathered-flamenco-flyers/"><u>Feathered Flamenco Flyers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-apple-iphone-13-pro-max-look-no-further-drfone-by-drfone-virtual-ios/"><u>In 2024, Looking For A Location Changer On Apple iPhone 13 Pro Max? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/logo-design-101-tips-to-make-your-podcast-stand-out-for-2024/"><u>Logo Design 101 Tips to Make Your Podcast Stand Out for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-apex-legends-game-crashes-and-engine-issues/"><u>Troubleshooting Guide: Fixing Apex Legends Game Crashes and Engine Issues</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows-and-mac-top-10-best-free-online-video-kickstarters-with-ai-features/"><u>Windows & Mac: Top 10 Best Free Online Video Kickstarters with AI Features</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-ultimate-technique-for-capturing-hulu-playbacks/"><u>[New] 2024 Approved The Ultimate Technique for Capturing Hulu Playbacks</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-elevate-your-virtual-look-with-stunning-discord-photos/"><u>[Updated] In 2024, How to Elevate Your Virtual Look with Stunning Discord Photos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-erase-thousands-of-messages-in-just-a-few-clicks-on-discord/"><u>[Updated] In 2024, How to Erase Thousands of Messages in Just a Few Clicks on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-immerse-in-imagination-the-bestdiscords-10-creations/"><u>[Updated] In 2024, Immerse in Imagination The BestDiscord’s 10 Creations</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-radiant-rooms-a-compilation-of-betterdiscords-top-10-themes-for-2024/"><u>[Updated] Radiant Rooms A Compilation of BetterDiscord’s Top 10 Themes for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-uncover-the-power-of-discords-spoiler-system-for-2024/"><u>[Updated] Uncover the Power of Discord's Spoiler System for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unlocking-the-potential-of-video-posting-within-discords-ecosystem-for-2024/"><u>[Updated] Unlocking the Potential of Video Posting Within Discord's Ecosystem for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-what-exactly-is-disconitro-insider-info-for-freepaid-users-for-2024/"><u>[Updated] What Exactly Is DiscoNitro? Insider Info for Free/Paid Users for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/decoding-the-battle-of-tech-giants-detailed-insights-into-ipad-pro-vs-macbook-pro/"><u>Decoding the Battle of Tech Giants: Detailed Insights Into iPad Pro vs MacBook Pro</u></a></li>
+<li><a href="https://win-studio.techidaily.com/efficient-nytimes-media-grabber-for-mac-and-pc-convert-and-download-videos-from-the-new-york-times-in-mp4-or-avi-formats/"><u>Efficient NYTimes Media Grabber for Mac & PC: Convert and Download Videos From The New York Times in MP4 or AVI Formats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fix-your-samsung-tvs-mp4-playback-problem-ultimate-guide-and-proven-strategies/"><u>Fix Your Samsung TV's MP4 Playback Problem: Ultimate Guide & Proven Strategies</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-asus-rog-phone-8-pro-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Asus ROG Phone 8 Pro Without PUK Codes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-quick-guide-personalized-youtube-shorts-images-without-hassle/"><u>In 2024, Quick Guide Personalized YouTube Shorts Images Without Hassle</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-secrets-for-effective-youtube-screen-recording/"><u>In 2024, Secrets for Effective YouTube Screen Recording</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-wifi-connections-in-windows-7-a-comprehensive-troubleshooting-guide/"><u>Mastering WiFi Connections in Windows 7: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-and-score-top-techniques-for-great-youtube-cinematography/"><u>Shoot and Score Top Techniques for Great YouTube Cinematography</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-evolution-of-laptop-computing-2020-macbook-pro-with-m1-processor-analyzed/"><u>The Evolution of Laptop Computing: 2020 MacBook Pro with M1 Processor Analyzed</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/understanding-the-distinctions-kindle-vs-amazon-fire-tablet/"><u>Understanding the Distinctions: Kindle Vs. Amazon Fire Tablet</u></a></li>
 </ul></div>
 

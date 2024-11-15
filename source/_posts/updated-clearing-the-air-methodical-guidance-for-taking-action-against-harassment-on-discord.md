@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Clearing the Air  Methodical Guidance for Taking Action Against Harassment on Discord\""
-date: 2024-07-29T00:37:48.847Z
-updated: 2024-07-30T00:37:48.847Z
+date: 2024-11-08T17:14:05.538Z
+updated: 2024-11-13T19:49:54.898Z
 tags:
   - ai video
   - ai discord
@@ -149,187 +149,6 @@ If you happen to be a moderator or server owner, you have the authority to kick 
 
 There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
-### Can I Report People on Discord Anonymously?
-
-According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
-### What Happens If I Report Someone on Discord?
-
-After you report someone on Discord, the T&S team goes through the evidence to justify or negate your claims.
-
-Usually, this process takes a long time as the team evaluates whether the problem is part of a broader pattern.
-
-After conducting their research and deciding upon a punishment, the T&S team will contact the offender via email to inform them about their misconduct and the relevant consequences.
-
-In minor offenses, the T&S team will reach out to the reporter and teach them how to block the user rather than take direct action.
-
-### Can You Report Someone on Discord for Being Under 13?
-
-Individuals under the age of 13 are not permitted to use Discord unless they have permission from a parent or guardian. However, it is not very easy to prove that the user is below a certain age.
-
-If you know someone who is undoubtedly underage, then you can report them to the Trust & Safety team by filling out their form and adding evidence to back your claim.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Discord has completely transformed online communication, becoming the preferred platform for gamers, streamers, and reviewers alike.
-
-As of late, it has started integrating with other gaming and streaming services, giving us the streamer mode. With streaming's growing popularity, it's essential to know what the streamer mode is all about.
-
-If you're a gamer, Discord's streamer mode allows you to stream your gaming session to viewers by broadcasting your game to your friends, fans, and even a closed community of enthusiasts.
-
-Many e-gaming professionals have taken up streaming, offering original and valuable content for like-minded individuals. This mode helps them streamline all their communications in one place.
-
-If you're new to Discord’s streamer mode, you need to know what it is, how you can use it to engage with other community members, and the primary security concerns you need to be aware of.
-
-* [Part 1: How to Report Users on Discord Desktop?](#part1)
-* [Part 2: How to Report Users on Discord Mobile App?](#part2)
-* [Part 3: How to Kick People on Discord?](#part3)
-* [Part 4: FAQs About Discord Reporting](#part4)
-
-For gamers in the modern era, Discord is a household name. The platform has around 120 million active users monthly as of early 2021.
-
-With so many users on the forum, it is normal to have some "bad apples" in the mix. There are trolls, miscreants, and spammers who ruin the experience for everyone else.
-
-You can report them to Discord Trust and Safety team. They would take appropriate action against these nuisances after reviewing evidence.
-
-Reporting helps make healthier communities and allows you to avoid conflicts and outbreaks due to suspicious activity on the platform.
-
-Today we will look into how to report someone on Discord using desktop and mobile devices. Moreover, we will look at other ways to deal with indecent behavior, such as kicking people or banning them.
-
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 1: How to Report Users on Discord Desktop
-
-Before you can report a person to Discord's Trust and Safety team, you will need to enable Discord's developer mode.
-
-Enabling this mode will allow you to obtain the information necessary to file your report.
-
-1. Login to your Discord account on PC or Mac
-2. You will see a gear icon next to your username to the bottom left of your screen; click on it
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
-![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
-
-1. There will be a list of options in the sidebar; from here, click on "Appearance"
-2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
-
-After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
-
-1. Right-click on their username
-2. From the list of options that appear, choose "Copy ID"
-3. Paste this user ID somewhere so that you can access it later
-
-To report a specific message, you need to get the message link as well. For this:
-
-1. Locate the message you want to report
-2. Then hover your cursor over it and click on the ellipsis sign (…) on the right side
-3. Click on "Copy Message Link"
-4. Paste this somewhere so that you can use it later
-
-After collecting the necessary information, go to Discord's website to report it to [Discord's Trust and Safety Team](https://support.discord.com/hc/en-us/requests/new?ticket%5Fform%5Fid=360000029731).
-
-You will have to provide your email address and post the two links copied earlier into the description box.
-
-Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
-
-![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
-
-Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## Part 2: How to Report Users on Discord on iPhone And Android
-
-Just like on a desktop, you will first need to enable developer mode.
-
-1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
-2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
-
-![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
-
-1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
-
-Like before, you will now need to obtain the User ID; the process may be slightly different depending on the phone you are using. In general, the steps would be:
-
-1. Open the user's profile by tapping on it
-2. Tap on the ellipsis sign (…) in the upper-right of your screen and select "Copy ID"
-3. After doing this, paste the ID somewhere you can later access
-
-Follow the steps below to get the message link to report.
-
-1. Go to the message and then hold down on it until a list of options appears
-2. On an iPhone, tap on "Copy Message Link." For an android device, click on "Select" and then "Copy To Clipboard"
-
-Now, you can send this information to the [Trust and Safety team](https://support.discord.com/hc/en-us/requests/new?ticket%5Fform%5Fid=360000029731) to assess it. To do this:
-
-1. Paste the two links copied earlier in the "Description Box"
-2. Provide your email address along with the context behind the situation
-3. Click on "Submit"
-
-## Part 3: How to Kick People on Discord
-
-Discord also allows you to take care of improper behavior yourself. If you are a moderator or server owner, you can kick people for violating Discord's guidelines.
-
-However, it is essential to have a reason to kick someone. Otherwise, it may be seen as an abuse of power.
-
-Here are activities to look out for before kicking someone:
-
-* Spam messages
-* Harassment
-* Sharing child pornography
-* Violating IP rights
-* Sharing viruses
-* Advocating self-harm or suicide
-* Distributing gore content or animal cruelty
-* Life threats to another user
-
-If you see someone involved in these, you can kick them off your server or report them to moderators or server owners if you don't have kicking authority.
-
-In case the moderators or owners do not act on your complaint, you can always contact the Trust and Safety team.
-
-If you happen to be a moderator or server owner, you have the authority to kick people off your server. Here is how to do it:
-
-1. Go to the correct channel on Discord
-2. Find the user from the user list on the right side of the screen
-3. Right-click on their username and then select "Kick"
-4. Click on "Kick" again to confirm your decision
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 4: FAQs About Discord Reporting
-
-There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### Can I Report People on Discord Anonymously?
 
 According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
@@ -350,9 +169,6 @@ Individuals under the age of 13 are not permitted to use Discord unless they hav
 
 If you know someone who is undoubtedly underage, then you can report them to the Trust & Safety team by filling out their form and adding evidence to back your claim.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -429,9 +245,6 @@ Also, it would help if you gave context regarding your report describing how and
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Report Users on Discord on iPhone And Android
 
 Just like on a desktop, you will first need to enable developer mode.
@@ -460,9 +273,6 @@ Now, you can send this information to the [Trust and Safety team](https://suppor
 2. Provide your email address along with the context behind the situation
 3. Click on "Submit"
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to Kick People on Discord
 
 Discord also allows you to take care of improper behavior yourself. If you are a moderator or server owner, you can kick people for violating Discord's guidelines.
@@ -491,28 +301,14 @@ If you happen to be a moderator or server owner, you have the authority to kick 
 3. Right-click on their username and then select "Kick"
 4. Click on "Kick" again to confirm your decision
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: FAQs About Discord Reporting
 
 There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### Can I Report People on Discord Anonymously?
 
 According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What Happens If I Report Someone on Discord?
 
 After you report someone on Discord, the T&S team goes through the evidence to justify or negate your claims.
@@ -523,9 +319,6 @@ After conducting their research and deciding upon a punishment, the T&S team wil
 
 In minor offenses, the T&S team will reach out to the reporter and teach them how to block the user rather than take direct action.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Can You Report Someone on Discord for Being Under 13?
 
 Individuals under the age of 13 are not permitted to use Discord unless they have permission from a parent or guardian. However, it is not very easy to prove that the user is below a certain age.
@@ -569,10 +362,176 @@ Reporting helps make healthier communities and allows you to avoid conflicts and
 
 Today we will look into how to report someone on Discord using desktop and mobile devices. Moreover, we will look at other ways to deal with indecent behavior, such as kicking people or banning them.
 
+## Part 1: How to Report Users on Discord Desktop
+
+Before you can report a person to Discord's Trust and Safety team, you will need to enable Discord's developer mode.
+
+Enabling this mode will allow you to obtain the information necessary to file your report.
+
+1. Login to your Discord account on PC or Mac
+2. You will see a gear icon next to your username to the bottom left of your screen; click on it
+
+![ Discord User Settings](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+1. There will be a list of options in the sidebar; from here, click on "Appearance"
+2. Next, scroll down until you find "Developer Mode" under Advanced; turn it on
+
+![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
+
+1. Right-click on their username
+2. From the list of options that appear, choose "Copy ID"
+3. Paste this user ID somewhere so that you can access it later
+
+To report a specific message, you need to get the message link as well. For this:
+
+1. Locate the message you want to report
+2. Then hover your cursor over it and click on the ellipsis sign (…) on the right side
+3. Click on "Copy Message Link"
+4. Paste this somewhere so that you can use it later
+
+After collecting the necessary information, go to Discord's website to report it to [Discord's Trust and Safety Team](https://support.discord.com/hc/en-us/requests/new?ticket%5Fform%5Fid=360000029731).
+
+You will have to provide your email address and post the two links copied earlier into the description box.
+
+Also, it would help if you gave context regarding your report describing how and what rule was broken. You can also provide any other evidence you may want to present by attaching files in the attachments area.
+
+![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
+
+Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
+
+## Part 2: How to Report Users on Discord on iPhone And Android
+
+Just like on a desktop, you will first need to enable developer mode.
+
+1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
+2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
+
+![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
+
+1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
+
+Like before, you will now need to obtain the User ID; the process may be slightly different depending on the phone you are using. In general, the steps would be:
+
+1. Open the user's profile by tapping on it
+2. Tap on the ellipsis sign (…) in the upper-right of your screen and select "Copy ID"
+3. After doing this, paste the ID somewhere you can later access
+
+Follow the steps below to get the message link to report.
+
+1. Go to the message and then hold down on it until a list of options appears
+2. On an iPhone, tap on "Copy Message Link." For an android device, click on "Select" and then "Copy To Clipboard"
+
+Now, you can send this information to the [Trust and Safety team](https://support.discord.com/hc/en-us/requests/new?ticket%5Fform%5Fid=360000029731) to assess it. To do this:
+
+1. Paste the two links copied earlier in the "Description Box"
+2. Provide your email address along with the context behind the situation
+3. Click on "Submit"
+
+## Part 3: How to Kick People on Discord
+
+Discord also allows you to take care of improper behavior yourself. If you are a moderator or server owner, you can kick people for violating Discord's guidelines.
+
+However, it is essential to have a reason to kick someone. Otherwise, it may be seen as an abuse of power.
+
+Here are activities to look out for before kicking someone:
+
+* Spam messages
+* Harassment
+* Sharing child pornography
+* Violating IP rights
+* Sharing viruses
+* Advocating self-harm or suicide
+* Distributing gore content or animal cruelty
+* Life threats to another user
+
+If you see someone involved in these, you can kick them off your server or report them to moderators or server owners if you don't have kicking authority.
+
+In case the moderators or owners do not act on your complaint, you can always contact the Trust and Safety team.
+
+If you happen to be a moderator or server owner, you have the authority to kick people off your server. Here is how to do it:
+
+1. Go to the correct channel on Discord
+2. Find the user from the user list on the right side of the screen
+3. Right-click on their username and then select "Kick"
+4. Click on "Kick" again to confirm your decision
+
+## Part 4: FAQs About Discord Reporting
+
+There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
+
+### Can I Report People on Discord Anonymously?
+
+According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
+
+### What Happens If I Report Someone on Discord?
+
+After you report someone on Discord, the T&S team goes through the evidence to justify or negate your claims.
+
+Usually, this process takes a long time as the team evaluates whether the problem is part of a broader pattern.
+
+After conducting their research and deciding upon a punishment, the T&S team will contact the offender via email to inform them about their misconduct and the relevant consequences.
+
+In minor offenses, the T&S team will reach out to the reporter and teach them how to block the user rather than take direct action.
+
+### Can You Report Someone on Discord for Being Under 13?
+
+Individuals under the age of 13 are not permitted to use Discord unless they have permission from a parent or guardian. However, it is not very easy to prove that the user is below a certain age.
+
+If you know someone who is undoubtedly underage, then you can report them to the Trust & Safety team by filling out their form and adding evidence to back your claim.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Discord has completely transformed online communication, becoming the preferred platform for gamers, streamers, and reviewers alike.
+
+As of late, it has started integrating with other gaming and streaming services, giving us the streamer mode. With streaming's growing popularity, it's essential to know what the streamer mode is all about.
+
+If you're a gamer, Discord's streamer mode allows you to stream your gaming session to viewers by broadcasting your game to your friends, fans, and even a closed community of enthusiasts.
+
+Many e-gaming professionals have taken up streaming, offering original and valuable content for like-minded individuals. This mode helps them streamline all their communications in one place.
+
+If you're new to Discord’s streamer mode, you need to know what it is, how you can use it to engage with other community members, and the primary security concerns you need to be aware of.
+
+* [Part 1: How to Report Users on Discord Desktop?](#part1)
+* [Part 2: How to Report Users on Discord Mobile App?](#part2)
+* [Part 3: How to Kick People on Discord?](#part3)
+* [Part 4: FAQs About Discord Reporting](#part4)
+
+For gamers in the modern era, Discord is a household name. The platform has around 120 million active users monthly as of early 2021.
+
+With so many users on the forum, it is normal to have some "bad apples" in the mix. There are trolls, miscreants, and spammers who ruin the experience for everyone else.
+
+You can report them to Discord Trust and Safety team. They would take appropriate action against these nuisances after reviewing evidence.
+
+Reporting helps make healthier communities and allows you to avoid conflicts and outbreaks due to suspicious activity on the platform.
+
+Today we will look into how to report someone on Discord using desktop and mobile devices. Moreover, we will look at other ways to deal with indecent behavior, such as kicking people or banning them.
+
 ## Part 1: How to Report Users on Discord Desktop
 
 Before you can report a person to Discord's Trust and Safety team, you will need to enable Discord's developer mode.
@@ -612,9 +571,6 @@ Also, it would help if you gave context regarding your report describing how and
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Part 2: How to Report Users on Discord on iPhone And Android
 
 Just like on a desktop, you will first need to enable developer mode.
@@ -622,9 +578,6 @@ Just like on a desktop, you will first need to enable developer mode.
 1. After opening Discord on your mobile device, go to user settings by tapping on the gear icon or your profile picture next to your username
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
@@ -646,9 +599,6 @@ Now, you can send this information to the [Trust and Safety team](https://suppor
 2. Provide your email address along with the context behind the situation
 3. Click on "Submit"
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to Kick People on Discord
 
 Discord also allows you to take care of improper behavior yourself. If you are a moderator or server owner, you can kick people for violating Discord's guidelines.
@@ -677,16 +627,10 @@ If you happen to be a moderator or server owner, you have the authority to kick 
 3. Right-click on their username and then select "Kick"
 4. Click on "Kick" again to confirm your decision
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Part 4: FAQs About Discord Reporting
 
 There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Can I Report People on Discord Anonymously?
 
 According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
@@ -701,18 +645,12 @@ After conducting their research and deciding upon a punishment, the T&S team wil
 
 In minor offenses, the T&S team will reach out to the reporter and teach them how to block the user rather than take direct action.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Can You Report Someone on Discord for Being Under 13?
 
 Individuals under the age of 13 are not permitted to use Discord unless they have permission from a parent or guardian. However, it is not very easy to prove that the user is below a certain age.
 
 If you know someone who is undoubtedly underage, then you can report them to the Trust & Safety team by filling out their form and adding evidence to back your claim.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -734,8 +672,12 @@ Follow @Richard Bennett
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Launch a Seamless Live Experience on Discord with These Steps
 
 Discord is a great communication tool that also offers live streaming services. You can use this platform to engage and connect to your audience by conducting a live session. Through its “Voice Chat” feature, you can directly interact with your audience in a comfortable environment. If you are unaware of how to **go live on Discord**, this article can help you.
@@ -752,32 +694,40 @@ For your assistance, this article will instantly address how to live **stream on
 * [FAQs about the live stream on Discord](#part7)
 * [Bonus Tip: Easily Record and Edit your Stream with Filmora](#part8)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: What is Discord?
 
 [Discord](https://discord.com/) is a popular platform created to offer a better communication experience between game players. The major reason for the massive recognition of Discord is its ability to generate servers instantly. Game players and other users can instantly create voice or text servers for enhanced communication.
 
 Discord provides excellent flexibility to users by providing high-quality audio services with no background noise. Even if your friends are in different parts of the world, you can chat with them smoothly. You can create private and public servers in Discord to communicate with people having similar interests.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![discord interface](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-1.jpg)
 
 Along with using Discord Voice and Text chat features, you can live stream your gameplays. The live streaming on Discord won't be a public show, as it will only be confined to your selected server. Through this, you can ask your friends for assistance while playing games. Moreover, Discord is also capable of capturing other screens. Hence, it’s a great platform for professionals, game lovers, and other individuals to communicate efficiently.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Prerequisites for Stream on Discord
 
 Many social media platforms put restrictions on users for live streaming. Some platforms require you to have a specific number of followers in order to conduct live streaming. However, in Discord, you don’t have to worry about such restrictions. By creating a server and channel on Discord, you can easily go for live streaming. Check the below prerequisites for performing a **live stream on Discord**:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### 1\. Create your Discord Server
 
 Step1 Open your Discord and hit the “Plus” icon given on the left side. It will open a small menu where you can select a template to start or create your own server.
@@ -788,9 +738,6 @@ Step2 If you want to create your server, click "Create My Own." Now select the t
 
 ![choose the type of server](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### 2\. Create your Discord Channel
 
 Step1 To create a Discord channel, open any of your servers from the left side. Now tap on the "Plus" icon adjacent to "Voice Channels."
@@ -807,16 +754,10 @@ Once you have created a server and channel, you can begin your live streaming. D
 
 Step1 Open Discord and navigate to your desired server. Now proceed to your voice channel and click on the “Share Your Screen” button given below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on share icon](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-6.jpg)
 
 Step2 Select the screen you want to stream in the "Applications" tab. From the new menu, you can adjust the stream quality, such as resolution and frame rate. After adjusting the live streaming settings, click on the "Go Live" button.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press the go live button](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-7.jpg)
 
 ## Part 4: How to Stream your Webcam on Discord
@@ -831,6 +772,13 @@ Step2 It will open a new screen through which you can start an activity or share
 
 ![webcam live streaming activated](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5: How to Change the Shared Screen on Discord
 
 Do you want to change a shared screen on Discord? If you want to open a presentation, web browser, or any other application, Discord can easily change the shared screen. Through this facility, you can quickly shift between multiple screens without hassle.
@@ -843,9 +791,6 @@ Step2 From the settings menu, click on "Change Windows." Now select the screen t
 
 ![select change windows option](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6: How to Stream Discord on my Mobile Phone?
 
 Discord has the same operating systems on Android and iOS devices. That’s why the steps to **stream on** **Discord** on both these devices are the same.
@@ -856,10 +801,14 @@ Step1 Open Discord on your mobile and select the desired server. Now choose the 
 
 Step2 Now tap "Join Voice" to initiate live streaming. Here, you can turn on your camera and share the screen. You can also mute your voice from the given options. Once done with live streaming, tap on the “Red” button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![access your voice channel](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 7: FAQs about the live stream on Discord
 
@@ -867,35 +816,22 @@ Step2 Now tap "Join Voice" to initiate live streaming. Here, you can turn on you
 
 During the pandemic, up to 50 people were able to join live streaming on Discord. Normally, 25 people can watch live streaming on Discord simultaneously.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How to add the game types on Discord?
 
 Open Discord and navigate to the “User Settings” given at the bottom of the screen. Select the "Game Activity" section and activate the option "Display currently running game as a status message." Now click on the “Add it” button and choose the type of games you want to play. Once done, Discord would be able to detect the type of game automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### 3\. How to share a video on Discord?
 
 On your computer, launch Discord and go to your desired channel. On the chat box space, click on the “Plus” icon. Now browse the video from your system that you want to share. Click on the "Open" button and select the "Upload" option. By doing so, you can easily share videos.
 
 For mobile users, go to your Discord app and choose the preferred channel. On the left side of the typing area, you can see the "Image" icon. Tap on this option and choose the video you want to share from your phone. Now hit the “Arrow” button to send the selected video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Bonus Tip: Easily Record and Edit your Stream with Filmora
 
 To save and edit your live stream sessions, we will highly recommend you the screen recorder of [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Through this screen recorder, you can capture your live-streaming session on Discord in the best possible quality.
 
 Using this screen recorder, you can capture your desired area during live streaming. Once you capture your live-streaming session, you can edit it on this platform. Using the editing tool of Filmora, you can cut, crop, resize, and modify your screen recording efficiently.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora screen recorder settings](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-14.jpg)
 
 ## Conclusion
@@ -916,16 +852,10 @@ Discord provides excellent flexibility to users by providing high-quality audio 
 
 Along with using Discord Voice and Text chat features, you can live stream your gameplays. The live streaming on Discord won't be a public show, as it will only be confined to your selected server. Through this, you can ask your friends for assistance while playing games. Moreover, Discord is also capable of capturing other screens. Hence, it’s a great platform for professionals, game lovers, and other individuals to communicate efficiently.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Prerequisites for Stream on Discord
 
 Many social media platforms put restrictions on users for live streaming. Some platforms require you to have a specific number of followers in order to conduct live streaming. However, in Discord, you don’t have to worry about such restrictions. By creating a server and channel on Discord, you can easily go for live streaming. Check the below prerequisites for performing a **live stream on Discord**:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Create your Discord Server
 
 Step1 Open your Discord and hit the “Plus” icon given on the left side. It will open a small menu where you can select a template to start or create your own server.
@@ -934,28 +864,16 @@ Step1 Open your Discord and hit the “Plus” icon given on the left side. It w
 
 Step2 If you want to create your server, click "Create My Own." Now select the type of server you want to create. Once done, create the server name and click the "Create" button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![choose the type of server](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### 2\. Create your Discord Channel
 
 Step1 To create a Discord channel, open any of your servers from the left side. Now tap on the "Plus" icon adjacent to "Voice Channels."
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on the plus icon](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-4.jpg)
 
 Step2 You can either create a “Text” channel or a “Voice” channel. After choosing the channel type, create a channel name. You can also enable the “Private Channel” option to create a private channel. Once done, click on the “Create Channel” button.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![adjust the channel settings](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-5.jpg)
 
 ## Part 3: How to Stream Videos on Discord
@@ -964,10 +882,6 @@ Once you have created a server and channel, you can begin your live streaming. D
 
 Step1 Open Discord and navigate to your desired server. Now proceed to your voice channel and click on the “Share Your Screen” button given below.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![tap on share icon](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-6.jpg)
 
 Step2 Select the screen you want to stream in the "Applications" tab. From the new menu, you can adjust the stream quality, such as resolution and frame rate. After adjusting the live streaming settings, click on the "Go Live" button.
@@ -984,10 +898,14 @@ Step1 Once you have opened a server on Discord, go to your Voice channel. From t
 
 Step2 It will open a new screen through which you can start an activity or share your screen. Moreover, you can also invite others to join your webcam streaming. Once done with your activities, click on the “Red” button to disconnect.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![webcam live streaming activated](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: How to Change the Shared Screen on Discord
 
@@ -995,16 +913,10 @@ Do you want to change a shared screen on Discord? If you want to open a presenta
 
 Step1 If you are live streaming your shared screen, you can instantly change windows on Discord. For this, click on the “Gear” icon on your live streaming screen to open settings.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on gear icon](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-10.jpg)
 
 Step2 From the settings menu, click on "Change Windows." Now select the screen that you want to change. After choosing the required screen, hit on the "Go Live" button.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select change windows option](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-11.jpg)
 
 ## Part 6: How to Stream Discord on my Mobile Phone?
@@ -1017,17 +929,10 @@ Step1 Open Discord on your mobile and select the desired server. Now choose the 
 
 Step2 Now tap "Join Voice" to initiate live streaming. Here, you can turn on your camera and share the screen. You can also mute your voice from the given options. Once done with live streaming, tap on the “Red” button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![access your voice channel](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-13.jpg)
 
 ## Part 7: FAQs about the live stream on Discord
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. How many people can watch my Discord live simultaneously?
 
 During the pandemic, up to 50 people were able to join live streaming on Discord. Normally, 25 people can watch live streaming on Discord simultaneously.
@@ -1050,9 +955,6 @@ Using this screen recorder, you can capture your desired area during live stream
 
 ![filmora screen recorder settings](https://images.wondershare.com/filmora/article-images/2022/11/stream-on-discord-14.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Conclusion
 
 Have you ever **streamed on Discord** before? Discord is a great communication platform that provides advanced features. With its vast flexibility, you can create private servers and channels. This article can guide you to learn how to **go live on Discord**. We have also suggested Wondershare Filmora, which can help you to screen record and edit your live streaming sessions on Discord.
@@ -1074,8 +976,17 @@ Have you ever **streamed on Discord** before? Discord is a great communication p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-optimal-zero-price-logo-maker-for-discord-channels-for-2024/"><u>[New] Optimal Zero-Price Logo Maker for Discord Channels for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-guide-to-integrating-emojis-with-discord-statuses/"><u>[New] The Ultimate Guide to Integrating Emojis with Discord Statuses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-elevating-vhs-imagery-on-modern-devices/"><u>[New] Ultimate Guide to Elevating VHS Imagery on Modern Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-inside-apeaksofts-2023-recording-technology-breakthroughs/"><u>2024 Approved Inside Apeaksoft's 2023 Recording Technology Breakthroughs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-utilizing-slug-lines-for-better-content-structure/"><u>2024 Approved Utilizing Slug Lines for Better Content Structure</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-conversion-transforming-gifs-into-mp4-files-with-movavi/"><u>Free Online Conversion: Transforming GIFs Into MP4 Files with Movavi</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/learn-quickly-updating-your-discord-avatar-status/"><u>Learn Quickly Updating Your Discord Avatar Status</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-data-vs-fake-navigating-ai-generated-illusions-with-ease/"><u>Real Data vs Fake: Navigating AI-Generated Illusions with Ease</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/securing-partner-approval-essential-steps-for-discord-identity-confirmation-for-2024/"><u>Securing Partner Approval Essential Steps for Discord Identity Confirmation for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-networking-leaders-navigating-the-world-of-facebook-twitter-instagram-and-youtube/"><u>Social Networking Leaders: Navigating the World of Facebook, Twitter, Instagram and YouTube</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Resolving 'Could Not Retrieve Directory Information' Errors on Kodi Devices
-date: 2024-11-11T23:46:58.281Z
-updated: 2024-11-15T01:46:16.829Z
+date: 2024-11-20T17:32:06.131Z
+updated: 2024-11-23T16:16:55.404Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/428d79f8e22b19bf05f42dd0977639aed1e84dacf346522fdfb1811e179afc16.jpg
@@ -17,6 +17,10 @@ In this article, you’ll learn different video converters to convert MPEG video
 
 ![Vita](https://www.videoconverterfactory.com/tips/imgs-self/avatar/vita.png) [Vita](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) | Updated on Aug 15, 2024
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Part 1\. How to Convert MPEG File to MP4 on Windows](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 [Part 2\. MPEG to MP4 Converter on Mac – VLC Media Player](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
@@ -26,10 +30,7 @@ In this article, you’ll learn different video converters to convert MPEG video
 [Part 4\. MPEG Video to MP4 Converter Apps on Android and iPhone](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Convert MPEG Files to MP4?
@@ -55,10 +56,7 @@ Now, [**free download**](https://tools.techidaily.com/videoconverterfactory/hd-v
 ## Easy Steps of Converting MPEG to MP4
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1\. Add MPEG Files
@@ -76,17 +74,7 @@ _Optional. Under the format image lies a **Parameter settings** section, where y
 ![Output Settings](https://www.videoconverterfactory.com/tips/imgs-self/converting-mpeg-to-mp4/converting-mpeg-to-mp4-2.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3\. Convert MPEG to MP4
@@ -117,20 +105,6 @@ VLC is a multimedia player that can not only play audio/video smoothly but also 
 
 ![VLC MPEG to MP4 Converter](https://www.videoconverterfactory.com/tips/imgs-self/converting-mpeg-to-mp4/converting-mpeg-to-mp4-4.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Change MPEG to MP4 Online?
 
 video-converter is a reliable [online video conversion](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) tool. It’s able to upload files up to 4GB in size, which is much larger than other services. This web app supports more than 300 formats and allows you to [change video resolution](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) right in your browser.
@@ -148,15 +122,16 @@ video-converter is a reliable [online video conversion](https://tools.techidaily
 ![MPEG to MP4 Online Free](https://www.videoconverterfactory.com/tips/imgs-self/converting-mpeg-to-mp4/converting-mpeg-to-mp4-5.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Convert MPEG Video to MP4 on Mobile?
 
 If you just want to convert your MPEG videos to MP4 on your mobile phone directly, you can also find many available MPEG conversion apps in the App Store on your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Video Converter, Compressor for Android
 
@@ -165,10 +140,7 @@ If you just want to convert your MPEG videos to MP4 on your mobile phone directl
 ![MPEG to MP4 on Android](https://www.videoconverterfactory.com/tips/imgs-self/converting-mpeg-to-mp4/converting-mpeg-to-mp4-6.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. The Video Converter for iPhone
@@ -187,6 +159,10 @@ That’s all for how to convert from MPEG to MP4 on Windows, Mac, online, Androi
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -202,24 +178,24 @@ That’s all for how to convert from MPEG to MP4 on Windows, Mac, online, Androi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-deleting-a-discord-server-desktop-and-mobile-guide-for-2024/"><u>[New] Deleting a Discord Server Desktop & Mobile Guide for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-understanding-discords-report-system-procedures-and-tips/"><u>[New] In 2024, Understanding Discord's Report System Procedures and Tips</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-proven-techniques-for-swiftly-locating-your-desired-discord-server-for-2024/"><u>[New] Proven Techniques for Swiftly Locating Your Desired Discord Server for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-the-definitive-guide-to-live-on-discord-for-2024/"><u>[New] The Definitive Guide to Live on Discord for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-your-roadmap-to-earning-on-tiktok-discover-these-top-8-approaches/"><u>[New] Your Roadmap to Earning on TikTok Discover These Top 8 Approaches</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-audio-flow-streamlining-sound-segments/"><u>[Updated] Audio Flow Streamlining Sound Segments</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discovering-how-to-engage-in-discord-calls-easily/"><u>[Updated] Discovering How to Engage in Discord Calls Easily</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-erase-discord-server-settings-desktopsmartphones/"><u>[Updated] Erase Discord Server Settings (Desktop/Smartphones)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-expert-tips-for-obs-and-facebook-integration-for-2024/"><u>[Updated] Expert Tips for OBS and Facebook Integration for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-finding-heartfelt-connections-in-discord-chats/"><u>[Updated] In 2024, Finding Heartfelt Connections in Discord Chats</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-seamless-emoji-incorporation-into-discords-status-feature-for-2024/"><u>[Updated] Seamless Emoji Incorporation Into Discord's Status Feature for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-slendersky-stash-affordable-capacious-clouds/"><u>[Updated] SlenderSky Stash Affordable, Capacious Clouds</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-v29e-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo V29e</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/amplify-audience-response-with-innovative-instagram-questions/"><u>Amplify Audience Response with Innovative Instagram Questions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/classpnpsys-in-windows-117-solved/"><u>CLASSPNP.SYS in Windows 11/7 [SOLVED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-and-techniques-to-fix-code-28-error-on-your-windows-computers-device-manager/"><u>Expert Tips and Techniques to Fix 'Code 28 Error' On Your Windows Computer's Device Manager</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-your-roccat-mouse-with-these-free-drivers/"><u>Install Your Roccat Mouse with These Free Drivers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/masterful-bot-networks-on-discord-for-2024/"><u>Masterful Bot Networks on Discord for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zero-hassle-fix-laptops-horizontal-borders/"><u>Zero Hassle: Fix Laptop's Horizontal Borders</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-ensuring-smooth-operations-in-your-discord-channels-with-these-steps/"><u>[New] 2024 Approved Ensuring Smooth Operations in Your Discord Channels with These Steps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-secrets-to-capturing-engaging-and-dynamic-presentations/"><u>[New] 2024 Approved Secrets to Capturing Engaging and Dynamic Presentations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-conquering-screen-display-challenges-with-google-meet/"><u>[New] In 2024, Conquering Screen Display Challenges with Google Meet</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-step-by-step-for-swift-reaction-in-discord-dialogues/"><u>[New] Step by Step for Swift Reaction in Discord Dialogues</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-effective-methods-unlinking-from-your-discord-servers/"><u>[Updated] Effective Methods Unlinking From Your Discord Servers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-streamline-your-life-quick-tips-to-beginning-on-discord-broadcasts/"><u>[Updated] Streamline Your Life Quick Tips to Beginning on Discord Broadcasts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-pioneering-video-exchange-strategies-within-discord-networks/"><u>2024 Approved Pioneering Video Exchange Strategies Within Discord Networks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-spotlight-the-premier-5-online-title-crafters/"><u>2024 Approved Spotlight The Premier 5 Online Title Crafters</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-unlock-the-potential-of-your-channels-with-our-guide-to-discord-broadcasting/"><u>2024 Approved Unlock the Potential of Your Channels with Our Guide to Discord Broadcasting</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-k70-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/erase-discord-server-settings-desktopsmartphones-for-2024/"><u>Erase Discord Server Settings (Desktop/Smartphones) for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/funimate-android-adventure-the-apk-breakdown-for-2024/"><u>Funimate Android Adventure The APK Breakdown for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-from-joiner-to-trustee-securing-a-place-as-a-disco-partner/"><u>In 2024, From Joiner to Trustee Securing a Place as a Disco Partner</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-smartphones-and-tablets-leading-gb-gameplayers/"><u>In 2024, Smartphones & Tablets Leading GB Gameplayers</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/ottimizzazione-del-gestione-dello-spazio-su-un-disco-di-backup-con-lutilizzo-dello-schama-di-backup-di-aomei/"><u>Ottimizzazione Del Gestione Dello Spazio Su Un Disco Di Backup Con L'Utilizzo Dello SCHAMA DI BACKUP Di AOMEI</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/premium-emoji-creation-software-for-discord-users/"><u>Premium Emoji Creation Software for Discord Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steps-to-stabilize-your-pc-and-prevent-house-flipper-n-crashes/"><u>Steps to Stabilize Your PC and Prevent House Flipper N Crashes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-guide-to-downloading-facebook-stories-anywhere/"><u>The Ultimate Guide to Downloading Facebook Stories Anywhere</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tv-mp4-movavi/"><u>오토바이오드에서 자원 공유 위 TV MP4 전환 - Movavi 꼭대기</u></a></li>
 </ul></div>
 

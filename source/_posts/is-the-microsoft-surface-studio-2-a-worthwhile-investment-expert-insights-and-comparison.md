@@ -1,7 +1,7 @@
 ---
 title: Is the Microsoft Surface Studio 2 a Worthwhile Investment? Expert Insights & Comparison
-date: 2024-11-11T21:02:02.650Z
-updated: 2024-11-15T00:25:34.901Z
+date: 2024-11-30T03:23:02.323Z
+updated: 2024-12-02T07:02:17.963Z
 categories:
   - BestProducts
 description: This Article Describes Is the Microsoft Surface Studio 2 a Worthwhile Investment? Expert Insights & Comparison
@@ -13,9 +13,17 @@ thumbnail: https://www.lifewire.com/thmb/nXkK3WVTgZi_UuKWMVTCL_zcCmA=/400x300/fi
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Star Wars: Squadrons
 
 ![Star Wars: Squadron](https://www.lifewire.com/thmb/6oS-JFwbIkBnBw9F2JGlg47BvAI=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Star-Wars-Squadrons-1-daa1e236365f4a4a8831cce59004223a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -42,13 +50,6 @@ Lifewire / Andy Zahn
 ## Star Wars: Squadrons
 
 ![Star Wars: Squadron](https://www.lifewire.com/thmb/ymdujoeG8lwdw1L7OD6l0EFi1ug=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Star-Wars-Squadrons-1-daa1e236365f4a4a8831cce59004223a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -80,13 +81,6 @@ Lifewire / Andy Zahn
 ![Star Wars: Squadrons](https://www.lifewire.com/thmb/1xt9t7ffMjuv6ggtXGJER_irSnk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Star-Wars-Squadrons-2-fcfb7e9a60e74ce9b42cecff0e2061ed.jpg)
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Story: Passable, but skip the exposition dumps**
 
@@ -120,13 +114,6 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
 ![Star Wars: Squadrons](https://www.lifewire.com/thmb/COT6eEVvzd6QqCbhmtbP4a_C--Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Star-Wars-Squadrons-6-9d086810906a486b9266ec247e2ab966-3636fb8670644ae98afd0bc57b59df8d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Andy Zahn
 
  The one thing that pulled me out of the game at times was the somewhat wonky ship physics, which make sense from the pilot's seat, but look a bit weird to see from other ships. You can stop quickly and turn on a dime, which benefits gameplay on a technical level, but is a bit jarring and unrealistic to witness.
@@ -150,10 +137,7 @@ Star Wars: Squadrons is drop-dead gorgeous.
  With the vast majority of video games, your experience is almost as dependent on what you hear as what you see. In this regard, Squadrons is a masterpiece. This game perfectly replicates the epic feel of classic Star Wars space combat from the laser fire, to the roar of your engines, to the exhilarating whoosh of grazing an asteroid. There’s also the unforgettable John Williams soundtrack, which is fully present here and is just as vital to the experience of the game as it is to the films.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Solid on moderately powerful PCs**
@@ -166,26 +150,31 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
  Squadrons offers customizable support for a wide range of different control schemes, from gamepads to HOTAS flight sticks to mouse and keyboard. I had to fiddle with a few settings to get my stick and thrust control up and running, but when I did, it added an extra layer of immersion to the experience. However, mouse and keyboard is clearly the optimal and intended control method for Squadrons.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Multiplayer: Challenging dogfights**
 
  Squadrons features a basic but robust multiplayer mode, the bread and butter of which are team-based dogfights. These are exciting and challenging matches that truly test your skill at the game, and thanks to a decent selection of varied maps it really doesn’t get old.
 
 ![Star Wars: Squadrons](https://www.lifewire.com/thmb/oKG6kRHcFEOz3O6bwL5_SyeUiEM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Star-Wars-Squadrons-4-78947bfe57874d45ae8f401482c3ddf6-379a507c078e44d6898e28d20f53aac9.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Andy Zahn
 
  The other mode features massive large scale multi-stage fleet battles, which require careful team coordination to advance across the battlefield and destroy the enemies’ flagship. It’s a good idea to save this for after you’ve played through most of the campaign, learned the controls, and have tried your hand at a few multiplayer dogfights.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Good value**
 
  With an MSRP of just $40 Star Wars: Squadrons is a surprisingly reasonably priced game that bucks the trend of modern AAA games uniformly releasing for $60 regardless of what content they are able to offer. It’s not the longest game, and there is a limit to end-game multiplayer content, so $40 is pretty much the exact right price for Squadrons. It’s refreshing to see a distinct lack of any extra monetization in the game, with no annoying microtransactions or loot boxes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Star Wars: Squadrons vs. Elite Dangerous**
 
@@ -198,10 +187,7 @@ Star Wars: Squadrons is drop-dead gorgeous.
  Star Wars: Squadrons is a fine successor to classic space combat games, and is an undeniably exciting and realistic experience. It’s best if played with a VR headset, but is worth your time and money on a traditional screen as well. The memory of my first flight at the helm of a TIE Fighter in this game has stuck with me with surprising clarity in a way that few moments in video games do, and it’s something you really have to experience for yourself to understand.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -227,15 +213,19 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-blades-kaleidoscope-unleashed-through-4k-lens-clarity/"><u>[New] Blade's Kaleidoscope Unleashed Through 4K Lens Clarity</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-video-recording-titans-obs-studio-vs-fraps-face-off/"><u>[Updated] 2024 Approved Video Recording Titans OBS Studio vs Fraps Face-Off</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-easy-steps-for-clearing-out-desktop-discords/"><u>[Updated] Easy Steps for Clearing Out Desktop Discords</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-fiscal-flyers-top-5-low-cost-aerial-vehicles-for-2024/"><u>[Updated] Fiscal Flyers Top 5 Low-Cost Aerial Vehicles for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigating-exit-the-guide-to-disconnecting-from-a-discord-community/"><u>[Updated] In 2024, Navigating Exit The Guide to Disconnecting From a Discord Community</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-react-type-and-converse-your-disco-messaging-playbook/"><u>[Updated] React, Type, and Converse Your Disco Messaging Playbook</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-unlocking-the-potential-of-live-broadcasting-on-discord-for-2024/"><u>[Updated] Unlocking the Potential of Live Broadcasting on Discord for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-video-enhanced-slideshow-mastery-with-youtube/"><u>2024 Approved Video-Enhanced Slideshow Mastery with YouTube</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Tecno Spark Go (2024)? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-filmbestellungen-hollywood-and-bollywood-gratiskinoerstellung-2016/"><u>Top-Filmbestellungen Hollywood & Bollywood - Gratiskinoerstellung 2016</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-art-of-self-recording-improving-your-youtube-presence/"><u>[New] In 2024, The Art of Self-Recording Improving Your YouTube Presence</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-list-8-ranked-android-video-tile-maker-options-freepaid/"><u>[New] The Ultimate List #8 Ranked Android Video Tile Maker Options (Free/Paid)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-discords-ultimate-romance-hubs/"><u>[Updated] 2024 Approved Discord's Ultimate Romance Hubs</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-delicate-process-of-unjoining-discords/"><u>[Updated] 2024 Approved The Delicate Process of Unjoining Discords</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-becoming-a-trusted-voice-on-discord-the-verification-blueprint-for-2024/"><u>[Updated] Becoming a Trusted Voice on Discord The Verification Blueprint for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-dating-servers-for-love-on-the-go-with-discord-for-2024/"><u>[Updated] Dating Servers for Love on the Go with Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-decoding-the-secrets-of-discord/"><u>[Updated] Decoding the Secrets of Discord</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-obscurity-to-stardom-trendsetting-tactics-for-videos/"><u>[Updated] From Obscurity to Stardom Trendsetting Tactics for Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/elevate-android-streaming-secrets-from-obs-studio-for-2024/"><u>Elevate Android Streaming Secrets From OBS Studio for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-insert-soundtracks-for-dynamic-presentations/"><u>In 2024, Insert Soundtracks for Dynamic Presentations</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722963280883-no-more-troubles-the-igfxem-module-is-working-again/"><u>No More Troubles: The IgfxEM Module Is Working Again!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-10-awesome-mobile-gaming-experiences-without-internet/"><u>Top 10 Awesome Mobile Gaming Experiences Without Internet</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-13c-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 13C 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
 

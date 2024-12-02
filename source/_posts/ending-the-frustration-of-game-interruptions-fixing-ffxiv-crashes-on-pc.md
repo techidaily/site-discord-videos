@@ -1,7 +1,7 @@
 ---
 title: "Ending the Frustration of Game Interruptions: Fixing FFXIV Crashes on PC"
-date: 2024-11-08T01:49:13.175Z
-updated: 2024-11-14T21:35:24.683Z
+date: 2024-11-26T10:11:39.171Z
+updated: 2024-12-02T11:00:33.401Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ The Ascent
 
  But don’t worry. If you’re running into the same issue, you’ve come to the right place! After reading this article, you should be able to fix this issue on your own easily!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The system requirements of The Ascent
 
  You should ensure that your PC meets the system requirements of The Ascent. Just take a quick glance at the system requirements of The Ascent and check if your PC meets its system requirements:
@@ -39,13 +43,6 @@ The Ascent
  If your PC fails to meet the minimum system requirements of the game, you may need to upgrade your PC first.
 
  If The Ascent still keeps crashing on your powerful PC, just read on and try the fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -91,13 +88,6 @@ The Ascent
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -106,10 +96,7 @@ The Ascent
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Install the latest game patch
@@ -121,10 +108,7 @@ The Ascent
  Launch The Ascent again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Run The Ascent with DirectX 11
@@ -139,13 +123,6 @@ The Ascent
 ![Run The Ascent with DriectX 11](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-The-Ascent-with-DriectX-11.jpg)
 4. Launch The Ascent and see if this issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the game still crashes, try the next fix, below.
 
 ## Disable Movie / Film Grain, Depth Of Field, Post-Process Effects
@@ -158,6 +135,10 @@ If the game still crashes, try the next fix, below.
 **`%LOCALAPPDATA%\TheAscent\Saved\Config\WindowsNoEditor`**  
 ![Run dialog](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-dialog.jpg)
 2. Open the file**Engine.ini** in Notepad.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. To disble Moive / Film Grain, add the following and save the file:  
 
@@ -179,13 +160,6 @@ If the game still crashes, try the next fix, below.
 
  See if it crashes after you disable those in-game graphics settings. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Update MS Visual C++ Redistributables
 
  To ensure compatibility, you may also need to update your Microsoft Visual C++ redistributables, because the outdated Visual C++ redistributables may also trigger The Ascent crashing issues.
@@ -199,10 +173,7 @@ If the game still crashes, try the next fix, below.
  If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
@@ -226,23 +197,28 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
  Restart your PC and launch The Ascent to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -278,16 +254,21 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-top-servers-for-romance-discord-edition/"><u>[New] In 2024, Top Servers for Romance Discord Edition</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-message-mastery-for-discord-users-desktopmobile-for-2024/"><u>[New] Message Mastery for Discord Users (Desktop/Mobile) for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-navigating-digital-cropping-easy-online-methods-for-2024/"><u>[New] Navigating Digital Cropping - Easy Online Methods for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-streamlining-office-communication-which-favors-teams-more-slack-or-discord-for-2024/"><u>[New] Streamlining Office Communication Which Favors Teams More, Slack or Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-resource-for-adding-dynamic-gifs-to-discord-conversations/"><u>[New] The Ultimate Resource for Adding Dynamic GIFs to Discord Conversations</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-recover-hidden-shorts-thumbnails-in-videos/"><u>[Updated] How to Recover Hidden Shorts' Thumbnails in Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-70-lite-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor 70 Lite 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bluetooth-playback-problems-solved-in-microsofts-latest-operating-systems/"><u>Bluetooth Playback Problems Solved in Microsoft's Latest Operating Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/decoding-icloud-dilemmas-on-apple-devices-the-top-9-challenges-and-how-to-overcome-them/"><u>Decoding iCloud Dilemmas on Apple Devices: The Top 9 Challenges & How to Overcome Them</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-erase-discord-server-settings-desktopsmartphones/"><u>In 2024, Erase Discord Server Settings (Desktop/Smartphones)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-art-and-science-of-screen-excellence-sony-xperia-xz-review/"><u>[New] In 2024, The Art and Science of Screen Excellence - Sony Xperia XZ Review</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-change-text-style-in-discord-3-methods/"><u>[Updated] In 2024, How to Change Text Style in Discord | 3 Methods</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-innovative-conversational-entities-discord/"><u>[Updated] In 2024, Innovative Conversational Entities (Discord)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-no-cost-high-quality-logos-your-free-discord-tool/"><u>[Updated] In 2024, No-Cost, High-Quality Logos - Your Free Discord Tool</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-integrating-unique-emojis-to-your-discord-profile-for-2024/"><u>[Updated] Integrating Unique Emojis to Your Discord Profile for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-step-by-step-process-to-disengage-from-discord-groups-for-2024/"><u>[Updated] The Step-by-Step Process to Disengage From Discord Groups for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-uncover-the-power-of-discords-spoiler-system/"><u>[Updated] Uncover the Power of Discord's Spoiler System</u></a></li>
+<li><a href="https://facebook.techidaily.com/agile-application-alternatives-quick-android-plays/"><u>Agile Application Alternatives: Quick Android Plays</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-3d-video-makers-you-must-know/"><u>Best 3D Video Makers You Must Know</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/discovering-the-latest-innovations-with-toms-hardware-guides/"><u>Discovering the Latest Innovations with Tom's Hardware Guides</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-xlsm-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Free electronic signature - For .xlsm files</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-13-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 13 and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-silent-spectator-of-social-media-snippets/"><u>In 2024, Silent Spectator of Social Media Snippets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/text-on-a-budget-effective-practices-to-avoid-using-your-cellular-plans-data/"><u>Text on a Budget: Effective Practices to Avoid Using Your Cellular Plan's Data</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-future-of-android-gaming-its-all-in-kinemaster-review-for-2024/"><u>The Future of Android Gaming? It's All in KineMaster Review for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/what-exactly-is-disconitro-insider-info-for-freepaid-users-for-2024/"><u>What Exactly Is DiscoNitro? Insider Info for Free/Paid Users for 2024</u></a></li>
 </ul></div>
 

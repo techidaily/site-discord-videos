@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastery in Messaging  Perfecting Video Posting on Discord\""
-date: 2024-11-08T18:56:59.364Z
-updated: 2024-11-14T21:28:12.504Z
+date: 2024-11-28T12:23:13.740Z
+updated: 2024-12-02T03:56:15.469Z
 tags:
   - ai video
   - ai discord
@@ -34,6 +34,10 @@ So, whether it’s a compilation of your best gaming moments that you’ve caref
 * [Part 3: How to Send Long Videos on Discord That Are More Than 8MB](#part3)
 * [Part 4: FAQs About Uploading Videos to Discord](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Send Videos on Discord PC
 
 It’s actually pretty simple to send videos on Discord when using a PC, providing they aren’t too large a file size.
@@ -46,20 +50,21 @@ You’ll then just need to find the file on your computer, and double click on i
 
 ![upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 From there, it’s as simple as clicking the upload button. Once it’s ready, the video will be in the chat window for anyone in the server to watch, or for your friend if you’ve sent it privately. And if they want to download it, they’ll just need to click the download button (a downward-facing arrow) at the top right of the video.
 
 ![how to upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It’s worth noting that, while Discord will play most video formats, it can’t manage everything. If you upload a format that Discord isn’t compatible with, then it won’t show a video player – instead, the file will just be uploaded. Other people can still download it to watch on their own devices.
 
 Also, there’s a strict file limit of 8MB. This isn’t huge at all – while there’s no definitive file size for video (as it depends on file type, resolution, compression, etc) it’s unlikely to be more than 60 seconds of footage, and could just be a few seconds. If the video you want to upload is more than 8MB, carry on reading below to find out how.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Send Videos on Discord Mobile
 
@@ -74,10 +79,7 @@ Click this and it’ll give you the option to directly upload a video from your 
 Once you’ve selected the video, just hit the blue Send icon to send your video to the chat. Again you can add a message as a caption, but this time it’ll just be in the normal message box rather than a dedicated comment box before you hit upload.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Send Long Videos on Discord That Are More Than 8MB
@@ -97,13 +99,6 @@ All you need to do is open a video in Filmora by clicking the arrow next to Impo
 This will open the Instant Cutter window where you can click Open File to add your video. From here you can trim your files and export them in multiple sections. There are different ways that you can do this, and while each is a simple process, there are still a few steps to follow.
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 For more detail, check out [this post](https://tools.techidaily.com/wondershare/filmora/download/) for a step-by-step guide on the different ways you can trim a video in Filmora.
 
@@ -136,10 +131,7 @@ If you find a video on Discord that you want to share on a different server or i
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -157,20 +149,15 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-terminate-discord-access-dual-devices/"><u>[New] In 2024, Terminate Discord Access - Dual Devices</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-navigating-discord-server-deletion-desktopmobile-for-2024/"><u>[New] Navigating Discord Server Deletion (Desktop/Mobile) for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-navigating-team-communication-tools-uncovering-superiority-between-slack-and-discord-for-2024/"><u>[New] Navigating Team Communication Tools Uncovering Superiority Between Slack & Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-premium-font-fabrication-tools-for-discord-users/"><u>[New] Premium Font Fabrication Tools for Discord Users</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-unveiling-the-secrets-of-effective-dispute-resolution-on-discord-for-2024/"><u>[New] Unveiling the Secrets of Effective Dispute Resolution on Discord for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-apex-chart-seeker-monitor-most-viewed-videos-for-2024/"><u>[Updated] Apex Chart Seeker Monitor Most Viewed Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-charting-the-course-of-knowledge-best-history-yt-channels-for-students-for-2024/"><u>[Updated] Charting the Course of Knowledge Best History YT Channels for Students for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-leading-video-to-twitter-platforms/"><u>2024 Approved Leading Video To Twitter Platforms</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720061772840-effortless-gtx-760-drivers-thanks-nvidia/"><u>Effortless GTX 760 Drivers, Thanks Nvidia</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-uncover-agencies-with-superior-cinematic-crews/"><u>How to Uncover Agencies with Superior Cinematic Crews</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g-stylus-2023-phone-without-google-account-by-drfone-android/"><u>How to Unlock Motorola Moto G Stylus (2023) Phone without Google Account?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/methods-to-clear-up-obs-fullscreen-troubles-for-2024/"><u>Methods to Clear Up OBS Fullscreen Troubles for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/optimal-zero-price-logo-maker-for-discord-channels-for-2024/"><u>Optimal Zero-Price Logo Maker for Discord Channels for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/proven-techniques-for-swiftly-locating-your-desired-discord-server/"><u>Proven Techniques for Swiftly Locating Your Desired Discord Server</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/user-guide-and-review-of-the-google-maps-mobile-version-for-iphones/"><u>User Guide & Review of the Google Maps Mobile Version for iPhones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-achieving-effortless-seams-in-inshot-videos/"><u>[New] Achieving Effortless Seams in Inshot Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-visual-communication-a-guide-to-using-gifs-on-discord-platform/"><u>[Updated] 2024 Approved Mastering Visual Communication A Guide to Using GIFs on Discord Platform</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-essential-guidelines-for-implementing-music-emojis-in-instagram/"><u>[Updated] Essential Guidelines for Implementing Music Emojis in Instagram</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-elevating-your-online-identity-with-custom-discord-pictures/"><u>[Updated] In 2024, Elevating Your Online Identity with Custom Discord Pictures</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-maximizing-your-footage-the-importance-of-correct-tripod-placement-in-vlogging/"><u>2024 Approved Maximizing Your Footage The Importance of Correct Tripod Placement in Vlogging</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieve-marketing-excellence-the-top-10-steps-to-mastering-smm/"><u>Achieve Marketing Excellence The Top 10 Steps to Mastering SMM</u></a></li>
+<li><a href="https://win-web3.techidaily.com/scarica-software-di-immagine-gratuitamente-per-windows-11-proteggi-con-sicurezza-i-tuoi-file-personali/"><u>Scarica Software Di Immagine Gratuitamente per Windows 11 - Proteggi Con Sicurezza I Tuoi File Personali</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tured-approach-to-managing-youtube-videos-a-complete-watch-later-system-for-2024/"><u>Structured Approach to Managing YouTube Videos A Complete Watch Later System for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-tier-designers-making-magic-in-discord-emojis-for-2024/"><u>Top-Tier Designers Making Magic in Discord Emojis for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1720600560168-windows/"><u>Windowsプラットフォーム向け無料の「ステラデータリカバリ」で破損したファイルを安全に復元</u></a></li>
 </ul></div>
 

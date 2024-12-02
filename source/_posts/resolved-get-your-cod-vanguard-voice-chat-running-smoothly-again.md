@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Get Your COD: Vanguard Voice Chat Running Smoothly Again!"
-date: 2024-11-08T19:19:03.135Z
-updated: 2024-11-15T00:17:10.315Z
+date: 2024-11-28T11:22:02.484Z
+updated: 2024-12-01T17:29:33.427Z
 tags:
   - win11
   - win10
@@ -31,10 +31,7 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Sign out Fortnite, then sign back in
@@ -42,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
  This is the quickest and easiest fix to try when chat’s not working in Fortnite. Just sign out of the game, then sign back in.
 
  Now run the game again and test to see whether chat is working. If it’s not, move on to Fix 2, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your sound card driver
 
@@ -61,19 +62,6 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ### Fix 3: Install the latest Fortnite patch
@@ -92,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. Restart the Epic Games Launcher.
 
  5\. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
@@ -99,10 +91,7 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
@@ -115,18 +104,19 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check your audio settings
 
@@ -139,10 +129,7 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
@@ -159,13 +146,6 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
@@ -174,18 +154,15 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6\. Click **OK** .
 
  7\. Run Fortnite again to**turn Voice Chat on.**
 
  Join a squad to check ifchat is now working . If not, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Fortnite
 
@@ -228,24 +205,20 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-top-5-websites-for-an-active-social-presence/"><u>[New] 2024 Approved Top 5 Websites for an Active Social Presence</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-mastering-video-sharing-via-discord-channels/"><u>[New] In 2024, Mastering Video Sharing via Discord Channels</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-ultimate-roadmap-to-unearthing-elusive-discord-servers/"><u>[New] In 2024, The Ultimate Roadmap to Unearthing Elusive Discord Servers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-inside-disconitro-understanding-and-obtaining-entry-passes-for-2024/"><u>[New] Inside DiscoNitro Understanding and Obtaining Entry Passes for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-mastering-group-chat-on-discord-for-2024/"><u>[New] Mastering Group Chat on Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-revealing-the-masters-behind-discords-most-beloved-glyphs/"><u>[New] Revealing the Masters Behind Discord's Most Beloved Glyphs</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-social-synergy-add-friends-effortlessly-on-devices-for-2024/"><u>[New] Social Synergy Add Friends Effortlessly on Devices for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-guide-to-discord-live-broadcasts-for-2024/"><u>[New] The Ultimate Guide to Discord Live Broadcasts for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-from-flat-to-fascinating-crafting-depth-in-text-art-for-2024/"><u>[Updated] From Flat to Fascinating Crafting Depth in Text Art for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cutting-through-the-confusion-how-siri-and-chatgpt-stand-apart/"><u>Cutting Through the Confusion: How Siri & ChatGPT Stand Apart</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/dissecting-apowersoft-an-in-depth-screen-recorder-study-for-2024/"><u>Dissecting Apowersoft An In-Depth Screen Recorder Study for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy S24? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-airdrop-woes-instantly-discover-these-16-easy-to-follow-remedies/"><u>Fix Your AirDrop Woes Instantly - Discover These 16 Easy-to-Follow Remedies</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/how-to-turn-off-a-discord-server-device-wise/"><u>How to Turn Off a Discord Server Device-Wise</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-steps-to-establish-a-viable-youtube-sponsor-relationship/"><u>In 2024, Steps to Establish a Viable YouTube Sponsor Relationship</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/master-class-bots-for-chat-engagement/"><u>Master-Class Bots for Chat Engagement</u></a></li>
-<li><a href="https://win11.techidaily.com/the-definitive-guide-on-defeating-windows-11s-0x8007045d-error/"><u>The Definitive Guide on Defeating Windows 11'S 0X8007045D Error</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-vn-video-editor-pro-review-pros-cons-and-verdict/"><u>Updated In 2024, VN Video Editor Pro Review Pros, Cons, and Verdict</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-delete-messages-on-discord/"><u>[Updated] In 2024, How To Delete Messages On Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-step-up-your-text-game-with-free-emojis-from-these-websites/"><u>[Updated] In 2024, Step Up Your Text Game with FREE Emojis From These Websites</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-ultimate-guide-to-cool-and-captivating-disco-tags/"><u>[Updated] In 2024, Ultimate Guide to Cool and Captivating Disco Tags</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-mastering-cross-platform-play-spotifydiscord-tutorial-for-2024/"><u>[Updated] Mastering Cross-Platform Play Spotify/Discord Tutorial for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-mastering-the-art-of-memorable-channel-titles-on-discord/"><u>[Updated] Mastering the Art of Memorable Channel Titles on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-everyday-chats-smart-reacts-and-replies-discord-for-2024/"><u>[Updated] Navigating Everyday Chats Smart Reacts and Replies (Discord) for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-instructions-for-incorporating-custom-gifs-and-icons-into-your-story-posts-on-instagram-for-2024/"><u>[Updated] Step-by-Step Instructions for Incorporating Custom GIFS & Icons Into Your Story Posts on Instagram for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-tight-knit-teams-top-chat-platforms-which-rules-the-game-slack-or-discord/"><u>[Updated] Tight-Knit Teams, Top Chat Platforms Which Rules the Game - Slack or Discord?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-samsung-galaxy-s24-ultra-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Samsung Galaxy S24 Ultra.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-phone-without-google-account-by-drfone-android/"><u>How to Unlock Sony Phone without Google Account?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-technology-a-deep-dive-into-gadgets-toms-hardware-insights/"><u>Navigating New Technology: A Deep Dive Into Gadgets - Tom's Hardware Insights</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/paragon-software-zur-migration-von-betriebssystemen-auf-ssds-fehlerbehebung-und-alternative-losungen/"><u>Paragon-Software Zur Migration Von Betriebssystemen Auf SSDs: Fehlerbehebung Und Alternative Lösungen</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-pc-functionality-with-updated-windows-11-drivers/"><u>Streamline PC Functionality with Updated Windows 11 Drivers</u></a></li>
 </ul></div>
 

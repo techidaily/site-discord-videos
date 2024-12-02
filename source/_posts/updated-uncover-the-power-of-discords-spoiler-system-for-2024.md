@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Uncover the Power of Discord's Spoiler System for 2024"
-date: 2024-11-10T00:38:05.168Z
-updated: 2024-11-14T20:33:46.459Z
+date: 2024-11-28T04:36:10.176Z
+updated: 2024-12-01T20:03:52.814Z
 tags:
   - ai video
   - ai discord
@@ -36,6 +36,10 @@ Thankfully, Discord came out with the perfect solution. Now, if you are sharing 
 * [Bonus: Is it the same to use Spoiler on Mobile devices?](#part3)
 * [Bonus: How to turn off the Spoiler tag?](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Spoilers on Discord to Hide Text Messages?
 
 And now we come to the point - **how to do spoilers on Discord**? Well, there are two ways to do it. You can run through both of them and choose whichever suits you the best. All the methods are simple to follow. Note that some are available only on the desktop.
@@ -58,6 +62,14 @@ You can also add ‘/spoiler’ before the spoiler content. This is an alternati
 
 ![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
 This alternate method is quite simple. This was a recent update on Discord that enables you to add the spoiler tag quickly. Here is a brief rundown for you –
@@ -69,21 +81,7 @@ This alternate method is quite simple. This was a recent update on Discord that 
 
 ![add spoiler marker on Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-icon.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This method is available only on the Discord desktop app and browser version. For iOS, the steps are similar. The only difference is that you have to select the spoiler mark from the context menu.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Add Spoiler to Image and Video on Discord?
 
@@ -92,13 +90,6 @@ There are many scenarios where a **Discord spoiler** can come in handy. As you m
 Just like texts, even images, videos, and other attachments can be marked as spoilers. The process of marking images and videos as spoilers differs slightly from that of texts. So, how to add spoiler tags to other files? Here’s the rundown.
 
 ![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
 
@@ -111,6 +102,10 @@ Images can be tagged as spoilers before you upload them on servers. To add spoil
 * The result is a blurred image sent on the server. Anyone who wishes to view the image can tap on it.
 
 Note that spoilers that contain images, videos, or other multimedia files can be sent only on the desktop app or the browser. Mobile apps do not support spoiler marks for images or other media files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Is it the same to use Spoiler on Mobile devices?
 
@@ -125,6 +120,10 @@ You can even mark embedded links as spoilers with the same process. But this doe
 
 For iOS, you can select and highlight the text that you want to hide. Then, tap open the context menu and click on the ‘Mark as Spoiler’ to hide the text.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus: How to turn off the Spoiler tag?
 
 For some reason, you may want to remove the spoiler tag from the spoiler texts. In that case, open the User Settings and tap on Text & Images. Scroll down to the Show Spoiler Content tab and you will see options to control when spoiler content is displayed. You can choose to display on click, on servers I moderate, and always.
@@ -132,13 +131,6 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
 ![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
@@ -159,22 +151,14 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-advanced-camera-control-for-iphone-users/"><u>[New] Advanced Camera Control for iPhone Users</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-become-a-pro-at-live-streaming-on-discord-with-our-simple-steps/"><u>[New] In 2024, Become a Pro at Live Streaming on Discord with Our Simple Steps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-prodigious-portfolio-creation-best-free-mac-software/"><u>[New] Prodigious Portfolio Creation Best FREE Mac Software</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-unveiling-the-secrets-of-live-video-sharing-on-discord/"><u>[New] Unveiling the Secrets of Live Video Sharing on Discord</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-customizing-the-twitter-interface-an-experts-tutorial-for-video-images/"><u>[Updated] 2024 Approved Customizing the Twitter Interface An Expert's Tutorial for Video Images</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-from-fragments-to-features-a-guide-to-tiktok-video-construction/"><u>[Updated] 2024 Approved From Fragments to Features A Guide to TikTok Video Construction</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-premier-selection-of-top-10-emoji-creation-tools-for-discord/"><u>[Updated] 2024 Approved The Premier Selection of Top 10 Emoji Creation Tools for Discord</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-8-best-screen-recorders-with-no-lag/"><u>[Updated] 2024 Approved Top 8 Best Screen Recorders with No Lag</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-cross-platform-chumming-discord-friend-guide/"><u>[Updated] Cross-Platform Chumming Discord Friend Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-from-startup-to-shutdown-steam-on-discord-devices/"><u>[Updated] From Startup to Shutdown Steam on Discord Devices</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-essential-steps-for-starting-a-channel-on-discord/"><u>[Updated] In 2024, Essential Steps for Starting a Channel on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-nitro-free-a-guide-to-animated-gifs-and-emoji-use-in-discord-chat-for-2024/"><u>[Updated] Nitro-Free A Guide to Animated GIFs & Emoji Use in Discord Chat for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-hyper-scape-game-crash-on-windows-and-macos/"><u>Fixing the Hyper Scape Game Crash on Windows and MacOS</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-motorola-edge-2023-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Motorola Edge 2023 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/mastering-the-art-of-leaving-a-discord-server/"><u>Mastering the Art of Leaving a Discord Server</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reverse-your-snaps-with-ease-an-ultimate-guide-for-snapchat-users/"><u>Reverse Your Snaps with Ease: An Ultimate Guide for Snapchat Users</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unveiling-vr-the-creation-gap/"><u>Unveiling VR The Creation Gap</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-top-tools-to-screen-capture-discord-online-interactions/"><u>[Updated] 2024 Approved Top Tools to Screen-Capture Discord Online Interactions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-aperture-allstars-the-best-camera-lenses-to-capture-the-moment-ranked-1-10/"><u>[Updated] Aperture Allstars The Best Camera Lenses to Capture the Moment, Ranked #1-10</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-elite-peer-to-peer-messaging-services-for-2024/"><u>[Updated] Elite Peer-to-Peer Messaging Services for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-elite-discord-capture-apps-on-the-go-recording-made-easy/"><u>[Updated] In 2024, Elite Discord Capture Apps On-the-Go Recording Made Easy</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/bitcoin-nears-35k-milestone-as-ethereum-aptos-qtum-and-rune-surge-expert-analysis-by-yl-computing/"><u>Bitcoin Nears $35K Milestone as Ethereum, Aptos, Qtum & Rune Surge - Expert Analysis by YL Computing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unleash-potential-on-reddit-essential-post-guidelines-reviewed/"><u>In 2024, Unleash Potential on Reddit Essential Post Guidelines Reviewed</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/retro-revelry-on-snapchat-camera-roll-insights/"><u>Retro Revelry on Snapchat Camera Roll Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-beginners-guide-to-microsoft-copilot/"><u>The Ultimate Beginner's Guide to Microsoft Copilot</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-resource-for-adding-dynamic-gifs-to-discord-conversations-for-2024/"><u>The Ultimate Resource for Adding Dynamic GIFs to Discord Conversations for 2024</u></a></li>
 </ul></div>
 

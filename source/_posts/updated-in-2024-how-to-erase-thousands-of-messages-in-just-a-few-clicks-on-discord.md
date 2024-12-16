@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Erase Thousands of Messages in Just a Few Clicks on Discord"
-date: 2024-12-01T00:58:59.041Z
-updated: 2024-12-02T02:24:37.741Z
+date: 2024-12-08T22:43:40.870Z
+updated: 2024-12-16T09:21:59.866Z
 tags:
   - ai video
   - ai discord
@@ -54,17 +54,9 @@ However, this was soon changed because the mass execution directly affected the 
 
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A cross-platform for making videos anywhere for all creators
 
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Why your video editing isn't good enough? How about some creative inspo?
 
@@ -83,6 +75,10 @@ However, this was soon changed because the mass execution directly affected the 
 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Delete Direct Messages on Discord
 
 If you use Discord on your desktop computer, this section will discuss the steps to follow to delete your direct messages.
@@ -98,6 +94,10 @@ You can delete the local copy of messages by following the steps below:
 3. Select the message that you want to delete and click the 3 dots to click on Delete Message, then the message you sent will be deleted at your end.
 
 ![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
@@ -130,6 +130,10 @@ Here is a more detailed breakdown of the sequence:
 
 At first glance, it seems like a long and tedious process, but once you get down to doing it and develop a rhythm, it is an easy task.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Deleting Message with Discord Clear Chat Bot
 
 Please keep in mind that Discord has changed its policy regarding bots, going from discouraging their use to outright flagging them as a violation of its terms.
@@ -150,14 +154,14 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 ![delete messages on discord with mee6 bot](https://images.wondershare.com/filmora/article-images/discord-bot-mee6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. You'll be prompted to authorize so that MEE6 bot can access your username, and know what server you’re in.
 2. Pin-point the server you want to add the bot and then set up to connect MEE6 to the Discord server.
 
 ![how to delete discord message with mee6 bot](https://images.wondershare.com/filmora/article-images/select-server-to-add-mee6-bot-discord.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Click Authorize again and the bot will be added to your Discord server soon;
 2. To enable MEE6 to clear the chat, you should enable the Moderator plugin first. Click the Moderator option under Plugins first, and then click Yes.
@@ -165,22 +169,14 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 ![remove discord message with mee 6](https://images.wondershare.com/filmora/article-images/mee6-moderator-plugin-moderator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
 ![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: How to Clear All Chats and Delete All Messages In Discord?
 
@@ -255,6 +251,10 @@ If you are an admin or an owner of a server, you can delete other people's messa
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -270,15 +270,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-all-in-one-high-quality-discord-icon-creation-software-free/"><u>[Updated] 2024 Approved All-in-One, High Quality Discord Icon Creation Software (FREE)</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-choosing-the-best-online-messaging-discord-vs-skype-battle-for-2024/"><u>[Updated] Choosing the Best Online Messaging Discord vs Skype Battle for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-debating-digital-communication-who-wins-discord-or-skype-for-2024/"><u>[Updated] Debating Digital Communication Who Wins, Discord or Skype for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convierta-facilmente-sus-audios-ogg-a-formato-mp3-sin-costo-alguno-utilizando-la-solucion-online-de-movavi/"><u>Convierta Fácilmente Sus Audios OGG a Formato MP3 Sin Costo Alguno, Utilizando La Solución Online De Movavi</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-guide-updating-epson-xp-640-printer-driver-on-windows-machines/"><u>Easy Guide: Updating Epson XP-640 Printer Driver on Windows Machines</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effective-ways-to-block-promotional-content-in-youtube-mobile-apps/"><u>Effective Ways to Block Promotional Content in YouTube Mobile Apps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-top-25-mobile-editors-for-dji-filmmaking/"><u>In 2024, The Top 25 Mobile Editors for DJi Filmmaking</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-font-fabrication-services-for-discord-channels-iosandroid/"><u>Top Font Fabrication Services for Discord Channels (iOS/Android)</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-capturing-clarity-an-intuitive-roadmap-for-convenient-and-high-quality-podcast-recordings/"><u>Updated In 2024, Capturing Clarity An Intuitive Roadmap for Convenient and High-Quality Podcast Recordings</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-lava-storm-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Lava Storm 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-crafting-premium-soundtracks-with-zooms-record-feature/"><u>[New] Crafting Premium Soundtracks with Zoom's Record Feature</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-essential-tips-for-stepping-away-from-a-discord-chat-room-for-2024/"><u>[New] Essential Tips for Stepping Away From a Discord Chat Room for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-sever-your-discord-connection/"><u>[New] In 2024, Sever Your Discord Connection</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-innovative-mini-houses-with-an-oriental-twist/"><u>[New] Innovative Mini Houses with an Oriental Twist</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/elite-discordian-companions-automation-for-2024/"><u>Elite Discordian Companions Automation for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-from-novice-to-pro-your-discord-broadcast-journey/"><u>In 2024, From Novice to Pro Your Discord Broadcast Journey</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipad-unlock-hacks-how-to-gain-entry-without-a-known-password/"><u>IPad Unlock Hacks: How to Gain Entry without a Known Password</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/pros-of-linkedin-premium-8-key-factors-to-consider/"><u>Pros of LinkedIn Premium: 8 Key Factors to Consider</u></a></li>
+<li><a href="https://win-online.techidaily.com/the-original-question-was-in-french-and-this-title-is-also-provided-in-french/"><u>The Original Question Was in French, and This Title Is Also Provided in French.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oneplus-open-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends OnePlus Open without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unlocking-the-art-of-pc-games-screen-capture/"><u>Unlocking the Art of PC Games Screen Capture</u></a></li>
 </ul></div>
 

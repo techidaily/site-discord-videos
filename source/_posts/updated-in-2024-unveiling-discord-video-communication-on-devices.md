@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Unveiling Discord Video Communication on Devices"
-date: 2024-11-11T17:09:32.574Z
-updated: 2024-11-13T21:49:32.525Z
+date: 2024-12-14T06:04:59.550Z
+updated: 2024-12-16T09:25:30.271Z
 tags:
   - ai video
   - ai discord
@@ -60,15 +60,16 @@ If you’re only calling one person then it’s easy – just click on their nam
 
 ![Discord Video Call with Friends ](https://images.wondershare.com/filmora/article-images/start-video-call-discord-friend.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you want to call a private group, you need to click the + button and then create a group DM. Add the names of the users you want to call.
 
 ![Discord Video Call with group ](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once you’re in the direct message window of the person or group you want to call, you need to look at the buttons at the top right of the screen. The second icon that looks like a video camera is the one you’re looking for. Click that and you’ll start a video call.
@@ -80,13 +81,6 @@ You’ll see yourself on screen at this point, but you’ll need to wait until t
 The process of making video call on Discord mobile is essentially identical. You just need to open the direct message group and click on the video call icon, which is still at the top right of your screen.
 
 ![Discord Video Call interface on mobile](https://images.wondershare.com/filmora/article-images/discrod-personal-video-call-mobile.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You’ll need to give permissions for the Discord mobile app to use your microphone and camera if you haven’t already.
 
@@ -100,28 +94,22 @@ Once you’re in the voice channel, click Lounge, Community Hangout or Stream Ro
 
 ![Discord Server Video Call  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 And that’s it – the video call is now live and anyone who joins the voice channel will be able to see you, chat to you and switch on their camera to join the video conference as well.
 
 On mobile, it’s slightly different. You’ll still want to head to the server you want to join and then click on the voice channel to join it. But as soon as you click on the voice channel, you’ll get a pop-up with an icon at the bottom right where you can instantly switch on your camera.
 
 ![Discord Server Video Call on mobile  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you prefer, you can still just join as voice, and then at any stage click on your name where you’ll be able to then switch on your camera to turn a voice chat into a video call.
 
 Whenever you want to end the video call, just click on your name again to switch off your camera, or disconnect completely from the voice channel.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs About Discord Video Chat Call
@@ -140,6 +128,10 @@ If instead, it’s a public server where a video call is happening, you just nee
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -155,20 +147,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-setup-a-mac-studio-for-sports-content-for-2024/"><u>[Updated] How to Setup a Mac Studio for Sports Content for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-choosing-platforms-youtube-shorts-vs-tiktok-best-for-minis/"><u>[Updated] In 2024, Choosing Platforms YouTube Shorts Vs. TikTok – Best for Minis</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-breakdown-of-popular-elements-in-youtube-shorts/"><u>2024 Approved Breakdown of Popular Elements in YouTube Shorts</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/easy-extraction-top-10-youtube-text-grabber-apps-reviewed-for-2024/"><u>Easy Extraction Top 10 YouTube Text Grabber Apps Reviewed for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-listing-high-quality-free-streamers-for-webm-files-for-2024/"><u>Exclusive Listing High-Quality, Free Streamers for WebM Files for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/full-review-for-hero4-black/"><u>Full Review for Hero4 Black</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-powerful-films-for-purpose-and-positivity/"><u>In 2024, Powerful Films for Purpose and Positivity</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/persistent-command-prompt-issues-resolved-quick-fix-strategies-for-immediate-opens-and-closes-in-windows-11/"><u>Persistent Command Prompt Issues Resolved: Quick-Fix Strategies for Immediate Opens and Closes in Windows 11</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-sharing-your-youtube-videos-with-twitter-followers/"><u>Step-by-Step Guide: Sharing Your YouTube Videos with Twitter Followers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-8-game-sound-recording-devices-for-exceptional-in-game-voice-quality/"><u>Top 8 Game Sound Recording Devices for Exceptional In-Game Voice Quality</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/troubleshooting-ifo-files-for-the-year-2024-methods-and-solutions/"><u>Troubleshooting IFO Files for the Year 2024: Methods & Solutions</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/tutorial-how-to-transform-your-horizontal-footage-into-a-stunning-portrait-format/"><u>Tutorial: How to Transform Your Horizontal Footage Into a Stunning Portrait Format</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unlocking-high-definition-effortlessly-play-and-transform-avchd-videos-using-vlc-media-player/"><u>Unlocking High Definition: Effortlessly Play and Transform AVCHD Videos Using VLC Media Player</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y02t-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y02T Device</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/windows-1011mp4wav/"><u>Windows 10/11で効率よくMP4ファイルをWAVへと変換する詳細ガイド</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-elevating-video-discoverability-with-strategic-tagging-on-youtube/"><u>[New] 2024 Approved Elevating Video Discoverability with Strategic Tagging on Youtube</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-how-to-turn-off-a-discord-server-device-wise/"><u>[New] 2024 Approved How to Turn Off a Discord Server Device-Wise</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-step-by-step-manual-altering-your-users-status-in-discord/"><u>[New] 2024 Approved Step-by-Step Manual Altering Your User's Status in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unlocking-the-power-of-discord-spoiler-labels/"><u>[New] 2024 Approved Unlocking the Power of Discord Spoiler Labels</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-vital-vittles-visuals-the-7-keys-to-creating-tasty-video-recipes/"><u>[New] 2024 Approved Vital Vittles Visuals - The 7 Keys to Creating Tasty Video Recipes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-mastering-discord-steaming-guide-for-pc-and-android/"><u>[New] In 2024, Mastering Discord Steaming Guide for PC & Android</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-overcoming-common-gs-pitfalls-in-kinemaster/"><u>[New] In 2024, Overcoming Common GS Pitfalls in KineMaster</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-multitasking-running-conversations-and-screenshots-for-2024/"><u>[New] Mastering Multitasking Running Conversations & Screenshots for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-ultimate-visual-treat-top-ten-4k-televisions-for-2024/"><u>[New] Ultimate Visual Treat Top Ten 4K Televisions for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-enhance-your-chat-with-direct-spotify-streaming-in-discord/"><u>[Updated] In 2024, Enhance Your Chat with Direct Spotify Streaming in Discord</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-iphone-7-perfect-methods-for-screen-recording/"><u>[Updated] In 2024, IPhone 7 Perfect Methods for Screen Recording</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-delicate-process-of-unjoining-discords/"><u>2024 Approved The Delicate Process of Unjoining Discords</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/become-a-pro-at-live-streaming-on-discord-with-our-simple-steps-for-2024/"><u>Become a Pro at Live Streaming on Discord with Our Simple Steps for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oppo-reno-8t-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Oppo Reno 8T? Try These Fixes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-influencing-cultures-through-memetic-expression/"><u>In 2024, Influencing Cultures Through Memetic Expression</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-mastering-attention-grabbers-top-30-discord-titles/"><u>In 2024, Mastering Attention-Grabbers Top 30 Discord Titles</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-cutting-edge-4k-video-editing-software-and-beyond-for-2024/"><u>New Cutting-Edge 4K Video Editing Software and Beyond for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-find-the-suggestions-for-sites-that-are-alternatives-to-the-filmora-coupon-code-reddit-these-coupon-sites-offer-different-deals-and-discounts/"><u>New In 2024, Find the Suggestions for Sites that Are Alternatives to the Filmora Coupon Code Reddit. These Coupon Sites Offer Different Deals and Discounts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/soundquality-assessment/"><u>SoundQuality Assessment</u></a></li>
 </ul></div>
 

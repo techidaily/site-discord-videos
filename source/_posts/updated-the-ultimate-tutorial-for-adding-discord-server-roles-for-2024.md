@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Tutorial for Adding Discord Server Roles for 2024"
-date: 2024-11-07T19:31:36.113Z
-updated: 2024-11-13T18:03:42.440Z
+date: 2024-12-10T02:08:30.995Z
+updated: 2024-12-16T07:30:38.242Z
 tags:
   - ai video
   - ai discord
@@ -43,10 +43,7 @@ So, let us learn the art of delegation on Discord! This guide will help you with
 To give you a heads-up, there are around 29 permissions that you can adjust over a Discord server. More specifically, there are 7 voice permissions, 9 permissions related to texts, and about 13 permissions dealing with the server.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. General server permission
@@ -68,10 +65,7 @@ Manage Webhooks – if you have this authority, you can add, modify, and remove 
 Read Text Channels & See Voice Channels – a user with this permission can read text channels.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Membership permissions
@@ -124,6 +118,10 @@ Priority Speaker – when this permission is turned on for a user, other’s
 
 this permission allows the user to reduce the volume of other users when this user is speaking so that their words are louder on the channel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Advanced permissions
 
 Includes the 'Administrator' permission, which by default enables all the permissions to the assigned user.
@@ -131,6 +129,10 @@ Includes the 'Administrator' permission, which by default enables all the permis
 ## Part 2: How to Make and Add Roles in Discord on Computer
 
 The desktop app and Browser resemble the mobile apple a lot. The process of assigning roles and configuring members is more or less the same across devices. First, you need to create roles and define their authority before assigning these roles to some members.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to create roles in Discord?
 
@@ -144,13 +146,6 @@ Before you can assign roles, you need a server. Once you have created your Disco
 3. Now comes the time to grant some permissions. These are basically the authority that you gave to every profile.
 4. When you are done, save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Assign Roles to Members in Discord?
 
 To be able to assign roles, you should first create them
@@ -160,6 +155,10 @@ To be able to assign roles, you should first create them
 3. Here, you will see the list of all the members on your server, tap the Plus sign that is right beside the username.
 4. From the drop-down menu that appears, select a role you want to assign to that member.
 1. You will notice that the color changes as per your settings. And this is how you assign roles to a server.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Manage Roles in Discord?
 
@@ -171,6 +170,10 @@ The quickest and easiest way to manage your bloating server is to let all member
 
 Further, you can easily figure out what roles you have assigned to whom. Due to these colors, the other members can identify moderators, admins, or other roles.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to Delete Roles in Discord?
 
 Honestly, removing Discord roles easier than setting them up. There are hardly a few steps that you need to follow for role removal.
@@ -181,23 +184,9 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 1. Towards the bottom, you will see the option to delete the role.
 2. Press ok to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: How to Add Roles on Discord Mobile?
 
 Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. How to create roles in Discord mobile app?
 
@@ -265,21 +254,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-capture-win10-ranking-the-best-video-grabbers/"><u>[New] 2024 Approved Capture Win10 Ranking the Best Video Grabbers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-aligning-zoom-sessions-with-desktop-and-smartphone-calendars/"><u>[New] In 2024, Aligning Zoom Sessions with Desktop and Smartphone Calendars</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-10-best-webcams-you-should-know/"><u>[Updated] 2024 Approved 10 Best Webcams You Should Know</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-a-whole-new-world-of-animated-emojis-top-7-free-online-destinations/"><u>[Updated] 2024 Approved A Whole New World of Animated Emojis Top 7 FREE Online Destinations</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-best-online-recording-apps-perfect-for-discord-chat-rooms/"><u>[Updated] 2024 Approved Best Online Recording Apps Perfect for Discord Chat Rooms</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-take-control-of-discord-dialogues-advanced-techniques-for-pins/"><u>[Updated] 2024 Approved Take Control of Discord Dialogues Advanced Techniques for Pins</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-10-plugin-choices-for-discord-enthusiasts/"><u>[Updated] 2024 Approved The Ultimate Guide to 10 Plugin Choices for Discord Enthusiasts</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-boost-your-conversation-style-with-free-emoji-treasures-online-for-2024/"><u>[Updated] Boost Your Conversation Style with FREE Emoji Treasures Online for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-essential-tips-for-navigating-discord/"><u>[Updated] Essential Tips for Navigating Discord</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/jpeg-bmp-movavi/"><u>無需付錢 - 網路上 JPEG 到 BMP 自由改編器 - Movavi</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/compact-computing-redefined-meet-the-minisforum-atomman-x7-equipped-with-intel-core-i3-1850u-and-responsive-touch-interface/"><u>Compact Computing Redefined: Meet the MinisForum AtomMan X7, Equipped with Intel Core I3-1850U & Responsive Touch Interface</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-depth-analysis-of-cutting-edge-devices-by-toms-hardware-experts/"><u>In-Depth Analysis of Cutting-Edge Devices by Tom's Hardware Experts</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-ultimate-roadmap-to-unearthing-elusive-discord-servers-for-2024/"><u>The Ultimate Roadmap to Unearthing Elusive Discord Servers for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-test-does-the-asus-rt-ac88u-deliver-for-gamers-as-promised-comprehensive-review/"><u>The Ultimate Test: Does the Asus RT-AC88U Deliver for Gamers as Promised? - Comprehensive Review</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-streamlining-content-delivery-on-discord-platform/"><u>[New] 2024 Approved Streamlining Content Delivery on Discord Platform</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-fast-track-to-clearing-youtube-post-comments/"><u>[New] In 2024, The Fast Track to Clearing YouTube Post-Comments</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-leverage-youtube-metrics-for-enhanced-visibility/"><u>[New] Leverage YouTube Metrics for Enhanced Visibility</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-discord-live-a-step-by-step-playbook/"><u>[New] Mastering Discord Live A Step-by-Step Playbook</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-harmonious-integration-spotify-meets-discord-for-2024/"><u>[Updated] Harmonious Integration Spotify Meets Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-establish-and-run-a-discochannel-successfully-for-2024/"><u>[Updated] How to Establish and Run a DiscoChannel Successfully for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-professional-tiktok-video-downloader-for-mp4-format/"><u>[Updated] In 2024, Professional TikTok Video Downloader for MP4 Format</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-initiating-live-channels-your-comprehensive-guide/"><u>[Updated] Initiating Live Channels Your Comprehensive Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-virtual-wit-whip/"><u>[Updated] Virtual Wit Whip</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-cutting-edge-tools-the-leading-applications-for-discoemojis/"><u>2024 Approved Cutting-Edge Tools The Leading Applications for DiscoEmojis</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/cutting-edge-chatbot-allies-discord-for-2024/"><u>Cutting-Edge Chatbot Allies Discord for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-webcam-tech-unveiled-best-recording-practices/"><u>In 2024, WebCam Tech Unveiled Best Recording Practices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/obs-revived-camera-back-to-life/"><u>OBS Revived Camera Back to Life</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/superior-app-dev-editors-top-15-selection/"><u>Superior App Dev Editors Top 15 Selection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/swiftly-change-videos-from-mpg-to-mp4-for-free-using-movavis-web-based-video-tool/"><u>Swiftly Change Videos From MPG to MP4 for Free Using Movavi's Web-Based Video Tool</u></a></li>
 </ul></div>
 

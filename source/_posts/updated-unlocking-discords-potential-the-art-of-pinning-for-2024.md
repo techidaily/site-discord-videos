@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlocking Discord's Potential  The Art of Pinning for 2024\""
-date: 2024-11-28T12:41:57.675Z
-updated: 2024-12-01T20:59:08.908Z
+date: 2024-12-14T08:45:08.640Z
+updated: 2024-12-15T16:17:39.358Z
 tags:
   - ai video
   - ai discord
@@ -51,6 +51,10 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 
 ![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
 But make sure you don't pin everything that might seem important at a glance — only pin messages that may have utility in the future.
@@ -78,14 +82,14 @@ Accessing pinned messages is just as easy as pinning them. To access a pinned me
 ![view Pinned message on Discord](https://images.wondershare.com/filmora/article-images/view-pinned-message.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Doing this will present you with a drop-down list of pinned messages. Now, you can tap on the "Jump" button next to the "x" (cross) icon to go directly to the pinned message
 2. This will allow you to understand the context behind the pinned message. You can also access and share links in the pinned messages from here
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to View Pinned Messages on Discord Mobile
@@ -97,12 +101,12 @@ View your pins on the mobile version of Discord by:
 
 ![view Pinned message on Discord](https://images.wondershare.com/filmora/article-images/view-pinned-message-discord-mobile.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Now you will be in the pinned messages window
 2. You can jump to a specific pinned message by clicking on it, allowing you to access any content or links in the message
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Limit on Pinned Messages
 
@@ -113,7 +117,7 @@ This may feel like a disadvantage. However, it makes perfect sense. Pinning mess
 Removing this limit and giving people free rein on the number of messages they can pin will eventually lead to too many pinned messages, defeating the feature's purpose.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 6: How to Delete Pinned Messages on Discord?
@@ -151,10 +155,6 @@ The usefulness of pinning makes it very important for both old and new users as 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -170,20 +170,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-constructing-emotional-resonance-trailer-sound-selection-guide/"><u>[New] 2024 Approved Constructing Emotional Resonance Trailer Sound Selection Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-how-to-make-the-most-out-of-spotifys-advertising-features/"><u>[New] 2024 Approved How to Make the Most Out of Spotify's Advertising Features</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-make-your-discord-profile-picture-a-standout-choice/"><u>[Updated] In 2024, How to Make Your Discord Profile Picture a Standout Choice</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-ultimate-blueprint-to-broadcast-videos-on-discord-platform/"><u>[Updated] In 2024, The Ultimate Blueprint to Broadcast Videos on Discord Platform</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-ultimate-step-by-step-guide-to-using-and-curating-gifs-in-discord/"><u>[Updated] In 2024, The Ultimate Step-by-Step Guide to Using and Curating GIFs in Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-top-picks-for-discord-romantic-connections/"><u>[Updated] In 2024, Top Picks for Discord Romantic Connections</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-perfecting-your-discopic-the-ultimate-guide-to-eye-catching-images-for-2024/"><u>[Updated] Perfecting Your DiscoPic The Ultimate Guide to Eye-Catching Images for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-unlocking-your-gaming-potential-the-complete-guide-to-getting-disconitro-for-2024/"><u>[Updated] Unlocking Your Gaming Potential The Complete Guide to Getting DiscoNitro for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-augmented-realms-blending-tech-and-entertainment/"><u>2024 Approved Augmented Realms Blending Tech & Entertainment</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-stories-the-ultimate-youtube-channel-list/"><u>Crafting Stories - The Ultimate YouTube Channel List</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/desktop-users-manual-easily-access-and-enjoy-instagram-reels-without-a-mobile-device/"><u>Desktop Users' Manual: Easily Access and Enjoy Instagram Reels Without a Mobile Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-effortless-setup-epson-et-4550-driver-installer-for-windows-users/"><u>Quick & Effortless Setup: Epson ET-4550 Driver Installer for Windows Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-essence-of-pixiz-crafting-compelling-stills-to-video-transformations/"><u>The Essence of Pixiz Crafting Compelling Stills-to-Video Transformations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-kinemaster-edge-mastering-video-segmentation-and-transitioning-for-2024/"><u>The Kinemaster Edge Mastering Video Segmentation and Transitioning for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/why-does-my-discord-keep-crashing-when-i-go-live-learn-the-fix-here/"><u>Why Does My Discord Keep Crashing When I Go Live? Learn the Fix Here</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-11-insider-tips-for-outstanding-hue-alignment/"><u>[New] 11 Insider Tips for Outstanding Hue Alignment</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-exploring-advanced-features-of-discords-live-stream-functionality/"><u>[New] 2024 Approved Exploring Advanced Features of Discord's Live Stream Functionality</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-mastering-personal-tones-androids-ringtone-and-sound-guide/"><u>[New] In 2024, Mastering Personal Tones Android's Ringtone & Sound Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovations-in-live-broadcast-with-periscope/"><u>[New] Innovations in Live Broadcast with Periscope</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-blueprint-to-broadcast-videos-on-discord-platform-for-2024/"><u>[New] The Ultimate Blueprint to Broadcast Videos on Discord Platform for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unlocking-your-full-potential-changing-status-in-discord/"><u>[Updated] 2024 Approved Unlocking Your Full Potential Changing Status in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unveiling-top-15-emoji-creation-tools-the-pinnacle-of-discords-design/"><u>[Updated] Unveiling Top 15 Emoji Creation Tools The Pinnacle of Discord's Design</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-novices-guide-to-selecting-simple-film-cameras/"><u>2024 Approved Novice's Guide to Selecting Simple Film Cameras</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-s17-pro-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo S17 Pro Phone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-unbind-from-discord-on-all-platforms/"><u>In 2024, Unbind From Discord on All Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-siftu-on-pc-overcoming-stuttering-enhancing-fps-drops-fixes/"><u>Mastering SIFTU on PC: Overcoming Stuttering, Enhancing FPS Drops Fixes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Xiaomi Redmi K70E | Dr.fone</u></a></li>
 </ul></div>
 

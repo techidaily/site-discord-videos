@@ -1,7 +1,7 @@
 ---
 title: DIY Solutions for Maximizing Speaker Performance in Windows 11
-date: 2024-11-11T17:43:47.920Z
-updated: 2024-11-13T18:43:24.385Z
+date: 2024-12-10T08:12:19.480Z
+updated: 2024-12-16T06:26:23.355Z
 tags:
   - win11
   - win10
@@ -30,18 +30,15 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 5. [**Disable audio enhancements**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Restart audio services**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Check cable and volumes
 
  If you don’t hear sound from your external audio devices, like speakers and headphones, you can check if their cable is broken. You can plug them to in another computer and see if they work in another computer. If they work in another computer, the problem is probably caused by the cable.
 
  If the audio device has been muted, you won’t hear sound from it. Check if your speaker or headphone has been muted by accident.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Check your speaker settings
 
@@ -50,22 +47,8 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 2. In the**Playback** tab, ensure there’s a green tick on**Speakers** . This indicates that your speakers are the default playback device.  
 ![Default speaker ticked Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Default-speaker-ticked-Windows10.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your Speakers are NOT already set as the default, this is doubtless your problem. To fix, just click them, click**Set Default** , then click **OK** and test whether you have sound.  
 ![Set default speakers Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Set-default-speakers-Windows-10.png)  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your Speakers are set as the default playback device, and you’re still not hearing any sound, you should experiment with different sound formats. To do this, click**Speakers** then **Properties** .  
 ![Change speaker sound format Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Change-speaker-sound-format-Windows-10.png)
@@ -83,17 +66,18 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-9.jpg)
 3. In Device Manager, expand**Sound, video and game controllers** , right-click on your sound card, and click **Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. If you’re asked to confirm the uninstall, check the**Delete the driver software for this device** box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Restart your computer and check to see if the problem is resolved. If it’s not, move on to[Method 3](https://tools.techidaily.com/drivereasy/download/) below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Update your audio driver
 
@@ -113,13 +97,14 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)  
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and check to see if you now have sound.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Disable audio enhancements
@@ -140,13 +125,6 @@ In the example below, the default device is Speakers / Headphones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-275.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) On the**Enhancements** tab,**select** the**Disable all enhancements** check box. Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-276.png)
@@ -154,6 +132,10 @@ In the example below, the default device is Speakers / Headphones.
 5) Check to see if the sound issue is resolved.
 
 **Note** if you have multiple default devices, you may need to repeat the steps above for each default device until the sound issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 6: Restart audio services
 
@@ -165,15 +147,16 @@ Follow these steps to restart audio services.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-278.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click on**Windows Audio** service and select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-279.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer and check to see if the problem is resolved.
@@ -198,20 +181,24 @@ Follow these steps to restart audio services.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cultivating-growth-selecting-the-right-co-stars-for-youtube/"><u>[New] 2024 Approved Cultivating Growth Selecting the Right Co-Stars for YouTube</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-boost-your-channel-top-14-gaming-vids-for-youtube-success/"><u>[New] In 2024, Boost Your Channel Top 14 Gaming Vids for YouTube Success</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-navigating-the-maze-of-audio-capturing-a-complete-minecraft-guide-on-mac/"><u>[New] In 2024, Navigating the Maze of Audio Capturing A Complete Minecraft Guide on Mac</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-swift-steps-to-personalize-your-in-game-sonic-presence-in-pubg-for-2024/"><u>[New] Swift Steps to Personalize Your In-Game Sonic Presence in PUBG for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-breaking-down-barriers-combining-obs-with-zoom/"><u>[Updated] In 2024, Breaking Down Barriers Combining OBS with Zoom</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tech-titans-in-vr-top-10-mobile-headsets-reviewed/"><u>2024 Approved Tech Titans in VR Top 10 Mobile Headsets Reviewed</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/convert-3gp-files-effortlessly-change-to-popular-video-formats-like-mp4-avi-and-more/"><u>Convert 3GP Files Effortlessly: Change to Popular Video Formats Like MP4, AVI & More!</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/discover-the-best-3-free-media-players-for-windows-10s-ultimate-film-and-music-experience/"><u>Discover the Best 3 Free Media Players for Windows 10'S Ultimate Film and Music Experience</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/edit-your-videos-without-spending-a-penny-using-windows-11-tools/"><u>Edit Your Videos Without Spending a Penny Using Windows 11 Tools</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/effective-fixes-for-handling-codec-not-found-issues-in-ms-powerpoint-on-windows-systems/"><u>Effective Fixes for Handling 'Codec Not Found' Issues in MS PowerPoint on Windows Systems</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/effective-strategies-for-converting-mp4-files-into-high-quality-flac-audio/"><u>Effective Strategies for Converting MP4 Files Into High-Quality FLAC Audio</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/effective-ways-to-shrink-your-vob-movie-files-quickly-and-online/"><u>Effective Ways to Shrink Your VOB Movie Files Quickly and Online</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/effortless-transformation-guide-turn-your-animated-png-images-into-gifs-instantly/"><u>Effortless Transformation Guide: Turn Your Animated PNG Images Into GIFs Instantly</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitters-guide-to-downloading-gifs-a-step-by-step-approach-for-2024/"><u>Twitter's Guide to Downloading GIFs A Step-by-Step Approach for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-hot-40-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Infinix Hot 40 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/star-wars-ensuring-the-right-viewing-experience-by-watching-in-sequence-on-disneyplus/"><u>'Star Wars': Ensuring the Right Viewing Experience by Watching In Sequence on Disney+</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-efficiently-remove-discord-server-from-pc-and-mobile-for-2024/"><u>[New] Efficiently Remove Discord Server From PC & Mobile for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-how-to-craft-strikingly-attractive-pfps-for-your-discolife-in-discord-for-2024/"><u>[New] How To Craft Strikingly Attractive Pfps for Your DiscoLife in Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discord-etiquette-101-responding-with-confidence/"><u>[Updated] Discord Etiquette 101 Responding with Confidence</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-gentle-art-of-stepping-back-from-discords-for-2024/"><u>[Updated] The Gentle Art of Stepping Back From Discords for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-voice-modding-on-discord-a-step-by-step-guide-for-2024/"><u>[Updated] Voice Modding on Discord A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-crafting-compelling-online-livestreams-from-a-single-source/"><u>2024 Approved Crafting Compelling Online Livestreams From a Single Source</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-streamlining-content-delivery-on-discord-platform/"><u>2024 Approved Streamlining Content Delivery on Discord Platform</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-comprehensive-guide-to-discord-spoiler-tags/"><u>2024 Approved The Comprehensive Guide to Discord Spoiler Tags</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-reasons-why-using-chatgpt-to-condense-documents-could-lead-you-astray/"><u>5 Reasons Why Using ChatGPT to Condense Documents Could Lead You Astray</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/be-the-game-changer-xbox-one-screen-recording-mastery/"><u>Be the Game Changer Xbox One Screen Recording Mastery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/end-infinite-scroll-loop-in-microsoft-excel-windows/"><u>End Infinite Scroll Loop in Microsoft Excel (Windows)</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/expertly-selected-software-solutions-for-restoring-files-from-sd-cards-and-flash-storage-devices/"><u>Expertly Selected Software Solutions for Restoring Files From SD Cards & Flash Storage Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-fuel-ambition-with-these-10-movie-masterpieces/"><u>In 2024, Fuel Ambition with These 10 Movie Masterpieces</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/saying-goodbye-a-guide-for-ending-your-discord-membership/"><u>Saying Goodbye A Guide for Ending Your Discord Membership</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-servers-for-romance-discord-edition-for-2024/"><u>Top Servers for Romance Discord Edition for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-worlds-first-atomman-g7-pt-an-amd-advantage-powerhouse-with-advanced-r9-7945hx-and-rx-760e-xt-graphics-cards/"><u>Unveiling the World's First: AtomMan G7 Pt, an AMD Advantage Powerhouse with Advanced R9 7945HX & RX 760E XT Graphics Cards</u></a></li>
 </ul></div>
 

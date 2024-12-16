@@ -1,7 +1,7 @@
 ---
 title: End Battlefield 5 Game-Breaking PC Errors - A Comprehensive Guide to Stability
-date: 2024-11-08T20:16:44.199Z
-updated: 2024-11-13T16:10:24.177Z
+date: 2024-12-13T06:47:05.646Z
+updated: 2024-12-16T00:32:49.480Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/23623c6c9024303daa060bc641efd6507d7732a1f
 ## Battlefield 5 PC Stability Issues Resolved - No More Game Crashes
 
 Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring your Battlefield 5 back to life. You may have been looking all the way for solutions but failed to solve this annoying issue. Below are all the possible fixes that have helped many other players. Try these fixes and enjoy your World War II without any crashes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -53,19 +57,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/advanced-settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Uncheck**Automatically manage paging file size for all drives** . Select**Custom size** and enter the**Initial size** and**Maximum size** .
 
 * Initial size: 1.5 times the amount of total system memory.
@@ -79,10 +70,7 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  6) Launch your Battlefield V again and play for a few hours to check if the crashing issue still persists.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Turn off the in-game overlay
@@ -134,10 +122,7 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 4) Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Delete settings and repair your Battlefield V
@@ -166,6 +151,10 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Battlefield-5-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If you fail to see the**DX12 ENABLED** option in the Advanced Video Settings, you can revert it back to DX11 manually.  
   
  1\. Go to your**Battlefield 5** folder then the**settings** folder, right-click**PROFSAVE\_profile** and select**Edit with Notepad** .  
@@ -191,10 +180,7 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run-as-admin-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Run Origin as administrator as well.
@@ -204,10 +190,7 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  4) Try launching your game again to see if Battlefield V crashing issue still persists.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: System File Checker
@@ -235,13 +218,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Option 2 – Manually
 
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl + Shift + Enter** to run Command Prompt as admin.
@@ -265,6 +241,10 @@ sfc /scannow
 
  If you receive neither of these messages, you can click **[Microsoft Support Page](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)**  to further fix your problem with the System File Checker tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 9: Perform a clean boot
 
  Battlefield V crashing can be caused by other conflicting applications. To see if that’s your problem, try performing a clean boot.
@@ -273,26 +253,20 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run-box.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** . Then click**OK** to apply.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/perform-a-clean-boot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Startup** tab and click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/open-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select each startup item and click**Disable** .
@@ -327,22 +301,20 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boost-your-channels-income-understanding-critical-view-thresholds/"><u>[New] 2024 Approved Boost Your Channel's Income Understanding Critical View Thresholds</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-5-mac-cam-alternatives-to-elevate-your-digital-screens/"><u>[Updated] Top 5 Mac Cam Alternatives to Elevate Your Digital Screens</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/44cm44ki44od44ox44kw44os44o844oj44or44o844or44go44gd44gu5osp5zgz44gr44gk44ge44gm5a2m44gz44gf44ge44cn/"><u>「アップグレードルールとその意味について学びたい」</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-mastering-the-art-of-shorts-imagery-quick-smart-updates/"><u>2024 Approved Mastering the Art of Shorts Imagery Quick, Smart Updates</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/4k-vs-full-hd-unveiling-the-superior-quality-of-ultra-high-definition/"><u>4K vs Full HD: Unveiling the Superior Quality of Ultra High-Definition</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/chromecast/"><u>不具合でChromecastによるビデオ再生が難しい時のトリックと方法</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726026659828-youtube/"><u>完全無料: YouTubeのビデオからオーディオのみダウンロードの簡単な方法</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726030433688-avimp4movmkv/"><u>効率的にAVIをMP4/MOV/MKVに変換する手順：完全な解法</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726029559664-youtube/"><u>音声のみでYouTubeコンテンツを聞くための簡単な方法</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/combining-mpg-videos-in-windows-a-step-by-step-guide/"><u>Combining MPG Videos in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726029529708-dvd/"><u>DVD編集専用の無料フリーアプリ！美しい動画を作り上げるステップ</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-s17-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo S17 Phone Hassle-Free</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pioneering-virtual-realms-equip-yourself-with-these-tech-for-2024/"><u>Pioneering Virtual Realms - Equip Yourself With These Tech for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-m34-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy M34</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-documentarians-guide-to-captivating-audience-for-2024/"><u>The Documentarian's Guide to Captivating Audience for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-emoji-magic-for-enhanced-discord-statues/"><u>[New] Emoji Magic for Enhanced Discord Statues</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-3-essential-voice-logging-tactics-for-ipad/"><u>[Updated] 2024 Approved The 3 Essential Voice Logging Tactics for iPad</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-top-5-chill-out-scenes-to-add-zest-to-your-snowy-videos/"><u>[Updated] 2024 Approved Top 5 Chill-Out Scenes to Add Zest to Your Snowy Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-revolutionize-your-discord-conversations-learn-to-pin-effectively/"><u>[Updated] Revolutionize Your Discord Conversations Learn to Pin Effectively</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-guide-for-emoji-laden-discord-statements-for-2024/"><u>[Updated] The Ultimate Guide for Emoji-Laden Discord Statements for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-strategies-for-departing-from-your-discord-clan/"><u>2024 Approved Strategies for Departing From Your Discord Clan</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-unplugging-the-servers-deleting-discord-on-devices/"><u>2024 Approved Unplugging the Servers Deleting Discord on Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-your-guide-to-streaming-success-on-discord-platform/"><u>2024 Approved Your Guide to Streaming Success on Discord Platform</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/comment-sauver-vos-fichiers-dune-cle-usb-endommagee/"><u>Comment Sauver Vos Fichiers D’Une Clé USB Endommagée</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-methods-for-disabling-sleep-function-on-a-mac-computer/"><u>Effective Methods for Disabling Sleep Function on a Mac Computer</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-get-and-add-animated-emojis-on-discord-for-2024/"><u>How to Get and Add Animated Emojis on Discord for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-exclusive-free-mcb-visual-tools/"><u>In 2024, Exclusive Free MCB Visual Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-security-made-easy-learn-how-to-block-no-caller-id-and-hide-private-numbers-incoming-calls/"><u>IPhone Security Made Easy: Learn How to Block No Caller ID and Hide Private Numbers Incoming Calls</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/joyful-juxtapositions-top-humorous-concepts-in-tiktok-culture-for-2024/"><u>Joyful Juxtapositions Top Humorous Concepts in TikTok Culture for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/premium-kdrama-show-laptop-backdrops-and-pc-splash-images-provided-by-yl-tech-solutions-transform-your-computers-look/"><u>Premium Kdrama Show Laptop Backdrops & PC Splash Images Provided by YL Tech Solutions - Transform Your Computer's Look</u></a></li>
 </ul></div>
 

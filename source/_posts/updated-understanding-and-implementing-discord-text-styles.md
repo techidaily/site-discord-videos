@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding & Implementing Discord Text Styles"
-date: 2024-11-07T20:45:05.827Z
-updated: 2024-11-13T18:55:51.255Z
+date: 2024-12-15T07:10:31.535Z
+updated: 2024-12-15T20:06:34.767Z
 tags:
   - ai video
   - ai discord
@@ -39,6 +39,10 @@ Let’s start with the software module that makes it all possible.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How Does Discord Text Engine Work?
 
 Beneath the surface, Discord runs on a powerful engine called Markdown, which regulates how text is displayed on the pages visible to users. It’s an application of markup language that completely depends on textual symbols as commands, making it quite simple for users who are not skilled at advanced programming to alter the look of the text.
@@ -64,10 +68,7 @@ Filmora Text Video Editor
 [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change Text Style in Discord with Markdown?
@@ -77,6 +78,10 @@ As we mentioned previously, Markdown is completely text-based and has a very sim
 Here is an overview of the most important options for changing text style in Discord, and you can preview the text style in real time before sending to friends:
 
 ![Change Text Style in Discord  - Basic](https://images.wondershare.com/filmora/article-images/discord-change-text-style.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **How to Bold Text in Discord?**
 
@@ -94,13 +99,6 @@ In order to get a strikethrough effect on your text, you will have to type two t
 
 Underline effect is also available on Discord and equally simple to activate. Just type two underscore dashes (\_\_)at the start and the ending of the text selection to apply it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Combine Text Formatting Options in Discord?
 
 Once you mastered the basic effects and know the commands without thinking, it’s time to consider more complex text transformations that combine more than one effect. In principle, Markdown lets you do this just as easily, for as long as you know all the right combinations of characters that produce the desired effect. Here are the detailed instructions for some of the most frequently utilized combos:
@@ -110,6 +108,10 @@ Once you mastered the basic effects and know the commands without thinking, it�
 For this elegant combination, use two underscore dashes (\_\_) followed by one asterisk (\*) before and after the selected text.
 
 ![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Underlined and Bolded text
 
@@ -129,16 +131,13 @@ You can combine all four style changes as well – just use two tildes (\~\~), t
 
 ![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
 In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -164,19 +163,6 @@ The creation of a hidden text message that requires direct user action to reveal
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -192,19 +178,15 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-social-media-blend-adding-youtube-content-to-stories/"><u>[New] 2024 Approved Social Media Blend Adding YouTube Content to Stories</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-guide-to-pocket-friendly-discord-video-downloads-on-tech-devices/"><u>[Updated] 2024 Approved Guide to Pocket-Friendly Discord Video Downloads on Tech Devices</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-proven-bots-for-superior-server-dynamics/"><u>[Updated] 2024 Approved Proven Bots for Superior Server Dynamics</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discord-text-decoration-a-step-by-step-approach-for-2024/"><u>[Updated] Discord Text Decoration A Step-by-Step Approach for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-enhancing-your-digital-persona-personalize-your-discord-status-with-custom-emojis-for-2024/"><u>[Updated] Enhancing Your Digital Persona Personalize Your Discord Status with Custom Emojis for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-cutting-edge-techniques-elevating-your-youtube-edits-using-imovie/"><u>[Updated] In 2024, Cutting-Edge Techniques Elevating Your YouTube Edits Using iMovie</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-inside-the-scoring-of-toolwizs-photography-software/"><u>[Updated] Inside the Scoring of Toolwiz's Photography Software</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-zooms-finest-audio-to-text-solutions-complimentary-and-subscriptions/"><u>2024 Approved Zoom's Finest Audio-to-Text Solutions Complimentary & Subscriptions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/celestial-wonders-at-your-fingertips-hd-sky-website-guide/"><u>Celestial Wonders at Your Fingertips - HD Sky Website Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nest-audio-versus-nest-mini-a-detailed-comparison-of-googles-sound-devices/"><u>Nest Audio Versus Nest Mini: A Detailed Comparison of Google's Sound Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/short-lived-hikes-overcome-xbox-game-pass-tips-and-tricks/"><u>Short-Lived Hikes Overcome: Xbox Game Pass Tips & Tricks</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/transforming-text-to-speech-on-discord/"><u>Transforming Text to Speech on Discord</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722991454756-troubleshooting-euro-truck-simulator-2-for-optimal-performance-and-no-more-pc-crashes/"><u>Troubleshooting Euro Truck Simulator 2 for Optimal Performance & No More PC Crashes!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/virtual-havens-of-adventure-but-not-like-gta/"><u>Virtual Havens of Adventure (But Not Like GTA)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-discreet-route-to-disengage-from-discord-networks/"><u>[New] The Discreet Route to Disengage From Discord Networks</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-emoji-magic-for-enhanced-discord-statues/"><u>[Updated] In 2024, Emoji Magic for Enhanced Discord Statues</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-initiating-live-channels-your-comprehensive-guide/"><u>[Updated] In 2024, Initiating Live Channels Your Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-navigating-the-pitfalls-of-youtube-monetization-mistakes/"><u>[Updated] In 2024, Navigating the Pitfalls of YouTube Monetization Mistakes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-real-time-interaction-best-practices-for-discord-streamers/"><u>[Updated] Real-Time Interaction Best Practices for Discord Streamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortlessly-syncing-apple-music-between-windows-laptop-and-ios-device/"><u>Effortlessly Syncing Apple Music Between Windows Laptop and iOS Device</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/essential-tactics-for-viral-fb-video-marketing-for-2024/"><u>Essential Tactics for Viral FB Video Marketing for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-x-fold-2-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-max-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 Pro Max Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-invisible-5ghz-networks-on-windows-11-guide-herein/"><u>Reclaim Invisible 5GHz Networks on Windows 11: Guide Herein</u></a></li>
 </ul></div>
 

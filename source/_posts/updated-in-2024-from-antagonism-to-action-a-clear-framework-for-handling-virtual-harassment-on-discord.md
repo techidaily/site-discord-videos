@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, From Antagonism to Action  A Clear Framework for Handling Virtual Harassment on Discord\""
-date: 2024-11-08T20:37:52.054Z
-updated: 2024-11-13T17:58:30.390Z
+date: 2024-12-15T04:48:52.033Z
+updated: 2024-12-15T18:41:45.182Z
 tags:
   - ai video
   - ai discord
@@ -87,7 +87,15 @@ Also, it would help if you gave context regarding your report describing how and
 
 ![ Submit report request on Discord](https://images.wondershare.com/filmora/article-images/submit-discord-user-report-request.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Report Users on Discord on iPhone And Android
 
@@ -97,19 +105,6 @@ Just like on a desktop, you will first need to enable developer mode.
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
 ![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -129,13 +124,6 @@ Now, you can send this information to the [Trust and Safety team](https://suppor
 1. Paste the two links copied earlier in the "Description Box"
 2. Provide your email address along with the context behind the situation
 3. Click on "Submit"
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Kick People on Discord
 
@@ -166,10 +154,7 @@ If you happen to be a moderator or server owner, you have the authority to kick 
 4. Click on "Kick" again to confirm your decision
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: FAQs About Discord Reporting
@@ -179,6 +164,10 @@ There is no need to Google responses to "How do you report someone on Discord," 
 ### Can I Report People on Discord Anonymously?
 
 According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What Happens If I Report Someone on Discord?
 
@@ -190,6 +179,10 @@ After conducting their research and deciding upon a punishment, the T&S team wil
 
 In minor offenses, the T&S team will reach out to the reporter and teach them how to block the user rather than take direct action.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Can You Report Someone on Discord for Being Under 13?
 
 Individuals under the age of 13 are not permitted to use Discord unless they have permission from a parent or guardian. However, it is not very easy to prove that the user is below a certain age.
@@ -197,13 +190,6 @@ Individuals under the age of 13 are not permitted to use Discord unless they hav
 If you know someone who is undoubtedly underage, then you can report them to the Trust & Safety team by filling out their form and adding evidence to back your claim.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -220,19 +206,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-perfecting-your-rl-game-captures-for-2024/"><u>[New] Perfecting Your RL Game Captures for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-discord-plus-spotify-sync-tips-and-tricks/"><u>[Updated] 2024 Approved Discord + Spotify Sync Tips and Tricks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-discover-5-premier-mac-livestream-tools/"><u>[Updated] 2024 Approved Discover 5 Premier Mac Livestream Tools</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-expert-tips-securing-seamless-video-sharing-via-discord-channels/"><u>[Updated] 2024 Approved Expert Tips Securing Seamless Video Sharing via Discord Channels</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-group-chat-on-discord/"><u>[Updated] 2024 Approved Mastering Group Chat on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unmatched-soundscapes-curated-list-of-excellent-discobot-applications/"><u>[Updated] 2024 Approved Unmatched Soundscapes Curated List of Excellent DiscoBot Applications</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-best-discord-couple-chat-spaces-for-2024/"><u>[Updated] Best Discord Couple Chat Spaces for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-charting-the-course-of-monetization-for-creator-economy-on-youtubeshorts/"><u>2024 Approved Charting the Course of Monetization for Creator Economy on YouTubeshorts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-mobile-lut-apps/"><u>2024 Approved Expertise in Mobile LUT Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-error-when-your-app-wont-launch-resolving-application-failed-to-initialize-properly-error-code-0xc000007b/"><u>How to Fix the Error When Your App Won't Launch: Resolving 'Application Failed to Initialize Properly (Error Code 0xC000007B)'</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/premier-20-github-chatgpt-interaction-cases/"><u>Premier 20 GitHub ChatGPT Interaction Cases</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/schaffen-sie-zuverlassige-datensicherungen-mit-externen-laufwerken-ein-umfassender-leitfaden/"><u>Schaffen Sie Zuverlässige Datensicherungen Mit Externen Laufwerken – Ein Umfassender Leitfaden</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solving-officejets-no-print-malaise/"><u>Solving OfficeJet's No Print Malaise</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/transforming-servers-top-30-bots-for-dynamic-interaction/"><u>Transforming Servers Top 30 Bots for Dynamic Interaction</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-dialing-up-the-drama-captivating-tiktok-intros-via-mac/"><u>[New] Dialing Up the Drama Captivating TikTok Intros via Mac</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discord-broadcasting-the-essential-checklist-for-successful-streaming/"><u>[New] Discord Broadcasting The Essential Checklist for Successful Streaming</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-exploring-seamless-approaches-to-finding-discord-groups/"><u>[New] In 2024, Exploring Seamless Approaches to Finding Discord Groups</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-removing-discord-servers-step-by-step/"><u>[Updated] 2024 Approved Removing Discord Servers Step-by-Step</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-discoresponders-handbook-react-and-converse/"><u>[Updated] In 2024, The DiscoResponder's Handbook React and Converse</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/dispentic-tools-to-launch-your-youtube-career/"><u>15 Indispentic Tools to Launch Your YouTube Career</u></a></li>
+<li><a href="https://article-tips.techidaily.com/breathtaking-stunts-and-jumps-2022-fig-skates/"><u>Breathtaking Stunts and Jumps - 2022 Fig Skates</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f54-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F54 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-craving-a-companion-top-discord-dating-spots/"><u>In 2024, Craving a Companion? Top Discord Dating Spots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-blend-beats-and-bullets-in-microsofts-presentation-tool/"><u>In 2024, How to Blend Beats and Bullets in Microsoft's Presentation Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pinpointing-blue-screen-anomalies-in-os-logs/"><u>Pinpointing Blue Screen Anomalies in OS Logs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/by-step-guide-youtube-downloads-for-ios-devices/"><u>Step-by-Step Guide YouTube Downloads for iOS Devices</u></a></li>
 </ul></div>
 

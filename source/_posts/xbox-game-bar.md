@@ -1,7 +1,7 @@
 ---
 title: Xbox Game Bar 使用時、音声だけ記録可能でしょうか？
-date: 2024-12-07T16:14:23.277Z
-updated: 2024-12-09T18:18:00.456Z
+date: 2024-12-10T08:36:04.459Z
+updated: 2024-12-16T09:39:29.159Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/f0a710f8b121815cf9221ed63e6d5399bb71fd342dd8940addf1aa95c2adb631.jpg
@@ -23,14 +23,18 @@ thumbnail: https://thmb.techidaily.com/f0a710f8b121815cf9221ed63e6d5399bb71fd342
 
 ![Convert DVD](https://www.videoconverterfactory.com/tips/img-autofit/header-tit2.png)Rip DVD
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Resources](https://www.videoconverterfactory.com/tips/img-autofit/header-r.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## (Update 2024) How to Convert DMG to ISO on Windows and Mac?
@@ -71,10 +75,6 @@ Two common methods are provided for Mac users to convert .dmg files to ISO.
 
 ![Convert DMG to ISO on Mac](https://www.videoconverterfactory.com/tips/imgs-self/dmg-to-iso/dmg-to-iso-5.jpg)Convert DMG to ISO Windows
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Mac has a built-in feature called Disk Utility bundled with all versions of OS X and all Macs. It enables you to convert .dmg to .iso for free. Here are the steps:
 
 Step 1\. Double-click the DMG disk you want to convert. 
@@ -108,10 +108,6 @@ WonderFox DVD Ripper Pro can help rip discs, convert VIDEO\_TS folders, and also
 
 [![Free Download](https://www.videoconverterfactory.com/tips/img-autofit/download1.png)](https://tools.techidaily.com/videoconverterfactory/dvd-ripper/) [![Free Download](https://www.videoconverterfactory.com/tips/img-autofit/mobile-download1.png)](https://tools.techidaily.com/videoconverterfactory/dvd-ripper/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. How to Convert .dmg to .iso Free on Windows?
 
 ### Method 1\. AnyBurn
@@ -119,7 +115,7 @@ WonderFox DVD Ripper Pro can help rip discs, convert VIDEO\_TS folders, and also
 ![Convert DMG to ISO Windows](https://www.videoconverterfactory.com/tips/imgs-self/dmg-to-iso/dmg-to-iso-2.jpg)Convert DMG to ISO Windows
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 AnyBurn is lightweight but professional CD/DVD/Blu-ray [burning software](https://tools.techidaily.com/videoconverterfactory/dvd-video-converter/) that provides a free and complete solution for burning and disc imaging. Previously, we talked about how to use Anyburn to achieve NRG to ISO and MDF to ISO conversion. Today, we’d like to guide you to convert .dmg to .iso with Anyburn.
@@ -132,12 +128,16 @@ Step 3: Select the DMG file you want to import and set the ISO output directory.
 
 Step 4: Click Convert Now to start to convert Mac DMG to ISO.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2\. DMG2IMG
 
 ![How to Open DMG2IMG](https://www.videoconverterfactory.com/tips/imgs-self/dmg-to-iso/dmg-to-iso-3.jpg)How to Open DMG2IMG
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DMG2IMG is a small and lightweight application that allows you to convert DMG to ISO in Windows.
@@ -166,10 +166,6 @@ The Best Way of Digitizing Your ISO Files
 
 ![The Best Way of Digitizing Your ISO Files](https://www.videoconverterfactory.com/tips/img-autofit/two-ripperpro.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **WonderFox DVD Ripper Pro**
 
 Rip DVD to MPG, ISO, VIDEO\_TS, and 300+ presets including MP4, MKV, AVI, etc., and for various devices
@@ -180,10 +176,14 @@ Support NVIDIA NVENC transcoding acceleration
 
 [![](https://www.videoconverterfactory.com/tips/img-autofit/download5.png)](https://tools.techidaily.com/videoconverterfactory/dvd-ripper/) [![](https://www.videoconverterfactory.com/tips/img-autofit/download5.png)](https://tools.techidaily.com/videoconverterfactory/dvd-ripper/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Digitizing Your ISO Files](https://www.videoconverterfactory.com/tips/img-autofit/two-dvc.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **WonderFox DVD Video Converter**
@@ -221,22 +221,17 @@ Copyright © 2009-2024 WonderFox Soft, Inc.All Rights Reserved
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-boosting-status-appeal-integrating-emojis-into-discord/"><u>[New] 2024 Approved Boosting Status Appeal Integrating Emojis Into Discord</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-harness-the-power-of-post-production-top-11-techniques-for-vibrant-colors/"><u>[New] Harness the Power of Post-Production Top 11 Techniques for Vibrant Colors</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-from-setting-up-to-broadcasting-a-discoguide/"><u>[New] In 2024, From Setting Up to Broadcasting A DiscoGuide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-unveiling-the-wonders-of-4k-with-benq-bl2711u-review/"><u>[New] Unveiling the Wonders of 4K with BenQ BL2711U Review</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-mastering-the-certification-journey-becoming-a-verified-disco-member/"><u>[Updated] In 2024, Mastering the Certification Journey Becoming a Verified Disco Member</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-navigating-discord-server-deletion-desktopmobile/"><u>[Updated] Navigating Discord Server Deletion (Desktop/Mobile)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-harness-canons-power-explore-10-basic-free-luts-and-more/"><u>2024 Approved Harness Canon's Power Explore 10 Basic Free LUTs and More</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-navigating-discord-server-deletion-desktopmobile/"><u>2024 Approved Navigating Discord Server Deletion (Desktop/Mobile)</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-transformative-strategies-for-effective-pins-in-discord-dialogues/"><u>2024 Approved Transformative Strategies for Effective Pins in Discord Dialogues</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/dvdiphone-macwindows/"><u>市販DVDから自作レンタルまで、iPhoneに簡単移動方法 - Mac/Windows向けチュートリアル</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/from-novice-to-pro-your-discord-broadcast-journey/"><u>From Novice to Pro Your Discord Broadcast Journey</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-motion-samsungs-time-lapse-guide/"><u>In 2024, Capturing Motion Samsung's Time-Lapse Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-15-pro-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 15 Pro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-the-ugreen-300w-portable-charger-with-48000mah-battery-the-ultimate-compact-energy-reservoir/"><u>In-Depth Analysis of the Ugreen 300W Portable Charger with 48,000mAh Battery - The Ultimate Compact Energy Reservoir</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/make-your-discord-messages-hearable-learn-tts/"><u>Make Your Discord Messages Hearable Learn TTS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/webinar-recording-tactics-zero-price-strategy/"><u>Webinar Recording Tactics Zero Price Strategy</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-unlocking-profile-picture-magic-on-discord-download/"><u>[New] In 2024, Unlocking Profile Picture Magic on Discord [Download]</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-incorporating-leadership-in-your-discord-network-for-2024/"><u>[New] Incorporating Leadership in Your Discord Network for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-roadmap-for-seamless-screen-recording-using-adobe-captivity-for-2024/"><u>[New] The Roadmap for Seamless Screen Recording Using Adobe Captivity for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-cutting-edge-video-production-windows-11s-moviemaker-toolkit-for-2024/"><u>[Updated] Cutting-Edge Video Production Windows 11'S Moviemaker Toolkit for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-satirists-web-workshop/"><u>[Updated] Satirist's Web Workshop</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-seamless-integration-of-movies-and-animations-using-movie-maker-for-2024/"><u>[Updated] Seamless Integration of Movies and Animations Using Movie Maker for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freezing-issues-how-to-defrost-a-stuck-computer-in-windows-11/"><u>Freezing Issues? How to Defrost a Stuck Computer in Windows 11</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-reply-message-on-discord/"><u>How to Reply Message on Discord</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-smart-8-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Infinix Smart 8 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-boosting-status-appeal-integrating-emojis-into-discord/"><u>In 2024, Boosting Status Appeal Integrating Emojis Into Discord</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maximize-windows-10-top-5-recording-techniques/"><u>Maximize Windows 10 Top 5 Recording Techniques</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1791402-9781782795278-the-heart-of-the-hereafter/"><u>The Heart of the Hereafter | Free Book</u></a></li>
 </ul></div>
 

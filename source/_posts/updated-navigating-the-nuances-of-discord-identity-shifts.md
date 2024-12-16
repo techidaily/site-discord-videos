@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating the Nuances of Discord Identity Shifts"
-date: 2024-11-28T00:29:09.606Z
-updated: 2024-12-02T06:11:09.509Z
+date: 2024-12-13T22:13:23.956Z
+updated: 2024-12-15T21:26:42.493Z
 tags:
   - ai video
   - ai discord
@@ -36,15 +36,15 @@ Today, many folks are yet to understand the logic attached to changing their sta
 * **[Part 5: How to Show What Game You're Playing on Discord?](#part5)**
 * **[Part 6: FAQs about Discord Status](#part6)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 1: What Does the Discord Statuses Mean?**
 
 Discord status is a changeable notification setting that enables users to set their current condition either AFK, online, or custom! This status consists of four options (online, Idle, Do not disturb, Invisible, and Custom) which will be explained below.
 
 ![default discord status options](https://images.wondershare.com/filmora/article-images/default-discord-status.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Online:**
 
@@ -83,7 +83,7 @@ Yeah!! Now your status has been changed to custom!
 ![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
@@ -105,6 +105,10 @@ Changing discord status on windows/Mac computers is very simple, and the Discord
 **Step 2:** Navigate to the bottom left corner of the screen and click on the profile icon showing your account status.
 
 **Step 3:**Up next, click on the Set status option! This time you'll see four preset statuses to choose excluding the Custom status option. All you've got to do is choose your preferred option to proceed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 4: How to Change Discord Status on Android, iPhone, or iPad?**
 
@@ -130,29 +134,25 @@ Do you know Discord is a hookup outlet where gamers connect? Sound surprising? Y
 
 Sit back and learn how to show off what you're up to in the gaming realm!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **How to Display Game Status on Discord Desktop**
 
 **Step 1:** Launch the Discord app and click on the User Settings icon
 
 ![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
 ![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **How to Display Game Status on Discord Mobile App**
 
@@ -162,15 +162,15 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 3:**On the Game Tab, all you've got to do is to toggle the switch to show your current game activity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **FAQs About Discord Status**
 
 ### **1\. How can you change the Discord status automatically?**
 
 A concise answer to this question is, Discord status cannot be changed automatically, but you can set a time limit that you want a custom text to display on your status. However, the game activity status option can be updated automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **2\. How can you tell if someone with their status set to offline is online, on Discord?**
 
@@ -193,20 +193,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-maximizing-streaming-experience-with-two-screen-viewing-on-netflix/"><u>[New] Maximizing Streaming Experience with Two-Screen Viewing on Netflix</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-achieving-memetic-mastery-top-9-techniques-to-create-engaging-gifs/"><u>[Updated] Achieving Memetic Mastery Top 9 Techniques to Create Engaging GIFs</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-mastering-discord-speaking-tts-basics-guide/"><u>[Updated] In 2024, Mastering Discord Speaking TTS Basics Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-ultimate-conversational-ais-on-discord/"><u>[Updated] In 2024, Ultimate Conversational AIs on Discord</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-interpreting-user-inactivity-could-it-be-a-blocked-status/"><u>[Updated] Interpreting User Inactivity Could It Be a Blocked Status?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-supercharge-discord-fun-the-ultimate-list-of-top-plugins/"><u>[Updated] Supercharge Discord Fun The Ultimate List of Top Plugins</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-unlocking-pathways-to-discover-new-discord-communities/"><u>[Updated] Unlocking Pathways to Discover New Discord Communities</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-unveiling-all-about-discord-stickers/"><u>[Updated] Unveiling All About Discord Stickers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-what-is-discord-pfp-and-how-to-make-a-stunning-pfp-for-discord/"><u>[Updated] What Is Discord Pfp and How to Make a Stunning Pfp for Discord</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-proven-strategies-for-creating-superb-igtv-videos-on-smartphonesdlsrs/"><u>2024 Approved Proven Strategies for Creating Superb IGTV Videos on Smartphones/DLSRs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/3g2wmv-movavi/"><u>網路上自由將3G2視頻轉成WMV - 使用Movavi的方法</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/a-complete-guide-to-use-instagram-video-chat-for-2024/"><u>A Complete Guide to Use Instagram Video Chat for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Meizu 21? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/strategii-efective-pentru-a-surpate-o-imago-vidualor-in-video-tehnici-de-optimizare-seo/"><u>Strategii Efective Pentru a Surpate O Imago Vidualor În Video – Tehnici De Optimizare SEO</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unveiling-the-pathway-to-discord-affiliation-a-verification-manual/"><u>[New] 2024 Approved Unveiling the Pathway to Discord Affiliation A Verification Manual</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-the-nuances-of-social-cues-status-update-for-2024/"><u>[New] Navigating the Nuances of Social Cues Status Update for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-preparing-for-departure-leaving-your-discord-circle/"><u>[New] Preparing for Departure Leaving Your Discord Circle</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-discord-broadcasting-step-by-step-techniques-for-seamless-sessions/"><u>[Updated] In 2024, Discord Broadcasting Step-by-Step Techniques for Seamless Sessions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-voice-logger-innovations-for-mac-users-unveiling-the-best-5-apps/"><u>[Updated] In 2024, Voice Logger Innovations for Mac Users Unveiling the Best 5 Apps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-mastering-discord-inserting-emojis-into-your-status-bar/"><u>[Updated] Mastering Discord Inserting Emojis Into Your Status Bar</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-your-step-by-step-pathway-to-youtube-video-enhancement-for-2024/"><u>[Updated] Your Step-By-Step Pathway to YouTube Video Enhancement for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-unlock-the-potential-of-your-channels-with-our-guide-to-discord-broadcasting/"><u>2024 Approved Unlock the Potential of Your Channels with Our Guide to Discord Broadcasting</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/content-mastery-reimagined-with-artificial-intelligence/"><u>Content Mastery Reimagined with Artificial Intelligence</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-book-trailer-samples/"><u>Essential Book Trailer Samples</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-rtx-2070-super-graphics-card-driver-downloads-and-updates-for-windows-10-and-11/"><u>Free RTX 2070 Super Graphics Card Driver Downloads & Updates for Windows 10 and 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-your-evga-drivers-quickly-in-windows-os/"><u>How to Update Your EVGA Drivers Quickly in Windows OS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/playback-problem-why-cant-i-watch-video-on-sony-a6400/"><u>Playback Problem Why Can't I Watch Video on Sony A6400?</u></a></li>
 </ul></div>
 

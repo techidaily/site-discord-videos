@@ -1,7 +1,7 @@
 ---
 title: Why Does My Discord Keep Crashing When I Go Live? Learn the Fix Here
-date: 2024-12-10T16:04:23.535Z
-updated: 2024-12-15T19:00:01.964Z
+date: 2024-12-21T23:46:59.710Z
+updated: 2024-12-25T03:17:14.341Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/99fe81a7264fad21c10b59936e2340ed2f52f70dd
 ## Solved: Why Your Discord App Keeps Failing to Launch - Fixes Here
 
 When you double-click Discord but the program won’t open, it could be very frustrating. Don’t panic, this problem is easy to fix. Instead of using the Discord web version, you can read the below content to fix your Discord application.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -49,7 +45,7 @@ When you double-click Discord but the program won’t open, it could be very fru
 3) Launch Discord again. It should be open normally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Set your date/time automatically
@@ -62,15 +58,15 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/time.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the right pane, turn on the button under**Set time automatically** .
 
  4) Reboot the Discord program to check.
 
 If it doesn’t work, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Run Discord as administrator
 
@@ -81,15 +77,23 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ce9bd5912.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On your desktop, right-click on the **Discord shortcut icon** and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ced2e031f.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Yes**  when prompted by User Account Control.  
  4) Discord should open.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Use Task Manager
 
@@ -102,7 +106,7 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/task.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Restart Discord. It should open.
@@ -128,15 +132,15 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Uncheck**Use a proxy server for your LAN** . Then click OK to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p3.jpg)
 
 6) Relaunch the Discord and it should open.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Flushing your DNS
 
@@ -150,7 +154,7 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) You can type or copy from the ours**ipconfig /flushdns** (there is a space after ‘g’) and press**Enter** .
@@ -158,10 +162,6 @@ If it doesn’t work, move to the next fix.
 **ipconfig /flushdns**
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Launch the Discord again. It should open.
 
@@ -175,15 +175,15 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click Discord in the list and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
  4) Download and install[Discord](https://discordapp.com/) from the official website. Then run Discord again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Bonus: Update your driver
 
@@ -244,16 +244,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-best-discord-emoji-makers-online-and-mobile-for-2024/"><u>[New] Best Discord Emoji Makers - Online & Mobile for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-guide-to-mastering-message-pins-on-discord/"><u>[New] The Ultimate Guide to Mastering Message Pins on Discord</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-dynamic-instagram-collage-views/"><u>[Updated] In 2024, Dynamic Instagram Collage Views</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-top-10-mac-gif-tools-to-avoid-losing-quality-for-2024/"><u>[Updated] Top 10 Mac GIF Tools to Avoid Losing Quality for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-the-adventurers-manual-how-to-dive-into-less-conventional-discord-communities/"><u>2024 Approved The Adventurer's Manual How to Dive Into Less Conventional Discord Communities</u></a></li>
-<li><a href="https://games-able.techidaily.com/ai-hardware-breakthroughs-at-this-years-computex/"><u>AI Hardware Breakthroughs at This Year's Computex</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-fitbit-inspire-hr-the-ultimate-247-health-and-activity-monitor/"><u>Comprehensive Guide to the Fitbit Inspire HR: The Ultimate 24/7 Health and Activity Monitor</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-14-pro-max-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 14 Pro Max Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-how-to-elevate-your-virtual-look-with-stunning-discord-photos/"><u>In 2024, How to Elevate Your Virtual Look with Stunning Discord Photos</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-10-vibes-a-discotheme-adventure/"><u>Top 10 Vibes A DiscoTheme Adventure</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-gadgets-with-tom-a-comprehensive-guide/"><u>Unveiling the Best Gadgets with Tom - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-ranking-the-best-ios-videography-tech/"><u>[New] 2024 Approved Ranking the Best iOS Videography Tech</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-stay-ahead-with-innovation-integrating-youtube-into-your-educational-approach/"><u>[New] 2024 Approved Stay Ahead with Innovation Integrating YouTube Into Your Educational Approach</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-ultimate-roadmap-to-unearthing-elusive-discord-servers/"><u>[Updated] 2024 Approved The Ultimate Roadmap to Unearthing Elusive Discord Servers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-enhancing-discord-communication-addition-of-emoji-based-statues/"><u>[Updated] Enhancing Discord Communication Addition of Emoji-Based Statues</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-exploring-alternative-pathways-for-free-anime-emoji-integration-in-discord-for-2024/"><u>[Updated] Exploring Alternative Pathways for Free Anime Emoji Integration in Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-discord-broadcast-mastery-the-ultimate-guide-for-novices-and-pros/"><u>2024 Approved Discord Broadcast Mastery The Ultimate Guide for Novices and Pros</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-ultimate-list-of-flashy-discord-tags/"><u>2024 Approved The Ultimate List of Flashy Discord Tags</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-windows-11-overcoming-5ghz-wi-fi-barriers/"><u>Breaking Down Windows 11: Overcoming 5GHz Wi-Fi Barriers</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-forza-horizon-4-running-perfectly-pro-tips-for-dealing-with-launch-difficulties/"><u>Get Forza Horizon 4 Running Perfectly: Pro Tips for Dealing with Launch Difficulties</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-leveraging-tweet-sharing-for-facebook-audience/"><u>In 2024, Leveraging Tweet Sharing for Facebook Audience</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-streamlined-approach-to-role-assignments-on-discord-servers/"><u>In 2024, Streamlined Approach to Role Assignments on Discord Servers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725287028288-movwindows-11/"><u>MOVビデオが問題なくWindows 11で再生する究極ガイド : 使い方とトラブルシューティング</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-rated-laptop-docking-solutions-comprehensive-reviews-and-buyers-guide-pcmag/"><u>Top-Rated Laptop Docking Solutions: Comprehensive Reviews & Buyer's Guide - PCMag</u></a></li>
 </ul></div>
 

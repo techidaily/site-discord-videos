@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Navigating the World of Discord Roles"
-date: 2024-12-14T09:40:17.821Z
-updated: 2024-12-15T20:16:39.038Z
+date: 2024-12-17T20:16:43.114Z
+updated: 2024-12-24T23:40:36.445Z
 tags:
   - ai video
   - ai discord
@@ -42,6 +42,10 @@ So, let us learn the art of delegation on Discord! This guide will help you with
 
 To give you a heads-up, there are around 29 permissions that you can adjust over a Discord server. More specifically, there are 7 voice permissions, 9 permissions related to texts, and about 13 permissions dealing with the server.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. General server permission
 
 Administrator – this is the highest permission that you can grant to a user. Think twice before giving this authority to anyone.
@@ -59,6 +63,10 @@ Manage emojis – users with this authority can manage emotes.
 Manage Webhooks – if you have this authority, you can add, modify, and remove webhooks.
 
 Read Text Channels & See Voice Channels – a user with this permission can read text channels.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Membership permissions
 
@@ -110,6 +118,10 @@ Priority Speaker – when this permission is turned on for a user, other’s
 
 this permission allows the user to reduce the volume of other users when this user is speaking so that their words are louder on the channel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Advanced permissions
 
 Includes the 'Administrator' permission, which by default enables all the permissions to the assigned user.
@@ -117,6 +129,10 @@ Includes the 'Administrator' permission, which by default enables all the permis
 ## Part 2: How to Make and Add Roles in Discord on Computer
 
 The desktop app and Browser resemble the mobile apple a lot. The process of assigning roles and configuring members is more or less the same across devices. First, you need to create roles and define their authority before assigning these roles to some members.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to create roles in Discord?
 
@@ -129,10 +145,6 @@ Before you can assign roles, you need a server. Once you have created your Disco
 2. Here, you can change the title off the roll and even choose the color.
 3. Now comes the time to grant some permissions. These are basically the authority that you gave to every profile.
 4. When you are done, save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Assign Roles to Members in Discord?
 
@@ -165,7 +177,7 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 2. Press ok to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: How to Add Roles on Discord Mobile?
@@ -173,7 +185,7 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. How to create roles in Discord mobile app?
@@ -190,10 +202,6 @@ Before you can assign roles, you have to create them.
 
 You can repeat this multiple times to create more roles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. How to Assign Roles in Discord mobile app?
 
 * Head over to settings and select 'Members.'
@@ -201,10 +209,6 @@ You can repeat this multiple times to create more roles.
 * Tick the boxes beside each member’s name for the roles you are assigning them.
 
 Save the changes, and you are good to go! You can assign multiple roles to a member.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 6: FAQs about Discord Server Roles
 
@@ -235,10 +239,6 @@ This is likely to happen if the server owner gave you the role of admin, but the
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -254,20 +254,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-ensuring-smooth-operations-in-your-discord-channels-with-these-steps/"><u>[New] 2024 Approved Ensuring Smooth Operations in Your Discord Channels with These Steps</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-step-by-step-for-swift-reaction-in-discord-dialogues/"><u>[New] Step by Step for Swift Reaction in Discord Dialogues</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-explore-windows-10s-best-new-applications-and-games/"><u>[Updated] 2024 Approved Explore Windows 10'S Best New Applications & Games</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-effective-methods-unlinking-from-your-discord-servers/"><u>[Updated] Effective Methods Unlinking From Your Discord Servers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boosting-views-with-customized-thumbnail-sizes-on-youtube/"><u>[Updated] In 2024, Boosting Views with Customized Thumbnail Sizes on YouTube</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-pioneering-video-exchange-strategies-within-discord-networks/"><u>2024 Approved Pioneering Video Exchange Strategies Within Discord Networks</u></a></li>
-<li><a href="https://discover-able.techidaily.com/convert-mp4-videos-to-mp3-audio-files-for-free-on-your-windows-10-pc/"><u>Convert MP4 Videos to MP3 Audio Files for Free on Your Windows 10 PC</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/erase-discord-server-settings-desktopsmartphones-for-2024/"><u>Erase Discord Server Settings (Desktop/Smartphones) for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/exploring-various-cryptocurrency-forms-insights-from-yl-computings-perspective/"><u>Exploring Various Cryptocurrency Forms: Insights From YL Computing's Perspective</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 13</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-from-joiner-to-trustee-securing-a-place-as-a-disco-partner/"><u>In 2024, From Joiner to Trustee Securing a Place as a Disco Partner</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/premium-emoji-creation-software-for-discord-users/"><u>Premium Emoji Creation Software for Discord Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-5-longest-lasting-laptop-batteries-a-comprehensive-review-by-techradar/"><u>Top 5 Longest-Lasting Laptop Batteries : A Comprehensive Review by TechRadar</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-cyber-risks-can-you-count-on-chatgpt-for-safe-interactions/"><u>Understanding Cyber Risks: Can You Count on ChatGPT for Safe Interactions?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-practical-guide-to-downloading-audio-content-from-pinterest/"><u>[New] A Practical Guide to Downloading Audio Content From Pinterest</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-capture-phone-gaming-moments-on-samsung-devices/"><u>[New] In 2024, Capture Phone Gaming Moments on Samsung Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-discovering-acquaintances-cross-device-friend-requests/"><u>[New] In 2024, Discovering Acquaintances Cross-Device Friend Requests</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-guide-to-setting-up-and-managing-discord-channels-for-beginners/"><u>[New] In 2024, Guide to Setting Up and Managing Discord Channels for Beginners</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unlock-the-secrets-of-youtube-description-upgrades/"><u>[New] In 2024, Unlock the Secrets of YouTube Description Upgrades</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unleash-the-power-of-messaging-mastering-pinning-on-discord-for-2024/"><u>[New] Unleash the Power of Messaging Mastering Pinning on Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unveiling-the-secrets-of-discord-spoilers/"><u>[New] Unveiling the Secrets of Discord Spoilers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-insight-into-online-media-distribution-and-fb-copyright-policies/"><u>[Updated] Insight Into Online Media Distribution and FB Copyright Policies</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-streamlining-the-process-of-sending-videos-in-discord/"><u>[Updated] Streamlining the Process of Sending Videos in Discord</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/effortless-e-reading-on-amazons-kindle-a-complete-tutorial-for-converting-pdf-documents-to-mobi-format/"><u>Effortless E-Reading on Amazon's Kindle: A Complete Tutorial for Converting PDF Documents to MOBI Format</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/petcube-lights-out-pets-camera-high-definition-at-a-low-price/"><u>Petcube Lights Out Pets Camera – High Definition at a Low Price</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/pro-level-strategies-for-stunningly-pinning-messages-in-discord/"><u>Pro-Level Strategies for Stunningly Pinning Messages in Discord</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-over-common-mmc-snapshot-glitches/"><u>Winning Over Common MMC Snapshot Glitches</u></a></li>
 </ul></div>
 

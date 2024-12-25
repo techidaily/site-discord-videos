@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Simplifying Your Life with Discord Call Setup Guide"
-date: 2024-12-13T01:18:53.039Z
-updated: 2024-12-15T21:46:36.310Z
+date: 2024-12-19T23:14:55.313Z
+updated: 2024-12-25T00:33:42.498Z
 tags:
   - ai video
   - ai discord
@@ -41,7 +41,7 @@ Before you start calling everyone, you’ll want to check your settings to make 
 ![Discord User Settings option](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 So, start by heading to the User Settings page. You’ll find this at the bottom left of the screen – look for the cog icon next to your name. You won’t see this on mobile, this is only on the desktop app and the web browser version of Discord.
@@ -49,7 +49,7 @@ So, start by heading to the User Settings page. You’ll find this at the bottom
 ![Discord Video Call Settings ](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once you’ve opened settings, you’ll want to click on the **Voice & Video** tab. Here you can check your microphone settings and adjust the volume, and choose your camera. If you’re using an external camera instead of the built-in option, check that the right one is selected in the dropdown.
@@ -73,7 +73,7 @@ If you want to call a private group, you need to click the + button and then cre
 ![Discord Video Call with group ](https://images.wondershare.com/filmora/article-images/add-friend-group-video-call-discord.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once you’re in the direct message window of the person or group you want to call, you need to look at the buttons at the top right of the screen. The second icon that looks like a video camera is the one you’re looking for. Click that and you’ll start a video call.
@@ -82,13 +82,13 @@ You’ll see yourself on screen at this point, but you’ll need to wait until t
 
 ![Discord Video Call interface](https://images.wondershare.com/filmora/article-images/discord-video-call-desktop-interface.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The process of making video call on Discord mobile is essentially identical. You just need to open the direct message group and click on the video call icon, which is still at the top right of your screen.
 
 ![Discord Video Call interface on mobile](https://images.wondershare.com/filmora/article-images/discrod-personal-video-call-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You’ll need to give permissions for the Discord mobile app to use your microphone and camera if you haven’t already.
 
@@ -102,15 +102,15 @@ Once you’re in the voice channel, click Lounge, Community Hangout or Stream Ro
 
 ![Discord Server Video Call  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 And that’s it – the video call is now live and anyone who joins the voice channel will be able to see you, chat to you and switch on their camera to join the video conference as well.
 
 On mobile, it’s slightly different. You’ll still want to head to the server you want to join and then click on the voice channel to join it. But as soon as you click on the voice channel, you’ll get a pop-up with an icon at the bottom right where you can instantly switch on your camera.
 
 ![Discord Server Video Call on mobile  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you prefer, you can still just join as voice, and then at any stage click on your name where you’ll be able to then switch on your camera to turn a voice chat into a video call.
 
@@ -147,24 +147,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-crafting-a-graceful-exit-from-discord-communities/"><u>[New] 2024 Approved Crafting a Graceful Exit From Discord Communities</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/onvert-and-edit-wonders-select-10-best-youtube-converters-for-2024/"><u>[New] Convert & Edit Wonders Select 10 Best YouTube Converters for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-discord-spoiler-tag-all-you-need-to-know-for-2024/"><u>[New] Discord Spoiler Tag All You Need to Know for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-diving-deeper-into-webcam-possibilities-for-2024/"><u>[New] Diving Deeper Into Webcam Possibilities for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-how-to-make-discord-video-calls-on-desktop-and-mobile/"><u>[New] In 2024, How to Make Discord Video Calls on Desktop and Mobile</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-sever-connection-desktop-and-mobile-discord/"><u>[New] Sever Connection - Desktop & Mobile Discord</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/imple-strategies-for-stellar-sports-highlights/"><u>[New] Simple Strategies for Stellar Sports Highlights</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-streamline-your-view-adding-captions-on-windows-media-player-for-2024/"><u>[New] Streamline Your View Adding Captions on Windows Media Player for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-5-leading-3d-video-entrance-design-tools-for-2024/"><u>[Updated] 5 Leading 3D Video Entrance Design Tools for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-discovering-the-basics-of-streaming-via-discord/"><u>[Updated] In 2024, Discovering the Basics of Streaming via Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-elevate-your-game-top-bot-picks-for-servers/"><u>[Updated] In 2024, Elevate Your Game Top Bot Picks for Servers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-useful-tips-to-make-your-instagram-video-viral/"><u>[Updated] Useful Tips to Make Your Instagram Video Viral</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-the-ultimate-compilation-of-tips-for-incorporating-gifs-into-discord-conversations/"><u>2024 Approved The Ultimate Compilation of Tips for Incorporating GIFs Into Discord Conversations</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/deciphering-the-code-of-conduct-your-practical-guide-to-filing-reports-in-online-spaces-like-discord-for-2024/"><u>Deciphering the Code of Conduct Your Practical Guide to Filing Reports in Online Spaces Like Discord for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-find-peace-and-power-the-10-greatest-yoga-channels-online/"><u>In 2024, Find Peace & Power The 10 Greatest Yoga Channels Online</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-stepwise-guide-to-youtube-video-enhancement-in-imovie/"><u>In 2024, Stepwise Guide to YouTube Video Enhancement in iMovie</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-viberushers-top-10-themes-betterdiscord-style/"><u>In 2024, VibeRusher’s Top 10 Themes - BetterDiscord Style</u></a></li>
-<li><a href="https://win-forum.techidaily.com/tackling-full-storage-resolve-100-disk-use-on-windows-10/"><u>Tackling Full Storage: Resolve 100% Disk Use on Windows 10</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-prolonged-start-up-for-star-wars-battlefront-ii-on-personal-computers/"><u>Troubleshooting Prolonged Start-Up for Star Wars Battlefront II on Personal Computers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-cutting-ties-in-cyberspace-an-exit-strategy-from-discords-for-2024/"><u>[New] Cutting Ties in Cyberspace An Exit Strategy From Discords for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-guide-on-populating-emojis-in-discord-user-status-field/"><u>[New] In 2024, Guide on Populating Emojis in Discord User Status Field</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-leveraging-discord-for-efficient-media-broadcasting-techniques/"><u>[New] Leveraging Discord for Efficient Media Broadcasting Techniques</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-simplifying-server-removal-for-desktopmobile-use-for-2024/"><u>[New] Simplifying Server Removal for Desktop/Mobile Use for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-raising-the-bar-youtubes-live-streaming-excellence/"><u>[Updated] 2024 Approved Raising the Bar YouTube's Live Streaming Excellence</u></a></li>
+<li><a href="https://media-tips.techidaily.com/2-resolving-playback-problems-ensuring-smooth-youtube-streaming-on-apple-tv-for-optimal-viewing-experience/"><u>2. Resolving Playback Problems: Ensuring Smooth YouTube Streaming on Apple TV for Optimal Viewing Experience</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-how-to-terminate-your-own-discord-server-pcmobile/"><u>2024 Approved How to Terminate Your Own Discord Server (PC/Mobile)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-s23-tactical-edition-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy S23 Tactical Edition without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic-vs-2-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Magic Vs 2 Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-oneplus-ace-2-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For OnePlus Ace 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725285481575-iphonedvd/"><u>IPhoneでコピープロテクトありのDVDフリーダウンロード: 危険無し解説・使い方</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-handbrake-nightly-replacements-for-swift-hassle-free-dvd-ripping-solutions/"><u>Top Handbrake Nightly Replacements for Swift, Hassle-Free DVD Ripping Solutions</u></a></li>
 </ul></div>
 

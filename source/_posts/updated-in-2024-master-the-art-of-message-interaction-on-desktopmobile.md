@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Master the Art of Message Interaction on Desktop/Mobile"
-date: 2024-12-15T01:21:43.457Z
-updated: 2024-12-16T01:53:45.718Z
+date: 2024-12-18T19:48:38.358Z
+updated: 2024-12-24T20:59:26.006Z
 tags:
   - ai video
   - ai discord
@@ -53,10 +53,6 @@ This technique works for both the browser and the desktop applications; use it w
 
 ![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Hover your cursor on the comment as you see icons on the right of the message
 2. Now click on the arrow icon
 3. Alternatively, you might have to click on the ellipsis icon (…) if you are replying to a comment by yourself
@@ -67,7 +63,7 @@ This technique works for both the browser and the desktop applications; use it w
 ![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Reply to a Certain Message on Discord Mobile
@@ -79,6 +75,10 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 3. Choose the "Reply" option
 
 ![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
 2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
@@ -101,16 +101,12 @@ Here's an example of how you can implement this feature in your server. In this 
 
 ![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
 ![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
@@ -124,6 +120,10 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 
 ![add reactions to message replying on Discord ](https://images.wondershare.com/filmora/article-images/add-reactions-reply-message-discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. After clicking on the "Add reaction" icon, a pop-up will appear, allowing you to choose the emoji you wish to react with.
 
 ![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
@@ -134,7 +134,7 @@ Furthermore, to react to a message with an emoji that has already been used as a
 2. Hovering over the emoji will also let you know the names of the people who reacted to the message
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: How to Quote Messages on Discord?
@@ -143,16 +143,16 @@ Quoting messages in Discord is very simple. All you need to do is type > before 
 
 ![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
 
 1. Add > after every line. However, this can become annoying
 2. Instead, add >>> at the start of the paragraph you wish to quote
 
 ![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -171,22 +171,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-virtual-frontier-googles-cardboard-meets-samsung-gear/"><u>[New] Exploring the Virtual Frontier Google's Cardboard Meets Samsung Gear</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-master-your-vision-with-these-6-premier-nft-tools/"><u>[New] Master Your Vision with These 6 Premier NFT Tools</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-enhancing-discord-communication-addition-of-emoji-based-statues/"><u>[Updated] 2024 Approved Enhancing Discord Communication Addition of Emoji-Based Statues</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-efficiently-utilizing-discord-spoiler-features/"><u>[Updated] In 2024, Efficiently Utilizing Discord Spoiler Features</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-use-discord-text-to-speech/"><u>[Updated] In 2024, How to Use Discord Text-To-Speech?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-instagram-mavens-guide-to-spectaculous-unboxing-reels/"><u>[Updated] In 2024, The Instagram Maven's Guide to Spectaculous Unboxing Reels</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-depth-examination-of-googles-ar-sticker-technology-and-alternatives-for-2024/"><u>[Updated] In-Depth Examination of Google's AR Sticker Technology & Alternatives for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-look-is-inshot-the-premier-editing-tool/"><u>[Updated] In-Depth Look Is InShot the Premier Editing Tool?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-mastering-live-broadcasts-your-step-by-step-guide-to-discord-streaming/"><u>[Updated] Mastering Live Broadcasts Your Step-by-Step Guide to Discord Streaming</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-unlocking-the-potential-of-live-broadcasting-on-discord/"><u>[Updated] Unlocking the Potential of Live Broadcasting on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/demystifying-discords-features-and-tools-for-2024/"><u>Demystifying Discord's Features and Tools for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-sony-xperia-10-v-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Sony Xperia 10 V Phone? | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-navigating-message-reactions-with-ease-discord/"><u>In 2024, Navigating Message Reactions with Ease (Discord)</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/learn-to-download-discord-videos-without-cost-on-all-devices/"><u>Learn to Download Discord Videos Without Cost on All Devices</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-11-pro-max-using-find-my-iphone-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 11 Pro Max using find my iphone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-top-12-free-animation-tools-for-windows-and-macos/"><u>Updated Top 12 Free Animation Tools for Windows and macOS</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728488890868-windows-11-hdd/"><u>Windows 11 システムのスムーズな移行:新HDDへの絶妙な設定手順</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-a-journey-from-prose-to-picture-play-for-2024/"><u>[New] A Journey From Prose to Picture Play for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-guide-to-hosting-channels-with-real-time-video-streaming/"><u>[New] Guide to Hosting Channels with Real-Time Video Streaming</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-income-with-mobile-video-monetization-techniques-for-youtubers/"><u>[New] In 2024, Elevating Income with Mobile Video Monetization Techniques for YouTubers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-unveiling-all-about-discord-stickers/"><u>[New] In 2024, Unveiling All About Discord Stickers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-safe-exit-procedures-for-departing-discord-servers/"><u>[Updated] 2024 Approved Safe Exit Procedures for Departing Discord Servers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-how-to-securely-download-youtubes-srt-subtitles-for-2024/"><u>[Updated] How to Securely Download YouTube's SRT Subtitles for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigating-discord-server-deletion-desktopmobile/"><u>[Updated] In 2024, Navigating Discord Server Deletion (Desktop/Mobile)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-step-by-step-process-for-adding-unique-emojis-to-your-discord-avatar-pcmobile/"><u>[Updated] Step-By-Step Process for Adding Unique Emojis to Your Discord Avatar (PC/Mobile)</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-secret-life-of-a-designer-canvas-hidden-edits/"><u>2024 Approved The Secret Life of a Designer Canva's Hidden Edits</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nce-allure-powerful-hashtags-that-transform-youtube-shorts-for-2024/"><u>Audience Allure Powerful Hashtags That Transform YouTube Shorts for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-gadgets-with-toms-hardware-insights/"><u>Exploring the World of Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-update-lenovo-thunderbolt-3-portable-docking-station-software-fixes/"><u>Latest Update: Lenovo Thunderbolt 3 Portable Docking Station Software Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nier-replicant-stability-enhanced-say-goodbye-to-game-crashes/"><u>NieR: Replicant Stability Enhanced – Say Goodbye to Game Crashes!</u></a></li>
 </ul></div>
 

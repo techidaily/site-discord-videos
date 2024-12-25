@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Get Your COD: Vanguard Voice Chat Running Smoothly Again!"
-date: 2024-12-11T00:20:38.165Z
-updated: 2024-12-16T00:40:51.535Z
+date: 2024-12-20T01:51:09.889Z
+updated: 2024-12-24T23:26:11.025Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
 **Voice chat not working in Fortnite?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Fortnite players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -30,15 +34,15 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Sign out Fortnite, then sign back in
 
  This is the quickest and easiest fix to try when chat’s not working in Fortnite. Just sign out of the game, then sign back in.
 
  Now run the game again and test to see whether chat is working. If it’s not, move on to Fix 2, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your sound card driver
 
@@ -54,19 +58,15 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Fortnite patch
 
@@ -92,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Make sure your microphone is on for Fortnite
 
  If you downloaded Fortnite from**the Microsoft Store** , check if it has permission to use your microphone. Here’s how to do it:
@@ -104,15 +108,7 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Check your audio settings
 
@@ -135,7 +131,7 @@ iii. Exit Fortnite.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Click the **Playback** tab, select the speakers/headphones you’re using and click **Set Default** .
@@ -146,19 +142,23 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6\. Click **OK** .
 
  7\. Run Fortnite again to**turn Voice Chat on.**
 
  Join a squad to check ifchat is now working . If not, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Fortnite
 
@@ -169,7 +169,7 @@ iii. Exit Fortnite.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap940.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2\. Click**Uninstall** to uninstall Fortnite.
@@ -205,19 +205,24 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-effective-screenrecording-practices-for-professionals/"><u>[New] 2024 Approved Effective ScreenRecording Practices for Professionals</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-the-ultimate-blueprint-for-successful-discord-live-streams/"><u>[New] 2024 Approved The Ultimate Blueprint for Successful Discord Live Streams</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-from-silence-to-significance-replying-in-discord-chats/"><u>[New] In 2024, From Silence to Significance Replying in Discord Chats</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-integrating-spotify-and-discord-a-complete-guide/"><u>[New] In 2024, Integrating Spotify & Discord A Complete Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/inpointing-potential-a-youtube-niche-journey/"><u>[New] Pinpointing Potential A Youtube Niche Journey</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-transitioning-smoothly-from-your-discord-networks-for-2024/"><u>[New] Transitioning Smoothly From Your Discord Networks for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-essential-tips-for-navigating-discord-spoilers/"><u>[Updated] Essential Tips for Navigating Discord Spoilers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-flawless-online-invitation-crafting-youtube-subscription-buttons-for-2024/"><u>[Updated] Flawless Online Invitation Crafting YouTube Subscription Buttons for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725285723640-dvd/"><u>最適な DVD 保存方法：パソコンへの移行手順とヒント</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/exploring-the-storage-capabilities-across-multiple-dvd-sizes-and-types/"><u>Exploring the Storage Capabilities Across Multiple DVD Sizes and Types</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-do-youtubers-get-paid-monthly/"><u>In 2024, Do YouTubers Get Paid Monthly?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-video-platform-profiles-vimeo-vs-youtube-comparison/"><u>In 2024, Video Platform Profiles Vimeo vs YouTube Comparison</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/optimal-strategies-top-ways-to-enhance-your-experience-with-lvf-files/"><u>Optimal Strategies: Top Ways to Enhance Your Experience with LVF Files</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-fate-of-floppy-disks-from-obsolescence-to-unlikely-survivors-in-modern-transportation/"><u>The Fate of Floppy Disks: From Obsolescence to Unlikely Survivors in Modern Transportation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-solo-sound-setback-fix-it-now/"><u>[New] 2024 Approved Solo Sound Setback Fix It Now</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-epic-virtual-truths-top-30-metaverse-reflections-arvr/"><u>[Updated] Epic Virtual Truths Top 30 Metaverse Reflections [AR/VR]</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1-dvd-avi/"><u>1. DVDへの変換: AVI動画ファイルが安上がりで入手可能なコツ</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726027057171-mswmmwmvmp4avimov/"><u>多彩なビデオ形式へのMSWMM変換手順：WMV、MP4、AVI、MOV</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028386306-5/"><u>録画した動画を効果的に編集する上位5つのツールとアプリ:お選びください</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726027323293-windows-11/"><u>最適化されたWindows 11のビデオカット手順チュートリアル</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/beginners-blueprint-to-youtube-streaming-games-for-2024/"><u>Beginner's Blueprint to YouTube Streaming Games for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-s17t-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo S17t Phone that is Locked?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-nokia-c12-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Nokia C12 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamlessly-switch-from-mpeg-to-g2-online-using-movavis-no-cost-file-conversion-tool/"><u>Seamlessly Switch From MPEG to ^G2 Online Using Movavi's No-Cost File Conversion Tool</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/skyrocketing-engagement-on-igtv-with-smart-hash-tagging/"><u>Skyrocketing Engagement on IGTV with Smart Hash Tagging</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-computer-experience-enabledisable-windows-key/"><u>Streamline Your Computer Experience: Enable/Disable Windows Key</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tailor-your-email-experience-with-unique-mail-sounds-on-googles-platform/"><u>Tailor Your Email Experience with Unique Mail Sounds on Google's Platform</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ultimate-guide-to-free-xvid-file-transformation-into-mp4-format-on-pcs-a-seamless-experience-for-windows-owners/"><u>Ultimate Guide to Free Xvid File Transformation Into MP4 Format on PCs: A Seamless Experience for Windows Owners</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ultimate-guide-effortlessly-removing-audio-from-avi-files/"><u>Ultimate Guide: Effortlessly Removing Audio From AVI Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/why-is-video-repair-failing-in-some-files/"><u>Why Is Video Repair Failing in some Files?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/windows-11-snipping-tool/"><u>Windows 11 Snipping Toolを使った効果的なスクリーンショット撮影テクニック</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/windows-pcandline-live/"><u>Windows PC対応のダウンロード&録画によるLINE LIVE動画保存手順</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/youtube5/"><u>YouTubeやその他動画サイトから映像コンテンツを安全にダウンロード：トップ5アプリ紹介</u></a></li>
 </ul></div>
 

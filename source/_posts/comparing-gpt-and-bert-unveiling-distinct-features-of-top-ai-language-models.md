@@ -1,7 +1,7 @@
 ---
 title: "Comparing GPT and BERT: Unveiling Distinct Features of Top AI Language Models"
-date: 2024-12-10T00:58:19.354Z
-updated: 2024-12-16T08:43:05.897Z
+date: 2024-12-18T00:29:12.110Z
+updated: 2024-12-25T02:44:39.311Z
 tags:
   - chatgpt
   - open-ai
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 ## Bard Versus ChatGPT versus Alpaca: Ranking the Leading Large Language Models
 
  Large language models (LLMs) come in all shapes and sizes, and will assist you in any way you see fit. But which is best? We put the dominant AIs from Alphabet, OpenAI, and Meta to the test.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What You Need to Know About AI Chatbots
 
@@ -35,15 +39,15 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which Is the Most Private Large Language Model?
 
@@ -58,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
  OpenAI's Privacy policy is broadly similar and collects IP address and usage data. In contrast with Google's time-limited retention, OpenAI will "retain your Personal Information for only as long as we need in order to provide our Service to you, or for other legitimate business purposes such as resolving disputes, safety and security reasons, or complying with our legal obligations."
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which LLM Has the Best General Knowledge?
 
@@ -75,13 +83,13 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
@@ -95,29 +103,21 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
@@ -154,20 +154,20 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-deciphering-youtubes-processing-after-uploading/"><u>[New] 2024 Approved Deciphering YouTube's Processing After Uploading</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-skyrocket-your-channel-to-over-a-million-subscribers/"><u>[New] 2024 Approved Skyrocket Your Channel to Over a Million Subscribers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-cutting-ties-in-cyberspace-an-exit-strategy-from-discords-for-2024/"><u>[New] Cutting Ties in Cyberspace An Exit Strategy From Discords for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-guide-to-hosting-channels-with-real-time-video-streaming/"><u>[New] Guide to Hosting Channels with Real-Time Video Streaming</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-guide-on-populating-emojis-in-discord-user-status-field/"><u>[New] In 2024, Guide on Populating Emojis in Discord User Status Field</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-unveiling-all-about-discord-stickers/"><u>[New] In 2024, Unveiling All About Discord Stickers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-safe-exit-procedures-for-departing-discord-servers/"><u>[Updated] 2024 Approved Safe Exit Procedures for Departing Discord Servers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigating-discord-server-deletion-desktopmobile/"><u>[Updated] In 2024, Navigating Discord Server Deletion (Desktop/Mobile)</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-step-by-step-process-for-adding-unique-emojis-to-your-discord-avatar-pcmobile/"><u>[Updated] Step-By-Step Process for Adding Unique Emojis to Your Discord Avatar (PC/Mobile)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/buy-authentic-winx-video-transcoder-tool-for-hd-conversion-secure-online-purchase/"><u>Buy Authentic WinX Video Transcoder Tool for HD Conversion – Secure Online Purchase</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nubia-red-magic-9-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/uffering-time-turn-on-av1-in-youtube-settings/"><u>Cut Buffering Time – Turn On AV1 in YouTube Settings</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-installation-of-nvidia-1080-drivers-on-a-windows-11-system-how-to-guide/"><u>Effortless Installation of NVIDIA 1080 Drivers on a Windows 11 System: How to Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/top-7-free-dvd-player-applications-compatible-with-windows-11-watch-movies-at-no-charge/"><u>Top 7 Free DVD Player Applications Compatible with Windows 11: Watch Movies at No Charge</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/leshooting-made-easy-youtube-shorts-edition/"><u>Troubleshooting Made Easy YouTube Shorts Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-screen-sharing-on-discord/"><u>[Updated] 2024 Approved Mastering Screen Sharing on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-beginners-path-to-becoming-a-discord-live-stream-guru/"><u>[Updated] 2024 Approved The Beginner's Path to Becoming a Discord Live Stream Guru</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-comparative-review-smartphone-usage-of-the-leading-video-apps-for-2024/"><u>[Updated] Comparative Review Smartphone Usage of the Leading Video Apps for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-in-class-business-data-cradle/"><u>[Updated] In 2024, Best in Class Business Data Cradle</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-essential-skills-for-effective-discord-message-pinning/"><u>[Updated] In 2024, Essential Skills for Effective Discord Message Pinning</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-essential-guide-crafting-a-standout-discord-profile-with-custom-emojis/"><u>[Updated] The Essential Guide Crafting a Standout Discord Profile with Custom Emojis</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-advanced-conversational-machines-discord/"><u>2024 Approved Advanced Conversational Machines (Discord)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-future-is-virtual-making-and-sharing-immersive-footage-for-fb/"><u>2024 Approved The Future Is Virtual Making and Sharing Immersive Footage for FB</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-fixing-the-tracking-difficulties-on-a-magic-mouse/"><u>A Step-by-Step Guide: Fixing The Tracking Difficulties on a Magic Mouse</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-discover-betterdiscords-top-10-trending-themes/"><u>In 2024, Discover BetterDiscord's Top 10 Trending Themes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/leaving-with-honor-a-disconnect-guide-for-servers/"><u>Leaving with Honor A Disconnect Guide for Servers</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-typing-problems-on-your-pc-windows-11-7-and-8/"><u>Solving Typing Problems on Your PC (Windows 11, 7 & 8)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncover-top-tier-pc-hardware-secrets-with-toms-insider-information/"><u>Uncover Top-Tier PC Hardware Secrets with Tom's Insider Information</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-creativity-in-iphone-videography-8-best-practices-for-2024/"><u>Unleashing Creativity in iPhone Videography 8 Best Practices for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/usb-windows/"><u>USB接続デバイスとの自動同期にはどうすればいいか？ Windowsパソコン</u></a></li>
 </ul></div>
 

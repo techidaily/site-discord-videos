@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Responding Right  A Comprehensive Guide to Discord Communication\""
-date: 2024-12-12T07:48:10.353Z
-updated: 2024-12-15T22:28:30.406Z
+date: 2024-12-22T01:12:41.012Z
+updated: 2024-12-25T02:31:19.330Z
 tags:
   - ai video
   - ai discord
@@ -46,7 +46,7 @@ In this article, we will cover the following parts on how to reply to messages o
 * [Part 5: Quoting Messages on Discord?](#part5)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Reply to a Specific Message on Discord on Desktop
@@ -57,6 +57,10 @@ This technique works for both the browser and the desktop applications; use it w
 
 ![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Hover your cursor on the comment as you see icons on the right of the message
 2. Now click on the arrow icon
 3. Alternatively, you might have to click on the ellipsis icon (…) if you are replying to a comment by yourself
@@ -65,6 +69,10 @@ This technique works for both the browser and the desktop applications; use it w
 6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
 
 ![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Reply to a Certain Message on Discord Mobile
 
@@ -75,10 +83,6 @@ Replying on the mobile app is similar to Desktop. Here's how to do it:
 3. Choose the "Reply" option
 
 ![reply  message  on Discord mobile](https://images.wondershare.com/filmora/article-images/reply-discord-message-mobile.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Write your reply in the text box. Like before, the person will be tagged by default, but you can turn this off by tapping the blue "@" sign
 2. After you are done writing, send the message using the enter button on your phone or tap "X" to discard the message
@@ -95,6 +99,10 @@ Here's an example of how you can implement this feature in your server. In this 
 
 ![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
@@ -105,15 +113,7 @@ Here's an example of how you can implement this feature in your server. In this 
 
 ![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to Reply to Messages with Reactions on Discord
 
@@ -128,6 +128,10 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 
 ![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
 
 1. Click on the emoji, and it would increase the total number of responses by 1
@@ -139,10 +143,6 @@ Quoting messages in Discord is very simple. All you need to do is type > before 
 
 ![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
 
 1. Add > after every line. However, this can become annoying
@@ -151,7 +151,7 @@ On the other hand, multi-line quoting is when you need to quote a paragraph or b
 ![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -171,14 +171,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-reset-password-quickly-regaining-access-post-hack/"><u>[New] Reset Password Quickly Regaining Access Post-Hack</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-starlit-secrets-dos-and-donts-of-astrophotography/"><u>[Updated] In 2024, Starlit Secrets Do's & Don'ts of Astrophotography</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-sever-link-pc-and-mobile-devices-discord/"><u>[Updated] Sever Link - PC & Mobile Devices Discord</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-superior-download-manager-best-youtube-downloader-apps/"><u>[Updated] Superior Download Manager Best YouTube Downloader Apps</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-quick-react-guide-efficiently-answering-discord-messages/"><u>2024 Approved Quick-React Guide Efficiently Answering Discord Messages</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/explore-free-youtube-pic-themes/"><u>Explore Free YouTube Pic Themes</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-setting-the-stage-for-success-zoom-configuration-101/"><u>In 2024, Setting the Stage for Success Zoom Configuration 101</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-unleash-the-power-of-style-in-your-discord-chats/"><u>In 2024, Unleash the Power of Style in Your Discord Chats</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unmasking-silence-how-to-speak-up-and-document-toxicity-in-virtual-communities-like-discord/"><u>Unmasking Silence How to Speak Up and Document Toxicity in Virtual Communities Like Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-demystifying-discords-spoiler-functionality/"><u>[New] Demystifying Discord’s Spoiler Functionality</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-from-novice-to-pro-your-discord-broadcast-journey/"><u>[New] From Novice to Pro Your Discord Broadcast Journey</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-crafting-an-eye-catching-discord-avatar-picture/"><u>[New] In 2024, Crafting an Eye-Catching Discord Avatar Picture</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/utorial-tracking-down-your-youtube-comments/"><u>[New] Tutorial Tracking Down Your YouTube Comments</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-essential-know-how-for-getting-started-on-discord-live/"><u>[Updated] 2024 Approved Essential Know-How for Getting Started on Discord Live</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-art-of-recording-facebook-lives-discover-4-key-strategies/"><u>[Updated] 2024 Approved The Art of Recording Facebook Lives Discover 4 Key Strategies</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unveiling-personalization-updating-user-status-and-images-in-discord/"><u>[Updated] 2024 Approved Unveiling Personalization Updating User Status and Images in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-exclusive-couples-spaces-on-discord-platform/"><u>[Updated] Exclusive Couple's Spaces on Discord Platform</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-streamline-your-life-quick-tips-to-beginning-on-discord-broadcasts/"><u>[Updated] In 2024, Streamline Your Life Quick Tips to Beginning on Discord Broadcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-and-secure-video-shipment-sending-oversized-content-from-ios/"><u>2024 Approved Swift & Secure Video Shipment Sending Oversized Content From iOS</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/abbyy-automatisierte-intelligenz-innovative-losungen-auf-der-expo-fur-dienstleistungsverlagerung-und-konsolidierung/"><u>ABBYY-Automatisierte Intelligenz: Innovative Lösungen Auf Der Expo Für Dienstleistungsverlagerung Und Konsolidierung</u></a></li>
+<li><a href="https://extra-information.techidaily.com/close-up-a-guide-to-richer-minecraft-imagery-for-2024/"><u>Close-Up A Guide to Richer Minecraft Imagery for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-video-card-software-for-pcs/"><u>Get the Newest AMD Video Card Software for PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-11-pro-max-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 11 Pro Max System? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a1x-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A1x 5G to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
 

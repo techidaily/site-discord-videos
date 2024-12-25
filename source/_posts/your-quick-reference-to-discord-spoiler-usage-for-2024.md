@@ -1,7 +1,7 @@
 ---
 title: "Your Quick Reference to Discord Spoiler Usage for 2024"
-date: 2024-12-12T06:28:24.005Z
-updated: 2024-12-15T19:50:27.120Z
+date: 2024-12-23T03:57:49.032Z
+updated: 2024-12-25T05:51:44.427Z
 tags:
   - ai video
   - ai discord
@@ -36,12 +36,16 @@ Thankfully, Discord came out with the perfect solution. Now, if you are sharing 
 * [Bonus: Is it the same to use Spoiler on Mobile devices?](#part3)
 * [Bonus: How to turn off the Spoiler tag?](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Spoilers on Discord to Hide Text Messages?
 
 And now we come to the point - **how to do spoilers on Discord**? Well, there are two ways to do it. You can run through both of them and choose whichever suits you the best. All the methods are simple to follow. Note that some are available only on the desktop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Adding Spoiler Text Via Tag on Discord
@@ -56,15 +60,15 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 
 ![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
 ![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -77,15 +81,7 @@ This alternate method is quite simple. This was a recent update on Discord that 
 
 ![add spoiler marker on Discord](https://images.wondershare.com/filmora/article-images/add-spoiler-icon.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This method is available only on the Discord desktop app and browser version. For iOS, the steps are similar. The only difference is that you have to select the spoiler mark from the context menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Add Spoiler to Image and Video on Discord?
 
@@ -107,6 +103,10 @@ Images can be tagged as spoilers before you upload them on servers. To add spoil
 
 Note that spoilers that contain images, videos, or other multimedia files can be sent only on the desktop app or the browser. Mobile apps do not support spoiler marks for images or other media files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus: Is it the same to use Spoiler on Mobile devices?
 
 The **Discord mobile spoiler** tag works the same on mobile apps. The process is more or less the same. Here is a quick rundown of the steps –
@@ -120,6 +120,10 @@ You can even mark embedded links as spoilers with the same process. But this doe
 
 For iOS, you can select and highlight the text that you want to hide. Then, tap open the context menu and click on the ‘Mark as Spoiler’ to hide the text.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus: How to turn off the Spoiler tag?
 
 For some reason, you may want to remove the spoiler tag from the spoiler texts. In that case, open the User Settings and tap on Text & Images. Scroll down to the Show Spoiler Content tab and you will see options to control when spoiler content is displayed. You can choose to display on click, on servers I moderate, and always.
@@ -127,10 +131,6 @@ For some reason, you may want to remove the spoiler tag from the spoiler texts. 
 If you want to display all spoiler content, choose Always to turn off the spoiler tag. You can hide them again through the same menu if you change your mind.
 
 ![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
@@ -151,16 +151,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-pro-tips-for-efficient-message-reactions-on-discord/"><u>[New] 2024 Approved Pro Tips for Efficient Message Reactions on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-revolutionary-discothemes-a-top-10-showcase/"><u>[New] 2024 Approved Revolutionary DiscoThemes - A Top 10 Showcase</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-enhancing-discord-communication-with-tts-for-2024/"><u>[Updated] Enhancing Discord Communication with TTS for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-selling-success-on-facebook-ideas-and-strategies-to-try/"><u>[Updated] In 2024, Selling Success on Facebook Ideas and Strategies to Try</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-innovative-emoji-design-software-that-transforms-discord/"><u>[Updated] Innovative Emoji Design Software that Transforms Discord</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-strategies-for-effective-scheduling-of-digital-meetups-for-2024/"><u>[Updated] Strategies for Effective Scheduling of Digital Meetups for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-creative-trail-steps-towards-thriving-as-a-designer/"><u>2024 Approved The Creative Trail Steps Towards Thriving as a Designer</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ced-audio-experience-top-5-game-headsets-for-streaming/"><u>Enhanced Audio Experience Top 5 Game Headsets for Streaming</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-launch-errors-in-epic-games-new-world-implementing-effective-solutions-for-easy-anti-cheat/"><u>Fixing Launch Errors in Epic Games' New World: Implementing Effective Solutions for Easy Anti-Cheat</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/from-novice-to-nexus-steps-for-earning-your-verified-status-on-discord-for-2024/"><u>From Novice to Nexus Steps for Earning Your Verified Status on Discord for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-overcome-youtube-tweet-buffer-in-chromebook/"><u>In 2024, Overcome YouTube Tweet Buffer in Chromebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-exposing-concealed-viewers-feedback-on-videos/"><u>[New] 2024 Approved Exposing Concealed Viewers' Feedback on Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-complete-guide-to-downloading-setting-up-and-using-obs-on-macos-for-2024/"><u>[New] The Complete Guide to Downloading, Setting up and Using OBS on macOS for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-global-stage-excellent-live-soundscape/"><u>[Updated] Global Stage Excellent Live Soundscape</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/bypassing-dvd-region-codes-easy-methods-to-enjoy-any-movie-worldwide/"><u>Bypassing DVD Region Codes: Easy Methods to Enjoy Any Movie Worldwide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/comprehensive-summary-overview/"><u>Comprehensive Summary Overview</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/demystifying-dvd-region-code-emboldening-rce-learn-about-its-safeguards-and-overcoming-restrictions-methods/"><u>Demystifying DVD Region-Code Emboldening (RCE) - Learn About Its Safeguards & Overcoming Restrictions Methods</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discover-6-free-premium-mkv-splitters-for-crystal-clear-video-clipping-a-guide-to-high-quality-content-editing/"><u>Discover 6 Free Premium MKV Splitters for Crystal Clear Video Clipping: A Guide to High-Quality Content Editing</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discover-the-best-free-music-download-platforms-of-the-year-ranked/"><u>Discover the Best Free Music Download Platforms of the Year - Ranked!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/dvdfabh264-aacdvd/"><u>DVDFabではないH.264 AACフォーマットへのDVDコピー方法</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210251818-9781071591826-el-arte-olvidado-de-la-felicidad/"><u>El Arte Olvidado de la Felicidad | Free Book</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722972305676-get-the-most-recent-windows-1110-compatible-wifi-6-ax200-drivers-from-intel-now-available/"><u>Get the Most Recent Windows 11/10 Compatible WiFi 6 AX200 Drivers From Intel - Now Available</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premier-picks-top-tripods-for-crystal-clear-4k-cinematography/"><u>Premier Picks Top Tripods for Crystal-Clear 4K Cinematography</u></a></li>
+<li><a href="https://win-web.techidaily.com/rethinking-convenience-the-downsides-of-buying-premixed-fire-starter-packs-or-fire-sticks-for-your-adventures/"><u>Rethinking Convenience: The Downsides of Buying Premixed Fire Starter Packs or 'Fire Sticks' For Your Adventures</u></a></li>
 </ul></div>
 

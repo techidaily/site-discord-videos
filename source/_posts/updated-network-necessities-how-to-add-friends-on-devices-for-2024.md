@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Network Necessities  How to Add Friends on Devices for 2024\""
-date: 2024-12-15T02:29:38.793Z
-updated: 2024-12-15T20:10:18.458Z
+date: 2024-12-21T03:15:54.071Z
+updated: 2024-12-24T23:03:29.582Z
 tags:
   - ai video
   - ai discord
@@ -32,7 +32,7 @@ If you are new to discord, it might take you a while to get the hang of the app.
 Before that – why would you want to add friends on Discord? Well, why not! You can chat with them personally, show off your gaming skills by streaming games, or add them to your servers!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Add Friends on Discord on Computer?
@@ -50,21 +50,21 @@ If you are using a desktop app or the website, here is how you can add friends -
 
 ![ Add friends directly on Discord](https://images.wondershare.com/filmora/article-images/add-friends-directly-discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. In the menu that appears, input your friend's discord tag in the search box. Make sure that the capitalization, spelling, spaces or numbers are correct.
 2. Hit the send friend request button to send the friend request.
 
 ![ Send friends request on Discord](https://images.wondershare.com/filmora/article-images/send-friend-request-on-discord.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. The friend will appear in your friend list once they accept your friend request.
 
 Now you can chat with them personally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. How to add friends on Discord Server
@@ -100,16 +100,16 @@ If you have some friends that you do not share common channels with, you can add
 
 ![ add friends on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friend-on-discord-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Then tap on the ‘Add friend’ symbol that appears toward the top under the right side.
 2. A box appears. Enter the discord username and the tag number.
 3. Hit the send friend request button once the search result appears.
 4. Your friend request will be sent. The friend would be visible in your friend's list once they have approved your friend request.
 
 Once your friend is added, you can directly message them or call them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How to add friends on Discord Server
 
@@ -125,14 +125,14 @@ Follow these steps to add a friend that you met on the server.
 
 ![ add friends to server on Discord mobile](https://images.wondershare.com/filmora/article-images/add-friends-from-server-on-discord-mobile.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Your friend request will be delivered.
 2. Once they approve, they will be a part of your friend list.
 
 Likewise, you can build a community of your own by creating a new server. You can invite your friends or people that you met while playing games or obsessing over some fandom.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Find Someone and Add Friends on Discord Without Number
 
@@ -149,10 +149,6 @@ In case you have been using discord for a while, you might have realized that th
 
 ![ add friends to server on Discord mobile with nearby scan feature](https://images.wondershare.com/filmora/article-images/add-friends-nearby-scan-discord.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. When your friend gets detected, they appear on the radar.
 2. Hit the ‘Send’ button to send a Friend Request.
 3. Once they accept your request, they will make their way to your Friends List.
@@ -162,6 +158,10 @@ Note that this method only works on the mobile app (it doesn't matter if you hav
 Further, you and your friend both must be on the Nearby Scan mode to connect with this feature. This method only works for connections that are within a 10-meter radius. So, if your pal is from a whole different continent, you will need a user tag to add them as friends.
 
 If you and the person you want to add are on the same server, you can add them through the channel user lists, as we discussed above.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: How to Add friends on Discord without user tag via an invitation link
 
@@ -204,20 +204,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-eagle-eye-recorder-insights-software/"><u>[New] 2024 Approved Eagle Eye Recorder Insights Software</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-learn-to-download-discord-videos-without-cost-on-all-devices/"><u>[New] 2024 Approved Learn to Download Discord Videos Without Cost on All Devices</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-ultimate-blueprint-for-successful-discord-live-streams/"><u>[New] In 2024, The Ultimate Blueprint for Successful Discord Live Streams</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-navigate-discords-streaming-landscape-a-comprehensive-tutorial/"><u>[New] Navigate Discord's Streaming Landscape A Comprehensive Tutorial</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-disco-diplomats-manual-how-to-respond-effectively/"><u>[Updated] 2024 Approved The Disco Diplomat's Manual How to Respond Effectively</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-capturing-quality-should-you-choose-30-or-60-fps-for-2024/"><u>[Updated] Capturing Quality Should You Choose 30 or 60 FPS for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-easy-steps-to-setting-up-a-professional-discord-stream/"><u>[Updated] Easy Steps to Setting Up a Professional Discord Stream</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-on-screen-labels-and-descriptions-for-video-files-windows-11/"><u>[Updated] Mastering On-Screen Labels and Descriptions for Video Files (Windows 11)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-efficiency-the-editors-guide-to-speed-control/"><u>2024 Approved Unlock Efficiency The Editor's Guide to Speed Control</u></a></li>
-<li><a href="https://win-dash.techidaily.com/amd-miner-driver-update-and-installation-tutorial-for-enhanced-blockchain-performance-on-windows-systems/"><u>AMD Miner Driver Update & Installation Tutorial for Enhanced Blockchain Performance on Windows Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-y28-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo Y28 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/enhancing-discord-status-with-bespoke-emojis-on-pc-and-mobile-for-2024/"><u>Enhancing Discord Status with Bespoke Emojis on PC & Mobile for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-brother-hl-2240-printer-software-for-optimal-performance-on-your-windows-machine/"><u>Get the Latest Brother HL-2240 Printer Software for Optimal Performance on Your Windows Machine!</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-breaking-down-discords-report-mechanism-for-clarity-and-action/"><u>In 2024, Breaking Down Discord’s Report Mechanism for Clarity and Action</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/innovative-screen-capture-tools-review-top-10-free-selections/"><u>Innovative Screen Capture Tools Review Top 10 Free Selections</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-uncovering-steps-to-pinpoint-perfect-discord-communities/"><u>[New] 2024 Approved Uncovering Steps to Pinpoint Perfect Discord Communities</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-free-youtube-to-mp3-converters-you-should-know-onlinewinmac/"><u>[New] In 2024, Best Free YouTube to MP3 Converters You Should Know [Online/Win/Mac]</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-safe-exit-procedures-for-departing-discord-servers/"><u>[New] Safe Exit Procedures for Departing Discord Servers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-skyrocketing-video-performance-on-vimeo-for-2024/"><u>[New] Skyrocketing Video Performance on Vimeo for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-essential-techniques-for-youtube-photo-submissions/"><u>[Updated] 2024 Approved Essential Techniques for YouTube Photo Submissions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elevate-gaming-on-tv-obs-guide/"><u>[Updated] Elevate Gaming on TV - OBS Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-preventing-motion-sickness-in-virtual-worlds/"><u>[Updated] In 2024, Preventing Motion Sickness in Virtual Worlds</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-from-novice-to-pro-your-discord-broadcast-journey/"><u>2024 Approved From Novice to Pro Your Discord Broadcast Journey</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-bsod-with-error-0x00000133-on-your-pc-running-windows-e/"><u>Diagnosing and Repairing BSOD with Error 0X00000133 on Your PC Running Windows E</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/exploring-advanced-features-of-discords-live-stream-functionality-for-2024/"><u>Exploring Advanced Features of Discord's Live Stream Functionality for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stabilizing-shaky-images-a-realistic-benefit-or-hype/"><u>Stabilizing Shaky Images A Realistic Benefit or Hype?</u></a></li>
 </ul></div>
 

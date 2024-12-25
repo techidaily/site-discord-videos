@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking the Secrets of Text Styling in Discord"
-date: 2024-12-08T22:28:08.446Z
-updated: 2024-12-15T18:13:06.916Z
+date: 2024-12-21T17:52:03.080Z
+updated: 2024-12-25T06:04:54.605Z
 tags:
   - ai video
   - ai discord
@@ -87,6 +87,10 @@ In order to get a strikethrough effect on your text, you will have to type two t
 
 Underline effect is also available on Discord and equally simple to activate. Just type two underscore dashes (\_\_)at the start and the ending of the text selection to apply it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Combine Text Formatting Options in Discord?
 
 Once you mastered the basic effects and know the commands without thinking, it’s time to consider more complex text transformations that combine more than one effect. In principle, Markdown lets you do this just as easily, for as long as you know all the right combinations of characters that produce the desired effect. Here are the detailed instructions for some of the most frequently utilized combos:
@@ -98,7 +102,7 @@ For this elegant combination, use two underscore dashes (\_\_) followed by one a
 ![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Underlined and Bolded text
@@ -107,15 +111,15 @@ Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both 
 
 ![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Underlined, Italicized, and Bolded text
 
 This combination is achieved by placing two underscore marks (\_\_) and three straight asterisks (\*\*\*) at the beginning as well as the end of the text.
 
 ![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Bolded, Italicized, underlined, and crossed out text
 
@@ -124,7 +128,7 @@ You can combine all four style changes as well – just use two tildes (\~\~), t
 ![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
@@ -132,7 +136,7 @@ You can combine all four style changes as well – just use two tildes (\~\~), t
 In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Change the Text Color in Discord Message?
@@ -159,10 +163,6 @@ The creation of a hidden text message that requires direct user action to reveal
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -178,20 +178,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-dive-into-time-lapse-shooting-gopro-unveiled/"><u>[New] 2024 Approved Dive Into Time-Lapse Shooting GoPro Unveiled</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-extinguish-your-discord-access/"><u>[New] Extinguish Your Discord Access</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-preeminent-6-social-media-sites-favored-by-professionals-for-2024/"><u>[New] Preeminent 6 Social Media Sites Favored by Professionals for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-your-ultimate-strategy-for-engaging-streams-on-discord-for-2024/"><u>[New] Your Ultimate Strategy for Engaging Streams on Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-tricks-and-tips-for-quality-streaming-on-discord/"><u>[Updated] 2024 Approved Tricks and Tips for Quality Streaming on Discord</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-elevate-your-online-presence-mastering-youtube-edits-in-premiere/"><u>[Updated] In 2024, Elevate Your Online Presence Mastering YouTube Edits in Premiere</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-launching-a-successful-stream-on-discord-essential-steps-revealed/"><u>[Updated] In 2024, Launching a Successful Stream on Discord Essential Steps Revealed</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-navigating-discords-broadcast-settings-for-easy-streaming/"><u>[Updated] Navigating Discord's Broadcast Settings for Easy Streaming</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-epic-environments-discover-the-hottest-10-themes-at-betterdiscord/"><u>2024 Approved Epic Environments Discover the Hottest 10 Themes at BetterDiscord</u></a></li>
-<li><a href="https://games-able.techidaily.com/claim-your-spot-in-the-starfield-early-access-lottery/"><u>Claim Your Spot in the Starfield Early Access Lottery</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-how-to-reply-message-on-discord-desktop-and-mobile-app/"><u>In 2024, How to Reply Message on Discord Desktop and Mobile App</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-rapid-resume-in-xbox-xands-worth-it/"><u>Is Rapid Resume in Xbox X&S Worth It?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-countdown-charm-top-android-and-ios-timers-for-weddings/"><u>[New] Countdown Charm Top Android & iOS Timers for Weddings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-socialvideo-saver-messenger-edition-for-2024/"><u>[New] SocialVideo Saver – Messenger Edition for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-streamline-your-obs-on-economical-devices-for-2024/"><u>[Updated] Streamline Your OBS on Economical Devices for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/editing-iphone-videos-using-a-windows-computer-a-step-by-step-guide/"><u>Editing iPhone Videos Using a Windows Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/effective-techniques-for-seamless-mts-file-integration-and-modification-with-microsofts-windows-movie-maker/"><u>Effective Techniques for Seamless MTS File Integration & Modification with Microsoft's Windows Movie Maker</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/effortless-conversion-tips-turning-dvd-content-into-avi-with-minimal-fuss/"><u>Effortless Conversion Tips: Turning DVD Content Into AVI with Minimal Fuss</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/freeloading-without-breaking-your-budget-on-aes/"><u>Freeloading Without Breaking Your Budget on AEs</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/gta5pc/"><u>GTA5ゲーム映像記録PCでの取り込み方法: 専門家による解説</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/guide-enabling-and-using-dts-format-on-your-samsung-television/"><u>Guide: Enabling and Using DTS Format on Your Samsung Television</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-samsung-galaxy-a54-5g-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-nubia-red-magic-8s-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Nubia Red Magic 8S Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win11.techidaily.com/the-path-to-peaceful-application-management-in-window-11/"><u>The Path to Peaceful Application Management in Window 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-for-securely-exporting-chatgpt-interactions/"><u>Tips for Securely Exporting ChatGPT Interactions</u></a></li>
 </ul></div>
 

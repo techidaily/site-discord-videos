@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Simplifying Server Management  Bulk Delete Messages with Ease\""
-date: 2024-12-11T21:38:55.777Z
-updated: 2024-12-16T00:29:10.734Z
+date: 2024-12-23T03:34:14.931Z
+updated: 2024-12-25T05:22:08.475Z
 tags:
   - ai video
   - ai discord
@@ -58,6 +58,10 @@ However, this was soon changed because the mass execution directly affected the 
 
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Why your video editing isn't good enough? How about some creative inspo?
 
 * 100 Million+ Users
@@ -76,7 +80,7 @@ However, this was soon changed because the mass execution directly affected the 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Delete Direct Messages on Discord
@@ -95,10 +99,6 @@ You can delete the local copy of messages by following the steps below:
 
 ![ delete Discord Message  ](https://images.wondershare.com/filmora/article-images/delete-discord-direct-message.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The procedure for deleting DMs from your Discord smartphone application applies for both the Android and IOS application, and it is as follows:
 
 1. Open the Discord app on your smartphone
@@ -107,10 +107,6 @@ The procedure for deleting DMs from your Discord smartphone application applies 
 4. Tap 'Delete' on that list
 5. Confirm your decision by tapping 'Delete' once again
 6. The message will be deleted
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Delete Channel Messages in Discord?
 
@@ -134,6 +130,10 @@ Here is a more detailed breakdown of the sequence:
 
 At first glance, it seems like a long and tedious process, but once you get down to doing it and develop a rhythm, it is an easy task.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Deleting Message with Discord Clear Chat Bot
 
 Please keep in mind that Discord has changed its policy regarding bots, going from discouraging their use to outright flagging them as a violation of its terms.
@@ -155,7 +155,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 ![delete messages on discord with mee6 bot](https://images.wondershare.com/filmora/article-images/discord-bot-mee6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. You'll be prompted to authorize so that MEE6 bot can access your username, and know what server you’re in.
@@ -168,15 +168,15 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 ![remove discord message with mee 6](https://images.wondershare.com/filmora/article-images/mee6-moderator-plugin-moderator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
 ![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: How to Clear All Chats and Delete All Messages In Discord?
 
@@ -235,6 +235,10 @@ Ideally, you'll want the following things from your AutoHotkey script:
 * [Best Discord Emoji Makers](https://tools.techidaily.com/wondershare/filmora/download/)
 * [10+ Best Free Discord Voice Changers](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs About Deleting Discord Messages
 
 #### 1\. Can I Recover A Deleted Message on Discord?
@@ -251,10 +255,6 @@ If you are an admin or an owner of a server, you can delete other people's messa
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -270,15 +270,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-downloading-from-vimeo-made-simple-software-free-or-not-in-2024/"><u>[New] Downloading From Vimeo Made Simple Software-Free or Not, In 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-pinnacle-of-emoji-creation-for-discord-channels/"><u>[Updated] 2024 Approved The Pinnacle of Emoji Creation for Discord Channels</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-discord-dialogue-perfecting-your-replies/"><u>2024 Approved Discord Dialogue Perfecting Your Replies</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/from-novice-to-nexus-steps-for-earning-your-verified-status-on-discord/"><u>From Novice to Nexus Steps for Earning Your Verified Status on Discord</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-python24dll-not-found-or-missing-errors/"><u>How to Fix Python24.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-a59-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo A59 5G?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-nikon-j5-unleashed-embracing-4k-camera-technology/"><u>In 2024, Nikon J5 Unleashed Embracing 4K Camera Technology</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-vivid-vistas-the-ultimate-selection-of-popular-discotheme-sets/"><u>In 2024, Vivid Vistas The Ultimate Selection of Popular DiscoTheme Sets</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-y100-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo Y100? Fixed | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-sever-your-discord-connection/"><u>[New] In 2024, Sever Your Discord Connection</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-launch-a-seamless-live-experience-on-discord-with-these-steps-for-2024/"><u>[New] Launch a Seamless Live Experience on Discord with These Steps for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-launching-a-successful-stream-on-discord-essential-steps-revealed-for-2024/"><u>[New] Launching a Successful Stream on Discord Essential Steps Revealed for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unraveling-discords-features-for-aspiring-broadc-writers-streaming-for-2024/"><u>[New] Unraveling Discord's Features for Aspiring Broadc Writers (Streaming) for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-mastering-screen-sharing-on-discord/"><u>2024 Approved Mastering Screen Sharing on Discord</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-snowy-serenity-top-pick-winter-backgrounds-for-videos/"><u>2024 Approved Snowy Serenity Top Pick Winter Backgrounds for Videos</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-13-miniipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone 13 mini/iPad/iPod</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversione-libera-online-da-wma-a-webm-esegui-il-tuo-trasferimento-con-facilita/"><u>Conversione Libera Online Da WMA a WebM - Esegui Il Tuo Trasferimento Con Facilità</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/de-bepaalde-weg-verschoven-bestanden-in-windows-1111-wie-je-eigenlijk-het-opneemt/"><u>De Bepaalde Weg Verschoven Bestanden in Windows 11/11 - Wie Je Eigenlijk Het Opneemt?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-infinite-storage-horizon-your-guide-to-free-and-premium-cloud-services/"><u>In 2024, Infinite Storage Horizon Your Guide to Free & Premium Cloud Services</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/art-automated-views-to-propel-your-channel/"><u>Outsmart Automated Views to Propel Your Channel</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/quick-tips-shifting-your-identity-status-on-discord-for-2024/"><u>Quick Tips Shifting Your Identity Status on Discord for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-elite-collection-of-top-artificial-intelligence-markets-for-innovative-content-creation/"><u>The Elite Collection of Top Artificial Intelligence Markets for Innovative Content Creation</u></a></li>
 </ul></div>
 

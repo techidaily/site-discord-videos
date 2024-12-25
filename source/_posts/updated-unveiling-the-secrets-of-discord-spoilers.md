@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling the Secrets of Discord Spoilers"
-date: 2024-12-10T19:50:56.491Z
-updated: 2024-12-15T17:49:31.293Z
+date: 2024-12-21T02:52:27.969Z
+updated: 2024-12-24T23:21:55.492Z
 tags:
   - ai video
   - ai discord
@@ -36,9 +36,17 @@ Thankfully, Discord came out with the perfect solution. Now, if you are sharing 
 * [Bonus: Is it the same to use Spoiler on Mobile devices?](#part3)
 * [Bonus: How to turn off the Spoiler tag?](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Spoilers on Discord to Hide Text Messages?
 
 And now we come to the point - **how to do spoilers on Discord**? Well, there are two ways to do it. You can run through both of them and choose whichever suits you the best. All the methods are simple to follow. Note that some are available only on the desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Adding Spoiler Text Via Tag on Discord
 
@@ -52,15 +60,15 @@ We will begin with the tag method. All you have to do is add the spoiler tag on 
 
 ![add spoiler tag to Discord  ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-discord.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This works for the Discord desktop app, browser, and also mobile app. This is like a universal method of hiding spoilers.
 
 You can also add ‘/spoiler’ before the spoiler content. This is an alternative to the ‘||’ we add at the start and the end.
 
 ![add spoiler tag slash to Discord ](https://images.wondershare.com/filmora/article-images/add-spoiler-tag-slash-discord.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Sending Spoiler Message with Mark as Spoiler icon
 
@@ -84,7 +92,7 @@ Just like texts, even images, videos, and other attachments can be marked as spo
 ![add spoiler to image and video on Discord  ](https://images.wondershare.com/filmora/article-images/add-spoilers-to-image-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Images can be tagged as spoilers before you upload them on servers. To add spoiler tags to images –
@@ -112,10 +120,6 @@ You can even mark embedded links as spoilers with the same process. But this doe
 
 For iOS, you can select and highlight the text that you want to hide. Then, tap open the context menu and click on the ‘Mark as Spoiler’ to hide the text.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bonus: How to turn off the Spoiler tag?
 
 For some reason, you may want to remove the spoiler tag from the spoiler texts. In that case, open the User Settings and tap on Text & Images. Scroll down to the Show Spoiler Content tab and you will see options to control when spoiler content is displayed. You can choose to display on click, on servers I moderate, and always.
@@ -125,16 +129,12 @@ If you want to display all spoiler content, choose Always to turn off the spoile
 ![turn off spoiler on Discord  ](https://images.wondershare.com/filmora/article-images/turn-off-spoiler-feature-discord.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This was an article on **how to use the Discord spoiler tag** to hide texts, images, and videos. You can undo and redo the tags as many times as you like. If you are about to unveil some life-changing secret on your Discord server, then don’t forget to add that spoiler tag.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -151,22 +151,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-mood-magic-top-10-themes-curated-for-discoenthusiasts/"><u>[New] Mood Magic Top 10 Themes Curated for DiscoEnthusiasts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-photo-editing-achieving-focus-with-distortions/"><u>[New] Photo Editing Achieving Focus with Distortions</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-unveiling-the-power-of-pinning-your-guide-to-discord-mastery-for-2024/"><u>[New] Unveiling the Power of Pinning Your Guide to Discord Mastery for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-avoiding-escalation-stealthy-yet-effective-techniques-to-address-grievances-on-discord/"><u>[Updated] 2024 Approved Avoiding Escalation Stealthy Yet Effective Techniques to Address Grievances on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-boosting-engagement-strategies-for-discord-streamers/"><u>[Updated] 2024 Approved Boosting Engagement Strategies for Discord Streamers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-av1-triumph-surpassing-vp9-performance/"><u>[Updated] AV1 Triumph Surpassing VP9 Performance</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-cease-discord-activity-on-all-screens/"><u>[Updated] Cease Discord Activity on All Screens</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-strategy-dominion-discovering-the-7-pinnacle-conflicts/"><u>2024 Approved Strategy Dominion Discovering the 7 Pinnacle Conflicts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-s17e-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo S17e to iPhone | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/alternative-methods-for-obtaining-windows-11-iso-file-without-using-microsofts-official-software/"><u>Alternative Methods for Obtaining Windows 11 ISO File without Using Microsoft's Official Software</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-t2x-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo T2x 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/from-startup-to-shutdown-steam-on-discord-devices-for-2024/"><u>From Startup to Shutdown Steam on Discord Devices for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/how-to-create-an-iconic-pfp-for-your-discogamer-life/"><u>How to Create an Iconic Pfp for Your DiscoGamer Life</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-experts-selection-cutting-edge-camera-stabilization-tech/"><u>In 2024, Expert's Selection Cutting Edge Camera Stabilization Tech</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-extend-the-usage-of-your-gopro-battery/"><u>In 2024, How to Extend the Usage of Your GoPro Battery</u></a></li>
-<li><a href="https://win11.techidaily.com/legacy-systems-to-win11-upgrade-essentials/"><u>Legacy Systems to Win11 Upgrade Essentials</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/transform-your-discord-experience-learn-message-pinning/"><u>Transform Your Discord Experience Learn Message Pinning</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-mastering-emoji-artistry-best-on-discord-emoji-generators/"><u>[New] In 2024, Mastering Emoji Artistry Best On-Discord Emoji Generators</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-unplugging-the-servers-deleting-discord-on-devices/"><u>[New] In 2024, Unplugging the Servers Deleting Discord on Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-seamlessly-shift-focus-with-picart-clear-borders/"><u>[New] Seamlessly Shift Focus with PicArt Clear Borders</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-tunetracker-outside-of-dacast-realm/"><u>[New] TuneTracker Outside of DaCast Realm</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-picsarts-full-spectrum-exploration/"><u>[Updated] PicsArt's Full Spectrum Exploration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-the-dots-bridging-apples-homepod-with-your-flat-screen-display/"><u>Connecting the Dots: Bridging Apple's HomePod with Your Flat Screen Display</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-yoga-900-running-fast-driver-update/"><u>Get Yoga 900 Running Fast: Driver Update</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-social-sync-how-to-add-friends-on-discord/"><u>In 2024, Social Sync How to Add Friends on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/streamline-your-life-quick-tips-to-beginning-on-discord-broadcasts/"><u>Streamline Your Life Quick Tips to Beginning on Discord Broadcasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successfully-overcoming-asus-pce-ac56-driver-woes-across-windows-10-8-and-7/"><u>Successfully Overcoming ASUS PCE-AC56 Driver Woes Across Windows 10, 8 & 7!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-comprehensive-computer-component-guide/"><u>Tom's Tech Insights: Comprehensive Computer Component Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/top-secret-instagram-stories-viewer-apps-for-2024/"><u>Top Secret Instagram Stories Viewer Apps for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unveiling-the-secrets-of-live-video-sharing-on-discord/"><u>Unveiling the Secrets of Live Video Sharing on Discord</u></a></li>
 </ul></div>
 

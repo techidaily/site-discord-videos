@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Erase Thousands of Messages in Just a Few Clicks on Discord"
-date: 2024-12-20T23:45:30.535Z
-updated: 2024-12-25T02:40:42.586Z
+date: 2025-01-02T11:14:34.730Z
+updated: 2025-01-02T19:17:24.788Z
 tags:
   - ai video
   - ai discord
@@ -41,10 +41,6 @@ If you're looking to mass-delete your messages from a server or channel on Disco
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Understanding Discord Message Types
 
 In Discord, you will see two types of messages: Direct Messages and Channel Messages in servers. Here are the differences between the two:
@@ -58,21 +54,9 @@ However, this was soon changed because the mass execution directly affected the 
 
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A cross-platform for making videos anywhere for all creators
 
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Why your video editing isn't good enough? How about some creative inspo?
 
@@ -90,6 +74,14 @@ However, this was soon changed because the mass execution directly affected the 
  \* Secure Download
 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Delete Direct Messages on Discord
 
@@ -138,6 +130,10 @@ Here is a more detailed breakdown of the sequence:
 
 At first glance, it seems like a long and tedious process, but once you get down to doing it and develop a rhythm, it is an easy task.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Deleting Message with Discord Clear Chat Bot
 
 Please keep in mind that Discord has changed its policy regarding bots, going from discouraging their use to outright flagging them as a violation of its terms.
@@ -158,14 +154,14 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 ![delete messages on discord with mee6 bot](https://images.wondershare.com/filmora/article-images/discord-bot-mee6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. You'll be prompted to authorize so that MEE6 bot can access your username, and know what server you’re in.
 2. Pin-point the server you want to add the bot and then set up to connect MEE6 to the Discord server.
 
 ![how to delete discord message with mee6 bot](https://images.wondershare.com/filmora/article-images/select-server-to-add-mee6-bot-discord.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Click Authorize again and the bot will be added to your Discord server soon;
 2. To enable MEE6 to clear the chat, you should enable the Moderator plugin first. Click the Moderator option under Plugins first, and then click Yes.
@@ -179,7 +175,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: How to Clear All Chats and Delete All Messages In Discord?
@@ -255,6 +251,10 @@ If you are an admin or an owner of a server, you can delete other people's messa
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -270,22 +270,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-the-evolution-of-burst-mode-in-gopro-cameras/"><u>[New] 2024 Approved The Evolution of Burst Mode in GoPro Cameras</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-finest-pencil-masters-free-vs-paid-windows-apps-reviewed/"><u>[New] Finest Pencil Masters Free vs Paid Windows Apps Reviewed</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-innovation-in-viewing-top-5-webcams-recommended-for-gamers-for-2024/"><u>[Updated] Innovation in Viewing Top 5 Webcams Recommended for Gamers for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/10-with-these-easy-techniques/"><u>10 with These Easy Techniques!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ceasing-noise-during-obs-recordings/"><u>2024 Approved Ceasing Noise During OBS Recordings</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-enhancing-your-social-presence-tweeting-to-facebook/"><u>2024 Approved Enhancing Your Social Presence Tweeting to Facebook</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726027705279-windows4/"><u>無料で使えるWindows対応動画スピンオフツールベスト4選択法</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726028753077-5/"><u>最高の無料音声ファイル編集ソフトウェアとアプリ - トップ5推薦</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/crafting-the-perfect-minecraft-playback-experience/"><u>Crafting the Perfect Minecraft Playback Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essentials-for-launching-an-engaging-webcam-stream/"><u>Essentials for Launching an Engaging Webcam Stream</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo A79 5G? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-butler-flawless-high-quality-dvd-copying-guide/"><u>The Butler - Flawless High-Quality DVD Copying Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-pick-how-to-optimize-video-quality-with-superior-bitrate-adjustment-tools/"><u>Top Pick: How to Optimize Video Quality with Superior Bitrate Adjustment Tools</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/troubleshooting-guide-capturing-sound-during-powerpoint-sessions-for-both-window-and-macos-users/"><u>Troubleshooting Guide: Capturing Sound During PowerPoint Sessions for Both Window and macOS Users</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/ultimate-mp4-transformation-tool-top-rated-software-for-hd-and-sd-video-conversion/"><u>Ultimate MP4 Transformation Tool: Top Rated Software for HD and SD Video Conversion</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726028169069-wonderfox-dvd/"><u>WonderFox DVDリッパープロのセットアップ完了!お使いいただきありがとうございます。</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-free-or-paid-top-8-ios-film-watching-apps-reviewed-for-2024/"><u>[New] Free or Paid? Top 8 iOS Film-Watching Apps Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tructuring-tutorials-for-clarity-on-youtube-for-2024/"><u>[New] Structuring Tutorials for Clarity on YouTube for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-iphone-lengthy-exposure-secrets-for-2024/"><u>[New] The Ultimate iPhone Lengthy Exposure Secrets for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-5-chromebook-sniping-apps-essential-clients-reviewed-for-2024/"><u>[New] Top 5 Chromebook Sniping Apps Essential Clients Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/outube-masterclass-beginners-kit-free-courses-collection-for-2024/"><u>[New] YouTube Masterclass Beginners Kit Free Courses Collection for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unveiling-the-secrets-how-to-access-high-end-features-with-disconitro/"><u>[Updated] In 2024, Unveiling the Secrets How to Access High-End Features with DiscoNitro</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-network-necessities-how-to-add-friends-on-devices-for-2024/"><u>[Updated] Network Necessities How to Add Friends on Devices for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-safe-exit-procedures-for-departing-discord-servers/"><u>[Updated] Safe Exit Procedures for Departing Discord Servers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unveiling-the-secrets-of-discord-spoilers/"><u>[Updated] Unveiling the Secrets of Discord Spoilers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-superior-neural-network-rivals-to-chatgpt-on-phones/"><u>7 Superior Neural Network Rivals to ChatGPT on Phones</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/diy-solutions-for-maximizing-speaker-performance-in-windows-11/"><u>DIY Solutions for Maximizing Speaker Performance in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782459-9781591438939-the-velikovsky-heresies/"><u>The Velikovsky Heresies | Free Book</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/vibey-vistas-your-guide-to-the-10-most-trending-discothemes/"><u>Vibey Vistas Your Guide to the 10 Most Trending DiscoThemes</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/what-are-the-alternatives-to-modifying-the-windows-registry-uncover-options-with-yl-software-experts/"><u>What Are the Alternatives to Modifying the Windows Registry? Uncover Options with YL Software Experts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/what-is-discord-pfp-and-how-to-make-an-attractive-pfp-for-discord/"><u>What Is Discord PFP and How to Make an Attractive PFP for Discord</u></a></li>
 </ul></div>
 

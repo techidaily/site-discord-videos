@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Maximizing Potential  The Art of Role Implementation on Discord for 2024\""
-date: 2024-12-23T21:18:10.946Z
-updated: 2024-12-24T21:10:58.170Z
+date: 2025-01-01T23:19:05.918Z
+updated: 2025-01-03T08:48:00.107Z
 tags:
   - ai video
   - ai discord
@@ -43,7 +43,7 @@ So, let us learn the art of delegation on Discord! This guide will help you with
 To give you a heads-up, there are around 29 permissions that you can adjust over a Discord server. More specifically, there are 7 voice permissions, 9 permissions related to texts, and about 13 permissions dealing with the server.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. General server permission
@@ -64,10 +64,6 @@ Manage Webhooks – if you have this authority, you can add, modify, and remove 
 
 Read Text Channels & See Voice Channels – a user with this permission can read text channels.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Membership permissions
 
 Ban Members – a member with permission, can ban members from the server.
@@ -81,7 +77,7 @@ Manage Nicknames – if enabled, a user can change other’s nicknames.
 Kick Members – a user with this authority can remove members from the server.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Text channel permissions
@@ -122,17 +118,21 @@ Priority Speaker – when this permission is turned on for a user, other’s
 
 this permission allows the user to reduce the volume of other users when this user is speaking so that their words are louder on the channel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Advanced permissions
 
 Includes the 'Administrator' permission, which by default enables all the permissions to the assigned user.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make and Add Roles in Discord on Computer
 
 The desktop app and Browser resemble the mobile apple a lot. The process of assigning roles and configuring members is more or less the same across devices. First, you need to create roles and define their authority before assigning these roles to some members.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to create roles in Discord?
 
@@ -156,6 +156,10 @@ To be able to assign roles, you should first create them
 4. From the drop-down menu that appears, select a role you want to assign to that member.
 1. You will notice that the color changes as per your settings. And this is how you assign roles to a server.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Manage Roles in Discord?
 
 After you learn **how to make roles in Discord**, you might want to manage them.
@@ -165,10 +169,6 @@ If you have got the hang of creating roles, then managing them is no different. 
 The quickest and easiest way to manage your bloating server is to let all members be ‘everyone’ and adjust permissions accordingly. So, whenever members enter your server, they will automatically be assigned the common role.
 
 Further, you can easily figure out what roles you have assigned to whom. Due to these colors, the other members can identify moderators, admins, or other roles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to Delete Roles in Discord?
 
@@ -206,10 +206,6 @@ You can repeat this multiple times to create more roles.
 
 Save the changes, and you are good to go! You can assign multiple roles to a member.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 6: FAQs about Discord Server Roles
 
 Just some obvious things you might wonder about.
@@ -239,6 +235,10 @@ This is likely to happen if the server owner gave you the role of admin, but the
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -254,16 +254,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-a-step-by-step-approach-to-discord-messaging/"><u>[Updated] 2024 Approved A Step-by-Step Approach to Discord Messaging</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-journey-to-certified-status-achieving-discord-partner-authenticity/"><u>[Updated] In 2024, Journey to Certified Status Achieving Discord Partner Authenticity</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-htc-u23-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from HTC U23.</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y200e-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y200e 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-efficiently-utilizing-discord-spoiler-features/"><u>In 2024, Efficiently Utilizing Discord Spoiler Features</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-gamers-guide-to-affordable-yet-powerful-keyboards/"><u>In 2024, Gamer's Guide to Affordable, Yet Powerful Keyboards</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-innovative-use-of-movie-maker-for-digital-storytelling/"><u>In 2024, Innovative Use of Movie Maker for Digital Storytelling</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-unlocking-the-potential-of-live-broadcasting-on-discord/"><u>In 2024, Unlocking the Potential of Live Broadcasting on Discord</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-the-correct-printer-drivers-the-ultimate-guide-for-hp-laserjet-pro-m127fn/"><u>Installing the Correct Printer Drivers: The Ultimate Guide for HP LaserJet Pro M127FN</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ottimizzazione-avant-garde-di-winxvideo-ai-per-videofoto-perfezione-nellediting-conversione-stabile-e-facile-acquisizione-del-video/"><u>Ottimizzazione Avant-Garde Di Winxvideo AI per Video/Foto: Perfezione Nell'Editing, Conversione Stabile E Facile Acquisizione Del Video</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-claude-stands-out-in-the-battle-of-ai-conversation-models-part-14/"><u>Why Claude Stands Out in the Battle of AI Conversation Models, Part 1/4</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-electronic-conference-logging/"><u>[New] Electronic Conference Logging</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-explosive-engagement-on-twitter-the-hottest-content-now/"><u>[New] In 2024, Explosive Engagement on Twitter The Hottest Content Now</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-mac-basic-sound-recording-in-audacity/"><u>[Updated] 2024 Approved Mastering Mac Basic Sound Recording in Audacity</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-moment-mastery-the-best-cams-for-extended-shutter-times/"><u>[Updated] Moment Mastery The Best Cams for Extended Shutter Times</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-selective-selections-notable-sites-for-snagging-snapalert-tunes/"><u>[Updated] Selective Selections Notable Sites for Snagging SnapAlert Tunes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/44cm5yuv55s744oa44km44oz44ot44o844oj5ywl6zaa77ya57ch5y2y44gq5pa55rov44gn5yuv55s744ks44ov44kh44kk44or44gr5asj5oplusb44gz44kl44od44kk44oz44oi44cn/"><u>「動画ダウンロード入門：簡単な方法で動画をファイルに変換するポイント」</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/bulk-conversion-techniques-turning-wav-files-into-high-quality-alac/"><u>Bulk Conversion Techniques: Turning WAV Files Into High-Quality ALAC</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029161061-dvd/"><u>DVD再生に問題が発生した時、カーナビで有効な修正方法</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-tech-worlds-dissecting-ar-mr-and-vr/"><u>Exploring Tech Worlds Dissecting AR, MR, & VR</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-get-intellij-unison-back-up-and-running-on-win11/"><u>How to Get IntelliJ Unison Back Up & Running on Win11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macos-file-sharing-basics-how-to-create-network-drive-mappings/"><u>MacOS File Sharing Basics: How To Create Network Drive Mappings</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029502302-mkv/"><u>MKVビデオの字幕を取り外し方法</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029154040-mp4m4a3/"><u>MP4からM4Aへの変換手順：初心者用トップ3ガイド</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029809936-pc/"><u>PCでのミーティング音声だけ録音方法</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726030532953-top-5-premium-no-cost-movie-editing-tools-compatible-with-windows-and-macos-updated-guide/"><u>Top 5 Premium, No-Cost Movie Editing Tools Compatible with Windows & macOS (Updated Guide)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-80s-filters-and-effects-for-professional-videos/"><u>Top 80S Filters & Effects for Professional Videos</u></a></li>
 </ul></div>
 

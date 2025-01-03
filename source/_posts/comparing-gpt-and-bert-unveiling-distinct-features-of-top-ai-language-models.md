@@ -1,7 +1,7 @@
 ---
 title: "Comparing GPT and BERT: Unveiling Distinct Features of Top AI Language Models"
-date: 2024-12-18T00:29:12.110Z
-updated: 2024-12-25T02:44:39.311Z
+date: 2024-12-31T19:07:15.111Z
+updated: 2025-01-02T18:02:36.509Z
 tags:
   - chatgpt
   - open-ai
@@ -17,13 +17,13 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
  Large language models (LLMs) come in all shapes and sizes, and will assist you in any way you see fit. But which is best? We put the dominant AIs from Alphabet, OpenAI, and Meta to the test.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
 
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
@@ -64,12 +64,16 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -87,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
  Cables attaching to the plug have a live wire (brown), an earth wire (yellow/green), and a neutral wire (blue). These must be attached to the correct terminals within the plug housing.
@@ -107,13 +107,13 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which LLM Tells the Best Jokes?
 
@@ -154,20 +154,22 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-screen-sharing-on-discord/"><u>[Updated] 2024 Approved Mastering Screen Sharing on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-beginners-path-to-becoming-a-discord-live-stream-guru/"><u>[Updated] 2024 Approved The Beginner's Path to Becoming a Discord Live Stream Guru</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-comparative-review-smartphone-usage-of-the-leading-video-apps-for-2024/"><u>[Updated] Comparative Review Smartphone Usage of the Leading Video Apps for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-in-class-business-data-cradle/"><u>[Updated] In 2024, Best in Class Business Data Cradle</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-essential-skills-for-effective-discord-message-pinning/"><u>[Updated] In 2024, Essential Skills for Effective Discord Message Pinning</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-essential-guide-crafting-a-standout-discord-profile-with-custom-emojis/"><u>[Updated] The Essential Guide Crafting a Standout Discord Profile with Custom Emojis</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-advanced-conversational-machines-discord/"><u>2024 Approved Advanced Conversational Machines (Discord)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-future-is-virtual-making-and-sharing-immersive-footage-for-fb/"><u>2024 Approved The Future Is Virtual Making and Sharing Immersive Footage for FB</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-fixing-the-tracking-difficulties-on-a-magic-mouse/"><u>A Step-by-Step Guide: Fixing The Tracking Difficulties on a Magic Mouse</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-discover-betterdiscords-top-10-trending-themes/"><u>In 2024, Discover BetterDiscord's Top 10 Trending Themes</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/leaving-with-honor-a-disconnect-guide-for-servers/"><u>Leaving with Honor A Disconnect Guide for Servers</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-typing-problems-on-your-pc-windows-11-7-and-8/"><u>Solving Typing Problems on Your PC (Windows 11, 7 & 8)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/uncover-top-tier-pc-hardware-secrets-with-toms-insider-information/"><u>Uncover Top-Tier PC Hardware Secrets with Tom's Insider Information</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unleashing-creativity-in-iphone-videography-8-best-practices-for-2024/"><u>Unleashing Creativity in iPhone Videography 8 Best Practices for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/usb-windows/"><u>USB接続デバイスとの自動同期にはどうすればいいか？ Windowsパソコン</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-apples-tunes-in-the-frame-of-reality/"><u>[New] Apple's Tunes in the Frame of Reality</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-a-list-14-animation-illustration-cases/"><u>[New] In 2024, A-List 14 Animation Illustration Cases</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-discovering-acquaintances-cross-device-friend-requests/"><u>[New] In 2024, Discovering Acquaintances Cross-Device Friend Requests</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-guide-to-setting-up-and-managing-discord-channels-for-beginners/"><u>[New] In 2024, Guide to Setting Up and Managing Discord Channels for Beginners</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-premium-automated-communicators-discord-for-2024/"><u>[New] Premium Automated Communicators Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unleash-the-power-of-messaging-mastering-pinning-on-discord-for-2024/"><u>[New] Unleash the Power of Messaging Mastering Pinning on Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unplugging-the-servers-deleting-discord-on-devices-for-2024/"><u>[New] Unplugging the Servers Deleting Discord on Devices for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unveiling-the-secrets-of-discord-spoilers/"><u>[New] Unveiling the Secrets of Discord Spoilers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-removing-photo-backdrops/"><u>[Updated] Step-by-Step Guide Removing Photo Backdrops</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-streamlining-the-process-of-sending-videos-in-discord/"><u>[Updated] Streamlining the Process of Sending Videos in Discord</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-guide-to-the-best-iphone-and-ipad-videos-top-10/"><u>[Updated] The Ultimate Guide to the Best iPhone & iPad Videos (Top 10)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715860817234-2024-approved-snap-and-save-your-android-no-price-tag/"><u>2024 Approved Snap & Save Your Android - No Price Tag!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-11-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme 11 5G?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/pro-level-strategies-for-stunningly-pinning-messages-in-discord/"><u>Pro-Level Strategies for Stunningly Pinning Messages in Discord</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-race-for-supercomputing-supremacy-how-china-plans-to-skyrocket-state-computer-capacity-by-30-hitting-300-exaflops-before-2025/"><u>The Race for Supercomputing Supremacy: How China Plans to Skyrocket State Computer Capacity by 30%, Hitting 300 ExaFLOPS Before 2025</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-culinary-creativity-using-chatgpts-recipe-and-cooking-tips/"><u>Unleash Your Culinary Creativity Using ChatGPT's Recipe and Cooking Tips</u></a></li>
 </ul></div>
 

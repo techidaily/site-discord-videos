@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking the Secrets of Text Styling in Discord"
-date: 2024-12-21T17:52:03.080Z
-updated: 2024-12-25T06:04:54.605Z
+date: 2024-12-27T06:23:06.265Z
+updated: 2025-01-03T13:22:58.484Z
 tags:
   - ai video
   - ai discord
@@ -63,6 +63,10 @@ Filmora Text Video Editor
 
 [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Change Text Style in Discord with Markdown?
 
 As we mentioned previously, Markdown is completely text-based and has a very simple syntax. All you need to do to apply special formatting to your text is to enter a few special characters at the right places, and the appropriate effect (bold, italic…) will appear in the chat. Keep in mind that you can easily combine the formatting styles by using multiple commands at the same time.
@@ -70,6 +74,10 @@ As we mentioned previously, Markdown is completely text-based and has a very sim
 Here is an overview of the most important options for changing text style in Discord, and you can preview the text style in real time before sending to friends:
 
 ![Change Text Style in Discord  - Basic](https://images.wondershare.com/filmora/article-images/discord-change-text-style.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **How to Bold Text in Discord?**
 
@@ -87,10 +95,6 @@ In order to get a strikethrough effect on your text, you will have to type two t
 
 Underline effect is also available on Discord and equally simple to activate. Just type two underscore dashes (\_\_)at the start and the ending of the text selection to apply it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Combine Text Formatting Options in Discord?
 
 Once you mastered the basic effects and know the commands without thinking, it’s time to consider more complex text transformations that combine more than one effect. In principle, Markdown lets you do this just as easily, for as long as you know all the right combinations of characters that produce the desired effect. Here are the detailed instructions for some of the most frequently utilized combos:
@@ -101,15 +105,15 @@ For this elegant combination, use two underscore dashes (\_\_) followed by one a
 
 ![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
 
 ![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Underlined, Italicized, and Bolded text
 
@@ -118,7 +122,7 @@ This combination is achieved by placing two underscore marks (\_\_) and three st
 ![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Bolded, Italicized, underlined, and crossed out text
@@ -128,16 +132,12 @@ You can combine all four style changes as well – just use two tildes (\~\~), t
 ![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
 In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -178,19 +178,15 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-countdown-charm-top-android-and-ios-timers-for-weddings/"><u>[New] Countdown Charm Top Android & iOS Timers for Weddings</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-socialvideo-saver-messenger-edition-for-2024/"><u>[New] SocialVideo Saver – Messenger Edition for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-streamline-your-obs-on-economical-devices-for-2024/"><u>[Updated] Streamline Your OBS on Economical Devices for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/editing-iphone-videos-using-a-windows-computer-a-step-by-step-guide/"><u>Editing iPhone Videos Using a Windows Computer: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/effective-techniques-for-seamless-mts-file-integration-and-modification-with-microsofts-windows-movie-maker/"><u>Effective Techniques for Seamless MTS File Integration & Modification with Microsoft's Windows Movie Maker</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/effortless-conversion-tips-turning-dvd-content-into-avi-with-minimal-fuss/"><u>Effortless Conversion Tips: Turning DVD Content Into AVI with Minimal Fuss</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/freeloading-without-breaking-your-budget-on-aes/"><u>Freeloading Without Breaking Your Budget on AEs</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/gta5pc/"><u>GTA5ゲーム映像記録PCでの取り込み方法: 専門家による解説</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/guide-enabling-and-using-dts-format-on-your-samsung-television/"><u>Guide: Enabling and Using DTS Format on Your Samsung Television</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-samsung-galaxy-a54-5g-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Samsung Galaxy A54 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-nubia-red-magic-8s-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Nubia Red Magic 8S Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win11.techidaily.com/the-path-to-peaceful-application-management-in-window-11/"><u>The Path to Peaceful Application Management in Window 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tips-for-securely-exporting-chatgpt-interactions/"><u>Tips for Securely Exporting ChatGPT Interactions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-market-leading-6-platforms-enhancing-biz-interaction/"><u>[New] In 2024, Market-Leading 6 Platforms Enhancing Biz Interaction</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-leading-10-decibel-boosters-windows-macos-iphones/"><u>[Updated] In 2024, Leading 10 Decibel Boosters Windows, MacOS, iPhones</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/decoding-the-battle-of-tech-giants-detailed-insights-into-ipad-pro-vs-macbook-pro/"><u>Decoding the Battle of Tech Giants: Detailed Insights Into iPad Pro vs MacBook Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-fix-how-to-resolve-your-computers-whea-uncorrectable-faults/"><u>DIY Fix: How To Resolve Your Computer's WHEA Uncorrectable Faults</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-pitfalls-of-windows-auditory-restart-failures/"><u>Navigating the Pitfalls of Windows Auditory Restart Failures</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-samsung-galaxy-m14-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Samsung Galaxy M14 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/understanding-the-distinctions-kindle-vs-amazon-fire-tablet/"><u>Understanding the Distinctions: Kindle Vs. Amazon Fire Tablet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/sh-the-potential-of-youtube-videos-through-strategic-chapters-and-segments/"><u>Unleash the Potential of YouTube Videos Through Strategic Chapters and Segments</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unveiling-the-lg-c9-oled-impeccable-picture-quality-on-a-4k-65-inch-masterpiece-tv-for-aficionados/"><u>Unveiling the LG C9 OLED: Impeccable Picture Quality on a 4K 65-Inch Masterpiece TV for Aficionados</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unveiling-the-potential-of-the-samsung-galaxy-fit-the-ultimate-review-for-fitness-buffs/"><u>Unveiling the Potential of the Samsung Galaxy Fit: The Ultimate Review for Fitness Buffs</u></a></li>
 </ul></div>
 

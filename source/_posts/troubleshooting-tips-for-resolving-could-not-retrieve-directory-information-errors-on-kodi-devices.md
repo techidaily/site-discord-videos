@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Resolving 'Could Not Retrieve Directory Information' Errors on Kodi Devices
-date: 2024-12-20T19:27:43.997Z
-updated: 2024-12-24T20:58:53.672Z
+date: 2024-12-30T08:29:20.860Z
+updated: 2025-01-02T19:57:35.235Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/428d79f8e22b19bf05f42dd0977639aed1e84dacf346522fdfb1811e179afc16.jpg
@@ -17,10 +17,6 @@ In this article, you’ll learn different video converters to convert MPEG video
 
 ![Vita](https://www.videoconverterfactory.com/tips/imgs-self/avatar/vita.png) [Vita](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) | Updated on Aug 15, 2024
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Part 1\. How to Convert MPEG File to MP4 on Windows](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 [Part 2\. MPEG to MP4 Converter on Mac – VLC Media Player](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
@@ -30,7 +26,7 @@ In this article, you’ll learn different video converters to convert MPEG video
 [Part 4\. MPEG Video to MP4 Converter Apps on Android and iPhone](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Convert MPEG Files to MP4?
@@ -54,24 +50,20 @@ Now, [**free download**](https://tools.techidaily.com/videoconverterfactory/hd-v
 [Free Download](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Easy Steps of Converting MPEG to MP4
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1\. Add MPEG Files
 
 Open the MPEG to MP4 converter on your computer. Then choose **Converter** to enter the **Video Converter** interface. Click **\+ Add Files** to import MPEG videos to the converter, or drag and drop them into the blank area directly.
 
 ![Load MPEG Files](https://www.videoconverterfactory.com/tips/imgs-self/converting-mpeg-to-mp4/converting-mpeg-to-mp4-1.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2\. Choose MP4
 
@@ -81,11 +73,19 @@ _Optional. Under the format image lies a **Parameter settings** section, where y
 
 ![Output Settings](https://www.videoconverterfactory.com/tips/imgs-self/converting-mpeg-to-mp4/converting-mpeg-to-mp4-2.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3\. Convert MPEG to MP4
 
 Click the inverted triangle button at the bottom to define an output path. Then press Run to start converting MPEG to MP4 immediately.
 
 ![Convert MPEG to MP4 Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/converting-mpeg-to-mp4/converting-mpeg-to-mp4-3.webp) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hot search: [Compress MPG/MPEG Video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) | [Reduce MP4 File Size](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) | [Top 5 Batch Video Converters](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
@@ -94,6 +94,10 @@ Hot search: [Compress MPG/MPEG Video](https://tools.techidaily.com/videoconverte
 WonderFox HD Video Converter Factory Pro can perform the conversion between various video & audio formats without any effort. It also lets you cut videos, add watermarks, remove subtitles, convert video to GIFs, and achieve more. Try it now!
 
 [Free Download Compatible with Windows 11/10/8.1/8/7/... 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [Free Download Compatible with Windows 11/10/8.1/8/7/... 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Convert MPEG to MP4 on Mac with VLC?
 
@@ -108,10 +112,6 @@ VLC is a multimedia player that can not only play audio/video smoothly but also 
 4\. Click **Browse** to set a destination file > press **Start**.
 
 ![VLC MPEG to MP4 Converter](https://www.videoconverterfactory.com/tips/imgs-self/converting-mpeg-to-mp4/converting-mpeg-to-mp4-4.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Change MPEG to MP4 Online?
 
@@ -140,7 +140,7 @@ If you just want to convert your MPEG videos to MP4 on your mobile phone directl
 ![MPEG to MP4 on Android](https://www.videoconverterfactory.com/tips/imgs-self/converting-mpeg-to-mp4/converting-mpeg-to-mp4-6.webp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. The Video Converter for iPhone
@@ -148,10 +148,6 @@ If you just want to convert your MPEG videos to MP4 on your mobile phone directl
 [**The Video Converter**](https://apps.apple.com/us/app/the-video-converter/id893347665) is a good option for you to convert MPEG to MP4 on iPhone and iPad. With the wide format supports, you can convert from dozens of video and audio formats and it supports many popular output formats. After the conversion, you can immediately AirDrop your files to your Mac or other Apple devices.
 
 ![MPEG to MP4 on iPhone](https://www.videoconverterfactory.com/tips/imgs-self/converting-mpeg-to-mp4/converting-mpeg-to-mp4-7.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## At Last…
 
@@ -162,6 +158,10 @@ That’s all for how to convert from MPEG to MP4 on Windows, Mac, online, Androi
 [Free Download](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,18 +178,18 @@ That’s all for how to convert from MPEG to MP4 on Windows, Mac, online, Androi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-expertly-engineered-virtual-assistants-discord-for-2024/"><u>[New] Expertly Engineered Virtual Assistants (Discord) for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-mastering-discords-profile-pics-a-guide-to-sizzling-pfps/"><u>[New] Mastering Discord's Profile Pics A Guide to Sizzling Pfps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-breaking-the-freeze-reviving-your-obs-cam-for-2024/"><u>[Updated] Breaking the Freeze Reviving Your OBS Cam for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-8-cost-effective-multi-platform-virtual-communication-software-for-2024/"><u>[Updated] Top 8 Cost-Effective, Multi-Platform Virtual Communication Software for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-manual-for-crafting-youtube-playlists/"><u>2024 Approved How-To Manual for Crafting YouTube Playlists</u></a></li>
-<li><a href="https://win-tips.techidaily.com/3-effektivnyh-metoda-dlya-sozdaniya-rezervnoj-kopii-ustanovlennyh-programm-v-windows-11-10-8-i-7/"><u>3 Эффективных Метода Для Создания Резервной Копии Установленных Программ В Windows 11, 10, 8 И 7</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/essential-know-how-for-getting-started-on-discord-live-for-2024/"><u>Essential Know-How for Getting Started on Discord Live for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-guide-to-affordable-video-games-top-11-sites-ranked/"><u>Gamer's Guide to Affordable Video Games - Top 11 Sites Ranked</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/step-up-your-game-mastering-discord-message-embellishments/"><u>Step Up Your Game Mastering Discord Message Embellishments</u></a></li>
-<li><a href="https://driver-download.techidaily.com/techkey-universal-bluetooth-receiver-install-the-latest-drivers-for-windows-users-now/"><u>Techkey Universal Bluetooth Receiver: Install the Latest Drivers for Windows Users Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-analysis-chatgpts-six-game-changing-techniques/"><u>The Future of Analysis: ChatGPT’s Six Game-Changing Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transforma-sus-imagenes-jpg-a-formato-tiff-sin-costo-alguno-hacerlo-online-con-facilidad/"><u>Transforma Sus Imágenes JPG a Formato TIFF Sin Costo Alguno - Hacerlo Online Con Facilidad</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027439554-dvdusb/"><u>レンタルDVDデータを保護しながら、USBへ移動する簡単方法</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discord-gifs-how-to-put-gifs-on-discord-a-complete-guide/"><u>[New] Discord GIFs How to Put GIFs on Discord - A Complete Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-terminate-discord-access-dual-devices/"><u>[New] In 2024, Terminate Discord Access - Dual Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-direct-route-streaming-from-spotify-in-discord-platforms/"><u>[New] In 2024, The Direct Route Streaming From Spotify in Discord Platforms</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-live-photo-reconstruction-into-time-lapse-movies/"><u>[New] Live Photo Reconstruction Into Time-Lapse Movies</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-discord-server-deletion-desktopmobile-for-2024/"><u>[New] Navigating Discord Server Deletion (Desktop/Mobile) for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-team-communication-tools-uncovering-superiority-between-slack-and-discord-for-2024/"><u>[New] Navigating Team Communication Tools Uncovering Superiority Between Slack & Discord for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-zoom-skills-for-exceptional-audio-capture-in-podcasting-for-2024/"><u>[Updated] Essential Zoom Skills for Exceptional Audio Capture in Podcasting for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/blending-beats-with-brushstrokes-online-for-2024/"><u>Blending Beats with Brushstrokes Online for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/can-you-use-ffmpeg-to-encrypt-av1-videos-a-step-by-step-guide/"><u>Can You Use FFmpeg to Encrypt AV1 Videos? A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fuse-video-narratives-with-acoustic-elements-in-premiere-pro/"><u>Fuse Video Narratives with Acoustic Elements in Premiere Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/numerical-leaderboard-spotlight-eighth-in-photo-blender/"><u>Numerical Leaderboard Spotlight Eighth in Photo Blender</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/optimal-zero-price-logo-maker-for-discord-channels-for-2024/"><u>Optimal Zero-Price Logo Maker for Discord Channels for 2024</u></a></li>
 </ul></div>
 

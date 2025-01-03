@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, From Antagonism to Action  A Clear Framework for Handling Virtual Harassment on Discord\""
-date: 2024-12-18T17:29:15.494Z
-updated: 2024-12-25T06:13:53.797Z
+date: 2025-01-01T03:58:26.568Z
+updated: 2025-01-02T22:49:20.250Z
 tags:
   - ai video
   - ai discord
@@ -51,7 +51,7 @@ Reporting helps make healthier communities and allows you to avoid conflicts and
 Today we will look into how to report someone on Discord using desktop and mobile devices. Moreover, we will look at other ways to deal with indecent behavior, such as kicking people or banning them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Report Users on Discord Desktop
@@ -71,7 +71,7 @@ Enabling this mode will allow you to obtain the information necessary to file yo
 ![ Turn on Discord Developer Mode](https://images.wondershare.com/filmora/article-images/turn-discord-developer-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After enabling developer mode, you will now need the user ID of the person you are reporting. To get someone's user ID:
@@ -97,6 +97,10 @@ Also, it would help if you gave context regarding your report describing how and
 
 Now, confirm that you are a human by completing the captcha and then click on "Submit." Discord will contact you via email if action is taken against your complaint.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Report Users on Discord on iPhone And Android
 
 Just like on a desktop, you will first need to enable developer mode.
@@ -105,10 +109,6 @@ Just like on a desktop, you will first need to enable developer mode.
 2. On iPhone, tap on "Appearance" and then go to "Advanced," whereas on Android, go to "App Settings" and tap "Behavior"
 
 ![  report people on Discord mobile](https://images.wondershare.com/filmora/article-images/report-user-discord-mobile.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Turn on developer mode by clicking on the slider under the "Chat Behavior" option
 
@@ -157,17 +157,21 @@ If you happen to be a moderator or server owner, you have the authority to kick 
 3. Right-click on their username and then select "Kick"
 4. Click on "Kick" again to confirm your decision
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: FAQs About Discord Reporting
 
 There is no need to Google responses to "How do you report someone on Discord," we have answers to the most frequently asked questions:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Can I Report People on Discord Anonymously?
 
 According to a [moderator on Discord's subreddit](https://www.reddit.com/r/discordapp/comments/ave1x3/are%5Freports%5Fanonymous/), information regarding a reported case remains between the T&S team and the reporter. Nothing regarding the complaint is shared with the individual kicked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What Happens If I Report Someone on Discord?
 
@@ -187,10 +191,6 @@ If you know someone who is undoubtedly underage, then you can report them to the
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -206,22 +206,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-8-free-instagram-to-mp4-converters-you-can-try-onlinewindowsmac/"><u>[New] 8 Free Instagram to MP4 Converters You Can Try [Online/Windows/Mac]</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-immediate-techniques-for-instagram-video-audio-extraction-mp3/"><u>[New] Immediate Techniques for Instagram Video Audio Extraction (MP3)</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-from-silence-to-significance-replying-in-discord-chats/"><u>[New] In 2024, From Silence to Significance Replying in Discord Chats</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-integrating-spotify-and-discord-a-complete-guide/"><u>[New] In 2024, Integrating Spotify & Discord A Complete Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-transitioning-smoothly-from-your-discord-networks-for-2024/"><u>[New] Transitioning Smoothly From Your Discord Networks for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-wiping-your-discord-servers-from-pc-and-android-devices-for-2024/"><u>[New] Wiping Your Discord Servers From PC and Android Devices for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-easy-steps-for-clearing-out-desktop-discords/"><u>[Updated] 2024 Approved Easy Steps for Clearing Out Desktop Discords</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discord-broadcasting-step-by-step-techniques-for-seamless-sessions-for-2024/"><u>[Updated] Discord Broadcasting Step-by-Step Techniques for Seamless Sessions for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-essential-tips-for-navigating-discord-spoilers/"><u>[Updated] Essential Tips for Navigating Discord Spoilers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/aviwindows-11/"><u>AVIファイルを簡単再生：Windows 11対応無料ソフトウェア、コーデックパッキングなし</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 14 Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-seamlessly-update-lenovo-system-energy-management-drivers/"><u>How to Seamlessly Update Lenovo System Energy Management Drivers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-farm-frontier-favorites-similar-titles-galore/"><u>In 2024, Farm Frontier Favorites Similar Titles Galore</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-freefire-gaming-guide-maximizing-video-impact/"><u>In 2024, FreeFire Gaming Guide Maximizing Video Impact</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-react-type-and-converse-your-disco-messaging-playbook/"><u>In 2024, React, Type, and Converse Your Disco Messaging Playbook</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-kobo-forma-assessment-a-device-designed-with-dedicated-readers-in-mind/"><u>In Depth Kobo Forma Assessment: A Device Designed with Dedicated Readers in Mind</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-inaccessible-roblox-game-error-for-windows-users/"><u>Resolving Inaccessible Roblox Game Error for Windows Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-in-depth-guide-to-screen-capturing-in-online-meetings/"><u>[New] 2024 Approved The In-Depth Guide to Screen Capturing in Online Meetings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-iphone-shutterbug-secrets-perfecting-reflections-in-water/"><u>[Updated] 2024 Approved IPhone Shutterbug Secrets Perfecting Reflections in Water</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-personalize-your-viewing-experience-building-a-google-cardboard-vr-setup/"><u>[Updated] Personalize Your Viewing Experience Building a Google Cardboard VR Setup</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028661905-gif/"><u>「うまく動くGIFを制御する - アニメーションスピードの最適化方法」</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1-dvd-avi/"><u>1. DVDへの変換: AVI動画ファイルが安上がりで入手可能なコツ</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-three-methods-to-recover-data-from-an-unformatted-external-hdd/"><u>1. Three Methods to Recover Data From an Unformatted External HDD</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-toolwiz-in-pictures-complete-review-unveiled/"><u>2024 Approved Toolwiz in Pictures Complete Review Unveiled</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726027057171-mswmmwmvmp4avimov/"><u>多彩なビデオ形式へのMSWMM変換手順：WMV、MP4、AVI、MOV</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028386306-5/"><u>録画した動画を効果的に編集する上位5つのツールとアプリ:お選びください</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726027323293-windows-11/"><u>最適化されたWindows 11のビデオカット手順チュートリアル</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bypassing-security-alerts-resolve-cannot-be-opened-due-to-unverified-developer/"><u>Bypassing Security Alerts: Resolve 'Cannot Be Opened Due to Unverified Developer'</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apple-m2-macbook-air-deals-below-900-before-official-holiday-sales-events-shop-now/"><u>Discover Apple M2 MacBook Air Deals Below $900 Before Official Holiday Sales Events - Shop Now!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-mp4-to-wav-video-transcoder-by-movavi-fast-free-easy-uploads/"><u>Online MP4 to WAV Video Transcoder by Movavi: Fast, Free, Easy Uploads!</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728492506583-pc/"><u>PCのアップグレード後に全データ移行手順ガイド</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/windows-11-snipping-tool/"><u>Windows 11 Snipping Toolを使った効果的なスクリーンショット撮影テクニック</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/windows-pcandline-live/"><u>Windows PC対応のダウンロード&録画によるLINE LIVE動画保存手順</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/youtube5/"><u>YouTubeやその他動画サイトから映像コンテンツを安全にダウンロード：トップ5アプリ紹介</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Responding Right  A Comprehensive Guide to Discord Communication\""
-date: 2024-12-22T01:12:41.012Z
-updated: 2024-12-25T02:31:19.330Z
+date: 2024-12-27T00:48:58.770Z
+updated: 2025-01-02T22:24:24.287Z
 tags:
   - ai video
   - ai discord
@@ -46,7 +46,7 @@ In this article, we will cover the following parts on how to reply to messages o
 * [Part 5: Quoting Messages on Discord?](#part5)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Reply to a Specific Message on Discord on Desktop
@@ -57,10 +57,6 @@ This technique works for both the browser and the desktop applications; use it w
 
 ![Reply message on Discord desktop](https://images.wondershare.com/filmora/article-images/reply-message-on-discord.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Hover your cursor on the comment as you see icons on the right of the message
 2. Now click on the arrow icon
 3. Alternatively, you might have to click on the ellipsis icon (…) if you are replying to a comment by yourself
@@ -69,10 +65,6 @@ This technique works for both the browser and the desktop applications; use it w
 6. After you are done writing, press Enter to send your message. If you wish to discard the reply, you can click on "X."
 
 ![cancel  message replying on Discord desktop](https://images.wondershare.com/filmora/article-images/cancel-reply-on-discord.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Reply to a Certain Message on Discord Mobile
 
@@ -99,19 +91,23 @@ Here's an example of how you can implement this feature in your server. In this 
 
 ![auto reply  message on Discord ](https://images.wondershare.com/filmora/article-images/auto-reply-bot-discord-dyno.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Now you will have to sign in to your Discord account from your browser
 2. Next, you will have to pick which server you want to invite the bot to
 3. From the same screen, you can decide which permissions to assign to the bot. The ones that matter to us are read messages and send messages
 
 ![set up permission for bots ](https://images.wondershare.com/filmora/article-images/set-up-dyno-permissions-discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. The last step is to verify that you are not a robot yourself and check I’m not a robot.
 
 ![connect bots to Discord](https://images.wondershare.com/filmora/article-images/connect-to-discord-dyno.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After this, the Dyno bot will be added to your Discord server. To allow the bot to send messages, you need to visit Dyno's website and turn on the autoresponder, enabling you to set up your auto-reply.
 
@@ -129,7 +125,7 @@ Discord allows you to react to posts with emojis. To respond with an emoji:
 ![choosing reaction in  Discord message replying](https://images.wondershare.com/filmora/article-images/choose-reaction-emoji-discord.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Furthermore, to react to a message with an emoji that has already been used as a reaction, you can:
@@ -143,6 +139,10 @@ Quoting messages in Discord is very simple. All you need to do is type > before 
 
 ![quote message on Discord ](https://images.wondershare.com/filmora/article-images/quote-messages-on-discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 On the other hand, multi-line quoting is when you need to quote a paragraph or break between the lines you want to mention. For this, you can:
 
 1. Add > after every line. However, this can become annoying
@@ -151,7 +151,7 @@ On the other hand, multi-line quoting is when you need to quote a paragraph or b
 ![multiple quote message on Discord ](https://images.wondershare.com/filmora/article-images/multi-line-quoting-discord.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -171,21 +171,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-demystifying-discords-spoiler-functionality/"><u>[New] Demystifying Discord’s Spoiler Functionality</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-from-novice-to-pro-your-discord-broadcast-journey/"><u>[New] From Novice to Pro Your Discord Broadcast Journey</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-crafting-an-eye-catching-discord-avatar-picture/"><u>[New] In 2024, Crafting an Eye-Catching Discord Avatar Picture</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/utorial-tracking-down-your-youtube-comments/"><u>[New] Tutorial Tracking Down Your YouTube Comments</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-essential-know-how-for-getting-started-on-discord-live/"><u>[Updated] 2024 Approved Essential Know-How for Getting Started on Discord Live</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-art-of-recording-facebook-lives-discover-4-key-strategies/"><u>[Updated] 2024 Approved The Art of Recording Facebook Lives Discover 4 Key Strategies</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unveiling-personalization-updating-user-status-and-images-in-discord/"><u>[Updated] 2024 Approved Unveiling Personalization Updating User Status and Images in Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-exclusive-couples-spaces-on-discord-platform/"><u>[Updated] Exclusive Couple's Spaces on Discord Platform</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-streamline-your-life-quick-tips-to-beginning-on-discord-broadcasts/"><u>[Updated] In 2024, Streamline Your Life Quick Tips to Beginning on Discord Broadcasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-swift-and-secure-video-shipment-sending-oversized-content-from-ios/"><u>2024 Approved Swift & Secure Video Shipment Sending Oversized Content From iOS</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/abbyy-automatisierte-intelligenz-innovative-losungen-auf-der-expo-fur-dienstleistungsverlagerung-und-konsolidierung/"><u>ABBYY-Automatisierte Intelligenz: Innovative Lösungen Auf Der Expo Für Dienstleistungsverlagerung Und Konsolidierung</u></a></li>
-<li><a href="https://extra-information.techidaily.com/close-up-a-guide-to-richer-minecraft-imagery-for-2024/"><u>Close-Up A Guide to Richer Minecraft Imagery for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-video-card-software-for-pcs/"><u>Get the Newest AMD Video Card Software for PCs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-11-pro-max-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 11 Pro Max System? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a1x-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A1x 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-your-brand-with-these-biz-channel-standouts/"><u>[Updated] 2024 Approved Elevate Your Brand with These Biz Channel Standouts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-stardew-insider-exploring-ginger-island-thoroughly/"><u>[Updated] 2024 Approved Stardew Insider Exploring Ginger Island Thoroughly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-10-ultimate-audio-capture-plugins-for-spotify/"><u>[Updated] 2024 Approved Top 10 Ultimate Audio Capture Plugins for Spotify</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-audience-allure-3-ultimate-video-growth-methods/"><u>[Updated] In 2024, Audience Allure 3 Ultimate Video Growth Methods</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028906676-4/"><u>「最高のビデオ・オーディオキャンセルウェブサイト4選 - ご活用いただきたい！」</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/10-with-these-easy-techniques/"><u>10 with These Easy Techniques!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726027705279-windows4/"><u>無料で使えるWindows対応動画スピンオフツールベスト4選択法</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028753077-5/"><u>最高の無料音声ファイル編集ソフトウェアとアプリ - トップ5推薦</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-google-pixel-8-pro-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Google Pixel 8 Pro.</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-top-11-brainy-battles-general-knowledge-channels-revealed/"><u>In 2024, Top 11 Brainy Battles General Knowledge Channels Revealed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/proper-mac-photo-tips-identifying-and-comparing-the-top-5-techniques/"><u>Proper Mac Photo Tips Identifying and Comparing The Top 5 Techniques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-and-downloading-bluetooth-dongle-software-for-windows-users/"><u>Step-by-Step Guide: Updating and Downloading Bluetooth Dongle Software for Windows Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/troubleshooting-guide-capturing-sound-during-powerpoint-sessions-for-both-window-and-macos-users/"><u>Troubleshooting Guide: Capturing Sound During PowerPoint Sessions for Both Window and macOS Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ultimate-mp4-transformation-tool-top-rated-software-for-hd-and-sd-video-conversion/"><u>Ultimate MP4 Transformation Tool: Top Rated Software for HD and SD Video Conversion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-superiority-of-apple-silicon-analyzing-m2-vs-m1-in-mac-mini-and-mac-studio-technology-insights/"><u>Unveiling the Superiority of Apple Silicon: Analyzing M2 vs M1 in Mac Mini & Mac Studio | Technology Insights</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028169069-wonderfox-dvd/"><u>WonderFox DVDリッパープロのセットアップ完了!お使いいただきありがとうございます。</u></a></li>
 </ul></div>
 

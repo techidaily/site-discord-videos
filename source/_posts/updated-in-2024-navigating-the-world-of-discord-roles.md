@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Navigating the World of Discord Roles"
-date: 2024-12-29T01:01:00.283Z
-updated: 2025-01-03T11:51:49.361Z
+date: 2025-01-07T03:03:38.059Z
+updated: 2025-01-10T00:21:28.081Z
 tags:
   - ai video
   - ai discord
@@ -38,10 +38,6 @@ So, let us learn the art of delegation on Discord! This guide will help you with
 * [Part 5: How to Add Roles on Discord Mobile?](#part5)
 * [Part 6: Adding Roles to Discord FAQs](#part6)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Discord Server Permissions You Can Set Up
 
 To give you a heads-up, there are around 29 permissions that you can adjust over a Discord server. More specifically, there are 7 voice permissions, 9 permissions related to texts, and about 13 permissions dealing with the server.
@@ -65,7 +61,7 @@ Manage Webhooks – if you have this authority, you can add, modify, and remove 
 Read Text Channels & See Voice Channels – a user with this permission can read text channels.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Membership permissions
@@ -79,10 +75,6 @@ Change Nickname – you can change your nickname anytime if this permission is e
 Manage Nicknames – if enabled, a user can change other’s nicknames.
 
 Kick Members – a user with this authority can remove members from the server.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Text channel permissions
 
@@ -104,6 +96,10 @@ Use External Emojis – if enabled, users can send emojis from other servers.
 
 Add Reactions – with this; users can add new reactions to a text.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Voice channel permissions
 
 Connect – enables users to connect themselves over the voice channel.
@@ -122,13 +118,13 @@ Priority Speaker – when this permission is turned on for a user, other’s
 
 this permission allows the user to reduce the volume of other users when this user is speaking so that their words are louder on the channel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Advanced permissions
 
 Includes the 'Administrator' permission, which by default enables all the permissions to the assigned user.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Make and Add Roles in Discord on Computer
 
@@ -166,6 +162,10 @@ The quickest and easiest way to manage your bloating server is to let all member
 
 Further, you can easily figure out what roles you have assigned to whom. Due to these colors, the other members can identify moderators, admins, or other roles.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to Delete Roles in Discord?
 
 Honestly, removing Discord roles easier than setting them up. There are hardly a few steps that you need to follow for role removal.
@@ -176,9 +176,17 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 1. Towards the bottom, you will see the option to delete the role.
 2. Press ok to confirm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: How to Add Roles on Discord Mobile?
 
 Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. How to create roles in Discord mobile app?
 
@@ -193,10 +201,6 @@ Before you can assign roles, you have to create them.
 * Save the changes.
 
 You can repeat this multiple times to create more roles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How to Assign Roles in Discord mobile app?
 
@@ -235,10 +239,6 @@ This is likely to happen if the server owner gave you the role of admin, but the
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -254,22 +254,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/nveiling-the-12-superior-portable-cams-for-flip-screen-use/"><u>[New] Unveiling the 12 Superior Portable Cams for Flip Screen Use</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-ultimate-online-video-snatcher-download-favorites-instantly/"><u>[Updated] In 2024, Ultimate Online Video Snatcher Download Favorites Instantly</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/44cm44ki44od44ox44kw44os44o844oj44or44o844or44go44gd44gu5osp5zgz44gr44gk44ge44gm5a2m44gz44gf44ge44cn/"><u>「アップグレードルールとその意味について学びたい」</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-multiple-video-call-and-chat-tools/"><u>2024 Approved Best Multiple Video Call & Chat Tools</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/4k-vs-full-hd-unveiling-the-superior-quality-of-ultra-high-definition/"><u>4K vs Full HD: Unveiling the Superior Quality of Ultra High-Definition</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/chromecast/"><u>不具合でChromecastによるビデオ再生が難しい時のトリックと方法</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ram-avi-movavi/"><u>將RAM AVI影片化無需花錢的在線方式 - Movavi 影像編輯器服務</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726026659828-youtube/"><u>完全無料: YouTubeのビデオからオーディオのみダウンロードの簡単な方法</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726030433688-avimp4movmkv/"><u>効率的にAVIをMP4/MOV/MKVに変換する手順：完全な解法</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726029559664-youtube/"><u>音声のみでYouTubeコンテンツを聞くための簡単な方法</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/combining-mpg-videos-in-windows-a-step-by-step-guide/"><u>Combining MPG Videos in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726029529708-dvd/"><u>DVD編集専用の無料フリーアプリ！美しい動画を作り上げるステップ</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximize-profits-the-top-13-no-experience-reddit-hacks/"><u>In 2024, Maximize Profits The Top 13 No-Experience Reddit Hacks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mastering-the-art-of-logging-digital-sound-from-computers-for-2024/"><u>Mastering the Art of Logging Digital Sound From Computers for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/power-meets-price-point-with-the-impressive-zte-blade-a3y-the-ultimate-review/"><u>Power Meets Price Point with the Impressive ZTE Blade A^3Y – The Ultimate Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/savory-secrets-for-healthy-cooking-with-ai-help/"><u>Savory Secrets for Healthy Cooking with AI Help</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-motorola-razr-40-ultra-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Motorola Razr 40 Ultra Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unlocking-ppts-potential-with-voiceover-techniques/"><u>[New] 2024 Approved Unlocking PPT's Potential with Voiceover Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-best-snapchat-filters-and-lenses-that-you-want-to-try/"><u>[New] Best Snapchat Filters and Lenses That You Want to Try</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-innovative-approaches-to-social-media-video-making/"><u>[New] Innovative Approaches to Social Media Video Making</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-getting-acquainted-with-discords-innovations/"><u>[Updated] In 2024, Getting Acquainted with Discord's Innovations</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-gentle-art-of-stepping-back-from-discords/"><u>[Updated] In 2024, The Gentle Art of Stepping Back From Discords</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-journey-to-high-end-gaming-with-disconitro-on-discord/"><u>[Updated] In 2024, The Journey to High-End Gaming with DiscoNitro on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-top-tier-designers-making-magic-in-discord-emojis/"><u>[Updated] In 2024, Top-Tier Designers Making Magic in Discord Emojis</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-ultimate-font-design-software-discord-edition/"><u>[Updated] In 2024, Ultimate Font Design Software - Discord Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigate-to-8-free-emoji-resources-on-the-web-today-for-2024/"><u>[Updated] Navigate to 8 Free Emoji Resources on the Web Today for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-discreet-route-to-disengage-from-discord-networks/"><u>[Updated] The Discreet Route to Disengage From Discord Networks</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-pathway-to-discords-premium-service-disconitro/"><u>[Updated] The Ultimate Pathway to Discord's Premium Service, DiscoNitro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unmatched-visual-quality-in-the-best-4k-panels-ranked-1-10/"><u>[Updated] Unmatched Visual Quality in the Best 4K Panels, Ranked #1-10</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-compare-metaverse-vs-omniverse-an-ultimate-guide/"><u>2024 Approved Compare Metaverse Vs. Omniverse An Ultimate Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-device-recognition-post-sleep-cycle/"><u>Fine-Tuning Device Recognition Post-Sleep Cycle</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-branding-breakthrough-constructing-logos-for-podcasts/"><u>In 2024, Branding Breakthrough Constructing Logos for Podcasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/mystery-meets-machine-4-interactive-ai-games/"><u>Mystery Meets Machine: 4 Interactive AI Games</u></a></li>
 </ul></div>
 

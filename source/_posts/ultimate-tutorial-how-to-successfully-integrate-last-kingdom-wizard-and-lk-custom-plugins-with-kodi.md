@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: How to Successfully Integrate Last Kingdom Wizard & LK Custom Plugins with Kodi"
-date: 2025-01-01T08:17:33.016Z
-updated: 2025-01-02T20:38:34.444Z
+date: 2025-01-06T00:46:50.415Z
+updated: 2025-01-10T07:08:00.223Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb567cb3e91a5310072bc61574.jpg
@@ -19,25 +19,25 @@ Convert WMA to MP3
 
 [![Homepage](https://www.videoconverterfactory.com/tips/imgs-self/home.gif)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Free Convert WMA to MP3 Offline and Online in 5 Ways? | 2024 Update
 
 ![Author: Carina](https://www.videoconverterfactory.com/tips/imgs-self/avatar/carina.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Carina](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 ![Publish date](https://www.videoconverterfactory.com/tips/imgs-self/date.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Updated on Apr 02, 2024
 
 ![WMA to MP3 Converter Free](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-0.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * [**Download**](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [**Download**](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) _the **best free WMA to MP3 Converter** for Windows and start conversion as follows:_
 * Step 1: Add WMA audio files to the program
@@ -46,6 +46,10 @@ Updated on Apr 02, 2024
 * Step 3: Determine a destination folder and start conversion
 
 [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/dl/tips/hdfree.html?from=convert-wma-to-mp3.html-Top-PC-Banner) [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/free-hd-video-converter/mobile-checking.html?from=convert-wma-to-mp3.html-Top-PC-Banner) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 WMA to MP3 Converter Free
 
@@ -62,7 +66,7 @@ Speaking of free converting WMA to MP3, [**WonderFox Free HD Video Converter Fac
 ![Convert WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/box-hdfree.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Convert WMA to MP3 Windows 10
@@ -72,10 +76,6 @@ WonderFox Free HD Video Converter Factory offers a simple and free way to conver
 
 [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/dl/tips/hdfree.html?from=convert-wma-to-mp3.html-PC-Small-Banner) [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/free-hd-video-converter/mobile-checking.html?from=convert-wma-to-mp3.html-Mobile-Small-Banner) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1: Add WMA Files into the Converter
 
 Launch **Free HD Video Converter Factory** after downloading and installing it on your PC. Enter the “**Converter**” module and click on the “**\+ Add Files**” button to import WMA files to the converter. You can also drag the source files and drop them into the blank space.
@@ -83,6 +83,14 @@ Launch **Free HD Video Converter Factory** after downloading and installing it o
 ![Audio Converter WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-1.webp) 
 
 ![Audio Converter WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-1-mobi.webp) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Select MP3 as the Output Format
 
@@ -94,7 +102,7 @@ Tips: You can also click on the “**Parameter settings**” button to [change t
 ![Windows Media Audio to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-2-mobi.webp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Convert WMA Files to MP3 Now
@@ -108,10 +116,14 @@ Go back to the main interface, and click the triangle button to specify an outpu
 ![WMA File to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-3-mobi.webp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Also Read: [Play WMA on iPhone](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) | [Play WMA on Android](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) | [Five WMA Editors](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. iTunes/Apple Music (Windows/Mac)
 
@@ -131,10 +143,6 @@ Step 4: Select the WMA file, click the “**File**” menu and select “**Conve
 ![Convert WMA Files to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-5.webp) 
 
 ![Convert WMA Files to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-5-mobi.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. VLC Media Player (All Systems)
 
@@ -171,7 +179,7 @@ If the size of your WMA files exceeds the maximum file size of ZamZar, you can a
 ![Convert WMA to MP3 Online Free](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-8.webp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Convert WMA to MP3 Online Free](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-8-mobi.webp) 
@@ -183,10 +191,6 @@ Step 2: Click “**Select File**” to import WMA videos.
 Step 3: Choose “**MP3**” from the “**Convert to...**” list.  
 Step 4: Hit on “**Convert**” button to start the conversion.  
 Then you can download the converted MP3 files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## At last...
 
@@ -211,10 +215,6 @@ Yes, MP3 is a lossy compression format for audio. But don't worry. With a profes
 Similar Articles
 
 [![WMA to AAC](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-sml-1.webp) WMA to AAC](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [![Free Convert M4A to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-sml-2.webp) Free Convert M4A to MP3](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [![5 MP3 Cutters](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-sml-3.webp) 5 MP3 Cutters](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![WonderFox HD Video Converter Factory Pro](https://www.videoconverterfactory.com/tips/imgs-self/box-hdpro-l.png) 
 
@@ -248,19 +248,24 @@ WonderFox HD Video Converter Factory Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-off-line-disconnecting-discord-servers/"><u>[New] Off-Line Disconnecting Discord Servers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-scholarly-screening-top-10-educational-equipment-to-preserve-lectures-for-2024/"><u>[New] Scholarly Screening Top 10 Educational Equipment to Preserve Lectures for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discord-streaming-essentials-a-comprehensive-beginners-tutorial/"><u>[Updated] Discord Streaming Essentials A Comprehensive Beginner's Tutorial</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-frozen-frustrations-addressing-stutter-in-photobooth-videos/"><u>[Updated] Frozen Frustrations Addressing Stutter in Photobooth Videos</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-top-servers-for-romance-discord-edition/"><u>[Updated] In 2024, Top Servers for Romance Discord Edition</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-expert-insights-leveraging-discords-video-call-capabilities/"><u>2024 Approved Expert Insights Leveraging Discord's Video Call Capabilities</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-15-pro-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 15 Pro in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/avoiding-redundant-photos-with-repeated-subjects-merging-images-seamlessly-on-ios-and-macos/"><u>Avoiding Redundant Photos with Repeated Subjects - Merging Images Seamlessly on iOS and macOS</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/enhancing-your-digital-persona-personalize-your-discord-status-with-custom-emojis-for-2024/"><u>Enhancing Your Digital Persona Personalize Your Discord Status with Custom Emojis for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-c12-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia C12 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oppo-reno-9a-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Oppo Reno 9A? Try These Fixes</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/by-step-guide-to-music-insertion-in-youtube-editing-tools/"><u>Step-by-Step Guide to Music Insertion in YouTube Editing Tools</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/transform-your-discord-experience-learn-message-pinning/"><u>Transform Your Discord Experience Learn Message Pinning</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/turn-your-kindle-into-a-customizable-e-ink-display-a-step-by-step-devrepo-guide/"><u>Turn Your Kindle Into a Customizable E-Ink Display: A Step-by-Step DevRepo Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-creating-engaging-content-for-effective-discord-live-streams/"><u>[New] 2024 Approved Creating Engaging Content for Effective Discord Live Streams</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-terminate-discord-access-dual-devices/"><u>[New] 2024 Approved Terminate Discord Access - Dual Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harnessing-the-full-potential-of-lunapic-artistry/"><u>[New] Harnessing the Full Potential of LunaPic Artistry</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unleash-the-full-potential-of-discord-mastering-message-pinning-for-2024/"><u>[New] Unleash the Full Potential of Discord Mastering Message Pinning for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-video-twisting-techniques-boost-your-instagram-media-presentation/"><u>[New] Video Twisting Techniques Boost Your Instagram Media Presentation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-video-reach-convert-yt-to-igtv/"><u>[Updated] 2024 Approved Enhancing Video Reach Convert YT to IGTV</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-maximizing-user-experience-for-live-streams-on-discord-platform/"><u>[Updated] 2024 Approved Maximizing User Experience for Live Streams on Discord Platform</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-a-pocket-guide-for-channel-setup-and-management-on-discord/"><u>[Updated] In 2024, A Pocket Guide for Channel Setup and Management on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-quickly-quicken-recognition-with-these-disco-tags/"><u>[Updated] In 2024, Quickly Quicken Recognition with These Disco Tags</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-complete-blueprint-to-infuse-life-with-emojis-in-your-discord-statuses/"><u>[Updated] In 2024, The Complete Blueprint to Infuse Life with Emojis in Your Discord Statuses</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-unlocking-the-potential-of-live-broadcasting-on-discord/"><u>2024 Approved Unlocking the Potential of Live Broadcasting on Discord</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-12-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 12 Pro Max to iPad | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/decoding-the-process-your-comprehensive-guide-to-filing-a-dispute-report-on-discord-for-2024/"><u>Decoding the Process Your Comprehensive Guide to Filing a Dispute Report on Discord for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/epic-dragon-ball-saga-viewing-strategy-enjoy-the-full-story-chronologically/"><u>Epic Dragon Ball Saga Viewing Strategy: Enjoy the Full Story, Chronologically</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-xbox-extra-storage-best-hdd-options-reviewed/"><u>In 2024, Xbox Extra Storage Best HDD Options Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-iphone-capacity-expert-tips-for-freeing-up-valuable-gigabytes/"><u>Maximize Your iPhone Capacity: Expert Tips for Freeing Up Valuable Gigabytes!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premier-non-udemy-platforms-for-personalized-e-learning-for-2024/"><u>Premier Non-Udemy Platforms for Personalized E-Learning for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-speaker-functionality-after-a-recent-windows-11-system-update/"><u>Restoring Speaker Functionality After a Recent Windows 11 System Update</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-12-pro-4g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 12 Pro 4G Users</u></a></li>
 </ul></div>
 

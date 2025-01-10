@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Seamless Blend  Linking Spotify & Discord Directly\""
-date: 2024-12-27T05:15:25.953Z
-updated: 2025-01-02T20:00:45.801Z
+date: 2025-01-09T07:27:31.178Z
+updated: 2025-01-09T22:07:05.027Z
 tags:
   - ai video
   - ai discord
@@ -37,6 +37,10 @@ So, if you’re wondering how to connect Spotify to Discord, here’s your answe
 * [Part 2: Connect Spotify To Discord With Bot](#part2)
 * [Part 3: Connect Spotify To Discord Mobile App](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Link Spotify To Discord on Windows PC/Mac Directly
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -50,15 +54,15 @@ Linking Spotify to Discord on windows PC/Mac is relatively easy. Just follow the
 
 ![Supported Connection on Discord](https://images.wondershare.com/filmora/article-images/discord-connections.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 As you allow your Spotify account to connect to Discord, the connections tab will show Spotify and Discord are connected.
 
 It will also display a badge on your Discord profile, which shows your Spotify username (if you like, you can also turn this off via the connections menu).
 
 ![Connect  Spotify to  Discord and set as status](https://images.wondershare.com/filmora/article-images/set-spotify-as-status-on-discord.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 By default, whenever you’ll play some music on Spotify using the same PC/Mac you are signed in to your Discord account, the status will suddenly change into “listening to Spotify.”
 
@@ -67,10 +71,6 @@ Users can see what tracks you are playing by simply clicking your name. Not just
 This facility will let your friends tune into and listen to the same thing you’re listening to! If you want to, you can turn off this setting via the Connections menu.
 
 Lastly, you can also click this plus (+) sign near to chat box and choose the option ‘Invite to listen to Spotify.’ This will send users links, allowing them to join you via the “listen along” feature.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Connect Spotify To Discord With Bot
 
@@ -90,7 +90,7 @@ Here’s how you can connect Spotify to Discord with a bot:
 ![Add Groovy bot to Discord Server](https://images.wondershare.com/filmora/article-images/add-groovy-music-bot-to-music-select-server.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Click Authorize to grant the Groovy the Administrator permission on the selected server and pass through the “I am human” box
@@ -99,6 +99,10 @@ Here’s how you can connect Spotify to Discord with a bot:
 
 1. The Groovy bot will be instantly installed on the chosen Discord server. Now you can use the bot to play tracks or any other type of music you want by simply typing Play and the song name
 2. If you want to import your complete Spotify tracks into the Discord server, you can do it effortlessly: open your playlist in your Spotify app and click >Share>Copy Playlist Link and then paste copied URL into the chat after -play command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Connect Spotify To Discord Mobile App
 
@@ -116,6 +120,10 @@ Here’s how you can connect Spotify to Discord on your mobile app:
 2. Similar to your windows PC/Mac, your Spotify username will appear on the profile page. Like on desktop, you can also remove the username from your profile via the Connections menu
 3. Though you won’t be able to invite other users to “listen along” on the mobile app, however, users on Windows PC/Mac can click your status and also “listen along”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus: How to Listen Along With Friends on Discord?
 
 Listen, chat, party and game all at the same time with Discord. You can also listen along with users and turn the chatroom into a lively party.
@@ -127,10 +135,6 @@ Follow these easy steps to know how to “listen along” with friends on Discor
 3. Click the “listen along” icon, and then you can listen along with friends on Discord.
 
 **Note:** if you’re listening along with friends who have Spotify Free, you will hear no music during advertisements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### FAQs About Connecting Spotify to Discord
 
@@ -150,10 +154,6 @@ Yes, you can disconnect Spotify from Discord. Here’s how:
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -169,22 +169,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-the-easy-steps-for-altering-your-display-name-in-discord/"><u>[New] 2024 Approved The Easy Steps for Altering Your Display Name in Discord</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-create-unique-endings-anytime-its-free-my-friends/"><u>[New] Create Unique Endings Anytime - It's FREE, My Friends</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-extinguish-your-discord-access/"><u>[New] Extinguish Your Discord Access</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-ultimate-online-livestream-technology-for-2024/"><u>[New] Ultimate Online Livestream Technology for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-tricks-and-tips-for-quality-streaming-on-discord/"><u>[Updated] 2024 Approved Tricks and Tips for Quality Streaming on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-launching-a-successful-stream-on-discord-essential-steps-revealed/"><u>[Updated] In 2024, Launching a Successful Stream on Discord Essential Steps Revealed</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-navigating-discords-broadcast-settings-for-easy-streaming/"><u>[Updated] Navigating Discord's Broadcast Settings for Easy Streaming</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/accessing-and-saving-discord-media-free-methods-revealed-for-2024/"><u>Accessing and Saving Discord Media Free Methods Revealed for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/bypassing-file-error-for-smooth-video-playback/"><u>Bypassing File Error for Smooth Video Playback</u></a></li>
-<li><a href="https://discover-help.techidaily.com/comment-sauver-les-informations-de-votre-pc-vaio-sony-tutoriel-detaille/"><u>Comment Sauver Les Informations De Votre PC Vaio Sony - Tutoriel Détaillé</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/getting-started-launching-outlook-preview-on-pcs/"><u>Getting Started: Launching Outlook Preview on PCs</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-discovering-the-basics-of-discords-spoiler-tags/"><u>In 2024, Discovering the Basics of Discord's Spoiler Tags</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-premier-windows-video-chat-apps-7-1/"><u>In 2024, Premier Windows Video Chat Apps #7-#1</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-top-editors-secret-best-free-premiere-pro-resources/"><u>In 2024, Top Editors' Secret Best FREE Premiere Pro Resources</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-best-of-the-best-top-5-ipad-video-editing-apps/"><u>New In 2024, The Best of the Best Top 5 iPad Video Editing Apps</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/tango-app-overview-access-unlimited-free-messaging-via-text-voice-or-video/"><u>Tango App Overview: Access Unlimited Free Messaging Via Text, Voice or Video</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/themed-odyssey-the-10-most-epic-discothemes/"><u>Themed Odyssey The 10 Most Epic DiscoThemes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pros-and-cons-ios-screen-recorder-apps-for-2024/"><u>[New] Pros and Cons IOS Screen Recorder Apps for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-learn-to-switch-up-your-instagram-vocal-branding/"><u>[Updated] In 2024, Learn to Switch Up Your Instagram Vocal Branding</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagrams-hottest-25-minds-in-the-digital-age-for-2024/"><u>[Updated] Instagram's Hottest 25 Minds in the Digital Age for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/10-with-these-easy-techniques/"><u>10 with These Easy Techniques!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726027705279-windows4/"><u>無料で使えるWindows対応動画スピンオフツールベスト4選択法</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/blueears-cutting-edge-bluetooth-beanie-hat-stylish-simple-to-use-and-delivering-quality-sound-for-the-modern-user/"><u>Blueear's Cutting-Edge Bluetooth Beanie Hat - Stylish, Simple to Use, and Delivering Quality Sound for the Modern User</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creating-impactful-youtube-thumbnails-and-ads-for-2024/"><u>Creating Impactful YouTube Thumbnails & Ads for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/finding-the-root-cause-of-your-pcs-blue-screen-expert-advice-from-yl-computing/"><u>Finding the Root Cause of Your PC's Blue Screen: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guia-paso-a-paso-para-convertir-mp4-a-ogv-sin-coste-usando-el-servicio-online-de-movavi/"><u>Guía Paso a Paso Para Convertir MP4 a OGV Sin Coste Usando El Servicio Online De Movavi</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-butler-flawless-high-quality-dvd-copying-guide/"><u>The Butler - Flawless High-Quality DVD Copying Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-pick-how-to-optimize-video-quality-with-superior-bitrate-adjustment-tools/"><u>Top Pick: How to Optimize Video Quality with Superior Bitrate Adjustment Tools</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/troubleshooting-guide-capturing-sound-during-powerpoint-sessions-for-both-window-and-macos-users/"><u>Troubleshooting Guide: Capturing Sound During PowerPoint Sessions for Both Window and macOS Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ultimate-mp4-transformation-tool-top-rated-software-for-hd-and-sd-video-conversion/"><u>Ultimate MP4 Transformation Tool: Top Rated Software for HD and SD Video Conversion</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1728463588373-windows-10/"><u>Windows 10でオンラインアップデートを防止する詳細ガイド</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028169069-wonderfox-dvd/"><u>WonderFox DVDリッパープロのセットアップ完了!お使いいただきありがとうございます。</u></a></li>
 </ul></div>
 

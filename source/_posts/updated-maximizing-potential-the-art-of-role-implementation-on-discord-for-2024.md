@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Maximizing Potential  The Art of Role Implementation on Discord for 2024\""
-date: 2025-01-01T23:19:05.918Z
-updated: 2025-01-03T08:48:00.107Z
+date: 2025-01-04T21:09:33.066Z
+updated: 2025-01-09T16:33:09.006Z
 tags:
   - ai video
   - ai discord
@@ -43,7 +43,7 @@ So, let us learn the art of delegation on Discord! This guide will help you with
 To give you a heads-up, there are around 29 permissions that you can adjust over a Discord server. More specifically, there are 7 voice permissions, 9 permissions related to texts, and about 13 permissions dealing with the server.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. General server permission
@@ -76,10 +76,6 @@ Manage Nicknames – if enabled, a user can change other’s nicknames.
 
 Kick Members – a user with this authority can remove members from the server.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Text channel permissions
 
 Send Messages – with this; users can send texts on chats.
@@ -99,6 +95,10 @@ Mention Everyone – you can send push notifications on the channel if this perm
 Use External Emojis – if enabled, users can send emojis from other servers.
 
 Add Reactions – with this; users can add new reactions to a text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Voice channel permissions
 
@@ -130,10 +130,6 @@ Includes the 'Administrator' permission, which by default enables all the permis
 
 The desktop app and Browser resemble the mobile apple a lot. The process of assigning roles and configuring members is more or less the same across devices. First, you need to create roles and define their authority before assigning these roles to some members.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to create roles in Discord?
 
 Before you can assign roles, you need a server. Once you have created your Discord server, start crafting the structure.
@@ -146,6 +142,10 @@ Before you can assign roles, you need a server. Once you have created your Disco
 3. Now comes the time to grant some permissions. These are basically the authority that you gave to every profile.
 4. When you are done, save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Assign Roles to Members in Discord?
 
 To be able to assign roles, you should first create them
@@ -157,7 +157,7 @@ To be able to assign roles, you should first create them
 1. You will notice that the color changes as per your settings. And this is how you assign roles to a server.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Manage Roles in Discord?
@@ -236,7 +236,7 @@ This is likely to happen if the server owner gave you the role of admin, but the
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -254,21 +254,14 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-electronic-conference-logging/"><u>[New] Electronic Conference Logging</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-explosive-engagement-on-twitter-the-hottest-content-now/"><u>[New] In 2024, Explosive Engagement on Twitter The Hottest Content Now</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-mac-basic-sound-recording-in-audacity/"><u>[Updated] 2024 Approved Mastering Mac Basic Sound Recording in Audacity</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-moment-mastery-the-best-cams-for-extended-shutter-times/"><u>[Updated] Moment Mastery The Best Cams for Extended Shutter Times</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-selective-selections-notable-sites-for-snagging-snapalert-tunes/"><u>[Updated] Selective Selections Notable Sites for Snagging SnapAlert Tunes</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/44cm5yuv55s744oa44km44oz44ot44o844oj5ywl6zaa77ya57ch5y2y44gq5pa55rov44gn5yuv55s744ks44ov44kh44kk44or44gr5asj5oplusb44gz44kl44od44kk44oz44oi44cn/"><u>「動画ダウンロード入門：簡単な方法で動画をファイルに変換するポイント」</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/bulk-conversion-techniques-turning-wav-files-into-high-quality-alac/"><u>Bulk Conversion Techniques: Turning WAV Files Into High-Quality ALAC</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726029161061-dvd/"><u>DVD再生に問題が発生した時、カーナビで有効な修正方法</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exploring-tech-worlds-dissecting-ar-mr-and-vr/"><u>Exploring Tech Worlds Dissecting AR, MR, & VR</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-get-intellij-unison-back-up-and-running-on-win11/"><u>How to Get IntelliJ Unison Back Up & Running on Win11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/macos-file-sharing-basics-how-to-create-network-drive-mappings/"><u>MacOS File Sharing Basics: How To Create Network Drive Mappings</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726029502302-mkv/"><u>MKVビデオの字幕を取り外し方法</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726029154040-mp4m4a3/"><u>MP4からM4Aへの変換手順：初心者用トップ3ガイド</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726029809936-pc/"><u>PCでのミーティング音声だけ録音方法</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726030532953-top-5-premium-no-cost-movie-editing-tools-compatible-with-windows-and-macos-updated-guide/"><u>Top 5 Premium, No-Cost Movie Editing Tools Compatible with Windows & macOS (Updated Guide)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-80s-filters-and-effects-for-professional-videos/"><u>Top 80S Filters & Effects for Professional Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-get-and-add-animated-emojis-on-discord/"><u>[Updated] 2024 Approved How to Get and Add Animated Emojis on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-ultimate-insight-into-using-discord-effectively/"><u>[Updated] 2024 Approved The Ultimate Insight Into Using Discord Effectively</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-dissecting-discords-visual-language-innovators-and-their-works-for-2024/"><u>[Updated] Dissecting Discord's Visual Language Innovators and Their Works for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-elite-discord-screenshot-and-recording-tools-for-every-os/"><u>[Updated] In 2024, Elite Discord Screenshot & Recording Tools for Every OS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-integrating-tailored-thumbnails-in-your-videos/"><u>[Updated] Integrating Tailored Thumbnails in Your Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-video-description-engineer/"><u>2024 Approved Video Description Engineer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-11-pro-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 11 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-ultimate-mic-showdown-for-podcasters/"><u>In 2024, Ultimate Mic Showdown for Podcasters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-essence-of-elongated-images-through-iphone-writings/"><u>The Essence of Elongated Images Through iPhone’ Writings</u></a></li>
 </ul></div>
 

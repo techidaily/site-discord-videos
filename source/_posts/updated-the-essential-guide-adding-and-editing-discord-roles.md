@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Essential Guide  Adding and Editing Discord Roles\""
-date: 2024-12-29T23:58:23.744Z
-updated: 2025-01-03T07:35:17.575Z
+date: 2025-01-07T00:46:11.705Z
+updated: 2025-01-10T04:08:30.224Z
 tags:
   - ai video
   - ai discord
@@ -60,6 +60,10 @@ Manage Webhooks – if you have this authority, you can add, modify, and remove 
 
 Read Text Channels & See Voice Channels – a user with this permission can read text channels.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Membership permissions
 
 Ban Members – a member with permission, can ban members from the server.
@@ -71,10 +75,6 @@ Change Nickname – you can change your nickname anytime if this permission is e
 Manage Nicknames – if enabled, a user can change other’s nicknames.
 
 Kick Members – a user with this authority can remove members from the server.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Text channel permissions
 
@@ -95,6 +95,10 @@ Mention Everyone – you can send push notifications on the channel if this perm
 Use External Emojis – if enabled, users can send emojis from other servers.
 
 Add Reactions – with this; users can add new reactions to a text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Voice channel permissions
 
@@ -118,17 +122,9 @@ this permission allows the user to reduce the volume of other users when this us
 
 Includes the 'Administrator' permission, which by default enables all the permissions to the assigned user.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Make and Add Roles in Discord on Computer
 
 The desktop app and Browser resemble the mobile apple a lot. The process of assigning roles and configuring members is more or less the same across devices. First, you need to create roles and define their authority before assigning these roles to some members.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to create roles in Discord?
 
@@ -152,6 +148,10 @@ To be able to assign roles, you should first create them
 4. From the drop-down menu that appears, select a role you want to assign to that member.
 1. You will notice that the color changes as per your settings. And this is how you assign roles to a server.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Manage Roles in Discord?
 
 After you learn **how to make roles in Discord**, you might want to manage them.
@@ -161,10 +161,6 @@ If you have got the hang of creating roles, then managing them is no different. 
 The quickest and easiest way to manage your bloating server is to let all members be ‘everyone’ and adjust permissions accordingly. So, whenever members enter your server, they will automatically be assigned the common role.
 
 Further, you can easily figure out what roles you have assigned to whom. Due to these colors, the other members can identify moderators, admins, or other roles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to Delete Roles in Discord?
 
@@ -177,12 +173,16 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 2. Press ok to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: How to Add Roles on Discord Mobile?
 
 Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. How to create roles in Discord mobile app?
 
@@ -197,10 +197,6 @@ Before you can assign roles, you have to create them.
 * Save the changes.
 
 You can repeat this multiple times to create more roles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How to Assign Roles in Discord mobile app?
 
@@ -239,6 +235,10 @@ This is likely to happen if the server owner gave you the role of admin, but the
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -254,22 +254,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ipad-timelapse-a-beginners-handbook-to-filming/"><u>[New] 2024 Approved IPad Timelapse A Beginner's Handbook to Filming</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-essential-know-how-for-getting-started-on-discord-live/"><u>[New] Essential Know-How for Getting Started on Discord Live</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-journey-of-trust-a-guide-to-becoming-a-verified-discord-partner/"><u>[Updated] 2024 Approved The Journey of Trust A Guide to Becoming a Verified Discord Partner</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-easy-steps-for-clearing-out-desktop-discords-for-2024/"><u>[Updated] Easy Steps for Clearing Out Desktop Discords for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-instagram-the-reason-behind-video-upside-down/"><u>[Updated] Instagram The Reason Behind Video Upside-Down</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-speak-up-right-away-timely-responses-to-discord-chats-for-2024/"><u>[Updated] Speak Up Right Away Timely Responses to Discord Chats for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-mastering-the-art-of-profiling-a-complete-guide-to-pfps-in-discord/"><u>2024 Approved Mastering the Art of Profiling A Complete Guide to Pfps in Discord</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chathubnomore-closure-date-puzzle/"><u>ChatHubNoMore: Closure Date Puzzle</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210549968-9781957990040-cheiros-memoirs/"><u>Cheiro's Memoirs | Free Book</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/einfach-gemacht-die-perfekte-anleitung-zur-replikierung-von-datentragern-mit-ssd/"><u>Einfach Gemacht: Die Perfekte Anleitung Zur Replikierung Von Datenträgern Mit SSD</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/elevating-your-presence-a-guide-to-discord-broadcasts-for-2024/"><u>Elevating Your Presence A Guide to Discord Broadcasts for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-decoding-the-complexities-of-discord-spoilers-for-gamers/"><u>In 2024, Decoding the Complexities of Discord Spoilers for Gamers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/silent-phone-blues-top-tips-to-restore-your-iphones-soundscape/"><u>Silent Phone Blues? Top Tips to Restore Your iPhone's Soundscape</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-servers-not-available-error-on-destiny-2-expert-tips-and-fixes/"><u>Troubleshooting 'Servers Not Available' Error on Destiny 2 - Expert Tips and Fixes</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unveiling-the-power-of-pinning-your-guide-to-discord-mastery-for-2024/"><u>Unveiling the Power of Pinning Your Guide to Discord Mastery for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-wireless-software-or-driver-on-windows-1110/"><u>Update Wireless Software or Driver on Windows 11/10</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/vocal-ensemble-in-the-digital-age-tiktok-edition-for-2024/"><u>Vocal Ensemble in the Digital Age TikTok Edition for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-discover-the-best-methods-to-record-audio-using-windows-11-tools/"><u>[Updated] Discover the Best Methods to Record Audio Using Windows 11 Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-fake-following-fiasco-avoiding-illusory-supporters-in-social-media-space/"><u>[Updated] In 2024, Fake Following Fiasco Avoiding Illusory Supporters in Social Media Space</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-fotowiz-pro-step-by-step-guide/"><u>[Updated] In 2024, FotoWiz Pro Step-by-Step Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-prime-screen-grabs-for-film-enthusiasts/"><u>[Updated] In 2024, Prime Screen Grabs for Film Enthusiasts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/44cm44ki44od44ox44kw44os44o844oj44or44o844or44go44gd44gu5osp5zgz44gr44gk44ge44gm5a2m44gz44gf44ge44cn/"><u>「アップグレードルールとその意味について学びたい」</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1-easy-guide-watching-blu-ray-discs-using-vlc-media-player-on-your-windows-pc/"><u>1. Easy Guide: Watching Blu-Ray Discs Using VLC Media Player on Your Windows PC</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/4k-vs-full-hd-unveiling-the-superior-quality-of-ultra-high-definition/"><u>4K vs Full HD: Unveiling the Superior Quality of Ultra High-Definition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726026659828-youtube/"><u>完全無料: YouTubeのビデオからオーディオのみダウンロードの簡単な方法</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726030433688-avimp4movmkv/"><u>効率的にAVIをMP4/MOV/MKVに変換する手順：完全な解法</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029559664-youtube/"><u>音声のみでYouTubeコンテンツを聞くための簡単な方法</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029529708-dvd/"><u>DVD編集専用の無料フリーアプリ！美しい動画を作り上げるステップ</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-honor-play-8t-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Honor Play 8T to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-uncover-free-photo-and-video-resources-from-esteemed-4-online-sources/"><u>In 2024, Uncover Free Photo and Video Resources From Esteemed 4 Online Sources</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-epson-gt-s50-drivers-on-windows-7810-download-now/"><u>Install Epson GT-S50 Drivers on Windows 7/8/10 - Download Now</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/qualitatsbewusste-audiokonvertierung-lernen-sie-wie-sie-mp4-fur-kostenloses-und-hochstqualitatives-mp3-umwandeln/"><u>Qualitätsbewusste Audiokonvertierung: Lernen Sie, Wie Sie MP4 Für Kostenloses Und Höchstqualitatives MP3 Umwandeln</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-must-have-video-editing-tools-our-expert-picks/"><u>Top 5 Must-Have Video Editing Tools: Our Expert Picks</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/windows-1011m4awav/"><u>Windows 10/11向けM4AからWAVへの自由ソフトウェア・サイトリコメンド：変換ガイド</u></a></li>
 </ul></div>
 

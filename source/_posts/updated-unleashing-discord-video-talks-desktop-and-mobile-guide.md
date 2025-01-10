@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unleashing Discord Video Talks - Desktop & Mobile Guide\""
-date: 2024-12-31T23:13:07.761Z
-updated: 2025-01-02T19:49:24.122Z
+date: 2025-01-05T04:08:44.384Z
+updated: 2025-01-10T04:46:33.869Z
 tags:
   - ai video
   - ai discord
@@ -40,12 +40,16 @@ Before you start calling everyone, you’ll want to check your settings to make 
 
 ![Discord User Settings option](https://images.wondershare.com/filmora/article-images/discord-user-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 So, start by heading to the User Settings page. You’ll find this at the bottom left of the screen – look for the cog icon next to your name. You won’t see this on mobile, this is only on the desktop app and the web browser version of Discord.
 
 ![Discord Video Call Settings ](https://images.wondershare.com/filmora/article-images/discord-video-call-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once you’ve opened settings, you’ll want to click on the **Voice & Video** tab. Here you can check your microphone settings and adjust the volume, and choose your camera. If you’re using an external camera instead of the built-in option, check that the right one is selected in the dropdown.
@@ -74,25 +78,17 @@ You’ll see yourself on screen at this point, but you’ll need to wait until t
 
 ![Discord Video Call interface](https://images.wondershare.com/filmora/article-images/discord-video-call-desktop-interface.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The process of making video call on Discord mobile is essentially identical. You just need to open the direct message group and click on the video call icon, which is still at the top right of your screen.
 
 ![Discord Video Call interface on mobile](https://images.wondershare.com/filmora/article-images/discrod-personal-video-call-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You’ll need to give permissions for the Discord mobile app to use your microphone and camera if you haven’t already.
 
 Once you’ve finished your video call on either desktop or mobile, just hit the red button to end it and switch your camera off again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Make a Server Video Call on Discord?
 
@@ -101,6 +97,10 @@ If you want to make a group video call on a public server, you again need to fir
 Once you’re in the voice channel, click Lounge, Community Hangout or Stream Room, and then switch on your camera by clicking the ‘Video’ button. You’ll find this at the bottom-left of the screen. Again, if you’re on the web browser, you’ll be asked by your browser for permission to use your camera at this stage.
 
 ![Discord Server Video Call  ](https://images.wondershare.com/filmora/article-images/discord-server-video-call.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 And that’s it – the video call is now live and anyone who joins the voice channel will be able to see you, chat to you and switch on their camera to join the video conference as well.
 
@@ -129,7 +129,7 @@ If instead, it’s a public server where a video call is happening, you just nee
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -147,17 +147,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-deciphering-the-advantages-of-modern-multicam-technology/"><u>[New] Deciphering the Advantages of Modern Multicam Technology</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unveiling-the-elite-free-srt-translation-websites-of-choice/"><u>[New] In 2024, Unveiling the Elite Free SRT Translation Websites of Choice</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-tutorial-for-adding-discord-server-roles/"><u>[New] The Ultimate Tutorial for Adding Discord Server Roles</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-a-guide-to-understanding-and-joining-a-youtube-media-company/"><u>[Updated] A Guide to Understanding and Joining a YouTube Media Company</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-dating-servers-for-romance-on-discord-for-2024/"><u>[Updated] Dating Servers for Romance on Discord for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-from-channels-to-champions-leveraging-lingo-in-telegram-marketing-for-2024/"><u>[Updated] From Channels to Champions Leveraging Lingo in Telegram Marketing for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-frame-by-frame-findings-insightful-recorder-analysis/"><u>2024 Approved Frame by Frame Findings Insightful Recorder Analysis</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-guide-to-setting-up-and-managing-discord-channels-for-beginners/"><u>2024 Approved Guide to Setting Up and Managing Discord Channels for Beginners</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-av1-your-initial-journey/"><u>2024 Approved Navigating AV1 Your Initial Journey</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/launching-a-successful-stream-on-discord-essential-steps-revealed-for-2024/"><u>Launching a Successful Stream on Discord Essential Steps Revealed for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/navigating-the-maze-of-online-conflict-your-pathway-to-filing-a-report-on-discord/"><u>Navigating the Maze of Online Conflict Your Pathway to Filing a Report on Discord</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/navigating-through-tiktoks-visual-communication-tools/"><u>Navigating Through TikTok's Visual Communication Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-innovative-approaches-to-powerpoint-video-capture/"><u>[New] Innovative Approaches to PowerPoint Video Capture</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-value-from-youtube-comment-threads/"><u>[Updated] Maximizing Value From YouTube Comment Threads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-data-sanctuary-guide/"><u>[Updated] The Ultimate Data Sanctuary Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mp3-ogg6/"><u>無料のMP3変換ツール: Oggファイルから優秀なオプション6つ</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-livestream-wisdom-without-wealth-waste/"><u>How to Livestream Wisdom Without Wealth Waste</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-navigating-the-top-10-for-streamed-television/"><u>In 2024, Navigating the Top 10 for Streamed Television</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-personalize-your-online-story-mastery-in-fb-memories/"><u>In 2024, Personalize Your Online Story Mastery in FB Memories</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/merging-several-videos-seamlessly-using-windows-movie-maker/"><u>Merging Several Videos Seamlessly Using Windows Movie Maker</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mp4after-effects/"><u>MP4形式が読み込まれないAfter Effectsでのトラブルシューティングガイド</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-uploading-and-sharing-your-facebook-videos-on-youtube-efficiently/"><u>Step-by-Step Guide: Uploading and Sharing Your Facebook Videos on YouTube Efficiently</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/successful-conversion-of-ismv-files-to-mp4-solving-playback-problems/"><u>Successful Conversion of ISMV Files to MP4 - Solving Playback Problems</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-rated-dvd-to-mkv-converter-software-of-2024-for-windows-users/"><u>Top Rated DVD to MKV Converter Software of 2024 for Windows Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transform-your-images-with-text-a-windowsmacos-expertise-guide/"><u>Transform Your Images with Text A Windows/MacOS Expertise Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Tutorial for Adding Discord Server Roles for 2024"
-date: 2025-01-01T09:55:01.988Z
-updated: 2025-01-02T20:02:15.358Z
+date: 2025-01-03T23:13:13.889Z
+updated: 2025-01-10T07:48:15.011Z
 tags:
   - ai video
   - ai discord
@@ -39,7 +39,7 @@ So, let us learn the art of delegation on Discord! This guide will help you with
 * [Part 6: Adding Roles to Discord FAQs](#part6)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Discord Server Permissions You Can Set Up
@@ -63,6 +63,10 @@ Manage emojis – users with this authority can manage emotes.
 Manage Webhooks – if you have this authority, you can add, modify, and remove webhooks.
 
 Read Text Channels & See Voice Channels – a user with this permission can read text channels.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Membership permissions
 
@@ -114,10 +118,6 @@ Priority Speaker – when this permission is turned on for a user, other’s
 
 this permission allows the user to reduce the volume of other users when this user is speaking so that their words are louder on the channel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Advanced permissions
 
 Includes the 'Administrator' permission, which by default enables all the permissions to the assigned user.
@@ -139,7 +139,7 @@ Before you can assign roles, you need a server. Once you have created your Disco
 4. When you are done, save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Assign Roles to Members in Discord?
@@ -153,7 +153,7 @@ To be able to assign roles, you should first create them
 1. You will notice that the color changes as per your settings. And this is how you assign roles to a server.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Manage Roles in Discord?
@@ -176,13 +176,13 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 1. Towards the bottom, you will see the option to delete the role.
 2. Press ok to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 5: How to Add Roles on Discord Mobile?
 
 Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. How to create roles in Discord mobile app?
 
@@ -197,10 +197,6 @@ Before you can assign roles, you have to create them.
 * Save the changes.
 
 You can repeat this multiple times to create more roles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How to Assign Roles in Discord mobile app?
 
@@ -239,6 +235,10 @@ This is likely to happen if the server owner gave you the role of admin, but the
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -254,22 +254,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/xploring-differences-between-igtv-and-youtube-for-effective-posts-for-2024/"><u>[New] Exploring Differences Between IGTV and YouTube for Effective Posts for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-link-it-up-sharing-youtube-on-ig-snapshots/"><u>[New] Link It Up! Sharing YouTube on IG Snapshots</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-radiate-on-screen-quicker-ways-to-brighten-iphone-media/"><u>[New] Radiate on Screen Quicker Ways to Brighten iPhone Media</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-poco-c51-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/ts-ts/"><u>簡単な TS 動画編集 - クリーンで安全な .ts ファイル操作</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ces-showcase-meet-roborocks-new-generation-of-smart-home-vacuums-powered-by-ai-zdnet-innovations-update/"><u>CES Showcase: Meet Roborock's New Generation of Smart Home Vacuums Powered by AI | ZDNET Innovations Update</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-tech-from-toms-systems-guide/"><u>Expert Insights on Tech From Tom's Systems Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-frame-your-photos-right-with-top-tools-editors/"><u>In 2024, Frame Your Photos Right with Top Tools Editors</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Poco M6 Pro 4G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-exact-video-editing-a-step-by-step-guide/"><u>Mastering the Art of Exact Video Editing: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-watching-movies-from-a-usb-flash-drive-on-your-jvc-television/"><u>Step-by-Step Guide: Watching Movies From a USB Flash Drive on Your JVC Television</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-5-virtual-drive-tools-for-booting-isoimg-files-in-windows/"><u>Top 5 Virtual Drive Tools for Booting ISO/IMG Files in Windows</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-9-video-meeting-recorder-apps-of-2024-a-comprehensive-guide/"><u>Top 9 Video Meeting Recorder Apps of 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-rated-windows-11-dvd-ripper-software/"><u>Top-Rated Windows 11 DVD Ripper Software</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/u-nextpcwindows/"><u>U-NEXTビデオのPC上での静止画撮影・保存手順：Windowsプラットフォーム向け</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/ultimate-guide-to-free-xvid-file-transformation-into-mp4-format-on-pcs-a-seamless-experience-for-windows-owners/"><u>Ultimate Guide to Free Xvid File Transformation Into MP4 Format on PCs: A Seamless Experience for Windows Owners</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/ultimate-guide-effortlessly-removing-audio-from-avi-files/"><u>Ultimate Guide: Effortlessly Removing Audio From AVI Files</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-virtual-horizons-unveiled-critics-top-oculus-headsets/"><u>[New] 2024 Approved Virtual Horizons Unveiled Critics' Top Oculus Headsets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-resolving-skewed-online-video-quality/"><u>[New] Resolving Skewed Online Video Quality</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-tips-for-mobile-content-capture-for-2024/"><u>[New] Ultimate Tips for Mobile Content Capture for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-chuckling-chords-crafting-top-tier-meme-content-for-2024/"><u>[Updated] Chuckling Chords Crafting Top-Tier Meme Content for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-stream-on-discord/"><u>[Updated] In 2024, How to Stream on Discord</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-school-based-videography-crafting-quality-content/"><u>[Updated] In 2024, School-Based Videography Crafting Quality Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-hd-cameras-for-wildlife-enthusiasts-for-2024/"><u>[Updated] Top HD Cameras For Wildlife Enthusiasts for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-top-screen-capture-software-for-discord-androidios-for-2024/"><u>[Updated] Top Screen Capture Software for Discord (Android/iOS) for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unveiling-the-secrets-of-discord-spoilers/"><u>[Updated] Unveiling the Secrets of Discord Spoilers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/diy-solutions-for-maximizing-speaker-performance-in-windows-11/"><u>DIY Solutions for Maximizing Speaker Performance in Windows 11</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/end-battlefield-5-game-breaking-pc-errors-a-comprehensive-guide-to-stability/"><u>End Battlefield 5 Game-Breaking PC Errors - A Comprehensive Guide to Stability</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x6-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Poco X6 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instant-on-maximizing-your-video-playback-time/"><u>Instant-On Maximizing Your Video Playback Time</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/what-is-discord-pfp-and-how-to-make-an-attractive-pfp-for-discord/"><u>What Is Discord PFP and How to Make an Attractive PFP for Discord</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Startup Problems with 'Call of Duty Black Ops 4': A Step-by-Step Guide"
-date: 2024-12-27T21:17:33.605Z
-updated: 2025-01-03T08:37:06.072Z
+date: 2025-01-03T06:35:17.695Z
+updated: 2025-01-09T22:36:27.305Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ The Ascent
  The Ascent is final out! As a solo and co-op Action-shooter RPG set in a cyberpunk world, The Ascent has attracted tons of PC gamers. However, just like any other games released recently, the game is not immue to errors and performance issue. These days, many PC players are reporting that**The Ascent keeps crashing** on their PC, which makes the game unplayable.
 
  But don’t worry. If you’re running into the same issue, you’ve come to the right place! After reading this article, you should be able to fix this issue on your own easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The system requirements of The Ascent
 
@@ -55,10 +59,6 @@ The Ascent
 7. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 8. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Verify integrity of game files
 
  The Ascent may crash if its game files are corrupted or incomplete. But don’t worry. You can follow the steps below to verify and repair the game files in Steam:
@@ -68,15 +68,15 @@ The Ascent
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch the game again and check if this fix works. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -93,12 +93,12 @@ The Ascent
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -112,10 +112,6 @@ The Ascent
 
  Launch The Ascent again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Run The Ascent with DirectX 11
 
  Many PC players report that The Ascent would stop crashing after they swtiched to DirectX 11\. Maybe the game hasn’t been fully optimized for DirectX 12\. So try run the game with DirectX 11 and see if it crashes. Here’s how to do it:
@@ -125,14 +121,14 @@ The Ascent
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the GENERAL section, enter`**-dx11**` under LAUNCH OPTIONS. By doing that, Steam will run the game with DirectX 11 next time.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Run The Ascent with DriectX 11](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-The-Ascent-with-DriectX-11.jpg)
 4. Launch The Ascent and see if this issue persists.
 
 If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable Movie / Film Grain, Depth Of Field, Post-Process Effects
 
@@ -177,6 +173,10 @@ If the game still crashes, try the next fix, below.
 
  If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Temporarily disable anti-virus software
 
  Some 3rd party antivirus software would interfere with the game, and may even block the game files. Sometimes it may also lead to the game crashing issues.
@@ -187,6 +187,10 @@ If the game still crashes, try the next fix, below.
 
 If this fix didn’t work, try the next fix to perform a clean boot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Perform a clean boot
 
  The Ascent may also crash if there is a certain program conflicting with the game. To find out the problematic program that crashes the game, you need to perform a clean boot. Here’s how to do it:
@@ -194,10 +198,6 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
@@ -208,17 +208,17 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your PC and launch The Ascent to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -254,19 +254,22 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ullframe-alliance-how-to-choose-your-mcn-strategically-for-2024/"><u>[New] FullFrame Alliance How to Choose Your MCN Strategically for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-exploration-inside-xcreative-media-suite/"><u>2024 Approved The Ultimate Exploration Inside XCreative Media Suite</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-transforming-visuals-the-power-of-customized-luts/"><u>2024 Approved Transforming Visuals The Power of Customized LUTs</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-xiaomi-civi-3-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Xiaomi Civi 3? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/designing-captivating-instagram-feed-summaries/"><u>Designing Captivating Instagram Feed Summaries</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/earn-with-each-screen-capture/"><u>Earn With Each Screen Capture</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/effortless-dvd-authoring-and-replication-using-the-winx-dvd-software-tool/"><u>Effortless DVD Authoring & Replication Using the WinX DVD Software Tool</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-xr-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone XR Lock Screen with Notifications?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-converting-wav-files-into-mp3-on-windows-11/"><u>Step-by-Step Guide: Converting WAV Files Into MP3 on Windows 11</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-transforming-av1-video-format-into-compatible-mp4-hevc-and-mpeg-4-versions/"><u>Step-by-Step Guide: Transforming AV1 Video Format Into Compatible MP4, HEVC and MPEG-4 Versions</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-11-video-transcoding-tools-for-windows-11-desktop-and-web-solutions/"><u>Top 11 Video Transcoding Tools for Windows 11: Desktop & Web Solutions</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-5-premium-free-video-compressors-how-to-reduce-size-without-a-watermark/"><u>Top 5 Premium-Free Video Compressors : How to Reduce Size Without a Watermark</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-recommended-free-dvd-ripper-software-compatible-with-windows-10-and-11/"><u>Top Recommended Free DVD Ripper Software Compatible with Windows 10 & 11</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-sites-for-free-4k-movie-downloads-and-how-to-use-leading-4k-video-converters/"><u>Top Sites for Free 4K Movie Downloads & How to Use Leading 4K Video Converters</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-getting-acquainted-with-discord-stickers/"><u>[Updated] In 2024, Getting Acquainted with Discord Stickers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-download-discord-videos-for-free-on-desktop-and-mobile/"><u>[Updated] In 2024, How to Download Discord Videos for Free on Desktop & Mobile?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-ultimate-conversational-ais-on-discord/"><u>[Updated] In 2024, Ultimate Conversational AIs on Discord</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-pinnacle-vision-studio-review-yearly-update-for-2024/"><u>[Updated] Pinnacle Vision Studio Review Yearly Update for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-sonic-surge-in-discord-20plus-high-quality-music-bots-you-must-explore/"><u>[Updated] Sonic Surge in Discord 20+ High-Quality Music Bots You Must Explore</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-streamlining-your-mac-techniques-to-remove-green-screen-effects/"><u>[Updated] Streamlining Your Mac Techniques to Remove Green Screen Effects</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-3-essential-voice-logging-tactics-for-ipad/"><u>[Updated] The 3 Essential Voice Logging Tactics for iPad</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unlocking-pathways-to-discover-new-discord-communities/"><u>[Updated] Unlocking Pathways to Discover New Discord Communities</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unveiling-all-about-discord-stickers/"><u>[Updated] Unveiling All About Discord Stickers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-what-is-discord-pfp-and-how-to-make-a-stunning-pfp-for-discord/"><u>[Updated] What Is Discord Pfp and How to Make a Stunning Pfp for Discord</u></a></li>
+<li><a href="https://techtrends.techidaily.com/abbyy-unveils-beta-testing-initiative-empowering-dev-teams-with-early-access/"><u>ABBYY Unveils Beta Testing Initiative: Empowering Dev Teams with Early Access</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/hddwindows-windows-11/"><u>HDDをWindows 지원하도록クローニング : Windows 11 최신 기능</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovo-ideapad-duet-a-fantastic-combination-of-chromebook-and-tablet-features-reviewed-by-zdnet/"><u>Lenovo IdeaPad Duet - A Fantastic Combination of Chromebook and Tablet Features Reviewed by ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/prevent-and-resolve-pc-freezing-in-fifa-22-with-these-tips/"><u>Prevent and Resolve PC Freezing in FIFA 22 with These Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-best-of-ice-artistry-2022-edition/"><u>The Best of Ice Artistry 2022 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmatched-accuracy-logitechs-elite-mouse/"><u>Unmatched Accuracy - Logitech's Elite Mouse</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/your-roadmap-to-prominence-top-30-cooler-disco-tags-for-2024/"><u>Your Roadmap to Prominence Top 30 Cooler Disco Tags for 2024</u></a></li>
 </ul></div>
 

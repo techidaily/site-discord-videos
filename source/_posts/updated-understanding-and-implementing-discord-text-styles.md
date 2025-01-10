@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding & Implementing Discord Text Styles"
-date: 2025-01-02T00:14:17.136Z
-updated: 2025-01-03T04:22:07.410Z
+date: 2025-01-07T00:55:41.308Z
+updated: 2025-01-09T23:49:17.502Z
 tags:
   - ai video
   - ai discord
@@ -63,6 +63,10 @@ Filmora Text Video Editor
 
 [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Change Video Text Style](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Change Text Style in Discord with Markdown?
 
 As we mentioned previously, Markdown is completely text-based and has a very simple syntax. All you need to do to apply special formatting to your text is to enter a few special characters at the right places, and the appropriate effect (bold, italic…) will appear in the chat. Keep in mind that you can easily combine the formatting styles by using multiple commands at the same time.
@@ -70,10 +74,6 @@ As we mentioned previously, Markdown is completely text-based and has a very sim
 Here is an overview of the most important options for changing text style in Discord, and you can preview the text style in real time before sending to friends:
 
 ![Change Text Style in Discord  - Basic](https://images.wondershare.com/filmora/article-images/discord-change-text-style.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **How to Bold Text in Discord?**
 
@@ -91,6 +91,10 @@ In order to get a strikethrough effect on your text, you will have to type two t
 
 Underline effect is also available on Discord and equally simple to activate. Just type two underscore dashes (\_\_)at the start and the ending of the text selection to apply it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Combine Text Formatting Options in Discord?
 
 Once you mastered the basic effects and know the commands without thinking, it’s time to consider more complex text transformations that combine more than one effect. In principle, Markdown lets you do this just as easily, for as long as you know all the right combinations of characters that produce the desired effect. Here are the detailed instructions for some of the most frequently utilized combos:
@@ -101,10 +105,6 @@ For this elegant combination, use two underscore dashes (\_\_) followed by one a
 
 ![Discord Underlined and Italicized text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-text.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Underlined and Bolded text
 
 Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both sides of the selection to get those two effects together.
@@ -112,7 +112,7 @@ Put two underscore dashes (\_\_) and add two asterisk characters (\*\*) to both 
 ![Discord Underlined and Bolded text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-bolded-text.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Underlined, Italicized, and Bolded text
@@ -122,7 +122,7 @@ This combination is achieved by placing two underscore marks (\_\_) and three st
 ![Discord Underlined &  Italicized Bolded  text  ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-text.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Bolded, Italicized, underlined, and crossed out text
@@ -131,13 +131,13 @@ You can combine all four style changes as well – just use two tildes (\~\~), t
 
 ![Discord Underlined &  Italicized Bolded crossed out text ](https://images.wondershare.com/filmora/article-images/discord-underlined-italicized-bolded-cross-out-text.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Use Code Block for Discord Text Formatting?
 
 In addition to simple font transformations, Discord allows users to engage in advanced text formatting with incredible ease. One way to do it is to deploy code blocks, which can be activated with the backtick character ( \` ) placed on the beginning and the end of a text section. This command will highlight the chosen part of the text while preserving blank space around it for extra emphasis of your message. However, if you use three consecutive ( \` ) signs before a block of text and separate the text into several lines by pressing enter, the result will be a series of highlighted lines that form a single code block. This option is simple enough that even beginners with no programming abilities can easily learn how to use it, and it has some practical applications that savvy Discord users are very fond of.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to Change the Text Color in Discord Message?
 
@@ -178,24 +178,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-transformative-strategies-for-effective-pins-in-discord-dialogues/"><u>[New] 2024 Approved Transformative Strategies for Effective Pins in Discord Dialogues</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-from-novice-to-pro-your-discord-broadcast-journey/"><u>[New] From Novice to Pro Your Discord Broadcast Journey</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/rom-youtube-to-webm-unveiling-the-premium-converters/"><u>[New] From YouTube to WebM Unveiling the Premium Converters</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-mastering-the-art-of-crafting-captivating-discord-pfps-for-2024/"><u>[New] Mastering the Art of Crafting Captivating Discord Pfps for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-pricing-strategies-for-youtube-video-promotions/"><u>[New] Pricing Strategies for YouTube Video Promotions</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-step-by-step-guide-for-adding-and-curating-dynamic-graphics-gifs-in-your-discord-chats/"><u>[New] The Ultimate Step-by-Step Guide for Adding and Curating Dynamic Graphics (GIFs) in Your Discord Chats</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-essential-know-how-for-getting-started-on-discord-live/"><u>[Updated] 2024 Approved Essential Know-How for Getting Started on Discord Live</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-navigating-the-intricacies-of-discord-roles-integration/"><u>[Updated] Navigating the Intricacies of Discord Roles Integration</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-revolutionary-discothemes-a-top-10-showcase/"><u>[Updated] Revolutionary DiscoThemes - A Top 10 Showcase</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-beginners-path-to-becoming-a-discord-live-stream-guru/"><u>[Updated] The Beginner's Path to Becoming a Discord Live Stream Guru</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ai-assistant-copilot-and-its-role-in-streamlining-microsoft-teams-user-experience/"><u>AI Assistant Copilot and Its Role in Streamlining Microsoft Teams User Experience</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-7-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 7? How to Fix it?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/autofocus-plus-next-gen-hdr-image-processing-explained-for-2024/"><u>Autofocus Plus Next-Gen HDR Image Processing Explained for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/colorful-canvas-the-ultimate-10-bestdiscord-theme-gallery-for-2024/"><u>Colorful Canvas The Ultimate 10 BestDiscord Theme Gallery for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conceptual-canvas-the-freshest-visual-suggestions-with-dall-e-3/"><u>Conceptual Canvas: The Freshest Visual Suggestions with DALL-E 3</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-apple-m3-macbook-air-top-3-impressive-upgrades-unveiled/"><u>Exploring the Apple M3 MacBook Air: Top 3 Impressive Upgrades Unveiled</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-oculus-link-blackout-6-fast-solutions/"><u>Fixing the Oculus Link Blackout: 6 Fast Solutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-oppo-find-x7-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Oppo Find X7 Ultra to iPhone | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-12-mini-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 12 mini</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-windows-best-chat-tools-ranked-3-1/"><u>[New] In 2024, Windows' Best Chat Tools Ranked #3-#1</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mobile-mastery-saving-igtv-videos-on-your-device/"><u>[Updated] 2024 Approved Mobile Mastery Saving IGTV Videos on Your Device</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-step-by-step-instagram-filter-guide-keeping-up-with-2023-trends/"><u>[Updated] 2024 Approved Step-by-Step Instagram Filter Guide - Keeping Up with 2023 Trends</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-filming-to-sharing-a-youtube-video-edition-for-2024/"><u>[Updated] From Filming to Sharing A YouTube Video Edition for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-leveraging-discord-for-efficient-media-broadcasting-techniques/"><u>[Updated] In 2024, Leveraging Discord for Efficient Media Broadcasting Techniques</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-transform-your-profile-with-our-discord-pic-insights/"><u>[Updated] In 2024, Transform Your Profile with Our Discord Pic Insights</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-master-your-musical-score-on-discord-with-our-top-bot-compilation-for-2024/"><u>[Updated] Master Your Musical Score on Discord with Our Top Bot Compilation for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unlocking-the-secrets-of-text-styling-in-discord/"><u>[Updated] Unlocking the Secrets of Text Styling in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-what-exactly-is-disconitro-insider-info-for-freepaid-users/"><u>[Updated] What Exactly Is DiscoNitro? Insider Info for Free/Paid Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share Location in Messenger On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/is-it-time-to-replace-your-old-ipad-with-something-new/"><u>Is It Time to Replace Your Old iPad with Something New?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mastering-ark-survival-ascended-with-a-boosted-fps-for-an-unbeatable-pc-adventure/"><u>Mastering ARK: Survival Ascended with a Boosted FPS for an Unbeatable PC Adventure</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-gesture-control-a-comprehensive-overview/"><u>Mastering Gesture Control A Comprehensive Overview</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/resolved-get-your-cod-vanguard-voice-chat-running-smoothly-again/"><u>Resolved: Get Your COD: Vanguard Voice Chat Running Smoothly Again!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-tecno-pova-5-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Tecno Pova 5 Phone Pattern Lock</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/who-takes-the-crown-in-free-video-playback-vlc-vs-mpc-for-2024/"><u>Who Takes the Crown in Free Video Playback? VLC Vs. MPC for 2024</u></a></li>
 </ul></div>
 

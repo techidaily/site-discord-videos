@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Unlocking Discord's Full Capabilities Through Role Addition"
-date: 2025-01-01T12:35:51.283Z
-updated: 2025-01-03T05:05:50.284Z
+date: 2025-01-09T07:44:56.671Z
+updated: 2025-01-10T03:48:35.809Z
 tags:
   - ai video
   - ai discord
@@ -42,6 +42,10 @@ So, let us learn the art of delegation on Discord! This guide will help you with
 
 To give you a heads-up, there are around 29 permissions that you can adjust over a Discord server. More specifically, there are 7 voice permissions, 9 permissions related to texts, and about 13 permissions dealing with the server.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. General server permission
 
 Administrator – this is the highest permission that you can grant to a user. Think twice before giving this authority to anyone.
@@ -60,10 +64,6 @@ Manage Webhooks – if you have this authority, you can add, modify, and remove 
 
 Read Text Channels & See Voice Channels – a user with this permission can read text channels.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Membership permissions
 
 Ban Members – a member with permission, can ban members from the server.
@@ -77,7 +77,7 @@ Manage Nicknames – if enabled, a user can change other’s nicknames.
 Kick Members – a user with this authority can remove members from the server.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Text channel permissions
@@ -138,10 +138,6 @@ Before you can assign roles, you need a server. Once you have created your Disco
 3. Now comes the time to grant some permissions. These are basically the authority that you gave to every profile.
 4. When you are done, save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Assign Roles to Members in Discord?
 
 To be able to assign roles, you should first create them
@@ -153,7 +149,7 @@ To be able to assign roles, you should first create them
 1. You will notice that the color changes as per your settings. And this is how you assign roles to a server.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Manage Roles in Discord?
@@ -167,7 +163,7 @@ The quickest and easiest way to manage your bloating server is to let all member
 Further, you can easily figure out what roles you have assigned to whom. Due to these colors, the other members can identify moderators, admins, or other roles.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Delete Roles in Discord?
@@ -180,13 +176,13 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 1. Towards the bottom, you will see the option to delete the role.
 2. Press ok to confirm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: How to Add Roles on Discord Mobile?
 
 Like we mentioned earlier, the user interface of Discord is similar across devices. So, there is little difference between the process of creating and managing roles. But it can be baffling for beginners, so here’s a brief!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. How to create roles in Discord mobile app?
 
@@ -201,6 +197,10 @@ Before you can assign roles, you have to create them.
 * Save the changes.
 
 You can repeat this multiple times to create more roles.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. How to Assign Roles in Discord mobile app?
 
@@ -254,24 +254,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-top-10-favorite-discothemes-a-curated-list-from-bestdiscord/"><u>[New] 2024 Approved Top 10 Favorite DiscoThemes - A Curated List From BestDiscord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-discords-ultimate-selection-of-professional-emoji-makers/"><u>[New] In 2024, Discord's Ultimate Selection of Professional Emoji Makers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-mac-screen-recorders-top-10-free-list/"><u>[New] In 2024, Essential Mac Screen Recorders – Top 10 FREE List</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-unveiling-the-secrets-of-custom-emoji-integration-in-discord/"><u>[New] Unveiling the Secrets of Custom Emoji Integration in Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-wiping-your-discord-servers-from-pc-and-android-devices-for-2024/"><u>[New] Wiping Your Discord Servers From PC and Android Devices for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-easy-steps-for-clearing-out-desktop-discords/"><u>[Updated] 2024 Approved Easy Steps for Clearing Out Desktop Discords</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discord-broadcasting-step-by-step-techniques-for-seamless-sessions-for-2024/"><u>[Updated] Discord Broadcasting Step-by-Step Techniques for Seamless Sessions for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-seamless-photo-and-video-import-in-windows-10/"><u>[Updated] Expert Tips for Seamless Photo and Video Import in Windows 10</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-step-by-step-guide-for-adding-emoji-flair-into-your-discord-status/"><u>[Updated] In 2024, Step by Step Guide for Adding Emoji Flair Into Your Discord Status</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-optimal-visual-branding-best-practices-for-youtube-channel-size/"><u>[Updated] Optimal Visual Branding Best Practices for YouTube Channel Size</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-recovering-the-solitary-sound-device/"><u>[Updated] Recovering the Solitary Sound Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/androidiso-iso/"><u>Android上でISO画像ファイルのプレーヤー設定 - ISOファイル導入手順</u></a></li>
-<li><a href="https://blog-min.techidaily.com/enhance-your-broadcasts-with-manycam-advanced-live-streaming-tools-and-online-camera-tech/"><u>Enhance Your Broadcasts with ManyCam: Advanced Live Streaming Tools and Online Camera Tech</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/extinguish-your-discord-access/"><u>Extinguish Your Discord Access</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-13-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi Note 13 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-react-type-and-converse-your-disco-messaging-playbook/"><u>In 2024, React, Type, and Converse Your Disco Messaging Playbook</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ring-youtube-studio-the-ultimate-guide-to-video-edits-for-2024/"><u>Mastering YouTube Studio The Ultimate Guide to Video Edits for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/powershot-g9-x-mark-ii-review-traveling-in-style-and-functionality/"><u>PowerShot G9 X Mark II Review – Traveling in Style & Functionality</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/transforming-youtube-videos-into-cash-flows/"><u>Transforming YouTube Videos Into Cash Flows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-enhance-iphone-hd-video-clarity-in-premiere-pro-post-production/"><u>[New] 2024 Approved Enhance iPhone HD Video Clarity in Premiere Pro Post-Production</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-rethinking-tiktok-a-2023-guide-to-alternative-networks/"><u>[New] In 2024, Rethinking TikTok A 2023 Guide to Alternative Networks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mosaic-masterpieces-elevating-your-living-space/"><u>[New] Mosaic Masterpieces Elevating Your Living Space</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029408173-iso/"><u>「最も効果的なアルゴリズムでISOファイルの圧縮方法：詳細ガイド」</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029473423-5/"><u>【無料】オンラインで音声を変換するための最適な5つのサイトがこちら</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1-tac/"><u>1. TAC動画のダウンロードと保管方法：ガイド</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1725285704678-2022dvd/"><u>2022年如何有效地将DVD转换为数字化格式</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-motorola-g54-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Motorola G54 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726027970079-dvd/"><u>学会在投影机上看DVD的方法与应对无法播放时的策略</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028740553-android/"><u>Android上での動画形式変更・転送ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-construction-revolutionized-by-chatbot-innovation/"><u>Content Construction Revolutionized by Chatbot Innovation</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-infinix-gt-10-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Infinix GT 10 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-motorola-moto-g34-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Motorola Moto G34 5G Phone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028125942-mp4wmv/"><u>MP4ファイルの拡張子をWMVに変換する簡単なガイド</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/screen-partition-prowess-top-recorders-rating-for-2024/"><u>Screen Partition Prowess Top Recorder's Rating for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/wavggtop4/"><u>ベストの無料WAVからオGGへの変換ツールTOP4選び</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating the Nuances of Discord Identity Shifts"
-date: 2024-12-30T23:45:30.023Z
-updated: 2025-01-02T23:13:50.955Z
+date: 2025-01-06T05:35:49.361Z
+updated: 2025-01-09T17:38:38.295Z
 tags:
   - ai video
   - ai discord
@@ -36,15 +36,15 @@ Today, many folks are yet to understand the logic attached to changing their sta
 * **[Part 5: How to Show What Game You're Playing on Discord?](#part5)**
 * **[Part 6: FAQs about Discord Status](#part6)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 1: What Does the Discord Statuses Mean?**
 
 Discord status is a changeable notification setting that enables users to set their current condition either AFK, online, or custom! This status consists of four options (online, Idle, Do not disturb, Invisible, and Custom) which will be explained below.
 
 ![default discord status options](https://images.wondershare.com/filmora/article-images/default-discord-status.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Online:**
 
@@ -82,6 +82,10 @@ Yeah!! Now your status has been changed to custom!
 
 ![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
 Step 1: Once again, click on the profile icon and select Set status.
@@ -103,7 +107,7 @@ Changing discord status on windows/Mac computers is very simple, and the Discord
 **Step 3:**Up next, click on the Set status option! This time you'll see four preset statuses to choose excluding the Custom status option. All you've got to do is choose your preferred option to proceed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 4: How to Change Discord Status on Android, iPhone, or iPad?**
@@ -122,11 +126,11 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 ![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
-**Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
 ## **Part 5: How do you show what game you're playing on Discord?**
 
@@ -144,10 +148,6 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 ![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
 ### **How to Display Game Status on Discord Mobile App**
@@ -158,10 +158,6 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 3:**On the Game Tab, all you've got to do is to toggle the switch to show your current game activity.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **FAQs About Discord Status**
 
 ### **1\. How can you change the Discord status automatically?**
@@ -169,7 +165,7 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 A concise answer to this question is, Discord status cannot be changed automatically, but you can set a time limit that you want a custom text to display on your status. However, the game activity status option can be updated automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. How can you tell if someone with their status set to offline is online, on Discord?**
@@ -177,6 +173,10 @@ A concise answer to this question is, Discord status cannot be changed automatic
 Detecting whether someone is online when their Discord status is set to invisible is not a walk in the park. But one unique way to tell if they're online is by spotting them via voice chat or when typing a message.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -193,19 +193,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-unseen-viewers-route-navigating-instagram-stories-with-anonymous-viewing/"><u>[New] 2024 Approved The Unseen Viewer's Route Navigating Instagram Stories with Anonymous Viewing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-powerpoint-presentation-soundtracking-secrets/"><u>[New] In 2024, PowerPoint Presentation Soundtracking Secrets</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-pilot-to-perfection-complete-review-of-dji-phantom-4/"><u>[Updated] In 2024, Pilot to Perfection Complete Review of DJI Phantom 4</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/convert-3gp-files-effortlessly-change-to-popular-video-formats-like-mp4-avi-and-more/"><u>Convert 3GP Files Effortlessly: Change to Popular Video Formats Like MP4, AVI & More!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/convert-wav-files-to-high-quality-flac-with-movavis-hassle-free-online-tool/"><u>Convert WAV Files to High-Quality FLAC with Movavi's Hassle-Free Online Tool</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/discover-the-best-3-free-media-players-for-windows-10s-ultimate-film-and-music-experience/"><u>Discover the Best 3 Free Media Players for Windows 10'S Ultimate Film and Music Experience</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/edit-your-videos-without-spending-a-penny-using-windows-11-tools/"><u>Edit Your Videos Without Spending a Penny Using Windows 11 Tools</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/effective-fixes-for-handling-codec-not-found-issues-in-ms-powerpoint-on-windows-systems/"><u>Effective Fixes for Handling 'Codec Not Found' Issues in MS PowerPoint on Windows Systems</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/effective-strategies-for-converting-mp4-files-into-high-quality-flac-audio/"><u>Effective Strategies for Converting MP4 Files Into High-Quality FLAC Audio</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/effective-ways-to-shrink-your-vob-movie-files-quickly-and-online/"><u>Effective Ways to Shrink Your VOB Movie Files Quickly and Online</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-io-screen-recorder-skills-for-professionals/"><u>In 2024, Essential IO Screen Recorder Skills for Professionals</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/instantly-enhance-your-facebook-experience-with-collage/"><u>Instantly Enhance Your Facebook Experience with Collage</u></a></li>
-<li><a href="https://article-files.techidaily.com/streamline-your-cricket-experience-a-guide-to-top-live-sports-services-for-2024/"><u>Streamline Your Cricket Experience A Guide to Top Live Sports Services for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-paradox-of-machine-writing-how-chatgpt-struggles-with-self-identification/"><u>The Paradox of Machine Writing: How ChatGPT Struggles with Self-Identification</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-facebook-film-fans-choosing-the-best-extensions-and-downloader-plugins-on-firefox/"><u>[Updated] 2024 Approved Facebook Film Fans Choosing the Best Extensions and Downloader Plugins on Firefox</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-future-is-now-transformative-metaverse-techniques/"><u>[Updated] 2024 Approved The Future Is Now Transformative Metaverse Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-canonayers-guide-to-color-gratification-paid-and-no-cost-luts/"><u>[Updated] Canon'ayer’s Guide to Color Gratification – Paid & No-Cost LUTs</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-perfect-your-stream-essential-tips-for-discord-users-for-2024/"><u>[Updated] Perfect Your Stream Essential Tips for Discord Users for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-stickers-for-discord-everything-you-need-to-know-for-2024/"><u>[Updated] Stickers for Discord Everything You Need to Know for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-strategies-for-departing-from-your-discord-clan/"><u>[Updated] Strategies for Departing From Your Discord Clan</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-tackling-tech-challenges-flawless-discord-screen-broadcasts-for-2024/"><u>[Updated] Tackling Tech Challenges Flawless Discord Screen Broadcasts for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-basics-of-earning-on-youtube-a-beginners-guide/"><u>[Updated] The Basics of Earning on YouTube A Beginner’s Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-insiders-guide-to-batch-deleting-messages-on-discord-platform-for-2024/"><u>[Updated] The Insider’s Guide to Batch Deleting Messages on Discord Platform for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-the-hype-why-opting-out-of-the-iphone-16-may-preserve-your-tech-savvy-insights/"><u>Avoid the Hype: Why Opting Out of the iPhone 16 May Preserve Your Tech Savvy - Insights</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/maximizing-productivity-and-health-how-the-cubefit-terramat-keeps-you-fit-while-stationary/"><u>Maximizing Productivity and Health: How the CubeFit TerraMat Keeps You Fit While Stationary</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-mobile-power-the-20-anker-power-bank-fixes-common-charger-issues-insights-by-zdnet/"><u>Revolutionize Your Mobile Power: The $20 Anker Power Bank Fixes Common Charger Issues - Insights by ZDNet</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-review-why-the-samsung-galaxy-a51-5g-is-a-must-have-for-savvy-shoppers/"><u>Top Review: Why the Samsung Galaxy A51 5G Is a Must-Have for Savvy Shoppers</u></a></li>
 </ul></div>
 

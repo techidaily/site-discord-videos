@@ -1,7 +1,7 @@
 ---
 title: Google Nest Audio and Apple HomePod - A Comprehensive Price and Performance Review
-date: 2025-01-02T20:35:17.001Z
-updated: 2025-01-10T03:59:58.435Z
+date: 2025-01-09T19:08:42.983Z
+updated: 2025-01-16T00:28:48.617Z
 categories:
   - BestProducts
 description: This Article Describes Google Nest Audio and Apple HomePod - A Comprehensive Price and Performance Review
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/fJ-vzAIcRCvO5h-FJpxaOSlVFR4=/400x300/fi
 ## Clearstream ECLIPSE
 
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/C1hoQetKMx7bAHqwsQ9gt0Fz_S0=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_HeroSquare-79582ad545a44cf1993681dff0c33449.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -40,10 +44,6 @@ Lifewire / Jonno Hill
 
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/0gXsFyigpZzsnNAEj3tIrKImB8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_HeroSquare-79582ad545a44cf1993681dff0c33449.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Jonno Hill
 
 [View On Amazon $35](https://www.amazon.com/dp/B01HQ4BRIG/?tag=lifewire-onsite-prod-20&ascsubtag=4843098%7Cnd0143d72158b4d609e6ef9a213c7445e18%7CB01HQ4BRIG) [View On Walmart $33](https://www.walmart.com/ip/Antennas-Direct-ECL-Clear-Stream-Eclipse-Sure-Grip-Indoor-HDTV-Antenna/146091443?slfpid=3)
@@ -67,15 +67,15 @@ Lifewire / Jonno Hill
 
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/AbdriPZwiRfd8iHxT9N5E6Ae2hk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_03-d434cf7b4c5f4f73b08c8c220fd0d43e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
 
 ## **Design: Inoffensive but unexceptional**
 
  The ClearStream Eclipse Antenna isn’t the most beautiful piece of hardware to ever grace my living room, but it’s inoffensive enough to not really be an issue. The antenna has a thin, flat, disc shape that is black on one side and white on the other. It is designed to be placed directly onto a flat surface, but you will probably be able to get away with a lot of different orientations depending on how close you are to the signal source.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup: Simple and easy**
 
@@ -84,10 +84,6 @@ Lifewire / Jonno Hill
  The ClearStream Eclipse Antenna had the best results of any unpowered antenna, even beating out a few of the powered ones.
 
  Luckily the ClearStream Eclipse Antenna comes with a 12ft coaxial cable, so next simply attach the cable to both the antenna and your TV. Make sure to run a channel scan first for best results.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Performance: Above average**
 
@@ -99,15 +95,23 @@ Lifewire / Jonno Hill
 
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/i57THpEHitQ6h-N5c-bgGLEHwJs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_04-6ea1dbbe93374539876c7e76dcebb18e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Not bad for the performance**
 
  The ClearStream Eclipse Antenna lands at an MSRP of $40, putting it towards the high end of the price spectrum, especially where non-powered antennas are concerned. It did do one of the best jobs of supporting as many channels as possible, so the price is somewhat justified. Then again, every single one of the indoor antennas I’ve tested was able to handle the major network channels clearly and without issue, so a high channel number might not mean more than peace of mind in practical terms.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **ClearStream Eclipse Antenna vs Winegard FL5500A FlatWave Antenna**
 
@@ -118,10 +122,6 @@ Lifewire / Jonno Hill
 **The best unpowered indoor antenna.**
 
  The ClearStream Eclipse is one of the best options for buyers looking for a new indoor antenna. It performed better than a lot of the competition, despite being far simpler. Budget shoppers have other cheaper options to consider, but this one is perhaps the best combination of price, performance, and ease-of-use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -150,21 +150,20 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-secrets-of-professional-level-iptv-capturing/"><u>[New] In 2024, Secrets of Professional-Level IPTV Capturing</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-elevate-your-chats-discords-textual-customization-guide/"><u>[Updated] 2024 Approved Elevate Your Chats Discord's Textual Customization Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-ultimate-desktopmobile-discord-screen-recorders-guide/"><u>[Updated] 2024 Approved Ultimate Desktop/Mobile Discord Screen Recorders Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-explore-exceptional-auditory-aids-for-a-richer-discord-experience/"><u>[Updated] Explore Exceptional Auditory Aids for a Richer Discord Experience</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-from-conflict-to-resolution-an-in-depth-tutorial-on-reporting-users-on-discord/"><u>[Updated] From Conflict to Resolution An In-Depth Tutorial on Reporting Users on Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-exclusive-applications-for-global-collaboration/"><u>[Updated] In 2024, Exclusive Applications for Global Collaboration</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-navigating-youtube-music-eclecticism/"><u>[Updated] Navigating YouTube Music Eclecticism</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-composing-an-alluring-cinematic-teaser-track/"><u>2024 Approved Composing an Alluring Cinematic Teaser Track</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-hr-efficiency-5-innovative-prompts-using-chatgpt-to-simplify-daily-tasks/"><u>Boost Your HR Efficiency: 5 Innovative Prompts Using ChatGPT to Simplify Daily Tasks</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/decoding-the-battle-between-ring-and-nest-an-in-depth-user-comparison/"><u>Decoding the Battle Between Ring and Nest: An In-Depth User Comparison</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-find-x6-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-chill-championships-highlighting-cold-climates-sports/"><u>In 2024, Chill Championships Highlighting Cold Climates Sports</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-swift-steps-to-stellar-screen-names-on-discord-for-2024/"><u>The Swift Steps to Stellar Screen Names on Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-ultimate-tutorial-sharing-screens-in-discord-for-2024/"><u>The Ultimate Tutorial Sharing Screens in Discord for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726219476854-wavmp3-movavi/"><u>オンラインでも簡単な無料WAVファイルをMP3に変換 - Movavi</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-10-best-hashtag-tracker-for-facebook-twitter-and-instagram/"><u>[New] 10 Best Hashtag Tracker for Facebook, Twitter and Instagram</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-mastering-discord-steaming-guide-for-pc-and-android/"><u>[New] 2024 Approved Mastering Discord Steaming Guide for PC & Android</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-navigating-discord-server-deletion-desktopmobile/"><u>[New] 2024 Approved Navigating Discord Server Deletion (Desktop/Mobile)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-film-at-a-leisurely-pace-with-your-iphone-for-2024/"><u>[New] Film at a Leisurely Pace with Your iPhone for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-themed-realm-the-ultimate-10-bestdiscord-choices/"><u>[New] In 2024, Themed Realm The Ultimate 10 BestDiscord Choices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-immerse-in-imagination-the-bestdiscords-10-creations/"><u>[Updated] 2024 Approved Immerse in Imagination The BestDiscord’s 10 Creations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-heroic-duel-noir-knights-vs-aurora-guardians/"><u>[Updated] In 2024, Heroic Duel Noir Knights Vs Aurora Guardians</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-your-ultimate-strategy-for-engaging-streams-on-discord/"><u>[Updated] In 2024, Your Ultimate Strategy for Engaging Streams on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-mastering-the-art-becoming-a-verified-discord-partner/"><u>[Updated] Mastering The Art Becoming a Verified Discord Partner</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-your-snap-game-with-pro-level-boomerang-expertise/"><u>2024 Approved Elevate Your Snap Game with Pro-Level Boomerang Expertise</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-navigating-the-end-of-an-online-chapter-in-discord/"><u>2024 Approved Navigating the End of an Online Chapter in Discord</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-computer-display-to-proper-view/"><u>Adjusting Computer Display to Proper View</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-realme-gt-neo-5-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme GT Neo 5 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-climb-the-fame-hierarchy-on-instagram-discovering-9-game-changing-tips/"><u>In 2024, Climb the Fame Hierarchy on Instagram Discovering #9 Game-Changing Tips</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-a-guide-to-copyright-free-tracks-perfect-for-videographic-artistry-for-2024/"><u>Updated A Guide to Copyright-Free Tracks Perfect for Videographic Artistry for 2024</u></a></li>
 </ul></div>
 

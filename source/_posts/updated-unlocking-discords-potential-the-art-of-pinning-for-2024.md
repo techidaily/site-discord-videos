@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlocking Discord's Potential  The Art of Pinning for 2024\""
-date: 2025-01-08T18:33:39.038Z
-updated: 2025-01-10T01:22:13.935Z
+date: 2025-01-11T22:01:57.580Z
+updated: 2025-01-15T23:16:35.164Z
 tags:
   - ai video
   - ai discord
@@ -37,6 +37,10 @@ It acts like a sticky note for Discord, making sure valuable information such as
 
 Today, we will go over how to pin a message on Discord for your desktop app on PC and Mac, as well as on your iPhone and Android mobile devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Pin A Message on Discord Desktop?
 
 If you want to learn how to pin messages on Discord desktop, follow these steps:
@@ -46,14 +50,14 @@ If you want to learn how to pin messages on Discord desktop, follow these steps:
 
 ![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/pin-messages-on-discord.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Now, click on the "Pin Message" option
 2. After which, you will be presented with a prompt asking you to confirm that you want to pin this particular message. Click on "Oh yeah, pin it."
 
 ![ Pin message on Discord](https://images.wondershare.com/filmora/article-images/double-check-pin-messages.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That's it! You have now learned how to pin messages on Discord for the desktop application.
 
@@ -72,10 +76,14 @@ Pinning messages in the mobile app is very similar to how it is done on the desk
 ![ Pin message on Discord mobile](https://images.wondershare.com/filmora/article-images/pin-message-on-discord-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. A pop-up will appear confirming if you want to pin the message. If you are sure you want to pin a particular message, tap the "Yes" button and then your message is pinned
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to View Pinned Messages on Discord
 
@@ -97,10 +105,6 @@ View your pins on the mobile version of Discord by:
 
 ![view Pinned message on Discord](https://images.wondershare.com/filmora/article-images/view-pinned-message-discord-mobile.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Now you will be in the pinned messages window
 2. You can jump to a specific pinned message by clicking on it, allowing you to access any content or links in the message
 
@@ -113,7 +117,7 @@ This may feel like a disadvantage. However, it makes perfect sense. Pinning mess
 Removing this limit and giving people free rein on the number of messages they can pin will eventually lead to too many pinned messages, defeating the feature's purpose.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 6: How to Delete Pinned Messages on Discord?
@@ -151,10 +155,6 @@ The usefulness of pinning makes it very important for both old and new users as 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -170,14 +170,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-exclusive-recording-gadgets-for-windows-10-gamers/"><u>[Updated] 2024 Approved Exclusive Recording Gadgets for Windows 10 Gamers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-how-to-make-your-youtube-animated-subscribe-button-easily-with-filmora/"><u>[Updated] 2024 Approved How to Make Your YouTube Animated Subscribe Button Easily With Filmora</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-emoji-artistry-best-on-discord-emoji-generators/"><u>[Updated] 2024 Approved Mastering Emoji Artistry Best On-Discord Emoji Generators</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-bridging-bands-and-bots-spotifydiscord-sync-methods/"><u>[Updated] Bridging Bands and Bots Spotify/Discord Sync Methods</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-diving-into-nitro-what-makes-it-special-in-discord-plus-how-to-access-it-for-2024/"><u>[Updated] Diving Into Nitro What Makes It Special in Discord? + How to Access It for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-more-done-discover-5-productive-approaches-to-using-facebook-better/"><u>Get More Done: Discover 5 Productive Approaches to Using Facebook Better</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nokia-c210-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nokia C210</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/riconvertimento-gratuito-di-video-mpe-in-avi-su-internet-usando-movavi/"><u>Riconvertimento Gratuito Di Video MPE in AVI Su Internet Usando Movavi</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/ultimate-anonymous-group-communicators-for-2024/"><u>Ultimate Anonymous Group Communicators for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-convert-live-facebook-videos-to-mp3s-on-the-fly/"><u>[New] Convert Live Facebook Videos to MP3s on the Fly</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-master-your-space-essential-bot-selections-for-discord-for-2024/"><u>[New] Master Your Space Essential Bot Selections for Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-part-ways-with-discord-platform-for-2024/"><u>[New] Part Ways with Discord Platform for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-premiere-discord-recording-tools-online-desktop-mobile/"><u>[New] Premiere Discord Recording Tools - Online, Desktop, Mobile</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-style-spectrum-top-10-discotheme-innovations-by-expert-curators/"><u>[New] Style Spectrum Top 10 DiscoTheme Innovations by Expert Curators</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-best-in-class-discoemotes-premier-tools-list/"><u>[New] The Best in Class DiscoEmote's Premier Tools List</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unveiling-the-secrets-of-combining-obs-with-zoom/"><u>[New] Unveiling the Secrets of Combining OBS with Zoom</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtube-triumphs-how-to-turn-your-cell-phone-into-an-editing-machine/"><u>[Updated] In 2024, YouTube Triumphs How to Turn Your Cell Phone Into an Editing Machine</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-begin-a-new-era-of-editing-with-xps-video-suite/"><u>2024 Approved Begin a New Era of Editing with Xp's Video Suite</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-greatest-action-packed-gaming-escapades-top-10/"><u>2024 Approved Greatest Action-Packed Gaming Escapades (Top 10)</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/guide-to-file-system-navigation-during-software-deployment/"><u>Guide to File System Navigation During Software Deployment</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-itel-p40plus-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Itel P40+</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-harmonizing-youtube-production-with-a-9-to-5-routine/"><u>In 2024, Harmonizing YouTube Production with a 9-to-5 Routine</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/speaking-in-code-learn-discords-text-to-speech-for-2024/"><u>Speaking in Code Learn Discord's Text-to-Speech for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/styling-conversations-on-discord-with-flair-and-ease-for-2024/"><u>Styling Conversations on Discord with Flair & Ease for 2024</u></a></li>
 </ul></div>
 

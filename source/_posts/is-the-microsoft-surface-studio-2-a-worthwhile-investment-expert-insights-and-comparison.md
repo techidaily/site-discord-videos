@@ -1,7 +1,7 @@
 ---
 title: Is the Microsoft Surface Studio 2 a Worthwhile Investment? Expert Insights & Comparison
-date: 2025-01-03T05:22:31.901Z
-updated: 2025-01-10T04:11:18.128Z
+date: 2025-01-11T18:10:15.111Z
+updated: 2025-01-15T23:36:31.159Z
 categories:
   - BestProducts
 description: This Article Describes Is the Microsoft Surface Studio 2 a Worthwhile Investment? Expert Insights & Comparison
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/nXkK3WVTgZi_UuKWMVTCL_zcCmA=/400x300/fi
 ## Star Wars: Squadrons Game Breakdown – Experience the Most Engaging Space Fights Yet
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Star Wars: Squadrons
 
@@ -39,13 +43,13 @@ Lifewire / Andy Zahn
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Star Wars: Squadrons
 
 ![Star Wars: Squadron](https://www.lifewire.com/thmb/ymdujoeG8lwdw1L7OD6l0EFi1ug=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Star-Wars-Squadrons-1-daa1e236365f4a4a8831cce59004223a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -70,10 +74,6 @@ Lifewire / Andy Zahn
 
  Chances are, whether you grew up with Star Wars or discovered the franchise later in life, you’ve considered just how awesome it would be to swing a lightsaber or pilot your very own X-Wing fighter. Star Wars: Squadrons grants you the second of these fantasies to a never before seen degree. This long-overdue follow up to the 1993 classic Star Wars: X-Wing aims to offer the same intense dogfighting, but with the advantages of modern tech. I reviewed the PC version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Setup: Some tinkering required**
 
  Star Wars: Squadrons has a fairly hefty download before it's playable, so be sure your hard drive has at least 26.4 GB of storage space. When the game boots up you can alter basic settings to set language, volume, display settings, and everything else needed to optimize your experience. I struggled a bit to get it to play well with my dual-screen setup, but eventually, I was able to get it to a playable state on my ultra-widescreen Samsung CHG90 display. In the end, I found it more comfortable to play on a standard 16:9 aspect ratio monitor.
@@ -81,6 +81,10 @@ Lifewire / Andy Zahn
 ![Star Wars: Squadrons](https://www.lifewire.com/thmb/1xt9t7ffMjuv6ggtXGJER_irSnk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Star-Wars-Squadrons-2-fcfb7e9a60e74ce9b42cecff0e2061ed.jpg)
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Story: Passable, but skip the exposition dumps**
 
@@ -99,16 +103,12 @@ Star Wars: Squadrons is drop-dead gorgeous.
 ![Star Wars: Squadrons](https://www.lifewire.com/thmb/_MN0adYtaTCJ1Qhmsivk-M-DkXo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Star-Wars-Squadrons-3-31074635684244d48b1d792540a477e2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
 
  In between story missions you are fixed in place in different rooms, where you click on different characters to talk to them. I found these sequences to be very linear and I found that they tended to drag on. I’d certainly have preferred to be able to walk around rather than teleport between locations on the ship. This is probably due to this game being intended to be played in VR where the fixed positioning makes more sense due to the limitations of VR, but the game would've been well served by separate control schemes. This is a minor gripe; if desired you can just skip through these sequences pretty quickly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Gameplay: Refined and surprisingly deep**
 
@@ -137,7 +137,7 @@ Star Wars: Squadrons is drop-dead gorgeous.
 ![Star Wars: Squadrons](https://www.lifewire.com/thmb/a-_aXPmbq5vlMG21Sutf0cIe4BI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Star-Wars-Squadrons-7-dc3679df974e4da793c52f2fb2831eac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
@@ -148,22 +148,22 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
  With the vast majority of video games, your experience is almost as dependent on what you hear as what you see. In this regard, Squadrons is a masterpiece. This game perfectly replicates the epic feel of classic Star Wars space combat from the laser fire, to the roar of your engines, to the exhilarating whoosh of grazing an asteroid. There’s also the unforgettable John Williams soundtrack, which is fully present here and is just as vital to the experience of the game as it is to the films.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Performance: Solid on moderately powerful PCs**
 
  I was able to get consistently high frame rates during gameplay with my custom gaming PC running 32 GB of DDR4 RAM, an AMD Ryzen 7 2700X processor, and an Nvidia RTX 2070 GPU. However, I experienced some odd stuttering in the hanger between missions, which seemed more of a graphical bug than an issue with the power of my PC. I also played Squadrons on a laptop with a less powerful processor, 16GB of RAM, and a Nvidia RTX 2060 Max-Q. The game performed well and provided a smooth gameplay experience at maximum graphical settings.
 
  Dogfights are fast, brutal, and thanks to a wide variation in map design, each match feels remarkably fresh and non-repetitive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Controls: Wide support for different inputs**
 
  Squadrons offers customizable support for a wide range of different control schemes, from gamepads to HOTAS flight sticks to mouse and keyboard. I had to fiddle with a few settings to get my stick and thrust control up and running, but when I did, it added an extra layer of immersion to the experience. However, mouse and keyboard is clearly the optimal and intended control method for Squadrons.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Multiplayer: Challenging dogfights**
@@ -213,24 +213,24 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-advanced-chatrooms-with-private-invites/"><u>[Updated] 2024 Approved Advanced Chatrooms with Private Invites</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-expert-tips-building-meme-foundations/"><u>[Updated] 2024 Approved Expert Tips Building Meme Foundations</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-essential-guide-to-using-voicemod-effectively-on-desktop-and-mobile/"><u>[Updated] 2024 Approved The Essential Guide to Using VoiceMod Effectively on Desktop & Mobile</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-affordable-graphic-creation-free-discord-emblems-online/"><u>[Updated] Affordable Graphic Creation FREE Discord Emblems Online</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-exclusive-deals-on-free-professional-discord-icons-for-2024/"><u>[Updated] Exclusive Deals on Free, Professional Discord Icons for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-how-to-spice-up-your-discord-conversations-with-interactive-content-like-gifs/"><u>[Updated] How to Spice Up Your Discord Conversations with Interactive Content Like GIFs</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-8-free-emoji-websites-to-download-discord-animated-emojis/"><u>[Updated] In 2024, 8 FREE Emoji Websites to Download Discord Animated Emojis</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-discord-customization-essentials-selecting-eye-catching-flag-designs/"><u>[Updated] In 2024, Discord Customization Essentials Selecting Eye-Catching Flag Designs</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/automate-clean-up-tasks-on-your-mac-using-the-standard-version-of-stellar-file-eraser/"><u>Automate Clean-Up Tasks on Your Mac Using the Standard Version of Stellar File Eraser</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/discover-key-methods-to-store-discord-livestream-videos-efficiently-for-2024/"><u>Discover Key Methods to Store Discord Livestream Videos Efficiently for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-code-0x800f081f-when-installing-net-framework-35/"><u>How to Fix Error Code 0X800F081F When Installing .NET Framework 3.5</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-shrouded-screen-images-techniques-for-redacting-info/"><u>In 2024, Shrouded Screen Images Techniques for Redacting Info</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/secure-your-favorite-movies-in-mkv-format-for-offline-enjoyment-comprehensive-downloading-tutorial/"><u>Secure Your Favorite Movies in MKV Format for Offline Enjoyment | Comprehensive Downloading Tutorial</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamline-sound-integration-with-powerpoint-displays/"><u>Streamline Sound Integration with PowerPoint Displays</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/streamlining-access-to-subscriber-information-for-2024/"><u>Streamlining Access to Subscriber Information for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/est-funny-fictional-frequencies-for-2024/"><u>The Best Funny Fictional Frequencies for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/thorough-review-and-breakdown-the-google-nest-doorbell-battery-experience/"><u>Thorough Review and Breakdown: The Google Nest Doorbell (Battery) Experience</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/transformative-strategies-for-effective-pins-in-discord-dialogues-for-2024/"><u>Transformative Strategies for Effective Pins in Discord Dialogues for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/windows-10-windows-100/"><u>バックアップサイズがゼロのWindows 10で修正手順 : Windows 10のバックアップファイルが意図せず0バイトになったときの解決法</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-break-free-from-discord-support/"><u>[New] In 2024, Break Free From Discord Support</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-discovering-how-to-engage-in-discord-calls-easily/"><u>[New] In 2024, Discovering How to Engage in Discord Calls Easily</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-understanding-and-manipulating-discords-identity-system/"><u>[New] In 2024, Understanding and Manipulating Discord's Identity System</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-launching-a-channel-a-comprehensive-discosteps-guide/"><u>[New] Launching a Channel A Comprehensive DiscoSteps Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-scrutinizing-software-for-video-editing-the-bandicam-camtasia-comparison/"><u>[New] Scrutinizing Software for Video Editing The Bandicam-Camtasia Comparison</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-best-of-both-worlds-androids-8-most-popular-free-and-paid-videomosaic-apps/"><u>[Updated] 2024 Approved Best of Both Worlds Android's 8 Most Popular Free & Paid Videomosaic Apps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-wiping-your-discord-servers-from-pc-and-android-devices/"><u>[Updated] 2024 Approved Wiping Your Discord Servers From PC and Android Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-elevate-conversational-impact-how-to-pin-messages-wisely-in-discord-for-2024/"><u>[Updated] Elevate Conversational Impact How to Pin Messages Wisely in Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-turn-text-into-voice-mastering-discords-speech-features/"><u>[Updated] In 2024, Turn Text Into Voice Mastering Discord's Speech Features</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-simplified-understanding-of-discord-spoilers/"><u>[Updated] Simplified Understanding of Discord Spoilers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-mastering-discord-a-guide-to-filing-reports-against-misconduct/"><u>2024 Approved Mastering Discord A Guide to Filing Reports Against Misconduct</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-nokia-g42-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Nokia G42 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-edge-elevating-chatgpt-with-the-top-10-enhancements/"><u>Conversational Edge: Elevating ChatGPT with the Top 10 Enhancements</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effective-strategies-for-advertising-with-spotify/"><u>Effective Strategies for Advertising with Spotify</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-evolution-a-detailed-comparison-of-openais-gpt-1-gpt-2-gpt-3-and-gpt-4/"><u>Exploring the Evolution: A Detailed Comparison of OpenAI's GPT-1, GPT-2, GPT-3 & GPT-4</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-convert-and-save-keek-videos-into-common-file-types-like-mp4-and-avi-for-easy-sharing/"><u>How to Convert and Save Keek Videos Into Common File Types Like MP4 & AVI for Easy Sharing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-the-intricacies-of-networked-livestream-with-vlc/"><u>Navigating the Intricacies of Networked Livestream with VLC</u></a></li>
 </ul></div>
 

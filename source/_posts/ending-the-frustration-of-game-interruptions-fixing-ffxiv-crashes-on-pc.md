@@ -1,7 +1,7 @@
 ---
 title: "Ending the Frustration of Game Interruptions: Fixing FFXIV Crashes on PC"
-date: 2025-01-06T21:26:21.225Z
-updated: 2025-01-09T21:06:02.246Z
+date: 2025-01-09T19:49:47.244Z
+updated: 2025-01-15T18:11:17.957Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ The Ascent
 
  If The Ascent still keeps crashing on your powerful PC, just read on and try the fixes below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Although the causes of The Ascent crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers.
@@ -59,6 +55,10 @@ The Ascent
 7. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 8. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Verify integrity of game files
 
  The Ascent may crash if its game files are corrupted or incomplete. But don’t worry. You can follow the steps below to verify and repair the game files in Steam:
@@ -67,6 +67,10 @@ The Ascent
 2. **Right-click** on **The Ascent** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
@@ -88,10 +92,6 @@ The Ascent
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -121,7 +121,7 @@ The Ascent
 4. Launch The Ascent and see if this issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the game still crashes, try the next fix, below.
@@ -158,7 +158,7 @@ If the game still crashes, try the next fix, below.
  See if it crashes after you disable those in-game graphics settings. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Update MS Visual C++ Redistributables
@@ -173,6 +173,10 @@ If the game still crashes, try the next fix, below.
 
  If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Temporarily disable anti-virus software
 
  Some 3rd party antivirus software would interfere with the game, and may even block the game files. Sometimes it may also lead to the game crashing issues.
@@ -182,10 +186,6 @@ If the game still crashes, try the next fix, below.
  Run The Ascent and check if this issue persists after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix to perform a clean boot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Perform a clean boot
 
@@ -201,24 +201,24 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your PC and launch The Ascent to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -255,18 +255,14 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-smart-pick-android-apps-for-large-video-meetings/"><u>[New] 2024 Approved Smart Pick Android Apps for Large Video Meetings</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-breakdown-of-successful-podcast-writing-techniques-examples-included/"><u>[New] In 2024, Breakdown of Successful Podcast Writing Techniques (Examples Included)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-strategy-in-the-shopping-experience-for-2024/"><u>[New] Strategy in the Shopping Experience for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-abandoned-ending-my-discord-service-for-2024/"><u>[Updated] Abandoned Ending My Discord Service for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-elevate-video-quality-converters-triad-of-tactics-for-2024/"><u>[Updated] Elevate Video Quality Converter's Triad of Tactics for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-ensuring-online-safety-the-stepwise-process-of-reporting-unwanted-behavior-on-discord/"><u>[Updated] In 2024, Ensuring Online Safety The Stepwise Process of Reporting Unwanted Behavior on Discord</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/how-to-securely-backup-files-and-folders-on-hp-laptops-and-desktops-across-different-generations-of-windows-os/"><u>How to Securely Backup Files and Folders on HP Laptops & Desktops Across Different Generations of Windows OS</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-12-pro-max-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone 12 Pro Max Display? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-the-soundscape-fixing-silent-modem-issues-in-acer-computers/"><u>Revive the Soundscape: Fixing Silent Modem Issues in Acer Computers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screens-silent-sob-laptop-troubles/"><u>Screen's Silent Sob: Laptop Troubles</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-free-designer-for-discord-emblems-download-links-included/"><u>Top Free Designer for Discord Emblems - Download Links Included</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/ultimate-guide-to-choosing-premium-emoji-makers-on-discord-for-2024/"><u>Ultimate Guide to Choosing Premium Emoji Makers on Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unleash-the-power-of-messaging-mastering-pinning-on-discord/"><u>Unleash the Power of Messaging Mastering Pinning on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-intro-to-role-customization-for-discopundits-for-2024/"><u>[New] Intro to Role Customization for DiscoPundits for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-group-chat-on-discord-for-2024/"><u>[New] Mastering Group Chat on Discord for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-video-directors-ultimate-companion-powerdirector-full-review/"><u>[New] Video Directors' Ultimate Companion - PowerDirector Full Review</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-which-online-platform-stands-out-discord-and-skype-compared/"><u>[New] Which Online Platform Stands Out? Discord & Skype Compared</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-exploring-digital-worlds-vr-explained-for-2024/"><u>[Updated] Exploring Digital Worlds VR Explained for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-mastering-the-art-of-deleting-discord-servers/"><u>2024 Approved Mastering the Art of Deleting Discord Servers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-domestic-life-using-chatgpt-tools/"><u>Enhancing Domestic Life Using ChatGPT Tools</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/evaluating-performance-a-look-at-the-apple-tv-hds-third-iteration/"><u>Evaluating Performance - A Look at the Apple TV HD's Third Iteration</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-crafting-impressive-instagram-story-bokeh-art/"><u>In 2024, Crafting Impressive Instagram Story Bokeh Art</u></a></li>
 </ul></div>
 

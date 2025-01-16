@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastery in Messaging  Perfecting Video Posting on Discord\""
-date: 2025-01-07T05:06:04.366Z
-updated: 2025-01-09T18:49:54.901Z
+date: 2025-01-13T20:43:19.715Z
+updated: 2025-01-16T01:59:30.211Z
 tags:
   - ai video
   - ai discord
@@ -35,7 +35,7 @@ So, whether it’s a compilation of your best gaming moments that you’ve caref
 * [Part 4: FAQs About Uploading Videos to Discord](#part4)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Send Videos on Discord PC
@@ -51,7 +51,7 @@ You’ll then just need to find the file on your computer, and double click on i
 ![upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 From there, it’s as simple as clicking the upload button. Once it’s ready, the video will be in the chat window for anyone in the server to watch, or for your friend if you’ve sent it privately. And if they want to download it, they’ll just need to click the download button (a downward-facing arrow) at the top right of the video.
@@ -59,12 +59,16 @@ From there, it’s as simple as clicking the upload button. Once it’s ready, t
 ![how to upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 It’s worth noting that, while Discord will play most video formats, it can’t manage everything. If you upload a format that Discord isn’t compatible with, then it won’t show a video player – instead, the file will just be uploaded. Other people can still download it to watch on their own devices.
 
 Also, there’s a strict file limit of 8MB. This isn’t huge at all – while there’s no definitive file size for video (as it depends on file type, resolution, compression, etc) it’s unlikely to be more than 60 seconds of footage, and could just be a few seconds. If the video you want to upload is more than 8MB, carry on reading below to find out how.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Send Videos on Discord Mobile
 
@@ -79,7 +83,7 @@ Click this and it’ll give you the option to directly upload a video from your 
 Once you’ve selected the video, just hit the blue Send icon to send your video to the chat. Again you can add a message as a caption, but this time it’ll just be in the normal message box rather than a dedicated comment box before you hit upload.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Send Long Videos on Discord That Are More Than 8MB
@@ -99,10 +103,6 @@ All you need to do is open a video in Filmora by clicking the arrow next to Impo
 This will open the Instant Cutter window where you can click Open File to add your video. From here you can trim your files and export them in multiple sections. There are different ways that you can do this, and while each is a simple process, there are still a few steps to follow.
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 For more detail, check out [this post](https://tools.techidaily.com/wondershare/filmora/download/) for a step-by-step guide on the different ways you can trim a video in Filmora.
 
@@ -149,19 +149,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-unlocking-free-animation-digitalphysical-realms-for-2024/"><u>[New] Unlocking Free Animation Digital/Physical Realms for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-engaging-essentials-leading-ig-filters/"><u>[Updated] 2024 Approved Engaging Essentials Leading IG Filters</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-use-voicemod-on-discord/"><u>[Updated] 2024 Approved How To Use Voicemod On Discord</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-how-to-enhance-your-discord-experience-with-free-animation-emojis-for-2024/"><u>[Updated] How to Enhance Your Discord Experience with FREE Animation Emojis for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-enhance-your-discord-conversations-using-voicemod-effectively/"><u>[Updated] In 2024, Enhance Your Discord Conversations Using VoiceMod Effectively</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-exploring-advanced-strategies-for-sending-videos-in-discord/"><u>[Updated] In 2024, Exploring Advanced Strategies for Sending Videos in Discord</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-stepwise-guide-to-smoothing-out-audio-dynamics/"><u>[Updated] Stepwise Guide to Smoothing Out Audio Dynamics</u></a></li>
-<li><a href="https://extra-information.techidaily.com/boosting-your-youtube-views-a-strategy-guide/"><u>Boosting Your YouTube Views A Strategy Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-behind-the-scenes-expert-techniques-for-video-magic/"><u>In 2024, Behind the Scenes Expert Techniques for Video Magic</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-your-epson-perfection-v500-with-official-drivers-free-downloads-available-now/"><u>Install Your Epson Perfection V500 with Official Drivers - Free Downloads Available Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-innovations-with-toms-hardware-insights/"><u>Navigating the World of Tech Innovations with Tom's Hardware Insights</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-your-photos-and-videos-to-give-an-old-and-vintage-feel-here-are-some-vintage-luts-premiere-pro-free-and-paid-options-available/"><u>New 2024 Approved Do You Want Your Photos and Videos to Give an Old and Vintage Feel? Here Are some Vintage LUTs Premiere Pro Free and Paid Options Available to Download</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/resolving-compatibility-lenovo-in-win10/"><u>Resolving Compatibility: Lenovo in Win10</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unlocking-the-potential-of-discord-for-2024/"><u>Unlocking the Potential of Discord for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-guide-to-hosting-channels-with-real-time-video-streaming-for-2024/"><u>[New] Guide to Hosting Channels with Real-Time Video Streaming for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-how-to-keep-the-conversation-flowing-on-discord/"><u>[New] How to Keep the Conversation Flowing on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-discovering-free-anime-gifs-the-no-nitro-method-in-discord/"><u>[New] In 2024, Discovering Free Anime GIFs The No-Nitro Method in Discord</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/op-video-watch-counts-youtubes-historical-list/"><u>[New] Top Video Watch Counts YouTube's Historical List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-guide-finalcut-pro-for-youtube-editing/"><u>[New] Ultimate Guide FinalCut Pro for YouTube Editing</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-how-to-turn-off-a-discord-server-device-wise/"><u>2024 Approved How to Turn Off a Discord Server Device-Wise</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ais-role-in-crafting-the-next-generation-of-content/"><u>AI's Role in Crafting the Next Generation of Content</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-hybrid-graphics-problem-windows-11-compatibility/"><u>Fixed Hybrid Graphics Problem - Windows 11 Compatibility</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-se-2020-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone SE (2020) online without jailbreak</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-motorola-moto-g84-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Motorola Moto G84 5G Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-your-mic-problems-on-windows-11-a-comprehensive-fix/"><u>Solving Your Mic Problems on Windows 11 - A Comprehensive Fix</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-guide-to-discord-live-broadcasts/"><u>The Ultimate Guide to Discord Live Broadcasts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-100-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Honor 100 | Dr.fone</u></a></li>
 </ul></div>
 

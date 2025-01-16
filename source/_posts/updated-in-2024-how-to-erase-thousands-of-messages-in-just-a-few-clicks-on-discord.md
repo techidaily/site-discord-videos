@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Erase Thousands of Messages in Just a Few Clicks on Discord"
-date: 2025-01-07T05:50:25.571Z
-updated: 2025-01-09T21:09:10.800Z
+date: 2025-01-10T17:02:14.467Z
+updated: 2025-01-15T20:54:15.968Z
 tags:
   - ai video
   - ai discord
@@ -55,7 +55,7 @@ However, this was soon changed because the mass execution directly affected the 
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A cross-platform for making videos anywhere for all creators
@@ -79,6 +79,10 @@ However, this was soon changed because the mass execution directly affected the 
 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Delete Direct Messages on Discord
 
 If you use Discord on your desktop computer, this section will discuss the steps to follow to delete your direct messages.
@@ -86,10 +90,6 @@ If you use Discord on your desktop computer, this section will discuss the steps
 However, keep in mind that Discord does not allow you to delete direct messages. If you don't want to show messages from a particular friend, you can remove the chat copy, and it will disappear from the messages temporarily, although it will still be visible in the recipient's chats. And if the friend contacts you again, the messages will show.
 
 ![Remove Discord Direct Message Copy](https://images.wondershare.com/filmora/article-images/remove-discord-copy.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can delete the local copy of messages by following the steps below:
 
@@ -130,6 +130,10 @@ Here is a more detailed breakdown of the sequence:
 
 At first glance, it seems like a long and tedious process, but once you get down to doing it and develop a rhythm, it is an easy task.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Deleting Message with Discord Clear Chat Bot
 
 Please keep in mind that Discord has changed its policy regarding bots, going from discouraging their use to outright flagging them as a violation of its terms.
@@ -151,7 +155,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 ![delete messages on discord with mee6 bot](https://images.wondershare.com/filmora/article-images/discord-bot-mee6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. You'll be prompted to authorize so that MEE6 bot can access your username, and know what server you’re in.
@@ -159,18 +163,22 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 ![how to delete discord message with mee6 bot](https://images.wondershare.com/filmora/article-images/select-server-to-add-mee6-bot-discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Click Authorize again and the bot will be added to your Discord server soon;
 2. To enable MEE6 to clear the chat, you should enable the Moderator plugin first. Click the Moderator option under Plugins first, and then click Yes.
 
 ![remove discord message with mee 6](https://images.wondershare.com/filmora/article-images/mee6-moderator-plugin-moderator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Now go to the server in your Discord and type in “!clear @username” to remove every message sent by the user you've mentioned.
 
 ![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
 
@@ -231,10 +239,6 @@ Ideally, you'll want the following things from your AutoHotkey script:
 * [Best Discord Emoji Makers](https://tools.techidaily.com/wondershare/filmora/download/)
 * [10+ Best Free Discord Voice Changers](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs About Deleting Discord Messages
 
 #### 1\. Can I Recover A Deleted Message on Discord?
@@ -251,10 +255,6 @@ If you are an admin or an owner of a server, you can delete other people's messa
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -270,18 +270,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-affiliate-allies-for-small-channels-an-easy-approach/"><u>[New] In 2024, Affiliate Allies for Small Channels An Easy Approach</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-prime-bot-collective-of-digital-dialogues/"><u>[Updated] 2024 Approved Prime Bot Collective of Digital Dialogues</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unleashing-the-power-of-visual-identity-mastering-discord-pfps/"><u>[Updated] 2024 Approved Unleashing the Power of Visual Identity Mastering Discord Pfp's</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-8-free-emoji-websites-to-download-discord-animated-emojis/"><u>[Updated] 8 FREE Emoji Websites to Download Discord Animated Emojis</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-examining-workplace-messaging-platforms-is-team-efficiency-favored-by-slack-over-discord-for-2024/"><u>[Updated] Examining Workplace Messaging Platforms Is Team Efficiency Favored by Slack over Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-best-on-the-go-discord-video-recorder-apps/"><u>[Updated] In 2024, Best On-the-Go Discord Video Recorder Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-from-script-to-screenshot-crafting-viral-meme-gifs/"><u>2024 Approved From Script to Screenshot Crafting Viral Meme GIFs</u></a></li>
-<li><a href="https://video-capture.techidaily.com/advanced-techniques-for-quality-audio-on-ipads/"><u>Advanced Techniques for Quality Audio on iPads</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/immediate-image-revamp-the-six-top-iphone-object-removal-apps/"><u>Immediate Image Revamp The Six Top iPhone Object-Removal Apps</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-14-pro-max-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 14 Pro Max with iTunes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-unleash-your-photo-potential-with-instagram-filters/"><u>In 2024, Unleash Your Photo Potential with Instagram Filters</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-ultimate-2023-guide-to-enhancing-audio-on-discord-top-plugins-reviewed/"><u>The Ultimate 2023 Guide to Enhancing Audio on Discord - Top Plugins Reviewed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-pacific-drive-installation-issues/"><u>Troubleshooting Guide: Resolving Pacific Drive Installation Issues</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-how-to-delete-discord-server/"><u>[New] In 2024, How to Delete Discord Server?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-how-to-leave-a-discord-server/"><u>[New] In 2024, How to Leave A Discord Server</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-strategy-sketches-plotting-the-market-map-for-2024/"><u>[New] Strategy Sketches Plotting the Market Map for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-audio-ambiance-weaving-music-into-instagram-moments/"><u>[Updated] 2024 Approved Audio Ambiance Weaving Music Into Instagram Moments</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-elevate-your-server-control-add-roles-instruction/"><u>[Updated] 2024 Approved Elevate Your Server Control Add Roles Instruction</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-pin-a-message-on-discord/"><u>[Updated] 2024 Approved How to Pin A Message on Discord?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-right-way-to-disband-from-a-discord-community-for-2024/"><u>[Updated] The Right Way to Disband From a Discord Community for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-ios-18-now-compatible-iphone-models-revealed-a-step-by-step-guide-techsavvy/"><u>Download IOS 18 Now: Compatible iPhone Models Revealed - A Step-by-Step Guide | TechSavvy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-high-power-audio-with-tribit-xsound-megablast-bluetooth-speaker-featuring-30w-output-and-exceptional-sound-clarity-techradar/"><u>Experience High-Power Audio with Tribit XSound Megablast Bluetooth Speaker, Featuring 30W Output & Exceptional Sound Clarity | TechRadar</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-discovering-youtubes-finest-storyweavers/"><u>In 2024, Discovering YouTube's Finest Storyweavers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-setting-up-your-phone-as-a-home-based-webcam/"><u>In 2024, Setting Up Your Phone as a Home-Based Webcam</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-mohu-blade-revolutionary-indoor-antenna-with-a-distinctive-look/"><u>The Ultimate Guide to the Mohu Blade - Revolutionary Indoor Antenna with a Distinctive Look</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upcoming-release-apple-pushes-back-introduction-of-ai-capabilities-to-october-latest-news/"><u>Upcoming Release: Apple Pushes Back Introduction of AI Capabilities to October - Latest News</u></a></li>
 </ul></div>
 

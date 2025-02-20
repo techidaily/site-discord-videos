@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Mastering Discord Speaking  TTS Basics Guide\""
-date: 2025-01-15T00:53:25.554Z
-updated: 2025-01-15T19:38:37.005Z
+date: 2025-02-18T20:19:44.760Z
+updated: 2025-02-19T23:08:22.826Z
 tags:
   - ai video
   - ai discord
@@ -37,6 +37,10 @@ In this article, we will discuss the specifics of activating the TTS function in
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Enable Text-To-Speech Feature in Discord?
 
 Before you can deploy TTS in your chats, you need to change the settings of your profile to enable this option. This isn’t hard to do – just go to the Discord app and select ‘Settings’ from the menu, which will trigger a pop-up window to appear on your screen. Next, you need to find the **Text & Images** section in the App Settings window, then scroll down to find the **Text-to-Speech** option, and finally tick the boxes next to **Allow playback and Usage of TTS** items. After you do this, your Discord will be ready to process your text messages in voice format.
@@ -45,19 +49,11 @@ Before you can deploy TTS in your chats, you need to change the settings of your
 
 To test whether you successfully activated Text-to-Speech, open any chats on your personal server and try typing out a message, followed immediately by the tag /tts. If everything is working correctly, your message should appear on the screen in the text form, accompanied by its voice rendering delivered by an automated module. The timing of the two should be perfectly synchronized so that you hear the message and see the text at exactly the same instance. Otherwise, go back to settings and make sure you activated the TTS option properly or restart your Discord app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Set Up Text-To-Speech Notifications on Discord?
 
 Another practical possibility that can improve your Discord experience is to set up TTS notifications and be immediately informed whenever a fresh message arrives. This can also be done after you change the app parameters from the ‘Settings’ menu. After you see all options, choose ‘App Settings’ and search for the section named ‘Notifications’. By scrolling down, you will reach the item ‘Text-to-Speech notifications’ and after clicking on it you will be given a choice between three options.
 
 ![Discord Text to Speech Notification Settings](https://images.wondershare.com/filmora/article-images/discord-text-to-speech-notification-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The first option **For all channels** is to enable notifications on all channels on Discord; choosing it will result in a robotic voice reading all messages from all chats, regardless of whether they have a /tts tag. This option can be useful when you want to maximize your accessibility and receive important information instantly.
 
@@ -71,10 +67,14 @@ It’s not very hard to learn how to effectively use the TTS option in your chat
 
 ![Send  Discord Text to Speech Message](https://images.wondershare.com/filmora/article-images/send-text-to-speech-tts-message-discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Your TTS message will be reproduced in a voice format by a Discord bot to all participants in the chat who didn’t mute incoming Text-to-Speech chats. An automated voice will say the entire message, and then also pronounce your username to identify the author. At the same time, the message will appear in the chat feed as plain text, so that even those recipients unable to hear it will be able to see the contents.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Mute All Text-To-Speech Messages on Discord?
@@ -83,6 +83,10 @@ You can also decide to prevent any messages from being played to you in a voice 
 
 ![Disable  Discord Text to Speech Settings](https://images.wondershare.com/filmora/article-images/disable-text-to-speech-tts-discord-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Please keep in mind that deactivating the aforementioned feature won’t block TTS messages from reaching you, but you will see them as text only. On the other hand, you can’t use the /tts tag to send your own Text-to-Speech while the playback setting is disabled. Nothing is preventing you from turning it back on when you want to have a TTS capacity on Discord again.
 
 ## Part 5: Best Text-To-Speech Bots on Discord
@@ -90,7 +94,7 @@ Please keep in mind that deactivating the aforementioned feature won’t block T
 One of the reasons why Discord is so popular is that it allows extensive customization through user-made Bots or modules that automatically perform a certain task. There are several great Bots that can be used for Text-to-Speech, so you might consider utilizing one of them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. [Text to Speech (TTS)](https://top.gg/bot/527867442748194847)
@@ -104,10 +108,6 @@ A very popular option for Text-to-Speech on Discord that lets you choose from mo
 ### 3\. [Fergun](https://discord.bots.gg/bots/680507783359365121)
 
 This multi-language tool responds to more than 100 different commands, so it can be used for a wide variety of purposes with stunning effectiveness.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Frequently asked questions about TTS on Discord
 
@@ -136,16 +136,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-elevate-your-chats-with-exclusive-discord-gif-tips-for-2024/"><u>[New] Elevate Your Chats with Exclusive Discord GIF Tips for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-pros-pathway-to-effective-discord-dialogue-and-reactions/"><u>[New] In 2024, The Pro's Pathway to Effective Discord Dialogue and Reactions</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-learn-to-download-discord-videos-without-cost-on-all-devices/"><u>[New] Learn to Download Discord Videos Without Cost on All Devices</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-the-comprehensive-guide-to-discord-spoiler-tags-for-2024/"><u>[New] The Comprehensive Guide to Discord Spoiler Tags for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-unraveling-the-mysteries-of-discord-for-2024/"><u>[New] Unraveling the Mysteries of Discord for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-updated-comprehensive-bd-review-s3700/"><u>[Updated] 2024 Approved The Updated Comprehensive BD Review S3700</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-audio-ambiance-weaving-music-into-instagram-moments/"><u>[Updated] In 2024, Audio Ambiance Weaving Music Into Instagram Moments</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mp4avihevc-windows/"><u>最適動画コンバーターリスト：無料MP4,AVI,HEVC変換ツール比較 | Windows版ソフト選びガイド</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-the-art-of-converting-videos-for-youtube-compatibility-a-comprehensive-tutorial/"><u>Mastering the Art of Converting Videos for YouTube Compatibility – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quietude-quotient-windowsmac-music-control-for-2024/"><u>Quietude Quotient Windows/Mac Music Control for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-transforming-dvd-content-into-mkvmp4avi-format-and-adding-personalized-subtitles/"><u>Step-by-Step Tutorial on Transforming DVD Content Into MKV/MP4/AVI Format and Adding Personalized Subtitles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-recording-your-display-essential-tips-for-effective-screen-capture/"><u>[New] Recording Your Display Essential Tips for Effective Screen Capture</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-peak-color-alignment-tool/"><u>[Updated] Peak Color Alignment Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-new-dimensions-in-picture-tones/"><u>2024 Approved Unlocking New Dimensions in Picture Tones</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-f23-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo F23 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mp35web/"><u>無料で簡単! MP3ファイルの変換が得意な5つのWebサイトをご紹介</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oppo-reno-10-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/gifand/"><u>GIF動画のクリエイティブなカット&編集：無傷継承で楽しむ方法</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-insights-into-procuring-freeness-in-frame-vids/"><u>In 2024, Insights Into Procuring Freeness in Frame Vids</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/installing-the-mavnox-build-plug-in-for-enhanced-viewing-on-kodi-19-matrix-a-comprehensive-tutorial/"><u>Installing the MavNox Build Plug-In for Enhanced Viewing on Kodi 19 Matrix - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/iphone-video-compression-techniques-a-complete-guide/"><u>IPhone Video Compression Techniques - A Complete Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/m4v-vs-mp4-understanding-the-differences-and-converting-on-windowsmac/"><u>M4V vs MP4: Understanding the Differences and Converting on Windows/Mac</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/master-your-galaxy-gear-videos-expert-tips-for-editing-with-samsung-video-tools-across-devices/"><u>Master Your Galaxy Gear Videos: Expert Tips for Editing with Samsung Video Tools Across Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigate-tamriel-like-never-before-expert-insights-into-playing-skyrim-on-your-switch/"><u>Navigate Tamriel Like Never Before - Expert Insights Into Playing Skyrim on Your Switch</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-xiaomi-redmi-k70e-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Xiaomi Redmi K70E for Parents | Dr.fone</u></a></li>
 </ul></div>
 

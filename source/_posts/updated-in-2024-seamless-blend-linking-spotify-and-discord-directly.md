@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Seamless Blend  Linking Spotify & Discord Directly\""
-date: 2025-01-09T07:27:31.178Z
-updated: 2025-01-09T22:07:05.027Z
+date: 2025-02-15T00:52:27.154Z
+updated: 2025-02-19T22:53:54.964Z
 tags:
   - ai video
   - ai discord
@@ -38,12 +38,16 @@ So, if you’re wondering how to connect Spotify to Discord, here’s your answe
 * [Part 3: Connect Spotify To Discord Mobile App](#part3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Link Spotify To Discord on Windows PC/Mac Directly
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Linking Spotify to Discord on windows PC/Mac is relatively easy. Just follow the steps below:
 
@@ -60,10 +64,6 @@ It will also display a badge on your Discord profile, which shows your Spotify u
 
 ![Connect  Spotify to  Discord and set as status](https://images.wondershare.com/filmora/article-images/set-spotify-as-status-on-discord.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By default, whenever you’ll play some music on Spotify using the same PC/Mac you are signed in to your Discord account, the status will suddenly change into “listening to Spotify.”
 
 Users can see what tracks you are playing by simply clicking your name. Not just that, but they can also play the same tracks on their Mac or PC and even “listen along.”
@@ -71,6 +71,10 @@ Users can see what tracks you are playing by simply clicking your name. Not just
 This facility will let your friends tune into and listen to the same thing you’re listening to! If you want to, you can turn off this setting via the Connections menu.
 
 Lastly, you can also click this plus (+) sign near to chat box and choose the option ‘Invite to listen to Spotify.’ This will send users links, allowing them to join you via the “listen along” feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Connect Spotify To Discord With Bot
 
@@ -90,7 +94,7 @@ Here’s how you can connect Spotify to Discord with a bot:
 ![Add Groovy bot to Discord Server](https://images.wondershare.com/filmora/article-images/add-groovy-music-bot-to-music-select-server.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Click Authorize to grant the Groovy the Administrator permission on the selected server and pass through the “I am human” box
@@ -99,10 +103,6 @@ Here’s how you can connect Spotify to Discord with a bot:
 
 1. The Groovy bot will be instantly installed on the chosen Discord server. Now you can use the bot to play tracks or any other type of music you want by simply typing Play and the song name
 2. If you want to import your complete Spotify tracks into the Discord server, you can do it effortlessly: open your playlist in your Spotify app and click >Share>Copy Playlist Link and then paste copied URL into the chat after -play command.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Connect Spotify To Discord Mobile App
 
@@ -119,10 +119,6 @@ Here’s how you can connect Spotify to Discord on your mobile app:
 1. From the several services that appear, choose Spotify. A new window will appear, asking you to log in to the account and allow authorization to connect.
 2. Similar to your windows PC/Mac, your Spotify username will appear on the profile page. Like on desktop, you can also remove the username from your profile via the Connections menu
 3. Though you won’t be able to invite other users to “listen along” on the mobile app, however, users on Windows PC/Mac can click your status and also “listen along”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus: How to Listen Along With Friends on Discord?
 
@@ -154,6 +150,10 @@ Yes, you can disconnect Spotify from Discord. Here’s how:
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -169,20 +169,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-pros-and-cons-ios-screen-recorder-apps-for-2024/"><u>[New] Pros and Cons IOS Screen Recorder Apps for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-learn-to-switch-up-your-instagram-vocal-branding/"><u>[Updated] In 2024, Learn to Switch Up Your Instagram Vocal Branding</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagrams-hottest-25-minds-in-the-digital-age-for-2024/"><u>[Updated] Instagram's Hottest 25 Minds in the Digital Age for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/10-with-these-easy-techniques/"><u>10 with These Easy Techniques!</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726027705279-windows4/"><u>無料で使えるWindows対応動画スピンオフツールベスト4選択法</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/blueears-cutting-edge-bluetooth-beanie-hat-stylish-simple-to-use-and-delivering-quality-sound-for-the-modern-user/"><u>Blueear's Cutting-Edge Bluetooth Beanie Hat - Stylish, Simple to Use, and Delivering Quality Sound for the Modern User</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/creating-impactful-youtube-thumbnails-and-ads-for-2024/"><u>Creating Impactful YouTube Thumbnails & Ads for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/finding-the-root-cause-of-your-pcs-blue-screen-expert-advice-from-yl-computing/"><u>Finding the Root Cause of Your PC's Blue Screen: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guia-paso-a-paso-para-convertir-mp4-a-ogv-sin-coste-usando-el-servicio-online-de-movavi/"><u>Guía Paso a Paso Para Convertir MP4 a OGV Sin Coste Usando El Servicio Online De Movavi</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-butler-flawless-high-quality-dvd-copying-guide/"><u>The Butler - Flawless High-Quality DVD Copying Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-pick-how-to-optimize-video-quality-with-superior-bitrate-adjustment-tools/"><u>Top Pick: How to Optimize Video Quality with Superior Bitrate Adjustment Tools</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/troubleshooting-guide-capturing-sound-during-powerpoint-sessions-for-both-window-and-macos-users/"><u>Troubleshooting Guide: Capturing Sound During PowerPoint Sessions for Both Window and macOS Users</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/ultimate-mp4-transformation-tool-top-rated-software-for-hd-and-sd-video-conversion/"><u>Ultimate MP4 Transformation Tool: Top Rated Software for HD and SD Video Conversion</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1728463588373-windows-10/"><u>Windows 10でオンラインアップデートを防止する詳細ガイド</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726028169069-wonderfox-dvd/"><u>WonderFox DVDリッパープロのセットアップ完了!お使いいただきありがとうございます。</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-mastering-4k-videos-with-the-versatile-nikon-1j5/"><u>[New] 2024 Approved Mastering 4K Videos with the Versatile Nikon 1J5</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-comprehensive-guide-to-disconnecting-discord-servers/"><u>[New] Comprehensive Guide to Disconnecting Discord Servers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-disconnect-and-delete-discord-accounts-devices-for-2024/"><u>[New] Disconnect and Delete Discord Accounts (Devices) for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-safe-exit-procedures-for-departing-discord-servers/"><u>[New] In 2024, Safe Exit Procedures for Departing Discord Servers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-art-of-engaging-responding-in-discord-conversations/"><u>[Updated] In 2024, The Art of Engaging Responding in Discord Conversations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-steps-to-restore-your-youtube-shorts-thumbnails/"><u>[Updated] Steps to Restore Your YouTube Shorts' Thumbnails</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-master-level-techniques-for-attaching-srt-to-mp4-clips/"><u>2024 Approved Master Level Techniques for Attaching SRT to MP4 Clips</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-ultimate-guide-to-cool-and-captivating-disco-tags/"><u>2024 Approved Ultimate Guide to Cool and Captivating Disco Tags</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-troubleshooting-techniques-when-to-find-d3dx92e26dll/"><u>Comprehensive Troubleshooting Techniques: When to Find d3dx9_2e_26.dll</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/from-novice-to-nexus-steps-for-earning-your-verified-status-on-discord-for-2024/"><u>From Novice to Nexus Steps for Earning Your Verified Status on Discord for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-successfully-deploy-and-configure-auto-gpt-in-your-ubuntu-environment/"><u>How to Successfully Deploy and Configure Auto-GPT in Your Ubuntu Environment</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-daredevil-daters-unite-on-discord/"><u>In 2024, Daredevil Daters Unite on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-message-mastery-for-discord-users-desktopmobile/"><u>In 2024, Message Mastery for Discord Users (Desktop/Mobile)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-11-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 11 Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-beginners-blueprint-for-dynamic-illustration/"><u>The Beginner's Blueprint for Dynamic Illustration</u></a></li>
 </ul></div>
 

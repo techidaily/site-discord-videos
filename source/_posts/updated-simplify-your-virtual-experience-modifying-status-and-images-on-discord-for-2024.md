@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Simplify Your Virtual Experience  Modifying Status & Images on Discord for 2024\""
-date: 2024-09-27T07:05:45.796Z
-updated: 2024-09-30T17:02:41.203Z
+date: 2025-02-13T01:56:36.222Z
+updated: 2025-02-20T04:23:24.938Z
 tags:
   - ai video
   - ai discord
@@ -36,6 +36,10 @@ Today, many folks are yet to understand the logic attached to changing their sta
 * **[Part 5: How to Show What Game You're Playing on Discord?](#part5)**
 * **[Part 6: FAQs about Discord Status](#part6)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 1: What Does the Discord Statuses Mean?**
 
 Discord status is a changeable notification setting that enables users to set their current condition either AFK, online, or custom! This status consists of four options (online, Idle, Do not disturb, Invisible, and Custom) which will be explained below.
@@ -62,6 +66,10 @@ Invisible Mode allows you to use Discord while appearing Offline to other member
 
 Custom status enables you to add messages that you want to be displayed on your profile. You can add up to a 128 character text limit, including emojis.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 2: How Do You Make and Get Custom Status on Discord?**
 
 As I said before, Discord custom status enables you to add messages you want to display on your discord profile. And many folks use it as a means of letting their contacts know the service they offer. Also, this Custom status option will allow you to add emojis as you like. The text limit is 128 characters!
@@ -71,6 +79,10 @@ Anyway, creating a custom status is as easy as plucking a low hanging fruit. All
 Step 1: Click on the profile icon located at the bottom left corner of the pane, you'll see four preset statuses to select from ( Online, Idle, Do not disturb, Invisible)! This time, you'll choose **Set a custom status**.
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Type in any text message of your choice, and you can also add an emoji if you wish. Afterward, select how long you want the new custom message to display on your status from the drop-down list (Clear tomorrow, Clear in 4 hours, Clear in 1 hour, Clear in 30 minutes, Don't clear) and click Save to finalize the operation.
 
@@ -88,13 +100,6 @@ Step 3: Click the Cross icon to clear custom status.
 
 ![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
 Changing discord status on windows/Mac computers is very simple, and the Discord interface for both Mac and Windows systems is the same. Thus there's no need to use any distinct steps. If you have read the content above, you may already know how to change the status on Discord.
@@ -104,13 +109,6 @@ Changing discord status on windows/Mac computers is very simple, and the Discord
 **Step 2:** Navigate to the bottom left corner of the screen and click on the profile icon showing your account status.
 
 **Step 3:**Up next, click on the Set status option! This time you'll see four preset statuses to choose excluding the Custom status option. All you've got to do is choose your preferred option to proceed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 4: How to Change Discord Status on Android, iPhone, or iPad?**
 
@@ -128,14 +126,11 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 ![ change Discord custom status on mobile](https://images.wondershare.com/filmora/article-images/change-discord-status-on-mobile-device.jpg)
 
-**Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
 ## **Part 5: How do you show what game you're playing on Discord?**
 
@@ -144,16 +139,7 @@ Do you know Discord is a hookup outlet where gamers connect? Sound surprising? Y
 Sit back and learn how to show off what you're up to in the gaming realm!
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **How to Display Game Status on Discord Desktop**
@@ -168,13 +154,6 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **How to Display Game Status on Discord Mobile App**
 
 **Step 1:** Launch the Discord mobile app and click on the three horizontal lines in the top-right corner of the pane to select the profile icon at the bottom-left corner.
@@ -186,10 +165,7 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 ## **FAQs About Discord Status**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **1\. How can you change the Discord status automatically?**
@@ -217,19 +193,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-quick-start-to-smooth-volume-increase/"><u>[New] Quick Start to Smooth Volume Increase</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ignite-social-media-fanfare-master-these-9-instagram-commandments/"><u>[Updated] Ignite Social Media Fanfare Master These 9 Instagram Commandments</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-cleaner-frames-with-advanced-webcam-tech/"><u>2024 Approved Cleaner Frames with Advanced Webcam Tech</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-unlock-youtube-power-with-insights-from-creator-studio/"><u>2024 Approved Unlock YouTube Power with Insights From Creator Studio</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-depth-review-of-ivona-text-to-speech-by-nextup-technologies/"><u>New In-Depth Review of Ivona Text to Speech by NextUp Technologies</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-admin-restricted-setup-issues-in-windows/"><u>Overcoming Admin-Restricted Setup Issues in Windows</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/photorepair-pro-fixing-images-with-stellar-window-edition/"><u>Photorepair Pro: Fixing Images with Stellar Window Edition</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-uploading-and-sharing-your-facebook-videos-on-youtube-efficiently/"><u>Step-by-Step Guide: Uploading and Sharing Your Facebook Videos on YouTube Efficiently</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/successful-conversion-of-ismv-files-to-mp4-solving-playback-problems/"><u>Successful Conversion of ISMV Files to MP4 - Solving Playback Problems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Nokia C12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-rated-dvd-to-mkv-converter-software-of-2024-for-windows-users/"><u>Top Rated DVD to MKV Converter Software of 2024 for Windows Users</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/troubleshooting-guide-effective-steps-for-repairing-mp4-to-windows-dvd-compatibility-errors/"><u>Troubleshooting Guide: Effective Steps for Repairing MP4-to-Windows DVD Compatibility Errors</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/troubleshooting-tips-for-resolving-could-not-retrieve-directory-information-errors-on-kodi-devices/"><u>Troubleshooting Tips for Resolving 'Could Not Retrieve Directory Information' Errors on Kodi Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-from-amateur-to-professional-transform-your-minecraft-recordings-with-mac/"><u>[New] From Amateur to Professional Transform Your Minecraft Recordings with Mac</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-elevating-your-presence-a-guide-to-discord-broadcasts/"><u>[New] In 2024, Elevating Your Presence A Guide to Discord Broadcasts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-how-to-engage-your-audience-in-live-discord-streams-easily/"><u>[New] In 2024, How to Engage Your Audience in Live Discord Streams Easily</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-strategic-message-management-expert-tips-for-discord-pinning/"><u>[New] In 2024, Strategic Message Management Expert Tips for Discord Pinning</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-discord-live-a-users-blueprint-for-2024/"><u>[New] Navigating Discord Live A User's Blueprint for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-achieving-perfect-time-lapses-with-ios-devices/"><u>[Updated] 2024 Approved Achieving Perfect Time-Lapses with iOS Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-leveraging-social-media-trends-for-fan-growth-on-igtv/"><u>[Updated] 2024 Approved Leveraging Social Media Trends for Fan Growth on IGTV</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-from-anonymity-to-authority-the-essential-pathway-for-raising-issues-on-digital-platforms-like-discord/"><u>[Updated] In 2024, From Anonymity to Authority The Essential Pathway for Raising Issues on Digital Platforms Like Discord</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-reinstate-fb-watch-video-tile/"><u>[Updated] In 2024, Reinstate FB Watch Video Tile</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-discord-live-a-users-blueprint/"><u>[Updated] Navigating Discord Live A User's Blueprint</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unraveling-youtubes-viewer-metrics-a-deeper-look/"><u>[Updated] Unraveling YouTube's Viewer Metrics A Deeper Look</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-how-to-keep-the-conversation-flowing-on-discord/"><u>2024 Approved How to Keep the Conversation Flowing on Discord</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/guide-simple-et-pratique-pour-creer-une-image-de-disque-dinstallation-windows-10/"><u>Guide Simple Et Pratique Pour Créer Une Image De Disque D'installation Windows 10</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-x-fold-2-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo X Fold 2 FRP</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-infinix-zero-30-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Infinix Zero 30 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-solutions-at-fingertips-customizing-shortcuts-for-win-11-repairs/"><u>Speedy Solutions at Fingertips: Customizing Shortcuts for Win 11 Repairs</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-to-creating-professional-discord-profile-pictures-for-2024/"><u>Step-by-Step Guide to Creating Professional Discord Profile Pictures for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-restart-options-for-macbook-pro-users/"><u>Troubleshooting: Restart Options for MacBook Pro Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unleash-the-power-of-expression-emojis-in-your-discord-statues-for-2024/"><u>Unleash the Power of Expression Emojis in Your Discord Statues for 2024</u></a></li>
 </ul></div>
 

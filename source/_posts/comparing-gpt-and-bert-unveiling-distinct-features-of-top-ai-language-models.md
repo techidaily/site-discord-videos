@@ -1,7 +1,7 @@
 ---
 title: "Comparing GPT and BERT: Unveiling Distinct Features of Top AI Language Models"
-date: 2025-01-05T20:04:07.502Z
-updated: 2025-01-10T03:44:06.916Z
+date: 2025-02-15T17:35:36.450Z
+updated: 2025-02-20T00:13:53.859Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
 
@@ -45,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
  By default, Google collects your conversations and your general location based on your IP address, your feedback, and usage information. This information is stored in your Google account for up to 18 months. Although you can pause saving your Bard activity, you should be aware that "to help with quality and improve our products, human reviewers read, annotate, and process your Bard conversations."
@@ -59,13 +59,13 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which LLM Is Good for Technical Instructions?
@@ -103,21 +103,17 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
@@ -130,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
  A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
 
 You read it here first, folks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
 
@@ -154,19 +154,22 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-zero-price-limitless-possibilities-apowersoft-screenshot-tool-review/"><u>[New] 2024 Approved Zero Price, Limitless Possibilities - Apowersoft Screenshot Tool Review</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-instant-audience-expansion-with-these-channel-upgrades/"><u>[Updated] Instant Audience Expansion with These Channel Upgrades</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-image-editor-repertoire-for-text-addition-for-2024/"><u>[Updated] The Ultimate Image Editor Repertoire for Text Addition for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726028416344-5/"><u>「自由にダウンロード可能な優秀な無料ビデオ音量調節ツールベスト5」</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1-best-guide-transform-gsm-audio-files-into-mp3-format-at-no-cost/"><u>1. [Best Guide] Transform GSM Audio Files Into MP3 Format at No Cost</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726028872900-pc/"><u>動画の音ズレをPCで簡単に調整する方法：初心者向けガイド</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726028201074-dvdwindows-10/"><u>DVD再生に失敗するWindows 10コンピュータを修正する方法</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-poco-x5-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Poco X5 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726029567888-iphone-mp4/"><u>IPhone MP4ファイルプレイヤー設定：スムーズ再生とトラブルシューティング</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-a-closer-look-at-avs-video-editor-features-pricing-and-more/"><u>New A Closer Look at AVS Video Editor Features, Pricing, and More</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/satechi-all-in-one-docking-station-unveiled-powerful-usb-c-solution-at-only-150-usd-reviewed/"><u>Satechi All-in-One Docking Station Unveiled: Powerful USB-C Solution at Only 150 USD | Reviewed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/studio-sound-techniques-mac-basics/"><u>Studio Sound Techniques Mac Basics</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-se-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone SE? 5 Tips You Must Know</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-podcast-editing-101-how-to-edit-a-podcasta-beginners-guide/"><u>Updated 2024 Approved Podcast Editing 101 How to Edit a Podcasta Beginners Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-decoding-the-best-platform-for-real-time-team-collaboration-slack-vs-discord-comparison/"><u>[New] 2024 Approved Decoding the Best Platform for Real-Time Team Collaboration Slack Vs. Discord Comparison</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-transformative-tips-making-an-indelible-mark-in-the-digital-world/"><u>[New] 2024 Approved Transformative Tips Making an Indelible Mark in the Digital World</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-comprehensive-fs-view-strategies-for-premiere-pro-for-2024/"><u>[New] Comprehensive FS View Strategies for Premiere Pro for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-essential-tips-for-stepping-away-from-a-discord-chat-room-for-2024/"><u>[New] Essential Tips for Stepping Away From a Discord Chat Room for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-exclusive-access-8-top-fb-link-extractors/"><u>[New] Exclusive Access 8 Top FB Link Extractors</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-mastering-iphones-podcast-downloads-made-easy/"><u>[New] In 2024, Mastering iPhones Podcast Downloads Made Easy</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mobile-recorder-transcribe-calls-iphone-2024/"><u>[New] Mobile Recorder Transcribe Calls - iPhone 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-precision-and-perfection-leading-discord-emoji-makers-of-today-for-2024/"><u>[New] Precision and Perfection Leading Discord Emoji Makers of Today for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-list-of-flashy-discord-tags/"><u>[New] The Ultimate List of Flashy Discord Tags</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unveiling-the-quintessential-five-strategic-moves-for-youtube-marketing-success/"><u>[Updated] In 2024, Unveiling the Quintessential Five Strategic Moves for YouTube Marketing Success</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unlock-discord-networking-on-pcandroid-and-ios-for-2024/"><u>[Updated] Unlock Discord Networking on PC/Android & iOS for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-resolve-windows-11-cut-out-sound-problems/"><u>How to Troubleshoot and Resolve Windows 11 Cut-Out Sound Problems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-v29-pro-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo V29 Pro FRP</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/navigating-new-territories-link-up-on-pcmobile/"><u>Navigating New Territories Link Up on PC/Mobile</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/speak-up-right-away-timely-responses-to-discord-chats/"><u>Speak Up Right Away Timely Responses to Discord Chats</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unveiling-the-power-of-pinning-your-guide-to-discord-mastery/"><u>Unveiling the Power of Pinning Your Guide to Discord Mastery</u></a></li>
 </ul></div>
 

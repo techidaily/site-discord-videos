@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Video Sharing via Discord Channels"
-date: 2024-12-21T19:12:50.751Z
-updated: 2024-12-24T21:41:21.797Z
+date: 2025-02-17T18:01:28.848Z
+updated: 2025-02-19T23:41:03.587Z
 tags:
   - ai video
   - ai discord
@@ -46,20 +46,20 @@ You’ll then just need to find the file on your computer, and double click on i
 
 ![upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 From there, it’s as simple as clicking the upload button. Once it’s ready, the video will be in the chat window for anyone in the server to watch, or for your friend if you’ve sent it privately. And if they want to download it, they’ll just need to click the download button (a downward-facing arrow) at the top right of the video.
 
 ![how to upload videos to discord](https://images.wondershare.com/filmora/article-images/2022/05/upload-video-discord-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It’s worth noting that, while Discord will play most video formats, it can’t manage everything. If you upload a format that Discord isn’t compatible with, then it won’t show a video player – instead, the file will just be uploaded. Other people can still download it to watch on their own devices.
 
 Also, there’s a strict file limit of 8MB. This isn’t huge at all – while there’s no definitive file size for video (as it depends on file type, resolution, compression, etc) it’s unlikely to be more than 60 seconds of footage, and could just be a few seconds. If the video you want to upload is more than 8MB, carry on reading below to find out how.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Send Videos on Discord Mobile
@@ -75,7 +75,7 @@ Click this and it’ll give you the option to directly upload a video from your 
 Once you’ve selected the video, just hit the blue Send icon to send your video to the chat. Again you can add a message as a caption, but this time it’ll just be in the normal message box rather than a dedicated comment box before you hit upload.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Send Long Videos on Discord That Are More Than 8MB
@@ -96,10 +96,6 @@ This will open the Instant Cutter window where you can click Open File to add yo
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 For more detail, check out [this post](https://tools.techidaily.com/wondershare/filmora/download/) for a step-by-step guide on the different ways you can trim a video in Filmora.
 
 You can also try to compress your video size, which may let you keep the whole video at the expense of some of the quality. Again, using Filmora, this is easy. But also again, there are different ways to go about it.
@@ -116,6 +112,10 @@ So, if you want to upload massive files, you’ll need to decide whether to choo
 
 The only drawback to this option is that it stops other users from being able to download the video directly, and you may need to look at a file sharing alternative such as Dropbox if you want to send the actual file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs About Uploading Videos to Discord
 
 #### Which Kind of Video Formats Can I Upload to Discord?
@@ -131,7 +131,7 @@ If you find a video on Discord that you want to share on a different server or i
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -149,14 +149,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-to-create-and-change-an-igtv-cover-photo-thumbnail/"><u>[New] In 2024, How to Create and Change an IGTV Cover Photo (Thumbnail)?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-evaluating-team-communication-tools-does-slack-outshine-discords-benefits/"><u>[Updated] Evaluating Team Communication Tools Does Slack Outshine Discord's Benefits?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-guide-to-mastering-message-pins-on-discord-for-2024/"><u>[Updated] The Ultimate Guide to Mastering Message Pins on Discord for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-expert-tips-for-effortless-acquisition-of-vimeo-videos-softwares-and-no-softwares-included/"><u>2024 Approved Expert Tips for Effortless Acquisition of Vimeo Videos - Softwares & No-Softwares Included</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-a-step-by-step-approach-to-discord-messaging/"><u>In 2024, A Step-by-Step Approach to Discord Messaging</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-mastering-the-art-of-adding-unique-emojis-to-your-discord-avatar-pcmobile/"><u>In 2024, Mastering the Art of Adding Unique Emojis to Your Discord Avatar (PC/Mobile)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-emptying-your-android-devices-cache/"><u>Step-by-Step Guide: Emptying Your Android Device's Cache</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211239528--the-forbidden-knowledge-of-the-book-of-enoch/"><u>The Forbidden Knowledge of the Book of Enoch | Free Book</u></a></li>
-<li><a href="https://win-webster.techidaily.com/top-7-solutions-for-resolving-the-disk-read-error-on-windows-versions-11-7-8-and-xp/"><u>Top 7 Solutions for Resolving the 'Disk Read Error' On Windows Versions 11, 7, 8 & XP</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-leading-edge-photography-the-best-4k-mirrorless-cameras/"><u>[New] In 2024, Leading Edge Photography The Best 4K Mirrorless Cameras</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-exploring-advanced-features-of-discords-live-stream-functionality/"><u>[Updated] Exploring Advanced Features of Discord's Live Stream Functionality</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-reply-message-on-discord/"><u>[Updated] How to Reply Message on Discord</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-become-a-gif-artist-basic-steps/"><u>[Updated] In 2024, Become a GIF Artist Basic Steps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-quick-and-easy-methods-for-including-emojis-into-discord-statements-for-2024/"><u>[Updated] Quick and Easy Methods for Including Emojis Into Discord Statements for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unlocking-the-power-of-discord-spoiler-labels/"><u>[Updated] Unlocking the Power of Discord Spoiler Labels</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-a-compact-guide-to-using-discord-spoiler-tags/"><u>2024 Approved A Compact Guide to Using Discord Spoiler Tags</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/efficient-data-backup-strategies-streamlining-protection-and-recovery/"><u>Efficient Data Backup Strategies: Streamlining Protection and Recovery</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-power-of-yi-4k-cameras-for-2024/"><u>Exploring the Power of YI 4K Cameras for 2024</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/how-to-optimize-windows-registry-with-yls-effective-utility-programs-yl-software-insights/"><u>How to Optimize Windows Registry with YL's Effective Utility Programs - YL Software Insights</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-essential-steps-for-starting-a-channel-on-discord/"><u>In 2024, Essential Steps for Starting a Channel on Discord</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-foremost-techniques-for-transforming-seminars-into-videos/"><u>In 2024, The Foremost Techniques for Transforming Seminars Into Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/keep-your-identity-under-wraps-while-livestreaming/"><u>Keep Your Identity Under Wraps While Livestreaming</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/simplifying-your-life-with-discord-call-setup-guide/"><u>Simplifying Your Life with Discord Call Setup Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-alternatives-to-streamlabs-obs-for-2024/"><u>The Ultimate Guide to Alternatives to StreamLabs OBS for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unveiling-the-secrets-of-live-video-sharing-on-discord-for-2024/"><u>Unveiling the Secrets of Live Video Sharing on Discord for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/wallet-friendly-cloud-cabinetry-big-files-cheap-storage-for-2024/"><u>Wallet-Friendly Cloud Cabinetry Big Files Cheap Storage for 2024</u></a></li>
 </ul></div>
 

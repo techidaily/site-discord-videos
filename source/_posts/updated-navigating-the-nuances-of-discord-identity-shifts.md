@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating the Nuances of Discord Identity Shifts"
-date: 2025-01-12T21:22:41.055Z
-updated: 2025-01-16T00:49:31.271Z
+date: 2025-02-15T21:43:33.589Z
+updated: 2025-02-19T22:43:36.908Z
 tags:
   - ai video
   - ai discord
@@ -62,10 +62,6 @@ Invisible Mode allows you to use Discord while appearing Offline to other member
 
 Custom status enables you to add messages that you want to be displayed on your profile. You can add up to a 128 character text limit, including emojis.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 2: How Do You Make and Get Custom Status on Discord?**
 
 As I said before, Discord custom status enables you to add messages you want to display on your discord profile. And many folks use it as a means of letting their contacts know the service they offer. Also, this Custom status option will allow you to add emojis as you like. The text limit is 128 characters!
@@ -76,11 +72,19 @@ Step 1: Click on the profile icon located at the bottom left corner of the pane,
 
 ![Click profile icon and select Set status on Discord](https://images.wondershare.com/filmora/article-images/change-discord-status-to-custom.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Type in any text message of your choice, and you can also add an emoji if you wish. Afterward, select how long you want the new custom message to display on your status from the drop-down list (Clear tomorrow, Clear in 4 hours, Clear in 1 hour, Clear in 30 minutes, Don't clear) and click Save to finalize the operation.
 
 Yeah!! Now your status has been changed to custom!
 
 ![ custom Discord status](https://images.wondershare.com/filmora/article-images/custom-discord-status-interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you're familiar with how to get custom status on Discord, let's walk you through quick steps to easily remove custom status whenever and wherever. Follow the steps below.
 
@@ -92,6 +96,10 @@ Step 3: Click the Cross icon to clear custom status.
 
 ![ clear Discord custom status](https://images.wondershare.com/filmora/article-images/remove-discord-custom-status.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 3: How to Change Discord Status on Windows/Mac?**
 
 Changing discord status on windows/Mac computers is very simple, and the Discord interface for both Mac and Windows systems is the same. Thus there's no need to use any distinct steps. If you have read the content above, you may already know how to change the status on Discord.
@@ -101,10 +109,6 @@ Changing discord status on windows/Mac computers is very simple, and the Discord
 **Step 2:** Navigate to the bottom left corner of the screen and click on the profile icon showing your account status.
 
 **Step 3:**Up next, click on the Set status option! This time you'll see four preset statuses to choose excluding the Custom status option. All you've got to do is choose your preferred option to proceed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 4: How to Change Discord Status on Android, iPhone, or iPad?**
 
@@ -124,10 +128,6 @@ You only have to follow the stepwise guide below to change your status on Discor
 
 **Step 4:** Lastly, select your preferred status option and proceed. You can also add custom status by clicking on Set a custom status.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 5: How do you show what game you're playing on Discord?**
 
 Do you know Discord is a hookup outlet where gamers connect? Sound surprising? Yeah, with Discord, you can relate with like-minded gamers using its advanced features and customization options. You can Screen Share, add audio bots, and do lots more for free without hassles. In addition to that, Discord has an automatic detective system that looks at all that's running on your device and mostly recognizes popular verified game, though you can edit unverified games and programs using the steps outlined below.
@@ -140,16 +140,12 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 ![ open discord app and click User Settings icon](https://images.wondershare.com/filmora/article-images/display-game-activity-on-discord-status-via-desktop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Click on the Games activity option located on the left-hand side of the screen and select Add it on the right pane to add a game or program manually from the list that appears.
 
 ![Display running game as a status message ](https://images.wondershare.com/filmora/article-images/display-currenlty-running-game-as-status-message.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:**Finally, click the Toggle to turn on the Game Status.
@@ -164,6 +160,10 @@ Sit back and learn how to show off what you're up to in the gaming realm!
 
 ## **FAQs About Discord Status**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **1\. How can you change the Discord status automatically?**
 
 A concise answer to this question is, Discord status cannot be changed automatically, but you can set a time limit that you want a custom text to display on your status. However, the game activity status option can be updated automatically.
@@ -175,7 +175,7 @@ Detecting whether someone is online when their Discord status is set to invisibl
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -193,24 +193,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-boosting-notoriety-best-disco-channel-nicknames/"><u>[New] 2024 Approved Boosting Notoriety Best Disco Channel Nicknames</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-hunt-down-these-10-vectors-stock-image-websites/"><u>[New] 2024 Approved Hunt Down These 10 Vectors Stock Image Websites</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-top-8-trending-vr-adventures-on-oculus/"><u>[New] 2024 Approved Top 8 Trending VR Adventures on Oculus</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-from-novice-to-nexus-earning-the-status-as-a-validated-discord-partner-for-2024/"><u>[New] From Novice to Nexus Earning the Status as a Validated Discord Partner for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-youtube-vision-navigating-video-degrees-with-ease/"><u>[New] In 2024, YouTube Vision Navigating Video Degrees with Ease</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-peerless-bots-crafted-for-chats-for-2024/"><u>[New] Peerless Bots Crafted for Chats for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-pro-tips-for-efficient-message-reactions-on-discord-for-2024/"><u>[New] Pro Tips for Efficient Message Reactions on Discord for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-unleashing-the-power-of-visual-identity-mastering-discord-pfps/"><u>[New] Unleashing the Power of Visual Identity Mastering Discord Pfp's</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-accessing-previous-facebook-narratives-laptop-and-mobile-guide/"><u>[Updated] Accessing Previous Facebook Narratives Laptop & Mobile Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-extend-your-snapstreak-success-with-these-ideas-for-2024/"><u>[Updated] Extend Your Snapstreak Success with These Ideas for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-pushing-photography-to-new-heights-with-lightrooms-hdr/"><u>[Updated] Pushing Photography to New Heights with Lightroom's HDR</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-top-ranked-audio-respeeders-mobile-desktop-for-2024/"><u>[Updated] Top-Ranked Audio Respeeders (Mobile, Desktop) for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-the-right-way-to-disband-from-a-discord-community/"><u>2024 Approved The Right Way to Disband From a Discord Community</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-gionee-unlock-without-password-by-drfone-android/"><u>5 Solutions For Gionee Unlock Without Password</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/from-setting-up-to-broadcasting-a-discoguide/"><u>From Setting Up to Broadcasting A DiscoGuide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-google-pixel-8-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Google Pixel 8 Pro?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/off-line-disconnecting-discord-servers/"><u>Off-Line Disconnecting Discord Servers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/robotic-partners-in-digital-spaces-for-2024/"><u>Robotic Partners in Digital Spaces for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-play-40c-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Honor Play 40C Users</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ow-to-rotate-youtube-videos-by-any-angle-for-2024/"><u>[New] How to Rotate YouTube Videos by Any Angle for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screenshot-savvy-free-high-quality-capturing-tools-for-both-oses/"><u>[Updated] Screenshot Savvy Free, High-Quality Capturing Tools for Both OSes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/comparing-dvd-and-streaming-services-determining-the-superior-choice-for-cinema-enthusiasts/"><u>Comparing DVD and Streaming Services: Determining the Superior Choice for Cinema Enthusiasts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/complete-instructions-for-implementing-the-arctic-horizon-theme-on-your-kodi-platform/"><u>Complete Instructions for Implementing the Arctic Horizon Theme on Your Kodi Platform</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/convert-videos-to-mp3-a-simple-guide-to-retrieving-audio-from-digital-footage/"><u>Convert Videos to MP3: A Simple Guide to Retrieving Audio From Digital Footage</u></a></li>
+<li><a href="https://network-issues.techidaily.com/cure-undetected-gpu-mishaps/"><u>Cure Undetected GPU Mishaps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discover-the-best-7-cost-free-web-based-applications-for-movie-to-mp3-audio-conversion/"><u>Discover the Best 7 Cost-Free, Web-Based Applications for Movie to MP3 Audio Conversion</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/easy-guide-snipping-videos-down-on-your-iphone-with-simple-taps/"><u>Easy Guide: Snipping Videos Down on Your iPhone with Simple Taps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/easy-techniques-for-converting-diverse-videoaudio-files-into-different-formats/"><u>Easy Techniques for Converting Diverse Video/Audio Files Into Different Formats</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-google-pixel-7a-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Google Pixel 7a Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-zte-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on ZTE?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-alert-a-guide-to-correct-the-initialization-error-ls-0013-on-fortnite/"><u>Resolved Alert: A Guide to Correct the Initialization Error (LS-0013) on Fortnite</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/unveiling-the-phenomenon-behind-ape-labs-lighting-comprehensive-insights-and-critique/"><u>Unveiling The Phenomenon Behind Ape Labs Lighting: Comprehensive Insights & Critique</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Erase Thousands of Messages in Just a Few Clicks on Discord"
-date: 2025-01-10T17:02:14.467Z
-updated: 2025-01-15T20:54:15.968Z
+date: 2025-02-15T20:57:11.414Z
+updated: 2025-02-19T21:09:46.418Z
 tags:
   - ai video
   - ai discord
@@ -55,12 +55,16 @@ However, this was soon changed because the mass execution directly affected the 
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A cross-platform for making videos anywhere for all creators
 
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Why your video editing isn't good enough? How about some creative inspo?
 
@@ -80,7 +84,11 @@ However, this was soon changed because the mass execution directly affected the 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Delete Direct Messages on Discord
@@ -131,7 +139,7 @@ Here is a more detailed breakdown of the sequence:
 At first glance, it seems like a long and tedious process, but once you get down to doing it and develop a rhythm, it is an easy task.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Deleting Message with Discord Clear Chat Bot
@@ -154,18 +162,10 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 
 ![delete messages on discord with mee6 bot](https://images.wondershare.com/filmora/article-images/discord-bot-mee6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. You'll be prompted to authorize so that MEE6 bot can access your username, and know what server you’re in.
 2. Pin-point the server you want to add the bot and then set up to connect MEE6 to the Discord server.
 
 ![how to delete discord message with mee6 bot](https://images.wondershare.com/filmora/article-images/select-server-to-add-mee6-bot-discord.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Click Authorize again and the bot will be added to your Discord server soon;
 2. To enable MEE6 to clear the chat, you should enable the Moderator plugin first. Click the Moderator option under Plugins first, and then click Yes.
@@ -177,7 +177,7 @@ We've outlined a few commands you can use to delete your chats. These are as fol
 ![delete discord channel message with MEE6 Bot  ](https://images.wondershare.com/filmora/article-images/delete-channel-message-in-bulk-mee6-discord.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To clear the last 100 messages on your server, type in “!clear 100”. You can replace 100 with any number of your choice. However, MEE6 can’t delete messages past 2 weeks.
@@ -270,18 +270,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-how-to-delete-discord-server/"><u>[New] In 2024, How to Delete Discord Server?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-how-to-leave-a-discord-server/"><u>[New] In 2024, How to Leave A Discord Server</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-strategy-sketches-plotting-the-market-map-for-2024/"><u>[New] Strategy Sketches Plotting the Market Map for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-audio-ambiance-weaving-music-into-instagram-moments/"><u>[Updated] 2024 Approved Audio Ambiance Weaving Music Into Instagram Moments</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-elevate-your-server-control-add-roles-instruction/"><u>[Updated] 2024 Approved Elevate Your Server Control Add Roles Instruction</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-pin-a-message-on-discord/"><u>[Updated] 2024 Approved How to Pin A Message on Discord?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-right-way-to-disband-from-a-discord-community-for-2024/"><u>[Updated] The Right Way to Disband From a Discord Community for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/download-ios-18-now-compatible-iphone-models-revealed-a-step-by-step-guide-techsavvy/"><u>Download IOS 18 Now: Compatible iPhone Models Revealed - A Step-by-Step Guide | TechSavvy</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-high-power-audio-with-tribit-xsound-megablast-bluetooth-speaker-featuring-30w-output-and-exceptional-sound-clarity-techradar/"><u>Experience High-Power Audio with Tribit XSound Megablast Bluetooth Speaker, Featuring 30W Output & Exceptional Sound Clarity | TechRadar</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-discovering-youtubes-finest-storyweavers/"><u>In 2024, Discovering YouTube's Finest Storyweavers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-setting-up-your-phone-as-a-home-based-webcam/"><u>In 2024, Setting Up Your Phone as a Home-Based Webcam</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-mohu-blade-revolutionary-indoor-antenna-with-a-distinctive-look/"><u>The Ultimate Guide to the Mohu Blade - Revolutionary Indoor Antenna with a Distinctive Look</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/upcoming-release-apple-pushes-back-introduction-of-ai-capabilities-to-october-latest-news/"><u>Upcoming Release: Apple Pushes Back Introduction of AI Capabilities to October - Latest News</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-ai-driven-high-quality-editing-platform/"><u>[New] AI-Driven High-Quality Editing Platform</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-simplified-recording-of-your-skype-chats-with-pc-and-mac/"><u>[Updated] 2024 Approved Simplified Recording of Your Skype Chats with PC & Mac</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-mastering-communication-with-discord/"><u>[Updated] In 2024, Mastering Communication with Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigating-the-nuances-of-network-based-video-sharing-on-discord/"><u>[Updated] In 2024, Navigating the Nuances of Network-Based Video Sharing on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-make-your-discord-conversation-stand-out-with-style/"><u>[Updated] Make Your Discord Conversation Stand Out with Style</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-masterful-moderation-with-new-discord-roles-for-2024/"><u>[Updated] Masterful Moderation with New Discord Roles for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-tutorial-for-removing-multiple-messages-on-discord/"><u>[Updated] The Ultimate Tutorial for Removing Multiple Messages on Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-uncover-the-secrets-changing-your-profile-display-in-discord/"><u>[Updated] Uncover the Secrets Changing Your Profile Display in Discord</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unveiling-discord-video-communication-on-devices/"><u>[Updated] Unveiling Discord Video Communication on Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725286258868-digiarty/"><u>「スピーディなオンライン収入開始 - Digiartyアフィリエイトプログラムへの早期参加」</u></a></li>
+<li><a href="https://article-posts.techidaily.com/expert-picks-for-superior-steadicams-in-aerial-cinema/"><u>Expert Picks for Superior Steadicams in Aerial Cinema</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-best-youtube-thumbnail-size/"><u>In 2024, The Best YouTube Thumbnail Size</u></a></li>
+<li><a href="https://some-skills.techidaily.com/orbital-odyssey-interrupted-how-boeings-stranded-astronauts-could-hitch-a-ride-with-competitor-spacex/"><u>Orbital Odyssey Interrupted: How Boeing's Stranded Astronauts Could Hitch a Ride with Competitor SpaceX</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/snapchat-highlight-101-usage-techniques-for-2024/"><u>Snapchat Highlight 101 Usage Techniques for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/solving-issues-with-non-responsive-phasmophobia-virtual-reality/"><u>Solving Issues with Non-Responsive Phasmophobia Virtual Reality</u></a></li>
+<li><a href="https://app-tips.techidaily.com/solving-your-connectivity-issues-what-to-try-when-itunes-fails-to-detect-iphone-ipad-or-ipod/"><u>Solving Your Connectivity Issues: What To Try When iTunes Fails To Detect iPhone, iPad Or iPod</u></a></li>
+<li><a href="https://fox-that.techidaily.com/swift-solutions-how-to-unstick-and-restore-an-icy-iphone/"><u>Swift Solutions: How to Unstick and Restore an Icy iPhone</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/wiederherstellung-geloschter-windows-benutzerprofile-die-beliebtesten-2-schritte-losungen/"><u>Wiederherstellung Gelöschter Windows-Benutzerprofile: Die Beliebtesten 2-Schritte-Lösungen!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/your-budget-friendly-discord-recorder-guide-top-10-tools-for-2024/"><u>Your Budget-Friendly Discord Recorder Guide - Top 10 Tools for 2024</u></a></li>
 </ul></div>
 

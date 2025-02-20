@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Unlocking Discord's Full Capabilities Through Role Addition"
-date: 2025-01-09T07:44:56.671Z
-updated: 2025-01-10T03:48:35.809Z
+date: 2025-02-16T20:49:03.439Z
+updated: 2025-02-19T18:44:53.619Z
 tags:
   - ai video
   - ai discord
@@ -42,10 +42,6 @@ So, let us learn the art of delegation on Discord! This guide will help you with
 
 To give you a heads-up, there are around 29 permissions that you can adjust over a Discord server. More specifically, there are 7 voice permissions, 9 permissions related to texts, and about 13 permissions dealing with the server.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. General server permission
 
 Administrator – this is the highest permission that you can grant to a user. Think twice before giving this authority to anyone.
@@ -76,10 +72,6 @@ Manage Nicknames – if enabled, a user can change other’s nicknames.
 
 Kick Members – a user with this authority can remove members from the server.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Text channel permissions
 
 Send Messages – with this; users can send texts on chats.
@@ -99,6 +91,10 @@ Mention Everyone – you can send push notifications on the channel if this perm
 Use External Emojis – if enabled, users can send emojis from other servers.
 
 Add Reactions – with this; users can add new reactions to a text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Voice channel permissions
 
@@ -126,6 +122,10 @@ Includes the 'Administrator' permission, which by default enables all the permis
 
 The desktop app and Browser resemble the mobile apple a lot. The process of assigning roles and configuring members is more or less the same across devices. First, you need to create roles and define their authority before assigning these roles to some members.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to create roles in Discord?
 
 Before you can assign roles, you need a server. Once you have created your Discord server, start crafting the structure.
@@ -138,6 +138,10 @@ Before you can assign roles, you need a server. Once you have created your Disco
 3. Now comes the time to grant some permissions. These are basically the authority that you gave to every profile.
 4. When you are done, save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Assign Roles to Members in Discord?
 
 To be able to assign roles, you should first create them
@@ -147,10 +151,6 @@ To be able to assign roles, you should first create them
 3. Here, you will see the list of all the members on your server, tap the Plus sign that is right beside the username.
 4. From the drop-down menu that appears, select a role you want to assign to that member.
 1. You will notice that the color changes as per your settings. And this is how you assign roles to a server.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Manage Roles in Discord?
 
@@ -163,7 +163,7 @@ The quickest and easiest way to manage your bloating server is to let all member
 Further, you can easily figure out what roles you have assigned to whom. Due to these colors, the other members can identify moderators, admins, or other roles.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Delete Roles in Discord?
@@ -177,7 +177,7 @@ Honestly, removing Discord roles easier than setting them up. There are hardly a
 2. Press ok to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: How to Add Roles on Discord Mobile?
@@ -197,10 +197,6 @@ Before you can assign roles, you have to create them.
 * Save the changes.
 
 You can repeat this multiple times to create more roles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How to Assign Roles in Discord mobile app?
 
@@ -239,6 +235,10 @@ This is likely to happen if the server owner gave you the role of admin, but the
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -254,21 +254,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-enhance-iphone-hd-video-clarity-in-premiere-pro-post-production/"><u>[New] 2024 Approved Enhance iPhone HD Video Clarity in Premiere Pro Post-Production</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-rethinking-tiktok-a-2023-guide-to-alternative-networks/"><u>[New] In 2024, Rethinking TikTok A 2023 Guide to Alternative Networks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mosaic-masterpieces-elevating-your-living-space/"><u>[New] Mosaic Masterpieces Elevating Your Living Space</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726029408173-iso/"><u>「最も効果的なアルゴリズムでISOファイルの圧縮方法：詳細ガイド」</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726029473423-5/"><u>【無料】オンラインで音声を変換するための最適な5つのサイトがこちら</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1-tac/"><u>1. TAC動画のダウンロードと保管方法：ガイド</u></a></li>
-<li><a href="https://discover-help.techidaily.com/1725285704678-2022dvd/"><u>2022年如何有效地将DVD转换为数字化格式</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-motorola-g54-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Motorola G54 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726027970079-dvd/"><u>学会在投影机上看DVD的方法与应对无法播放时的策略</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726028740553-android/"><u>Android上での動画形式変更・転送ガイド</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/content-construction-revolutionized-by-chatbot-innovation/"><u>Content Construction Revolutionized by Chatbot Innovation</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-infinix-gt-10-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Infinix GT 10 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-motorola-moto-g34-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Motorola Moto G34 5G Phone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726028125942-mp4wmv/"><u>MP4ファイルの拡張子をWMVに変換する簡単なガイド</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/screen-partition-prowess-top-recorders-rating-for-2024/"><u>Screen Partition Prowess Top Recorder's Rating for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/wavggtop4/"><u>ベストの無料WAVからオGGへの変換ツールTOP4選び</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-creating-engaging-content-for-effective-discord-live-streams-for-2024/"><u>[New] Creating Engaging Content for Effective Discord Live Streams for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-photo-grandeur-with-our-best-grid-apps-list/"><u>[New] Photo Grandeur with Our Best Grid Apps List</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigate-discord-with-ease-a-compreeher-guide-to-pins/"><u>[Updated] In 2024, Navigate Discord with Ease A Compreeher Guide to Pins</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-voice-modding-on-discord-desktop-and-mobile-edition-for-2024/"><u>[Updated] Navigating Voice Modding on Discord Desktop & Mobile Edition for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-quick-and-easy-path-to-popularity-with-these-handles-for-2024/"><u>[Updated] The Quick & Easy Path to Popularity with These Handles for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-discords-premier-love-and-fun-sites/"><u>2024 Approved Discord's Premier Love and Fun Sites</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-y27-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo Y27 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/from-laughs-to-clicks-your-stepwise-journey-on-9gag/"><u>From Laughs to Clicks Your Stepwise Journey on 9GAG</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-on-windows-1110-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver on Windows 11/10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-well-does-the-new-iphone-14-meet-user-expectations-an-in-depth-analysis-by-zdnet/"><u>How Well Does the New iPhone 14 Meet User Expectations? An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-amplify-clarity-in-cloud-calls-zooming-out-distortion/"><u>In 2024, Amplify Clarity in Cloud Calls Zooming Out Distortion</u></a></li>
+<li><a href="https://win-popular.techidaily.com/managing-applications-on-your-pc-adding-and-removing-with-windows-control-panel-tips-from-yl-software/"><u>Managing Applications on Your PC: Adding and Removing with Windows Control Panel - Tips From YL Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-evolved-sony-bdp-s6700-unveiled/"><u>The Evolved Sony BDP-S6700 Unveiled</u></a></li>
 </ul></div>
 
